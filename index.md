@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5344)</li>
-<li>www.reddit.com (5314)</li>
-<li>www.google.com (5087)</li>
+<ol><li>mail.google.com (5346)</li>
+<li>www.reddit.com (5313)</li>
+<li>www.google.com (5086)</li>
 <li>outlook.office365.com (4490)</li>
 <li>duckduckgo.com (3943)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2881)</li>
+<li>chatgpt.com (2879)</li>
 <li>www.linkedin.com (2353)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1765)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1395)</li>
 <li>www.amazon.co.uk (1333)</li>
-<li>chat.openai.com (1331)</li>
+<li>chat.openai.com (1330)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1132)</li>
 <li>web.whatsapp.com (1128)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (828)</li>
 <li>forms.office.com (761)</li>
 <li>rhul.sharepoint.com (602)</li>
-<li>fritz.box (598)</li>
+<li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (514)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 22/09/26</H3>
+
+<br>
+
+<ul><li> 16:28 facebook.com</li>
+<li> 16:26 mail.google.com</li>
+<li class='same'> 16:14 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -124206,33 +124213,4 @@ With number of accesses/minutes in parentheses
 <li> 07:08 www.google.com</li>
 <li> 07:07 www.reddit.com</li>
 <li class='same'> 07:06 www.reddit.com</li>
-<li class='same'> 07:05 www.reddit.com</li>
-<li> 07:01 51.148.131.133:8000</li>
-<li> 07:01 fritz.box</li>
-<li class='same'> 07:00 fritz.box</li>
-<li class='same'> 06:59 fritz.box</li>
-<li class='same'> 06:58 fritz.box</li>
-<li> 06:58 192.168.178.128:8000</li>
-<li> 06:55 fritz.box</li>
-<li> 06:55 0.0.0.0:8000</li>
-<li> 06:53 fritz.box</li>
-<li class='same'> 06:52 fritz.box</li>
-<li class='same'> 06:51 fritz.box</li>
-<li> 06:50 chatgpt.com</li>
-<li> 06:50 chat.openai.com</li>
-<li> 06:47 0.0.0.0:8000</li>
-<li> 06:43 chatgpt.com</li>
-<li> 06:41 fritz.box</li>
-<li class='same'> 06:40 fritz.box</li>
-</ul>
-
-<H3>Thursday, 21/03/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 17:51 www.google.com</li>
 </ul>
