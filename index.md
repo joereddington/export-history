@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5336)</li>
 <li>www.reddit.com (5320)</li>
-<li>www.google.com (5108)</li>
+<li>www.google.com (5105)</li>
 <li>outlook.office365.com (4514)</li>
 <li>duckduckgo.com (3941)</li>
 <li>outlook.office.com (3916)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:53 fast.com</li>
+<ul><li> 11:11 dashboards.rhul.ac.uk</li>
+<li class='same'> 11:05 dashboards.rhul.ac.uk</li>
+<li> 10:53 fast.com</li>
 <li> 10:53 www.google.co.uk</li>
 <li class='same'> 10:52 www.google.co.uk</li>
 <li> 10:52 duckduckgo.com</li>
@@ -12036,14 +12038,12 @@ With number of accesses/minutes in parentheses
 <li> 13:47 www.instagram.com</li>
 <li> 13:47 mail.google.com</li>
 <li> 13:45 www.instagram.com</li>
-<li> 13:43 takeout-download-drive-eu.usercontent.google.com</li>
 <li> 13:43 drive.google.com</li>
 <li> 13:43 mail.google.com</li>
 <li> 13:43 drive.google.com</li>
 <li> 13:42 mail.google.com</li>
 <li> 13:42 gmail.com</li>
 <li> 13:42 drive.google.com</li>
-<li> 13:42 www.google.com</li>
 <li> 13:42 mail.google.com</li>
 </ul>
 
@@ -124421,15 +124421,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 13:22 gymnasticshq.com</li>
 <li> 13:22 www.google.com</li>
-<li> 13:20 www.british-gymnastics.org</li>
-<li> 13:20 www.google.com</li>
-<li> 13:19 www.british-gymnastics.org</li>
-<li class='same'> 13:18 www.british-gymnastics.org</li>
-<li> 13:18 www.google.com</li>
-<li> 13:18 m.youtube.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 11:14 m.youtube.com</li>
 </ul>
