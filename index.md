@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3943)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2880)</li>
+<li>chatgpt.com (2881)</li>
 <li>www.linkedin.com (2353)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1765)</li>
+<li>moodle.royalholloway.ac.uk (1768)</li>
 <li>www.facebook.com (1736)</li>
 <li>calendar.google.com (1564)</li>
-<li>login.microsoftonline.com (1398)</li>
-<li>chat.openai.com (1331)</li>
+<li>login.microsoftonline.com (1399)</li>
+<li>chat.openai.com (1332)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1132)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 22/09/26</H3>
+
+<br>
+
+<ul><li> 17:27 royalholloway.akarisoftware.com</li>
+<li> 17:27 moodle.royalholloway.ac.uk</li>
+<li> 17:26 chatgpt.com</li>
+<li> 17:26 chat.openai.com</li>
+<li> 17:25 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:24 moodle.royalholloway.ac.uk</li>
+<li> 17:24 login.microsoftonline.com</li>
+<li> 17:24 device.login.microsoftonline.com</li>
+</ul>
 
 <br>
 
