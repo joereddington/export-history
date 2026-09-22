@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5346)</li>
-<li>www.reddit.com (5313)</li>
-<li>www.google.com (5086)</li>
-<li>outlook.office365.com (4490)</li>
+<li>www.reddit.com (5310)</li>
+<li>www.google.com (5077)</li>
+<li>outlook.office365.com (4486)</li>
 <li>duckduckgo.com (3943)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2879)</li>
+<li>chatgpt.com (2880)</li>
 <li>www.linkedin.com (2353)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1765)</li>
-<li>www.facebook.com (1737)</li>
-<li>calendar.google.com (1566)</li>
-<li>login.microsoftonline.com (1395)</li>
-<li>www.amazon.co.uk (1333)</li>
-<li>chat.openai.com (1330)</li>
+<li>www.facebook.com (1736)</li>
+<li>calendar.google.com (1564)</li>
+<li>login.microsoftonline.com (1398)</li>
+<li>chat.openai.com (1331)</li>
+<li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1132)</li>
-<li>web.whatsapp.com (1128)</li>
-<li>mail.rhul.ac.uk (968)</li>
+<li>web.whatsapp.com (1127)</li>
+<li>mail.rhul.ac.uk (967)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (834)</li>
 <li>rhul-my.sharepoint.com (828)</li>
 <li>forms.office.com (761)</li>
-<li>rhul.sharepoint.com (602)</li>
+<li>rhul.sharepoint.com (604)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (514)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 facebook.com</li>
+<ul><li> 16:37 royalholloway.akarisoftware.com</li>
+<li class='same'> 16:36 royalholloway.akarisoftware.com</li>
+<li> 16:36 login.microsoftonline.com</li>
+<li> 16:36 device.login.microsoftonline.com</li>
+<li> 16:36 royalholloway.akarisoftware.com</li>
+<li> 16:34 rhul.sharepoint.com</li>
+<li> 16:34 login.microsoftonline.com</li>
+<li class='same'> 16:33 login.microsoftonline.com</li>
+<li> 16:33 device.login.microsoftonline.com</li>
+<li> 16:33 rhul.sharepoint.com</li>
+<li> 16:32 www.facebook.com</li>
+<li> 16:30 chatgpt.com</li>
+<li> 16:30 chat.openai.com</li>
+<li> 16:29 www.facebook.com</li>
+<li class='same'> 16:28 www.facebook.com</li>
+<li> 16:28 facebook.com</li>
 <li> 16:26 mail.google.com</li>
 <li class='same'> 16:14 mail.google.com</li>
 </ul>
@@ -124161,56 +124176,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:04 www.theguardian.com</li>
 <li class='same'> 13:03 www.theguardian.com</li>
-<li> 13:02 www.foxbusiness.com</li>
-<li class='same'> 13:01 www.foxbusiness.com</li>
-<li> 12:58 www.foxnews.com</li>
-<li> 12:57 hot-thai-kitchen.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:29 outlook.office365.com</li>
-<li class='same'> 11:28 outlook.office365.com</li>
-<li> 11:28 calendar.google.com</li>
-<li> 11:28 outlook.office365.com</li>
-<li> 11:28 www.amazon.co.uk</li>
-<li> 11:28 outlook.office365.com</li>
-<li> 11:28 www.amazon.co.uk</li>
-<li> 11:28 mail.rhul.ac.uk</li>
-<li> 11:28 www.amazon.co.uk</li>
-<li class='same'> 11:27 www.amazon.co.uk</li>
-<li class='same'> 11:26 www.amazon.co.uk</li>
-<li> 11:24 www.facebook.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:34 www.atlasobscura.com</li>
-<li> 07:34 www.gloverall.com</li>
-<li> 07:34 www.google.com</li>
-<li> 07:32 <a href="https://en.wikipedia.org/wiki/1920s_in_Western_fashion">1920s in Western fashion - Wikipedia</a></li>
-<li> 07:31 www.google.com</li>
-<li> 07:28 <a href="https://en.wikipedia.org/wiki/Warhammer_40,000:_Space_Marine_2">Warhammer 40,000: Space Marine 2 - Wikipedia</a></li>
-<li> 07:28 www.google.com</li>
-<li> 07:27 www.thegamer.com</li>
-<li> 07:26 www.google.com</li>
-<li> 07:26 <a href="https://en.wikipedia.org/wiki/Gran_Turismo_6">Gran Turismo 6 - Wikipedia</a></li>
-<li> 07:26 www.google.com</li>
-<li> 07:26 www.amazon.co.uk</li>
-<li class='same'> 07:25 www.amazon.co.uk</li>
-<li> 07:25 www.google.com</li>
-<li> 07:23 www.facebook.com</li>
-<li> 07:23 <a href="https://en.wikipedia.org/wiki/List_of_best-selling_PlayStation_4_video_games">List of best-selling PlayStation 4 video games - Wikipedia</a></li>
-<li> 07:23 www.google.com</li>
-<li> 07:23 www.amazon.co.uk</li>
-<li> 07:21 www.google.com</li>
-<li> 07:18 calendar.google.com</li>
-<li> 07:18 web.whatsapp.com</li>
-<li> 07:18 51.148.131.133:8000</li>
-<li> 07:12 www.facebook.com</li>
-<li class='same'> 07:11 www.facebook.com</li>
-<li> 07:11 www.reddit.com</li>
-<li> 07:08 www.google.com</li>
-<li> 07:07 www.reddit.com</li>
-<li class='same'> 07:06 www.reddit.com</li>
 </ul>
