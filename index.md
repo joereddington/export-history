@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5337)</li>
-<li>www.reddit.com (5271)</li>
-<li>www.google.com (5105)</li>
+<ol><li>mail.google.com (5336)</li>
+<li>www.reddit.com (5320)</li>
+<li>www.google.com (5108)</li>
 <li>outlook.office365.com (4514)</li>
-<li>duckduckgo.com (3940)</li>
+<li>duckduckgo.com (3941)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2881)</li>
 <li>www.linkedin.com (2349)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1769)</li>
-<li>www.facebook.com (1746)</li>
+<li>www.facebook.com (1745)</li>
 <li>calendar.google.com (1568)</li>
 <li>login.microsoftonline.com (1393)</li>
 <li>www.amazon.co.uk (1334)</li>
 <li>chat.openai.com (1331)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1130)</li>
 <li>gmail.com (1130)</li>
+<li>web.whatsapp.com (1129)</li>
 <li>mail.rhul.ac.uk (973)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
@@ -104,11 +104,102 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 22/09/26</H3>
+
+<br>
+
+<ul><li> 10:53 fast.com</li>
+<li> 10:53 www.google.co.uk</li>
+<li class='same'> 10:52 www.google.co.uk</li>
+<li> 10:52 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:35 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:31 www.reformclub.com</li>
+<li> 09:30 www.reddit.com</li>
+<li class='same'> 09:29 www.reddit.com</li>
+<li class='same'> 09:27 www.reddit.com</li>
+<li class='same'> 09:13 www.reddit.com</li>
+<li class='same'> 09:12 www.reddit.com</li>
+<li class='same'> 09:11 www.reddit.com</li>
+<li> 09:10 app.heyguest.ai</li>
+<li class='same'> 09:09 app.heyguest.ai</li>
+<li> 09:05 www.reddit.com</li>
+<li class='same'> 09:03 www.reddit.com</li>
+<li class='same'> 09:02 www.reddit.com</li>
+<li class='same'> 09:01 www.reddit.com</li>
+<li class='same'> 09:00 www.reddit.com</li>
+<li class='same'> 08:59 www.reddit.com</li>
+<li class='same'> 08:58 www.reddit.com</li>
+<li class='same'> 08:57 www.reddit.com</li>
+<li> 08:57 found.apple.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:25 found.apple.com</li>
+<li> 08:14 www.reformclub.com</li>
+<li> 08:14 www.google.com</li>
+</ul>
+
 <H3>Monday, 21/09/26</H3>
 
 <br>
 
-<ul><li> 18:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:10 www.wxlabs.app</li>
+<li> 21:10 www.google.com</li>
+<li> 21:00 www.reddit.com</li>
+<li class='same'> 20:59 www.reddit.com</li>
+<li class='same'> 20:58 www.reddit.com</li>
+<li class='same'> 20:57 www.reddit.com</li>
+<li class='same'> 20:56 www.reddit.com</li>
+<li class='same'> 20:55 www.reddit.com</li>
+<li class='same'> 20:53 www.reddit.com</li>
+<li class='same'> 20:52 www.reddit.com</li>
+<li class='same'> 20:51 www.reddit.com</li>
+<li class='same'> 20:50 www.reddit.com</li>
+<li class='same'> 20:49 www.reddit.com</li>
+<li class='same'> 20:48 www.reddit.com</li>
+<li class='same'> 20:47 www.reddit.com</li>
+<li class='same'> 20:46 www.reddit.com</li>
+<li class='same'> 20:45 www.reddit.com</li>
+<li class='same'> 20:44 www.reddit.com</li>
+<li class='same'> 20:43 www.reddit.com</li>
+<li class='same'> 20:37 www.reddit.com</li>
+<li class='same'> 20:13 www.reddit.com</li>
+<li class='same'> 20:12 www.reddit.com</li>
+<li class='same'> 20:11 www.reddit.com</li>
+<li class='same'> 20:10 www.reddit.com</li>
+<li class='same'> 20:09 www.reddit.com</li>
+<li class='same'> 20:08 www.reddit.com</li>
+<li class='same'> 20:07 www.reddit.com</li>
+<li class='same'> 20:06 www.reddit.com</li>
+<li class='same'> 20:05 www.reddit.com</li>
+<li class='same'> 20:03 www.reddit.com</li>
+<li class='same'> 20:01 www.reddit.com</li>
+<li class='same'> 19:59 www.reddit.com</li>
+<li class='same'> 19:55 www.reddit.com</li>
+<li class='same'> 19:54 www.reddit.com</li>
+<li class='same'> 19:53 www.reddit.com</li>
+<li class='same'> 19:34 www.reddit.com</li>
+<li class='same'> 19:33 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:50 <a href="https://www.bbc.co.uk/news/articles/cm0e32rwvrryo">Home - BBC News</a></li>
+<li> 18:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:49 <a href="https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo">BBC removes 11 Mitchell and Webb comedy sketches from iPlayer - BBC News</a></li>
+<li> 18:49 www.google.com</li>
+<li> 18:48 <a href="https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo">BBC removes 11 Mitchell and Webb comedy sketches from iPlayer - BBC News</a></li>
+<li> 18:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 18:38 www.reddit.com</li>
 <li class='same'> 18:37 www.reddit.com</li>
 <li class='same'> 18:36 www.reddit.com</li>
@@ -124341,9 +124432,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:14 m.youtube.com</li>
-<li> 11:05 www.facebook.com</li>
-<li> 11:05 mail.google.com</li>
-<li> 11:04 web.whatsapp.com</li>
-<li> 11:04 www.parkrun.org.uk</li>
-<li class='same'> 11:03 www.parkrun.org.uk</li>
 </ul>
