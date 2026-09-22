@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5336)</li>
+<ol><li>mail.google.com (5333)</li>
 <li>www.reddit.com (5320)</li>
-<li>www.google.com (5105)</li>
+<li>www.google.com (5102)</li>
 <li>outlook.office365.com (4514)</li>
 <li>duckduckgo.com (3941)</li>
 <li>outlook.office.com (3916)</li>
@@ -79,15 +79,15 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2349)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1769)</li>
-<li>www.facebook.com (1745)</li>
-<li>calendar.google.com (1568)</li>
+<li>www.facebook.com (1742)</li>
+<li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1393)</li>
 <li>www.amazon.co.uk (1334)</li>
 <li>chat.openai.com (1331)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1130)</li>
 <li>web.whatsapp.com (1129)</li>
-<li>mail.rhul.ac.uk (973)</li>
+<li>gmail.com (1129)</li>
+<li>mail.rhul.ac.uk (972)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
 <li>rhul-my.sharepoint.com (835)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:11 dashboards.rhul.ac.uk</li>
+<ul><li> 11:41 fast.com</li>
+<li> 11:41 www.hope.com</li>
+<li> 11:41 hope.com</li>
+<li> 11:41 192.168.178.1</li>
+<li class='same'> 11:39 192.168.178.1</li>
+<li> 11:31 fast.com</li>
+<li> 11:11 dashboards.rhul.ac.uk</li>
 <li class='same'> 11:05 dashboards.rhul.ac.uk</li>
 <li> 10:53 fast.com</li>
 <li> 10:53 www.google.co.uk</li>
@@ -124391,34 +124397,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:44 rhul-my.sharepoint.com</li>
 <li class='same'> 06:43 rhul-my.sharepoint.com</li>
 <li> 06:43 outlook.office365.com</li>
-<li> 06:43 mail.rhul.ac.uk</li>
-<li> 06:42 www.facebook.com</li>
-</ul>
-
-<H3>Sunday, 27/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:24 mail.google.com</li>
-<li> 20:24 calendar.google.com</li>
-<li class='same'> 20:23 calendar.google.com</li>
-<li> 20:22 www.facebook.com</li>
-<li> 20:22 facebook.com</li>
-<li> 20:19 www.facebook.com</li>
-<li> 20:19 mail.google.com</li>
-<li class='same'> 20:18 mail.google.com</li>
-<li> 20:18 gmail.com</li>
-<li> 19:56 www.google.com</li>
-<li class='same'> 19:46 www.google.com</li>
-<li> 19:46 gymnasticshq.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 13:22 gymnasticshq.com</li>
-<li> 13:22 www.google.com</li>
 </ul>
