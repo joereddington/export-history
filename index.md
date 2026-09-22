@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5339)</li>
+<ol><li>mail.google.com (5341)</li>
 <li>www.reddit.com (5314)</li>
-<li>www.google.com (5082)</li>
+<li>www.google.com (5086)</li>
 <li>outlook.office365.com (4490)</li>
-<li>duckduckgo.com (3941)</li>
+<li>duckduckgo.com (3943)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2881)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1333)</li>
 <li>chat.openai.com (1331)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1131)</li>
+<li>gmail.com (1132)</li>
 <li>web.whatsapp.com (1128)</li>
 <li>mail.rhul.ac.uk (968)</li>
 <li>tvtropes.org (880)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:43 www.linkedin.com</li>
+<ul><li> 14:59 bridge.ciam.marksandspencer.com</li>
+<li> 14:59 www.marksandspencer.com</li>
+<li> 14:59 duckduckgo.com</li>
+<li> 14:59 mail.google.com</li>
+<li class='same'> 14:58 mail.google.com</li>
+<li> 14:58 gmail.com</li>
+<li> 14:58 www.marksandspencer.com</li>
+<li class='same'> 14:57 www.marksandspencer.com</li>
+<li> 14:57 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:24 www.marksandspencer.com</li>
+<li class='same'> 14:23 www.marksandspencer.com</li>
+<li class='same'> 14:22 www.marksandspencer.com</li>
+<li class='same'> 14:21 www.marksandspencer.com</li>
+<li class='same'> 14:20 www.marksandspencer.com</li>
+<li> 14:20 www.google.com</li>
+<li class='same'> 14:17 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:46 www.google.com</li>
+<li> 13:43 www.linkedin.com</li>
 <li> 13:41 www.o2.co.uk</li>
 <li> 13:41 oauth.virginmediao2.co.uk</li>
 <li> 13:41 oauth.virginmedia.com</li>
@@ -126,7 +151,11 @@ With number of accesses/minutes in parentheses
 <li> 13:39 notlongnow.o2.co.uk</li>
 <li> 13:39 mymobile2.o2.co.uk</li>
 <li> 13:39 identity.o2.co.uk</li>
+<li> 13:39 <a href="https://xkcd.com/1457/">xkcd: Turtle Sandwich Standard Model</a></li>
+<li> 13:39 <a href="https://xkcd.com/2301/">xkcd: Semaphore</a></li>
+<li> 13:37 <a href="https://xkcd.com/3295/">xkcd: Semaphore</a></li>
 <li> 13:25 www.linkedin.com</li>
+<li> 13:22 <a href="https://xkcd.com/3295/">xkcd: Semaphore</a></li>
 <li> 13:22 <a href="https://xkcd.com/3296/">xkcd: OH Scale</a></li>
 <li> 13:21 get-energy-performance-data.communities.gov.uk</li>
 <li> 13:21 signin.account.gov.uk</li>
@@ -124186,4 +124215,15 @@ With number of accesses/minutes in parentheses
 <li> 06:43 chatgpt.com</li>
 <li> 06:41 fritz.box</li>
 <li class='same'> 06:40 fritz.box</li>
+</ul>
+
+<H3>Thursday, 21/03/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:51 www.google.com</li>
 </ul>
