@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5339)</li>
-<li>www.reddit.com (5318)</li>
-<li>www.google.com (5095)</li>
-<li>outlook.office365.com (4506)</li>
+<li>www.reddit.com (5314)</li>
+<li>www.google.com (5082)</li>
+<li>outlook.office365.com (4490)</li>
 <li>duckduckgo.com (3941)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2882)</li>
-<li>www.linkedin.com (2352)</li>
+<li>chatgpt.com (2881)</li>
+<li>www.linkedin.com (2353)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1769)</li>
-<li>www.facebook.com (1742)</li>
+<li>moodle.royalholloway.ac.uk (1765)</li>
+<li>www.facebook.com (1737)</li>
 <li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1395)</li>
-<li>www.amazon.co.uk (1334)</li>
-<li>chat.openai.com (1332)</li>
+<li>www.amazon.co.uk (1333)</li>
+<li>chat.openai.com (1331)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1131)</li>
-<li>web.whatsapp.com (1129)</li>
-<li>mail.rhul.ac.uk (971)</li>
+<li>web.whatsapp.com (1128)</li>
+<li>mail.rhul.ac.uk (968)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (837)</li>
-<li>rhul-my.sharepoint.com (831)</li>
-<li>forms.office.com (763)</li>
+<li>feedly.com (834)</li>
+<li>rhul-my.sharepoint.com (828)</li>
+<li>forms.office.com (761)</li>
 <li>rhul.sharepoint.com (602)</li>
-<li>fritz.box (599)</li>
+<li>fritz.box (598)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (523)</li>
+<li>www.theguardian.com (514)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (468)</li>
 
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:25 www.linkedin.com</li>
+<ul><li> 13:43 www.linkedin.com</li>
+<li> 13:41 www.o2.co.uk</li>
+<li> 13:41 oauth.virginmediao2.co.uk</li>
+<li> 13:41 oauth.virginmedia.com</li>
+<li> 13:41 www.o2.co.uk</li>
+<li> 13:41 oauth.virginmedia.com</li>
+<li> 13:41 mymobile2.o2.co.uk</li>
+<li> 13:41 www.o2.co.uk</li>
+<li> 13:41 mymobile2.o2.co.uk</li>
+<li> 13:41 identity.o2.co.uk</li>
+<li> 13:41 accounts.o2.co.uk</li>
+<li> 13:41 auth.virginmediao2.co.uk</li>
+<li> 13:39 oauth.virginmediao2.co.uk</li>
+<li> 13:39 identity.o2.co.uk</li>
+<li> 13:39 accounts.o2.co.uk</li>
+<li> 13:39 notlongnow.o2.co.uk</li>
+<li> 13:39 mymobile2.o2.co.uk</li>
+<li> 13:39 identity.o2.co.uk</li>
+<li> 13:25 www.linkedin.com</li>
 <li> 13:22 <a href="https://xkcd.com/3296/">xkcd: OH Scale</a></li>
 <li> 13:21 get-energy-performance-data.communities.gov.uk</li>
 <li> 13:21 signin.account.gov.uk</li>
@@ -124168,168 +124186,4 @@ With number of accesses/minutes in parentheses
 <li> 06:43 chatgpt.com</li>
 <li> 06:41 fritz.box</li>
 <li class='same'> 06:40 fritz.box</li>
-<li> 06:40 chatgpt.com</li>
-<li> 06:40 chat.openai.com</li>
-<li> 06:39 outlook.office365.com</li>
-</ul>
-
-<H3>Tuesday, 29/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 22:04 www.reddit.com</li>
-<li> 22:03 feedly.com</li>
-<li> 22:00 www.theguardian.com</li>
-<li class='same'> 21:55 www.theguardian.com</li>
-<li class='same'> 21:53 www.theguardian.com</li>
-<li class='same'> 21:52 www.theguardian.com</li>
-<li> 21:51 www.google.com</li>
-<li> 21:50 www.facebook.com</li>
-<li class='same'> 21:49 www.facebook.com</li>
-<li> 21:48 web.whatsapp.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:36 outlook.office365.com</li>
-<li class='same'> 20:35 outlook.office365.com</li>
-<li> 20:35 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 17:15 hot-thai-kitchen.com</li>
-<li> 17:14 www.google.com</li>
-<li> 17:14 www.simplyrecipes.com</li>
-<li> 17:14 www.google.com</li>
-<li> 17:13 healthylivingjames.co.uk</li>
-<li class='same'> 17:12 healthylivingjames.co.uk</li>
-<li> 17:12 www.google.com</li>
-<li> 17:12 www.reddit.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 15:58 www.reddit.com</li>
-<li> 15:58 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 13:24 www.google.com</li>
-<li> 13:24 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:57 www.facebook.com</li>
-<li> 08:56 outlook.office365.com</li>
-<li> 08:55 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 08:54 experience.elluciancloud.ie</li>
-<li> 08:54 outlook.office365.com</li>
-<li> 08:49 www.google.com</li>
-<li> 08:46 outlook.office365.com</li>
-<li> 08:29 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 08:29 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 08:29 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 08:29 experience.elluciancloud.ie</li>
-<li> 08:29 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 08:28 forms.office.com</li>
-<li class='same'> 08:27 forms.office.com</li>
-<li> 08:27 outlook.office365.com</li>
-<li class='same'> 08:26 outlook.office365.com</li>
-<li> 08:26 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 07:05 www.google.com</li>
-<li> 07:04 fritz.box</li>
-<li> 07:04 www.theguardian.com</li>
-</ul>
-
-<H3>Monday, 28/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:38 feedly.com</li>
-<li> 20:38 outlook.office365.com</li>
-<li> 20:28 <a href="https://www.youtube.com/watch?v=sHaw-PAh-4E">(68) ALL the BEST Scenes from the Jason Bourne Trilogy ⚡ 4K - YouTube</a></li>
-<li> 20:27 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 20:26 <a href="https://www.youtube.com/watch?v=V7nSKqfBk6k">(68) Carol of the Bells (Original) Lyrics - YouTube</a></li>
-<li> 20:26 <a href="https://www.youtube.com/watch?v=EKkzbbLYPuI">(68) Lindsey Stirling - Carol of the Bells (Official Music Video) - YouTube</a></li>
-<li> 20:26 <a href="https://www.youtube.com/results?search_query=carol+of+the+bells">(68) carol of the bells - YouTube</a></li>
-<li> 20:26 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 20:26 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 20:26 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 20:11 www.facebook.com</li>
-<li class='same'> 20:08 www.facebook.com</li>
-<li> 20:05 feedly.com</li>
-<li> 20:05 outlook.office365.com</li>
-<li class='same'> 19:59 outlook.office365.com</li>
-<li class='same'> 19:58 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:12 www.theguardian.com</li>
-<li class='same'> 18:02 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:05 outlook.office365.com</li>
-<li> 14:05 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 13:32 ico.org.uk</li>
-<li> 13:32 www.google.com</li>
-<li> 13:22 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
-<li> 13:08 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder&#x27;s Justice League - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
-<li> 12:42 <a href="https://en.wikipedia.org/wiki/British_Library_cyberattack">British Library cyberattack - Wikipedia</a></li>
-<li> 12:41 www.google.com</li>
-<li> 12:41 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 12:41 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
-<li> 12:41 <a href="https://en.wikipedia.org/wiki/PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
-<li> 12:40 <a href="https://en.wikipedia.org/wiki/PlayStation_Network">PlayStation Network - Wikipedia</a></li>
-<li> 12:40 www.google.com</li>
-<li> 12:40 <a href="https://en.wikipedia.org/wiki/Capital_One#July_2019_security_breach">Capital One - Wikipedia</a></li>
-<li> 12:40 <a href="https://en.wikipedia.org/wiki/Capital_One">Capital One - Wikipedia</a></li>
-<li> 12:40 www.google.com</li>
-<li> 12:40 <a href="https://en.wikipedia.org/w/index.php?title=2017_Equifax_data_breach&amp;action=history">2017 Equifax data breach: Revision history - Wikipedia</a></li>
-<li> 12:39 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
-<li> 12:38 kdpreports.amazon.com</li>
-<li class='same'> 12:37 kdpreports.amazon.com</li>
-<li> 12:37 kdp.amazon.com</li>
-<li> 12:37 www.amazon.co.uk</li>
-<li> 12:32 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:31 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:30 moodle.royalholloway.ac.uk</li>
-<li> 12:30 Local file</li>
-<li> 12:29 moodle.royalholloway.ac.uk</li>
-<li> 12:28 rhul-my.sharepoint.com</li>
-<li class='same'> 12:27 rhul-my.sharepoint.com</li>
-<li class='same'> 12:25 rhul-my.sharepoint.com</li>
-<li> 12:23 www.reddit.com</li>
-<li> 12:21 outlook.office365.com</li>
-<li> 12:20 www.theguardian.com</li>
-<li> 12:20 <a href="https://en.wikipedia.org/wiki/2020_New_Year_Honours">2020 New Year Honours - Wikipedia</a></li>
-<li> 12:19 www.google.com</li>
-<li> 12:19 ico.org.uk</li>
-<li> 12:19 eur03.safelinks.protection.outlook.com</li>
-<li> 12:18 outlook.office365.com</li>
-<li> 12:17 ico.org.uk</li>
-<li> 12:17 eur03.safelinks.protection.outlook.com</li>
-<li> 12:17 outlook.office365.com</li>
 </ul>
