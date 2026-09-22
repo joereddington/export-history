@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5333)</li>
+<ol><li>mail.google.com (5337)</li>
 <li>www.reddit.com (5320)</li>
-<li>www.google.com (5102)</li>
-<li>outlook.office365.com (4514)</li>
+<li>www.google.com (5100)</li>
+<li>outlook.office365.com (4513)</li>
 <li>duckduckgo.com (3941)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2881)</li>
-<li>www.linkedin.com (2349)</li>
+<li>www.linkedin.com (2350)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1742)</li>
 <li>calendar.google.com (1566)</li>
-<li>login.microsoftonline.com (1393)</li>
+<li>login.microsoftonline.com (1395)</li>
 <li>www.amazon.co.uk (1334)</li>
 <li>chat.openai.com (1331)</li>
 <li>herts.instructure.com (1231)</li>
+<li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1129)</li>
-<li>gmail.com (1129)</li>
 <li>mail.rhul.ac.uk (972)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
-<li>rhul-my.sharepoint.com (835)</li>
+<li>rhul-my.sharepoint.com (831)</li>
 <li>forms.office.com (763)</li>
-<li>rhul.sharepoint.com (601)</li>
+<li>rhul.sharepoint.com (602)</li>
 <li>fritz.box (599)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (524)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 22/09/26</H3>
+
+<br>
+
+<ul><li> 12:20 login.microsoftonline.com</li>
+<li> 12:20 device.login.microsoftonline.com</li>
+<li> 12:20 login.microsoftonline.com</li>
+<li> 12:20 rhul.sharepoint.com</li>
+<li> 12:17 equalitytime.co.uk</li>
+<li> 12:17 www.google.com</li>
+<li> 12:17 equalitytime.co.uk</li>
+<li> 12:17 mail.google.com</li>
+<li class='same'> 12:16 mail.google.com</li>
+<li> 12:16 accounts.google.com</li>
+<li> 12:16 mail.google.com</li>
+<li> 12:16 gmail.com</li>
+<li> 12:16 accounts.google.com</li>
+<li> 12:16 mail.google.com</li>
+<li> 12:16 gmail.com</li>
+<li> 12:16 192.168.178.1</li>
+<li> 12:16 fast.com</li>
+<li> 12:15 www.linkedin.com</li>
+</ul>
 
 <br>
 
@@ -124360,41 +124382,4 @@ With number of accesses/minutes in parentheses
 <li> 07:04 linkinghub.elsevier.com</li>
 <li> 07:04 www.sciencedirect.com</li>
 <li> 07:04 linkinghub.elsevier.com</li>
-<li> 07:03 www.iso.org</li>
-<li> 07:01 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security_incident_management&amp;action=edit">Editing Computer security incident management - Wikipedia</a></li>
-<li> 07:01 <a href="https://en.wikipedia.org/wiki/Information_security?action=edit&amp;section=23&amp;veswitched=1#Incident_response_plans">Editing Information security (section) - Wikipedia</a></li>
-<li> 07:01 <a href="https://en.wikipedia.org/wiki/Computer_security_incident_management">Computer security incident management - Wikipedia</a></li>
-<li> 07:00 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security_incident_management&amp;action=edit">Editing Computer security incident management - Wikipedia</a></li>
-<li> 06:59 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=23">Editing Information security - Wikipedia</a></li>
-<li> 06:59 <a href="https://en.wikipedia.org/wiki/Computer_security_incident_management">Computer security incident management - Wikipedia</a></li>
-<li class='same'> 06:58 <a href="https://en.wikipedia.org/wiki/Computer_security_incident_management">Computer security incident management - Wikipedia</a></li>
-<li> 06:58 <a href="https://en.wikipedia.org/wiki/Incident_management">Incident management - Wikipedia</a></li>
-<li> 06:58 <a href="https://en.wikipedia.org/wiki/Incident_response_team">Incident response team - Wikipedia</a></li>
-<li> 06:58 www.google.com</li>
-<li> 06:57 <a href="https://en.wikipedia.org/wiki/Information_security#Incident_response_plans">Information security - Wikipedia</a></li>
-<li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=23">Editing Information security - Wikipedia</a></li>
-<li> 06:56 scholar.google.com</li>
-<li> 06:56 www.google.com</li>
-<li> 06:56 insights.sei.cmu.edu</li>
-<li> 06:55 <a href="https://en.wikipedia.org/wiki/Information_governance">Information governance - Wikipedia</a></li>
-<li> 06:55 <a href="https://en.wikipedia.org/wiki/Information_Security_Governance">Information governance - Wikipedia</a></li>
-<li> 06:55 <a href="https://en.wikipedia.org/wiki/Information_governance">Information governance - Wikipedia</a></li>
-<li> 06:55 <a href="https://en.wikipedia.org/wiki/Information_Security_Governance">Information governance - Wikipedia</a></li>
-<li> 06:54 <a href="https://en.wikipedia.org/wiki/Information_governance?action=edit&amp;veswitched=1">Editing Information governance - Wikipedia</a></li>
-<li> 06:54 <a href="https://en.wikipedia.org/w/index.php?title=Information_governance&amp;action=edit">Editing Information governance - Wikipedia</a></li>
-<li> 06:53 claude.ai</li>
-<li class='same'> 06:52 claude.ai</li>
-<li> 06:52 <a href="https://en.wikipedia.org/wiki/Information_governance">Information governance - Wikipedia</a></li>
-<li> 06:52 <a href="https://en.wikipedia.org/wiki/Information_Security_Governance">Information governance - Wikipedia</a></li>
-<li> 06:51 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 06:51 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 06:50 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Liz">User contributions for Liz - Wikipedia</a></li>
-<li> 06:50 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 06:50 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 06:50 www.google.com</li>
-<li> 06:50 rhul-my.sharepoint.com</li>
-<li class='same'> 06:47 rhul-my.sharepoint.com</li>
-<li class='same'> 06:44 rhul-my.sharepoint.com</li>
-<li class='same'> 06:43 rhul-my.sharepoint.com</li>
-<li> 06:43 outlook.office365.com</li>
 </ul>
