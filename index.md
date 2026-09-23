@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5350)</li>
 <li>www.reddit.com (5313)</li>
-<li>www.google.com (5077)</li>
+<li>www.google.com (5075)</li>
 <li>outlook.office365.com (4483)</li>
 <li>duckduckgo.com (3944)</li>
-<li>outlook.office.com (3904)</li>
+<li>outlook.office.com (3903)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2885)</li>
 <li>www.linkedin.com (2363)</li>
@@ -124109,52 +124109,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:38 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing#Information_Security-DoesNotExist-DiscussionToolsHack">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
 <li> 15:38 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing#Information_Security">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
-<li> 15:36 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
-<li> 15:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computing">Wikipedia:WikiProject Computing - Wikipedia</a></li>
-<li> 15:35 www.google.com</li>
-<li> 15:35 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 15:34 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
-<li> 15:33 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
-<li> 15:32 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 15:31 <a href="https://en.wikipedia.org/wiki/Offensive_Security">Offensive Security - Wikipedia</a></li>
-<li> 15:31 <a href="https://en.wikipedia.org/wiki/Category:Computer_network_security">Category:Computer network security - Wikipedia</a></li>
-<li> 15:30 outlook.office.com</li>
-<li> 15:30 <a href="https://en.wikipedia.org/wiki/Category:Computer_security_in_the_United_Kingdom">Category:Computer security in the United Kingdom - Wikipedia</a></li>
-<li> 15:30 <a href="https://en.wikipedia.org/wiki/Category:Computer_security_by_country">Category:Computer security by country - Wikipedia</a></li>
-<li> 15:30 <a href="https://en.wikipedia.org/wiki/Category:InfoSec_Twitter">Category:InfoSec Twitter - Wikipedia</a></li>
-<li> 15:29 <a href="https://en.wikipedia.org/wiki/National_Cyber_Security_Policy_2013">National Cyber Security Policy 2013 - Wikipedia</a></li>
-<li> 15:28 <a href="https://en.wikipedia.org/wiki/Talk:Israeli_cybersecurity_industry">Talk:Israeli cybersecurity industry - Wikipedia</a></li>
-<li> 15:28 <a href="https://en.wikipedia.org/w/index.php?title=Israeli_cybersecurity_industry&amp;action=history">Israeli cybersecurity industry: Revision history - Wikipedia</a></li>
-<li> 15:28 <a href="https://en.wikipedia.org/wiki/Israeli_cybersecurity_industry">Israeli cybersecurity industry - Wikipedia</a></li>
-<li> 15:27 <a href="https://en.wikipedia.org/wiki/Macro_and_security">Macro and security - Wikipedia</a></li>
-<li> 15:27 <a href="https://en.wikipedia.org/wiki/Category:Computer_security">Category:Computer security - Wikipedia</a></li>
-<li> 15:27 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
-<li> 15:27 www.google.com</li>
-<li> 15:26 <a href="https://en.wikipedia.org/wiki/Loss_of_United_Kingdom_child_benefit_data_(2007)">Loss of United Kingdom child benefit data (2007) - Wikipedia</a></li>
-<li> 15:26 web.archive.org</li>
-<li> 15:25 <a href="https://en.wikipedia.org/wiki/Certified_penetration_testing_engineer#cite_note-4">Certified penetration testing engineer - Wikipedia</a></li>
-<li> 15:25 <a href="https://en.wikipedia.org/wiki/Certified_ethical_hacker">Certified ethical hacker - Wikipedia</a></li>
-<li> 15:25 <a href="https://en.wikipedia.org/wiki/Certified_Network_Defense_Architect">Certified ethical hacker - Wikipedia</a></li>
-<li> 15:25 www.monster.com</li>
-<li> 15:25 <a href="https://en.wikipedia.org/wiki/Certified_penetration_testing_engineer">Certified penetration testing engineer - Wikipedia</a></li>
-<li> 15:24 <a href="https://en.wikipedia.org/wiki/Security_information_and_event_management">Security information and event management - Wikipedia</a></li>
-<li> 15:24 <a href="https://en.wikipedia.org/wiki/Security_level_management">Security level management - Wikipedia</a></li>
-<li> 15:24 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 15:23 <a href="https://en.wikipedia.org/w/index.php?title=United_Kingdom_government_security_breaches&amp;action=history">United Kingdom government security breaches: Revision history - Wikipedia</a></li>
-<li> 15:23 <a href="https://en.wikipedia.org/wiki/United_Kingdom_government_security_breaches">United Kingdom government security breaches - Wikipedia</a></li>
-<li> 15:22 <a href="https://en.wikipedia.org/wiki/Medical_data_breach#cite_note-:1-1">Medical data breach - Wikipedia</a></li>
-<li> 15:22 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
-<li> 15:22 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 15:21 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
-<li> 15:21 <a href="https://en.wikipedia.org/wiki/Mayfield%27s_paradox">Mayfield&#x27;s paradox - Wikipedia</a></li>
-<li> 15:21 <a href="https://en.wikipedia.org/wiki/Category:Data_security">Category:Data security - Wikipedia</a></li>
-<li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 15:20 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 15:20 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 15:20 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 15:19 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 15:19 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;action=history">Sarah Owen: Revision history - Wikipedia</a></li>
-<li> 15:18 <a href="https://en.wikipedia.org/wiki/Luton_Borough_Council_elections">Luton Borough Council elections - Wikipedia</a></li>
-<li> 15:18 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 </ul>
