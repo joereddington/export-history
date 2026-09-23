@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5346)</li>
+<ol><li>mail.google.com (5347)</li>
 <li>www.reddit.com (5316)</li>
-<li>www.google.com (5079)</li>
+<li>www.google.com (5077)</li>
 <li>outlook.office365.com (4483)</li>
 <li>duckduckgo.com (3944)</li>
-<li>outlook.office.com (3910)</li>
+<li>outlook.office.com (3908)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2883)</li>
-<li>www.linkedin.com (2352)</li>
+<li>www.linkedin.com (2356)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>www.facebook.com (1730)</li>
@@ -85,11 +85,11 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1332)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1132)</li>
+<li>gmail.com (1133)</li>
 <li>web.whatsapp.com (1127)</li>
 <li>mail.rhul.ac.uk (965)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (834)</li>
+<li>feedly.com (835)</li>
 <li>rhul-my.sharepoint.com (828)</li>
 <li>forms.office.com (761)</li>
 <li>rhul.sharepoint.com (605)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:20 fyp.cs.rhul.ac.uk</li>
+<ul><li> 08:59 www.linkedin.com</li>
+<li> 08:59 fast.com</li>
+<li> 08:59 192.168.178.1</li>
+<li> 08:59 www.linkedin.com</li>
+<li> 08:59 feedly.com</li>
+<li> 08:58 www.linkedin.com</li>
+<li class='same'> 08:57 www.linkedin.com</li>
+<li> 08:57 mail.google.com</li>
+<li> 08:57 gmail.com</li>
+<li> 08:57 192.168.178.1</li>
+<li class='same'> 08:56 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 08:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+</ul>
+
+<br>
+
+<ul><li> 07:37 www.google.com</li>
+<li> 07:35 192.168.178.1</li>
+<li> 07:21 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:20 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 07:19 fyp.cs.rhul.ac.uk</li>
 <li> 07:06 chatgpt.com</li>
 <li> 07:02 192.168.178.1</li>
@@ -124157,28 +124180,4 @@ With number of accesses/minutes in parentheses
 <li> 12:19 www.natesilver.net</li>
 <li> 12:19 t.co</li>
 <li> 12:19 x.com</li>
-<li> 12:19 www.google.com</li>
-<li> 12:19 x.com</li>
-<li> 12:19 www.google.com</li>
-<li class='same'> 12:18 www.google.com</li>
-<li> 12:18 x.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:33 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 08:33 experience.elluciancloud.ie</li>
-</ul>
-
-<br>
-
-<ul><li> 07:32 outlook.office.com</li>
-<li> 07:29 intranet.royalholloway.ac.uk</li>
-<li class='same'> 07:28 intranet.royalholloway.ac.uk</li>
-<li> 07:27 outlook.office.com</li>
-<li> 07:27 intranet.royalholloway.ac.uk</li>
-<li> 07:25 experience.elluciancloud.ie</li>
-<li class='same'> 07:24 experience.elluciancloud.ie</li>
-<li> 07:24 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 07:24 experience.elluciancloud.ie</li>
 </ul>
