@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5346)</li>
-<li>www.reddit.com (5318)</li>
-<li>www.google.com (5080)</li>
-<li>outlook.office365.com (4485)</li>
+<li>www.reddit.com (5316)</li>
+<li>www.google.com (5079)</li>
+<li>outlook.office365.com (4483)</li>
 <li>duckduckgo.com (3944)</li>
-<li>outlook.office.com (3916)</li>
+<li>outlook.office.com (3910)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2882)</li>
-<li>www.linkedin.com (2353)</li>
+<li>chatgpt.com (2883)</li>
+<li>www.linkedin.com (2352)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>www.facebook.com (1733)</li>
+<li>www.facebook.com (1730)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1399)</li>
 <li>chat.openai.com (1332)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1132)</li>
 <li>web.whatsapp.com (1127)</li>
-<li>mail.rhul.ac.uk (967)</li>
+<li>mail.rhul.ac.uk (965)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (834)</li>
 <li>rhul-my.sharepoint.com (828)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (605)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (510)</li>
+<li>www.theguardian.com (509)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (468)</li>
 
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:45 chatgpt.com</li>
+<ul><li> 07:20 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:19 fyp.cs.rhul.ac.uk</li>
+<li> 07:06 chatgpt.com</li>
+<li> 07:02 192.168.178.1</li>
+<li> 06:45 chatgpt.com</li>
 <li> 06:38 192.168.178.1</li>
 </ul>
 
@@ -12122,8 +12126,7 @@ With number of accesses/minutes in parentheses
 <li> 14:52 www.amazon.co.uk</li>
 <li> 14:52 calendar.google.com</li>
 <li class='same'> 14:51 calendar.google.com</li>
-<li> 14:51 www.reddit.com</li>
-<li class='same'> 14:50 www.reddit.com</li>
+<li> 14:50 www.reddit.com</li>
 <li> 14:49 127.0.0.1:8000</li>
 </ul>
 
@@ -124178,34 +124181,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:24 experience.elluciancloud.ie</li>
 <li> 07:24 eee-api-eu-west-1.10005.elluciancloud.ie</li>
 <li> 07:24 experience.elluciancloud.ie</li>
-<li> 07:12 outlook.office.com</li>
-<li> 07:10 www.reddit.com</li>
-<li> 07:09 outlook.office.com</li>
-<li> 07:08 www.facebook.com</li>
-<li class='same'> 07:02 www.facebook.com</li>
-<li class='same'> 07:01 www.facebook.com</li>
-<li> 07:01 www.theguardian.com</li>
-<li> 07:00 www.linkedin.com</li>
-<li> 06:58 outlook.office365.com</li>
-<li> 06:58 outlook.office.com</li>
-<li> 06:58 mail.rhul.ac.uk</li>
-<li> 06:58 www.giantitp.com</li>
-<li> 06:50 outlook.office.com</li>
-<li class='same'> 06:49 outlook.office.com</li>
-<li> 06:49 outlook.office365.com</li>
-<li> 06:49 outlook.office.com</li>
-<li> 06:49 mail.rhul.ac.uk</li>
-</ul>
-
-<H3>Wednesday, 30/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:34 x.com</li>
-<li class='same'> 21:33 x.com</li>
-<li> 21:33 www.google.com</li>
 </ul>
