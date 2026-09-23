@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5348)</li>
-<li>www.reddit.com (5316)</li>
+<ol><li>mail.google.com (5350)</li>
+<li>www.reddit.com (5313)</li>
 <li>www.google.com (5077)</li>
 <li>outlook.office365.com (4483)</li>
 <li>duckduckgo.com (3944)</li>
-<li>outlook.office.com (3906)</li>
+<li>outlook.office.com (3904)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2883)</li>
-<li>www.linkedin.com (2360)</li>
+<li>chatgpt.com (2885)</li>
+<li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>www.facebook.com (1730)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (1127)</li>
 <li>mail.rhul.ac.uk (965)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (836)</li>
+<li>feedly.com (834)</li>
 <li>rhul-my.sharepoint.com (828)</li>
 <li>forms.office.com (761)</li>
 <li>rhul.sharepoint.com (605)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 23/09/26</H3>
+
+<br>
+
+<ul><li> 17:20 chatgpt.com</li>
+<li class='same'> 17:19 chatgpt.com</li>
+<li> 17:09 fast.com</li>
+<li> 17:09 mail.google.com</li>
+<li class='same'> 17:08 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:50 www.linkedin.com</li>
+<li class='same'> 12:49 www.linkedin.com</li>
+<li class='same'> 12:48 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:38 secure.terrapinn.com</li>
+<li> 11:26 www.thenec.co.uk</li>
+</ul>
 
 <br>
 
@@ -135,7 +157,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 08:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:15 m.youtube.com</li>
+<li> 08:15 www.google.com</li>
+<li> 08:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 </ul>
 
 <br>
@@ -124132,53 +124157,4 @@ With number of accesses/minutes in parentheses
 <li> 15:19 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;action=history">Sarah Owen: Revision history - Wikipedia</a></li>
 <li> 15:18 <a href="https://en.wikipedia.org/wiki/Luton_Borough_Council_elections">Luton Borough Council elections - Wikipedia</a></li>
 <li> 15:18 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:18 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:18 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 15:18 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 15:18 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&amp;curid=7398&amp;action=history">Computer security: Revision history - Wikipedia</a></li>
-<li> 15:17 <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">Hyper Text Coffee Pot Control Protocol - Wikipedia</a></li>
-<li> 15:17 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:17 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:17 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&amp;curid=33131881&amp;diff=1254327799&amp;oldid=1252611713">Tulip Siddiq: Difference between revisions - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:Contributions/240F:CA:2CE5:1:158D:3099:FDBB:DB3A">User contributions for 240F:CA:2CE5:1:158D:3099:FDBB:DB3A - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/wiki/User_talk:240F:CA:2CE5:1:158D:3099:FDBB:DB3A">User talk:240F:CA:2CE5:1:158D:3099:FDBB:DB3A - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/wiki/Sarah_Owen">Sarah Owen - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:240F:CA:2CE5:1:158D:3099:FDBB:DB3A&amp;action=edit&amp;preview=yes&amp;vanarticle=Sarah%20Owen&amp;vanarticlerevid=1254445350&amp;vantimestamp=2024-10-31T01%3A03%3A28Z&amp;vanarticlegoodrevid=1246489529&amp;type=norm&amp;count=2">Creating User talk:240F:CA:2CE5:1:158D:3099:FDBB:DB3A - Wikipedia</a></li>
-<li> 15:15 <a href="https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources_and_undue_weight">Wikipedia:Reliable sources and undue weight - Wikipedia</a></li>
-<li> 15:15 www.google.com</li>
-<li> 15:15 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;diff=next&amp;oldid=1254445088">Sarah Owen: Difference between revisions - Wikipedia</a></li>
-<li> 15:15 claude.ai</li>
-<li class='same'> 15:14 claude.ai</li>
-<li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;diff=prev&amp;oldid=1254445088">Sarah Owen: Difference between revisions - Wikipedia</a></li>
-<li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;diff=1254445350&amp;oldid=1254445088">Sarah Owen: Difference between revisions - Wikipedia</a></li>
-<li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;action=history">Sarah Owen: Revision history - Wikipedia</a></li>
-<li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;curid=62569479&amp;diff=1254445350&amp;oldid=1246489529">Sarah Owen: Difference between revisions - Wikipedia</a></li>
-<li> 15:13 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:13 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:13 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 15:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 15:13 <a href="https://en.wikipedia.org/"></a></li>
-<li> 15:13 feedly.com</li>
-<li> 15:12 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:58 feedly.com</li>
-<li> 12:58 www.giantitp.com</li>
-<li> 12:57 outlook.office.com</li>
-<li> 12:57 www.reddit.com</li>
-<li class='same'> 12:56 www.reddit.com</li>
-<li class='same'> 12:55 www.reddit.com</li>
-<li> 12:55 www.disneyplus.com</li>
-<li class='same'> 12:54 www.disneyplus.com</li>
-<li class='same'> 12:53 www.disneyplus.com</li>
-<li class='same'> 12:52 www.disneyplus.com</li>
 </ul>
