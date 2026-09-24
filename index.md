@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (5355)</li>
 <li>www.reddit.com (5337)</li>
 <li>www.google.com (5061)</li>
-<li>outlook.office365.com (4467)</li>
+<li>outlook.office365.com (4461)</li>
 <li>duckduckgo.com (3945)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3290)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>www.facebook.com (1729)</li>
+<li>www.facebook.com (1727)</li>
 <li>calendar.google.com (1563)</li>
 <li>login.microsoftonline.com (1400)</li>
 <li>chat.openai.com (1330)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1133)</li>
 <li>web.whatsapp.com (1126)</li>
-<li>mail.rhul.ac.uk (963)</li>
+<li>mail.rhul.ac.uk (962)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (834)</li>
 <li>rhul-my.sharepoint.com (826)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:15 duckduckgo.com</li>
+<ul><li> 08:31 casper.cs.rhul.ac.uk</li>
+<li class='same'> 08:30 casper.cs.rhul.ac.uk</li>
+<li> 08:15 duckduckgo.com</li>
 <li> 07:50 moodle.royalholloway.ac.uk</li>
 <li> 07:50 login.microsoftonline.com</li>
 <li> 07:50 device.login.microsoftonline.com</li>
@@ -124080,19 +124082,4 @@ With number of accesses/minutes in parentheses
 <li> 12:06 drive.google.com</li>
 <li> 12:06 docs.google.com</li>
 <li> 12:06 drive.google.com</li>
-<li> 12:05 outlook.office365.com</li>
-<li class='same'> 12:04 outlook.office365.com</li>
-<li> 12:03 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-<li> 12:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 12:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 12:03 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
-<li> 12:03 outlook.office365.com</li>
-<li class='same'> 12:02 outlook.office365.com</li>
-<li class='same'> 12:01 outlook.office365.com</li>
-<li> 12:00 <a href="https://en.wikipedia.org/wiki/2022_Optus_data_breach#:~:text=In%20September%202022%2C%20Australian%20telecommunications%20company%20Optus%20suffered,former%20customers%20comprising%20a%20third%20of%20Australia%27s%20population.)">2022 Optus data breach - Wikipedia</a></li>
-<li> 12:00 eur03.safelinks.protection.outlook.com</li>
-<li> 11:59 outlook.office365.com</li>
-<li> 11:59 mail.rhul.ac.uk</li>
-<li> 11:59 www.facebook.com</li>
-<li class='same'> 11:58 www.facebook.com</li>
 </ul>
