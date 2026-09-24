@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5355)</li>
-<li>www.reddit.com (5338)</li>
-<li>www.google.com (5067)</li>
-<li>outlook.office365.com (4473)</li>
-<li>duckduckgo.com (3944)</li>
+<li>www.reddit.com (5337)</li>
+<li>www.google.com (5061)</li>
+<li>outlook.office365.com (4467)</li>
+<li>duckduckgo.com (3945)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2886)</li>
-<li>www.linkedin.com (2367)</li>
+<li>chatgpt.com (2883)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>www.facebook.com (1730)</li>
+<li>www.facebook.com (1729)</li>
 <li>calendar.google.com (1563)</li>
 <li>login.microsoftonline.com (1400)</li>
-<li>chat.openai.com (1332)</li>
+<li>chat.openai.com (1330)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1133)</li>
 <li>web.whatsapp.com (1126)</li>
-<li>mail.rhul.ac.uk (964)</li>
+<li>mail.rhul.ac.uk (963)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (834)</li>
 <li>rhul-my.sharepoint.com (826)</li>
-<li>forms.office.com (761)</li>
+<li>forms.office.com (760)</li>
 <li>rhul.sharepoint.com (605)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (506)</li>
+<li>www.theguardian.com (505)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (468)</li>
 
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:50 moodle.royalholloway.ac.uk</li>
+<ul><li> 08:15 duckduckgo.com</li>
+<li> 07:50 moodle.royalholloway.ac.uk</li>
 <li> 07:50 login.microsoftonline.com</li>
 <li> 07:50 device.login.microsoftonline.com</li>
 <li> 07:50 moodle.royalholloway.ac.uk</li>
@@ -12015,14 +12016,10 @@ With number of accesses/minutes in parentheses
 <li> 18:02 duckduckgo.com</li>
 <li> 18:02 <a href="https://en.wikipedia.org/wiki/Penetration_test">Penetration test - Wikipedia</a></li>
 <li> 18:01 duckduckgo.com</li>
-<li> 18:00 link.springer.com</li>
-<li> 18:00 kar.kent.ac.uk</li>
 <li> 17:59 sciendo.com</li>
 <li> 17:59 reference-global.com</li>
-<li> 17:57 pureadmin.qub.ac.uk</li>
-<li> 17:57 reference-global.com</li>
+<li class='same'> 17:57 reference-global.com</li>
 <li> 17:57 sciendo.com</li>
-<li> 17:57 kar.kent.ac.uk</li>
 <li> 17:56 link.springer.com</li>
 <li> 17:56 idp.springer.com</li>
 <li> 17:50 www.linkedin.com</li>
@@ -124098,41 +124095,4 @@ With number of accesses/minutes in parentheses
 <li> 11:59 mail.rhul.ac.uk</li>
 <li> 11:59 www.facebook.com</li>
 <li class='same'> 11:58 www.facebook.com</li>
-<li class='same'> 11:53 www.facebook.com</li>
-<li> 11:53 outlook.office365.com</li>
-<li> 11:53 mail.rhul.ac.uk</li>
-<li> 11:49 en.m.wikipedia.org</li>
-<li> 11:49 www.reddit.com</li>
-<li> 11:44 www.google.com</li>
-<li> 11:35 chatgpt.com</li>
-<li class='same'> 11:34 chatgpt.com</li>
-<li> 11:34 chat.openai.com</li>
-<li> 11:29 www.google.com</li>
-<li> 11:28 www.linkedin.com</li>
-<li class='same'> 11:27 www.linkedin.com</li>
-<li> 11:25 scholar.google.com</li>
-<li> 11:22 www.fcc.gov</li>
-<li> 11:20 docs.fcc.gov</li>
-<li> 11:20 www.fcc.gov</li>
-<li> 11:20 www.google.com</li>
-<li> 11:19 www.reuters.com</li>
-<li> 11:18 www.google.com</li>
-<li> 11:18 outlook.office365.com</li>
-<li> 11:18 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 11:18 www.google.com</li>
-<li> 11:15 forms.office.com</li>
-<li> 11:15 outlook.office365.com</li>
-<li> 11:12 www.linkedin.com</li>
-<li> 11:11 www.theguardian.com</li>
-<li> 11:11 edition.cnn.com</li>
-<li> 11:11 www.google.com</li>
-<li> 11:09 online.unity.co.uk</li>
-<li> 11:09 www.unity-online.co.uk</li>
-<li> 11:09 online.unity.co.uk</li>
-<li> 11:08 chatgpt.com</li>
-<li> 11:08 chat.openai.com</li>
-<li> 11:07 outlook.office365.com</li>
-<li class='same'> 11:06 outlook.office365.com</li>
-<li class='same'> 11:05 outlook.office365.com</li>
-<li> 11:02 www.accessable.co.uk</li>
 </ul>
