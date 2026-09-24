@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5350)</li>
-<li>www.reddit.com (5313)</li>
-<li>www.google.com (5075)</li>
-<li>outlook.office365.com (4483)</li>
+<ol><li>mail.google.com (5355)</li>
+<li>www.reddit.com (5338)</li>
+<li>www.google.com (5067)</li>
+<li>outlook.office365.com (4473)</li>
 <li>duckduckgo.com (3944)</li>
-<li>outlook.office.com (3903)</li>
+<li>outlook.office.com (3901)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2885)</li>
-<li>www.linkedin.com (2363)</li>
+<li>chatgpt.com (2886)</li>
+<li>www.linkedin.com (2367)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>www.facebook.com (1730)</li>
-<li>calendar.google.com (1564)</li>
-<li>login.microsoftonline.com (1399)</li>
+<li>calendar.google.com (1563)</li>
+<li>login.microsoftonline.com (1400)</li>
 <li>chat.openai.com (1332)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1133)</li>
-<li>web.whatsapp.com (1127)</li>
-<li>mail.rhul.ac.uk (965)</li>
+<li>web.whatsapp.com (1126)</li>
+<li>mail.rhul.ac.uk (964)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (834)</li>
-<li>rhul-my.sharepoint.com (828)</li>
+<li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (761)</li>
 <li>rhul.sharepoint.com (605)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (507)</li>
+<li>www.theguardian.com (506)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (468)</li>
 
@@ -104,7 +104,87 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 24/09/26</H3>
+
+<br>
+
+<ul><li> 07:50 moodle.royalholloway.ac.uk</li>
+<li> 07:50 login.microsoftonline.com</li>
+<li> 07:50 device.login.microsoftonline.com</li>
+<li> 07:50 moodle.royalholloway.ac.uk</li>
+<li> 07:45 www.reddit.com</li>
+<li> 07:44 mail.google.com</li>
+<li> 07:44 www.linkedin.com</li>
+<li class='same'> 07:43 www.linkedin.com</li>
+<li> 07:43 mail.google.com</li>
+<li> 07:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
 <H3>Wednesday, 23/09/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 22:04 www.feynmanlectures.caltech.edu</li>
+</ul>
+
+<br>
+
+<ul><li> 21:18 <a href="https://en.wikipedia.org/wiki/Messier_81#/media/File:Messier_81_HST.jpg">Messier 81 - Wikipedia</a></li>
+<li> 21:17 <a href="https://en.wikipedia.org/wiki/Messier_81">Messier 81 - Wikipedia</a></li>
+<li> 21:17 www.google.com</li>
+<li> 21:17 support.google.com</li>
+<li> 21:00 www.feynmanlectures.caltech.edu</li>
+<li> 21:00 x.com</li>
+<li> 21:00 www.feynmanlectures.caltech.edu</li>
+<li> 20:57 www.reddit.com</li>
+<li class='same'> 20:56 www.reddit.com</li>
+<li class='same'> 20:51 www.reddit.com</li>
+<li class='same'> 20:50 www.reddit.com</li>
+<li class='same'> 20:49 www.reddit.com</li>
+<li class='same'> 20:48 www.reddit.com</li>
+<li class='same'> 20:47 www.reddit.com</li>
+<li class='same'> 20:45 www.reddit.com</li>
+<li class='same'> 20:43 www.reddit.com</li>
+<li class='same'> 20:42 www.reddit.com</li>
+<li class='same'> 20:41 www.reddit.com</li>
+<li class='same'> 20:39 www.reddit.com</li>
+<li class='same'> 20:38 www.reddit.com</li>
+<li class='same'> 20:37 www.reddit.com</li>
+<li> 20:36 <a href="https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o">Urgent review after two migrant boats land on Kent beaches - BBC News</a></li>
+</ul>
+
+<br>
+
+<ul><li> 19:21 www.reddit.com</li>
+<li class='same'> 19:20 www.reddit.com</li>
+<li class='same'> 19:19 www.reddit.com</li>
+<li> 19:19 mail.google.com</li>
+<li> 19:19 hs-147132234.s.hubspotemail-eu1.net</li>
+<li> 19:19 www.google.com</li>
+<li> 19:19 hs-147132234.s.hubspotemail-eu1.net</li>
+<li> 19:18 mail.google.com</li>
+<li> 19:18 www.linkedin.com</li>
+<li> 19:12 houseprices.anna.ps</li>
+<li> 19:12 anna.ps</li>
+<li> 18:50 www.reddit.com</li>
+<li class='same'> 18:49 www.reddit.com</li>
+<li class='same'> 18:48 www.reddit.com</li>
+<li> 18:48 chatgpt.com</li>
+<li> 18:47 www.reddit.com</li>
+<li class='same'> 18:46 www.reddit.com</li>
+<li class='same'> 18:43 www.reddit.com</li>
+<li class='same'> 18:42 www.reddit.com</li>
+<li> 18:40 mail.google.com</li>
+<li> 18:28 www.thenec.co.uk</li>
+<li class='same'> 18:27 www.thenec.co.uk</li>
+<li> 18:27 www.linkedin.com</li>
+<li class='same'> 18:23 www.linkedin.com</li>
+<li> 18:22 fast.com</li>
+</ul>
 
 <br>
 
@@ -113,6 +193,16 @@ With number of accesses/minutes in parentheses
 <li> 17:09 fast.com</li>
 <li> 17:09 mail.google.com</li>
 <li class='same'> 17:08 mail.google.com</li>
+<li> 17:05 <a href="https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o">Urgent review after two migrant boats land on Kent beaches - BBC News</a></li>
+<li> 17:03 <a href="https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno">Home - BBC News</a></li>
+<li> 17:03 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
+<li> 17:03 <a href="https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo">Home - BBC News</a></li>
+<li> 17:02 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
+</ul>
+
+<br>
+
+<ul><li> 15:38 secure.terrapinn.com</li>
 </ul>
 
 <br>
@@ -160,7 +250,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:15 m.youtube.com</li>
 <li> 08:15 www.google.com</li>
-<li> 08:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 08:12 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -378,7 +468,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:41 <a href="https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o">Home - BBC News</a></li>
-<li> 09:35 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:35 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 09:31 www.reformclub.com</li>
 <li> 09:30 www.reddit.com</li>
 <li class='same'> 09:29 www.reddit.com</li>
@@ -457,11 +547,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 18:50 <a href="https://www.bbc.co.uk/news/articles/cm0e32rwvrryo">Home - BBC News</a></li>
-<li> 18:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:49 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:49 <a href="https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo">BBC removes 11 Mitchell and Webb comedy sketches from iPlayer - BBC News</a></li>
 <li> 18:49 www.google.com</li>
 <li> 18:48 <a href="https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo">BBC removes 11 Mitchell and Webb comedy sketches from iPlayer - BBC News</a></li>
-<li> 18:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:47 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:38 www.reddit.com</li>
 <li class='same'> 18:37 www.reddit.com</li>
 <li class='same'> 18:36 www.reddit.com</li>
@@ -5245,12 +5335,12 @@ With number of accesses/minutes in parentheses
 <li> 12:41 www.thedailymash.co.uk</li>
 <li class='same'> 12:36 www.thedailymash.co.uk</li>
 <li> 12:35 <a href="https://www.bbc.co.uk/news/articles/c07r3183gn3o">Home - BBC News</a></li>
-<li> 12:35 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:35 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 11:56 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li class='same'> 11:56 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 11:53 fast.com</li>
 <li> 11:53 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">User talk:Joereddington - Wikipedia</a></li>
 </ul>
@@ -5469,7 +5559,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 08:31 <a href="https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o">Fifa: Kevin Lamour sacked after criticising president Gianni Infantino - BBC Sport</a></li>
-<li> 08:31 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 08:31 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -5478,7 +5568,7 @@ With number of accesses/minutes in parentheses
 <li> 07:44 <a href="https://www.bbc.co.uk/news/articles/cvgjy03d2n1o">Jason Arday&#x27;s death will send shockwaves through a divided academia - BBC News</a></li>
 <li> 07:41 <a href="https://www.bbc.co.uk/news/articles/cr59jg1ypd3o">Jason Arday&#x27;s family &#x27;still coming to terms&#x27; with his death as supporters attend vigil - BBC News</a></li>
 <li> 07:39 <a href="https://www.bbc.co.uk/news/articles/ceqe87lelvgo">Home - BBC News</a></li>
-<li> 07:39 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:39 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:39 www.google.com</li>
 </ul>
 
@@ -6677,7 +6767,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:06 <a href="https://www.bbc.co.uk/news/articles/c74g1gxvwlvo">Meta told to pay another $567m in New Mexico child safety lawsuit - BBC News</a></li>
 <li> 07:05 <a href="https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo">Further arrests in Thetford as disorder continues for third night - BBC News</a></li>
 <li> 07:03 <a href="https://www.bbc.co.uk/news/articles/c74g1gxvwlvo">Meta told to pay another $567m in New Mexico child safety lawsuit - BBC News</a></li>
-<li> 07:02 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:02 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:58 www.google.com</li>
 <li> 06:57 www.atwevents.co.uk</li>
 <li> 06:49 www.google.com</li>
@@ -7367,7 +7457,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:48 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 10:48 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -8708,11 +8798,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:44 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
 <li> 20:44 <a href="https://joereddington.com/2017/03/19/making-your-priority-list-actually-work/html">Making my priority list actually work. | Joe Reddington</a></li>
-<li> 20:40 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 20:40 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 20:39 <a href="https://www.bbc.co.uk/news/articles/c982857nlrlo">Home - BBC News</a></li>
-<li> 20:39 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 20:39 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 20:39 <a href="https://www.bbc.co.uk/news/articles/ckg7gg2zdexo">Home - BBC News</a></li>
-<li> 20:38 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 20:38 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 20:36 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 20:36 thelanguagenerds.com</li>
 </ul>
@@ -9324,7 +9414,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:48 x.com</li>
 <li> 14:47 www.google.com</li>
-<li> 14:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 14:47 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 14:46 m.youtube.com</li>
 </ul>
 
@@ -9352,15 +9442,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:04 m.youtube.com</li>
 <li> 07:04 www.google.com</li>
 <li class='same'> 06:48 www.google.com</li>
-<li> 06:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:47 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:47 <a href="https://www.bbc.co.uk/news/articles/c9v29w2evv9o">Home - BBC News</a></li>
-<li> 06:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:47 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:46 <a href="https://www.bbc.co.uk/news/videos/c07y357zvl1o">Home - BBC News</a></li>
-<li> 06:46 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:46 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:46 <a href="https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c9w2zgpnrqeo">Home - BBC News</a></li>
-<li> 06:45 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:45 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:45 <a href="https://www.bbc.co.uk/sport/football/live/cgl33l55100t">Home - BBC News</a></li>
-<li> 06:45 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:45 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:44 www.google.com</li>
 </ul>
 
@@ -9373,21 +9463,21 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:32 <a href="https://www.bbc.co.uk/news/england">Home - BBC News</a></li>
-<li> 22:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:32 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:32 <a href="https://www.bbc.co.uk/sport/football/live/cgl33l55100t">Home - BBC News</a></li>
-<li> 22:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:32 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:31 <a href="https://www.bbc.co.uk/sport/football/live/cgl33l55100t">Home - BBC News</a></li>
-<li> 22:31 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:31 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:31 <a href="https://www.bbc.co.uk/sport/football/live/cgl33l55100t">Home - BBC News</a></li>
-<li> 22:31 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:31 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:31 <a href="https://www.bbc.co.uk/sport/football/live/cgl33l55100t">Home - BBC News</a></li>
-<li> 22:31 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:31 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:31 <a href="https://www.bbc.co.uk/sport/football/live/cgl33l55100t">Home - BBC News</a></li>
-<li> 22:31 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:31 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:31 <a href="https://www.bbc.co.uk/sport/football/live/cgl33l55100t">Home - BBC News</a></li>
-<li> 22:31 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:31 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:30 <a href="https://www.bbc.co.uk/sport/football/live/cgl33l55100t">Home - BBC News</a></li>
-<li> 22:30 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:30 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:30 www.google.com</li>
 </ul>
 
@@ -9433,7 +9523,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:24 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 12:24 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -10498,7 +10588,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 05:57 <a href="https://www.bbc.co.uk/weather/articles/cj3gp536xm1o">UK weather: Third heatwave of the year begins but how different will it be? - BBC Weather</a></li>
-<li> 05:56 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 05:56 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <H3>Sunday, 05/07/26</H3>
@@ -12065,7 +12155,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:34 calendar.google.com</li>
 <li> 07:34 mail.google.com</li>
-<li> 07:34 www.google.com</li>
 <li> 07:34 petition.parliament.uk</li>
 <li> 07:34 mail.google.com</li>
 <li> 07:31 www.facebook.com</li>
@@ -12074,7 +12163,6 @@ With number of accesses/minutes in parentheses
 <li> 07:28 gmail.com</li>
 <li> 07:28 petition.parliament.uk</li>
 <li class='same'> 07:27 petition.parliament.uk</li>
-<li> 07:27 l.facebook.com</li>
 <li> 07:25 www.facebook.com</li>
 <li> 07:25 facebook.com</li>
 <li> 07:16 www.facebook.com</li>
@@ -12099,7 +12187,6 @@ With number of accesses/minutes in parentheses
 <li> 06:26 ukstemconference.com</li>
 <li> 06:24 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
 <li> 06:24 <a href="https://en.wikipedia.org/wiki/Security_bug">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 06:24 <a href="https://en.wikipedia.org/w/index.php?title=Security%20bug"></a></li>
 <li> 06:24 wp1.openzim.org</li>
 <li> 06:23 <a href="https://en.wikipedia.org/wiki/Software_security_assurance">Software security assurance - Wikipedia</a></li>
 <li> 06:23 <a href="https://en.wikipedia.org/wiki/Talk:Threat_actor/GA1">Talk:Threat actor/GA1 - Wikipedia</a></li>
@@ -12774,9 +12861,9 @@ With number of accesses/minutes in parentheses
 <li> 07:00 <a href="https://www.bbc.co.uk/sport/football/scores-fixtures/2026-06-20">Scores &amp; Fixtures - Football - BBC Sport</a></li>
 <li> 07:00 <a href="https://www.bbc.co.uk/sport/football/scores-fixtures/2026-06-19">Scores &amp; Fixtures - Football - BBC Sport</a></li>
 <li> 07:00 <a href="https://www.bbc.co.uk/sport/football/scores-fixtures">Home - BBC News</a></li>
-<li> 06:59 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:59 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:59 <a href="https://www.bbc.co.uk/news/articles/cr7xzg93ddxo">Home - BBC News</a></li>
-<li> 06:58 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:58 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:39 web.archive.org</li>
 <li> 06:39 www.google.com</li>
 </ul>
@@ -15339,7 +15426,7 @@ With number of accesses/minutes in parentheses
 <li> 18:19 <a href="https://en.wikipedia.org/"></a></li>
 <li> 17:54 fast.com</li>
 <li> 17:53 www.speedtest.net</li>
-<li> 17:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:49 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 17:45 <a href="https://joereddington.com/2026/05/14/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 17:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -15478,7 +15565,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:35 www.thecompleteuniversityguide.co.uk</li>
 <li class='same'> 10:33 www.thecompleteuniversityguide.co.uk</li>
 <li class='same'> 10:32 www.thecompleteuniversityguide.co.uk</li>
-<li> 10:31 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:31 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 10:23 chatgpt.com</li>
 <li> 10:21 blog.rsisecurity.com</li>
 <li> 10:21 duckduckgo.com</li>
@@ -15503,7 +15590,7 @@ With number of accesses/minutes in parentheses
 <li> 09:16 forms.office.com</li>
 <li> 09:02 www.facebook.com</li>
 <li> 09:02 <a href="https://www.bbc.co.uk/news/articles/c7752znyle6o">Home - BBC News</a></li>
-<li> 09:01 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:01 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 09:01 www.facebook.com</li>
 </ul>
 
@@ -19045,9 +19132,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 16:12 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:12 <a href="https://www.bbc.co.uk/sport/tennis/articles/c3e24xw8p2no">Home - BBC News</a></li>
-<li> 16:11 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:11 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:11 octopusev.com</li>
 <li class='same'> 16:10 octopusev.com</li>
 <li class='same'> 16:09 octopusev.com</li>
@@ -19694,10 +19781,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 23:19 tvtropes.org</li>
 <li> 23:17 <a href="https://www.bbc.co.uk/news/articles/cx219xwxg9no">Home - BBC News</a></li>
-<li> 23:17 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 23:17 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 23:02 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 22:57 www.google.com</li>
-<li> 22:56 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:56 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 22:56 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 22:56 www.google.com</li>
 <li> 22:56 tvtropes.org</li>
@@ -19714,11 +19801,11 @@ With number of accesses/minutes in parentheses
 <li> 18:52 www.google.com</li>
 <li> 18:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:32 <a href="https://www.bbc.co.uk/news/articles/ce9p0kkeer8o">Home - BBC News</a></li>
-<li> 18:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:32 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:31 <a href="https://www.bbc.co.uk/news/articles/cd7pyrj0vx7o">Home - BBC News</a></li>
-<li> 18:31 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:31 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:30 <a href="https://www.bbc.co.uk/news/articles/c052e26mq7vo">Home - BBC News</a></li>
-<li> 18:29 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:29 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:29 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:28 <a href="https://www.bbc.co.uk/weather/articles/cvgzn11v421o">BBC - Home</a></li>
 <li> 18:27 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
@@ -20316,14 +20403,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:20 <a href="https://www.bbc.co.uk/news/articles/ce3p93j3823o">Home - BBC News</a></li>
-<li> 08:20 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 08:20 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 08:20 <a href="https://www.bbc.co.uk/news/articles/cn9py15w5yxo">Chris Mason: PM hangs on by a thread as party revolts - BBC News</a></li>
 </ul>
 
 <br>
 
 <ul><li class='same'> 06:29 <a href="https://www.bbc.co.uk/news/articles/cn9py15w5yxo">Chris Mason: PM hangs on by a thread as party revolts - BBC News</a></li>
-<li> 06:28 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:28 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <H3>Monday, 11/05/26</H3>
@@ -20606,7 +20693,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:18 <a href="https://www.bbc.co.uk/news/live/c1428pev1n0t">Home - BBC News</a></li>
-<li> 17:18 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:18 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 17:16 <a href="https://www.theguardian.com/business/2026/may/09/worried-britons-prepping-for-major-disruption-with-stash-of-tins-and-cash-survey-shows">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:15 www.mediawiki.org</li>
 <li class='same'> 17:14 www.mediawiki.org</li>
@@ -20637,14 +20724,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:11 <a href="https://www.bbc.co.uk/news/articles/cpdpepzvx72o">Aylesbury gym used by Olympians asks for help after fire - BBC News</a></li>
-<li> 17:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:10 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 17:10 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&amp;action=history">Tulip Siddiq: Revision history - Wikipedia</a></li>
 <li> 17:10 <a href="https://en.wikipedia.org/wiki/Tulip_Siddiq">Tulip Siddiq - Wikipedia</a></li>
 <li> 17:10 duckduckgo.com</li>
 <li> 17:09 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&amp;action=edit">Editing Tulip Siddiq - Wikipedia</a></li>
 <li> 17:09 <a href="https://en.wikipedia.org/wiki/Tulip_Siddiq">Tulip Siddiq - Wikipedia</a></li>
 <li> 17:08 <a href="https://www.bbc.co.uk/news/articles/c0ljrp76ywxo">What early election results show us in maps and charts - BBC News</a></li>
-<li> 17:07 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:07 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 17:07 session.bbc.co.uk</li>
 <li> 17:07 www.reddit.com</li>
 <li class='same'> 17:04 www.reddit.com</li>
@@ -20778,19 +20865,19 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 06:33 www.thedailymash.co.uk</li>
-<li> 06:28 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:28 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:26 <a href="https://www.bbc.co.uk/news/live/c1428pev1n0t">Home - BBC News</a></li>
-<li> 06:25 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:25 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:25 <a href="https://www.bbc.co.uk/news/articles/clypnwd98peo">Home - BBC News</a></li>
-<li> 06:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:13 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:13 <a href="https://www.bbc.co.uk/news/videos/c9wep78epz8o">Home - BBC News</a></li>
-<li> 06:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:13 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:13 <a href="https://www.bbc.co.uk/news/articles/c2421d3r736o">Home - BBC News</a></li>
-<li> 06:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:12 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:12 <a href="https://www.bbc.co.uk/news/articles/clypzxl3lvqo">Home - BBC News</a></li>
-<li> 06:11 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:11 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:10 <a href="https://www.bbc.co.uk/news/articles/cvgz155y9exo">Home - BBC News</a></li>
-<li> 06:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:10 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <H3>Thursday, 07/05/26</H3>
@@ -20803,9 +20890,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:52 <a href="https://www.bbc.co.uk/news/videos/c98ryz2v63jo">Watch: Drone delivers first Amazon parcels in UK - BBC News</a></li>
 <li> 13:51 <a href="https://www.bbc.co.uk/news/videos/c0l21992z75o">Home - BBC News</a></li>
-<li> 13:51 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 13:51 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 13:48 <a href="https://www.bbc.co.uk/news/articles/cnvpzgn26edo">Home - BBC News</a></li>
-<li> 13:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 13:47 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 13:46 www.thedailymash.co.uk</li>
 <li> 13:45 www.trustedreviews.com</li>
 <li> 13:45 www.google.com</li>
@@ -20943,7 +21030,7 @@ With number of accesses/minutes in parentheses
 <li> 10:04 www.google.com</li>
 <li> 10:03 <a href="https://www.bbc.co.uk/news/articles/cy82p2x86qzo">Apple to pay $250m to iPhone buyers over AI features lawsuit - BBC News</a></li>
 <li> 10:02 <a href="https://www.bbc.co.uk/news/articles/c0j2nydnzy7o">Home - BBC News</a></li>
-<li> 10:02 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:02 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 10:02 <a href="https://www.bbc.co.uk/news/articles/c759z9w7z3yo">Campaigning sprint finish ahead of elections around Britain - BBC News</a></li>
 <li> 09:50 www.amazon.co.uk</li>
 <li> 09:49 www.linkedin.com</li>
@@ -20969,7 +21056,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:00 <a href="https://www.bbc.co.uk/news/articles/c759z9w7z3yo">Campaigning sprint finish ahead of elections around Britain - BBC News</a></li>
-<li> 09:00 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:00 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <H3>Tuesday, 05/05/26</H3>
@@ -21287,7 +21374,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:03 librarysearch.royalholloway.ac.uk</li>
 <li> 08:02 www.google.com</li>
 <li> 07:50 web.whatsapp.com</li>
-<li> 07:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:49 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:46 www.amazon.co.uk</li>
 <li class='same'> 07:45 www.amazon.co.uk</li>
 <li> 07:45 amazon.co.uk</li>
@@ -21311,16 +21398,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:59 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 18:59 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:58 <a href="https://www.bbc.co.uk/news/articles/cgepyv20vrpo">Home - BBC News</a></li>
-<li> 18:57 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:57 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:56 www.natesilver.net</li>
 <li> 18:56 www.google.com</li>
 <li class='same'> 18:55 www.google.com</li>
 <li> 18:55 x.com</li>
 <li> 18:54 www.google.com</li>
 <li> 18:53 www.natesilver.net</li>
-<li> 18:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:49 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:48 www.parkrun.org.uk</li>
 </ul>
 
@@ -21763,9 +21850,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:55 www.reddit.com</li>
 <li class='same'> 13:54 www.reddit.com</li>
-<li> 13:54 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 13:54 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 13:53 <a href="https://www.bbc.co.uk/news/articles/cp8pnwyy0zjo">University of Sussex wins landmark free speech case against universities regulator - BBC News</a></li>
-<li> 13:53 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 13:53 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 13:53 session.bbc.co.uk</li>
 <li> 13:53 www.giantitp.com</li>
 </ul>
@@ -24143,7 +24230,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:13 www.natesilver.net</li>
 <li> 19:13 www.google.com</li>
 <li> 19:11 <a href="https://www.bbc.co.uk/news/articles/cm2k1dgz142o">Home - BBC News</a></li>
-<li> 19:11 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:11 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:43 <a href="https://www.theguardian.com/uk-news/2026/apr/04/uk-weather-storm-dave-travel-easter-england-scotland-wales">Latest news, sport and opinion from the Guardian</a></li>
 <li> 18:43 <a href="https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world">‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world | Photography | The Guardian</a></li>
 </ul>
@@ -24174,7 +24261,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 10:04 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 10:04 <a href="https://www.bbc.co.uk/news/articles/cp3lnld4lpzo">BBC - Home</a></li>
 <li> 10:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 10:04 <a href="https://www.bbc.co.uk/news/articles/cp3lnld4lpzo">BBC - Home</a></li>
@@ -24195,7 +24282,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:46 <a href="https://www.bbc.co.uk/news/articles/crr1q4kjvn2o">Trump seeks massive $1.5tn for defence alongside cuts in domestic spending - BBC News</a></li>
-<li> 07:46 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:46 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:45 www.reddit.com</li>
 <li class='same'> 07:44 www.reddit.com</li>
 <li class='same'> 07:41 www.reddit.com</li>
@@ -24267,7 +24354,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:46 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 12:46 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -24497,9 +24584,9 @@ With number of accesses/minutes in parentheses
 <li> 18:26 newsthump.com</li>
 <li> 18:25 www.natesilver.net</li>
 <li> 18:24 www.google.com</li>
-<li> 18:24 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:24 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:23 <a href="https://www.bbc.co.uk/news/articles/cm25yv7z3jko">Home - BBC News</a></li>
-<li> 18:23 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:23 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:03 <a href="https://www.theguardian.com/us-news/2026/apr/01/ex-alex-jones-employee-on-infowars-job">Ex-Alex Jones employee reflects on job at Infowars: ‘It was nonsense. It was lies’ | Far right (US) | The Guardian</a></li>
 <li class='same'> 17:55 <a href="https://www.theguardian.com/us-news/2026/apr/01/ex-alex-jones-employee-on-infowars-job">Ex-Alex Jones employee reflects on job at Infowars: ‘It was nonsense. It was lies’ | Far right (US) | The Guardian</a></li>
 <li> 17:36 uk.gomotionapp.com</li>
@@ -24642,7 +24729,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:32 <a href="https://www.bbc.co.uk/news/articles/cz0e1myvl2ko">Home - BBC News</a></li>
-<li> 07:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:32 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -24768,9 +24855,9 @@ With number of accesses/minutes in parentheses
 <li> 19:26 www.wethecurious.org</li>
 <li class='same'> 19:19 www.wethecurious.org</li>
 <li> 19:19 <a href="https://www.bbc.co.uk/news/articles/cy81eryy125o">Home - BBC News</a></li>
-<li> 19:19 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:19 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 19:18 <a href="https://www.bbc.co.uk/news/articles/cy41v77qd4xo">Home - BBC News</a></li>
-<li> 19:17 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:17 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -25064,7 +25151,7 @@ With number of accesses/minutes in parentheses
 <li> 10:18 www.coursera.org</li>
 <li class='same'> 10:16 www.coursera.org</li>
 <li> 10:15 <a href="https://www.bbc.co.uk/news/articles/cn4vmw27x13o">Goring-by-Sea benefit cheat Catherine Wieland caught ziplining in Mexico - BBC News</a></li>
-<li> 10:15 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:15 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 10:15 www.coursera.org</li>
 <li> 10:12 chatgpt.com</li>
 <li> 10:07 docs.google.com</li>
@@ -25098,12 +25185,12 @@ With number of accesses/minutes in parentheses
 <li> 09:18 chat.openai.com</li>
 <li> 09:15 herts.instructure.com</li>
 <li> 08:58 calendar.google.com</li>
-<li> 08:57 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 08:57 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 08:26 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li class='same'> 08:26 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -26308,7 +26395,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:10 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 15:08 <a href="https://www.bbc.co.uk/news/articles/c624330lg1ko">Home - BBC News</a></li>
-<li> 15:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:08 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:08 www.thingiverse.com</li>
 <li> 14:42 www.reddit.com</li>
 <li class='same'> 14:40 www.reddit.com</li>
@@ -27257,7 +27344,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 18:47 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -27270,7 +27357,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 15:36 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -27615,12 +27702,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:04 <a href="https://www.theguardian.com/education/2026/mar/13/teachers-mental-heath-parents-behaviour-education">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:03 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li class='same'> 07:48 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 08:03 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
+<li class='same'> 07:48 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:47 <a href="https://www.bbc.co.uk/news/articles/c4g7kwq1k11o">Home - BBC News</a></li>
-<li> 07:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:47 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:46 <a href="https://www.bbc.co.uk/sport/tennis/articles/cz9qzkynvjlo">Home - BBC News</a></li>
-<li> 07:46 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:46 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:43 www.reddit.com</li>
 <li class='same'> 07:34 www.reddit.com</li>
 <li class='same'> 07:33 www.reddit.com</li>
@@ -27708,9 +27795,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:20 chatgpt.com</li>
 <li> 15:20 chat.openai.com</li>
 <li> 15:15 <a href="https://www.bbc.co.uk/news/articles/cglgnx26kwgo">Where did Teesside fridge-carrying fundraiser&#x27;s donations go? - BBC News</a></li>
-<li> 15:15 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:15 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:14 <a href="https://www.bbc.co.uk/news/articles/c743g4yn4k8o">Home - BBC News</a></li>
-<li> 15:14 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:14 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:14 firstparking.ec6pay.com</li>
 </ul>
 
@@ -27935,9 +28022,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:05 <a href="https://www.theguardian.com/sport/ng-interactive/2026/mar/05/winter-paralympics-2026-latest-medal-table-for-milano-cortina">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:02 <a href="https://www.theguardian.com/commentisfree/2026/mar/11/us-israel-iran-plan-b-strategy-dahiya-doctrine">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:59 <a href="https://www.theguardian.com/commentisfree/2026/mar/11/manosphere-influencers-louis-theroux-documentary">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:52 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:52 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:52 <a href="https://www.bbc.co.uk/sport/articles/c9wn01jd12wo">Home - BBC News</a></li>
-<li> 16:50 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:50 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:50 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 16:50 www.google.com</li>
 </ul>
@@ -28508,9 +28595,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:51 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 05:51 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 05:46 <a href="https://www.bbc.co.uk/news/articles/cn4ggqgyk51o">Home - BBC News</a></li>
-<li> 05:45 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 05:45 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 05:45 <a href="https://www.bbc.co.uk/news.">BBC - 404: Not Found</a></li>
 <li> 05:44 www.reddit.com</li>
 </ul>
@@ -28574,9 +28661,9 @@ With number of accesses/minutes in parentheses
 <li> 16:43 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 16:43 <a href="https://en.wikipedia.org/"></a></li>
 <li> 16:36 <a href="https://www.theguardian.com/us-news/2026/mar/06/justice-department-epstein-files-trump-allegations">DoJ releases Epstein files containing uncorroborated abuse allegations against Trump | Jeffrey Epstein | The Guardian</a></li>
-<li> 16:35 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:35 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:34 <a href="https://www.bbc.co.uk/news/articles/ce8wjg507yro">Home - BBC News</a></li>
-<li> 16:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:32 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:28 www.reddit.com</li>
 <li class='same'> 16:27 www.reddit.com</li>
 <li class='same'> 16:26 www.reddit.com</li>
@@ -28785,7 +28872,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:56 moodle.royalholloway.ac.uk</li>
 <li> 12:56 fast.com</li>
 <li> 12:53 <a href="https://www.bbc.co.uk/news/articles/cdxzzqe82d2o">How depleted weapons stockpiles could affect the Iran conflict - BBC News</a></li>
-<li> 12:52 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:52 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 12:52 session.bbc.co.uk</li>
 <li> 12:51 chatgpt.com</li>
 <li> 12:51 chat.openai.com</li>
@@ -29660,7 +29747,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:27 www.reddit.com</li>
 <li> 07:20 duckduckgo.com</li>
 <li> 06:59 <a href="https://www.bbc.co.uk/news/articles/cq570d12y9do">Jack Dorsey&#x27;s Block cuts thousands of roles as it embraces AI - BBC News</a></li>
-<li> 06:58 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:58 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:58 www.google.com</li>
 <li class='same'> 06:57 www.google.com</li>
 <li class='same'> 06:56 www.google.com</li>
@@ -29869,9 +29956,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 21:04 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:03 <a href="https://www.bbc.co.uk/news/articles/c39w187jkj1o">Home - BBC News</a></li>
-<li> 21:03 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:03 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:02 web.archive.org</li>
 </ul>
 
@@ -30155,7 +30242,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:12 <a href="https://www.theguardian.com/fashion/2026/feb/22/when-fan-tattoos-go-wrong-pokemon-morrissey-marilyn-manson">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:05 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 08:05 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:57 moodle.royalholloway.ac.uk</li>
 <li class='same'> 07:56 moodle.royalholloway.ac.uk</li>
 <li class='same'> 07:55 moodle.royalholloway.ac.uk</li>
@@ -30187,9 +30274,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:23 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 21:23 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:21 <a href="https://www.bbc.co.uk/news/articles/cp859d8rn78o">Home - BBC News</a></li>
-<li> 21:21 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:21 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -30317,7 +30404,7 @@ With number of accesses/minutes in parentheses
 <li> 12:22 <a href="https://www.youtube.com/">YouTube</a></li>
 <li> 12:19 www.reddit.com</li>
 <li> 12:18 <a href="https://www.bbc.co.uk/news/articles/ce3gqr7p0lqo">Home - BBC News</a></li>
-<li> 12:17 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:17 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 12:13 <a href="https://www.theguardian.com/politics/live/2026/feb/24/peter-mandelson-ex-prince-andrew-labour-keir-starmer-uk-politics-latest-news-updates">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:06 www.ebay.co.uk</li>
 <li class='same'> 12:05 www.ebay.co.uk</li>
@@ -30424,9 +30511,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 15:04 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:03 <a href="https://www.bbc.co.uk/news/articles/c0mglnzprdyo">Home - BBC News</a></li>
-<li> 15:03 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:03 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -30442,7 +30529,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:39 <a href="https://www.bbc.co.uk/news/articles/c4gj20xzw39o">Four years into its full-scale war in Ukraine, Russia is feeling the effects - BBC News</a></li>
-<li> 11:39 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:39 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 11:35 duckduckgo.com</li>
 <li> 11:35 boardgamegeek.com</li>
 <li> 11:35 duckduckgo.com</li>
@@ -30506,7 +30593,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 05:50 oyc.yale.edu</li>
 <li class='same'> 05:49 oyc.yale.edu</li>
 <li> 05:37 <a href="https://www.bbc.co.uk/news/articles/crk8687yeyzo">Home - BBC News</a></li>
-<li> 05:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 05:36 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <H3>Sunday, 22/02/26</H3>
@@ -30582,9 +30669,9 @@ With number of accesses/minutes in parentheses
 <li> 12:45 <a href="https://www.theguardian.com/politics/2026/feb/22/naz-shah-labour-mp-interview-mother-arrest-murder">Greenland does not need US hospital boat sent by Trump, says Denmark | Greenland | The Guardian</a></li>
 <li> 12:43 <a href="https://www.theguardian.com/world/2026/feb/22/greenland-does-not-need-us-hospital-boat-sent-by-trump-says-denmark">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:39 <a href="https://www.bbc.co.uk/news/articles/cx28g4gd7n0o">Home - BBC News</a></li>
-<li> 12:39 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:39 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 12:38 <a href="https://www.bbc.co.uk/news/articles/ckg2xn6k2kyo">Home - BBC News</a></li>
-<li> 12:33 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:33 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 12:33 www.thenec.co.uk</li>
 <li> 12:11 web.whatsapp.com</li>
 <li> 12:07 www.dotlinux.net</li>
@@ -30709,7 +30796,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:27 www.google.com</li>
 <li> 14:27 <a href="https://www.bbc.co.uk/news/articles/c5y6k450247o">Home - BBC News</a></li>
-<li> 14:26 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 14:26 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 14:09 www.google.com</li>
 </ul>
 
@@ -30728,7 +30815,7 @@ With number of accesses/minutes in parentheses
 <li> 12:33 www.reddit.com</li>
 <li> 12:33 www.google.com</li>
 <li> 12:26 <a href="https://www.bbc.co.uk/news/articles/c4g0ke64v3no">Home - BBC News</a></li>
-<li> 12:25 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:25 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 12:25 <a href="https://www.bbc.co.uk/news/articles/ce948d9gxevo">&#x27;That&#x27;s me!&#x27;: Hundreds tell BBC that medication triggered gambling and other addictions - BBC News</a></li>
 </ul>
 
@@ -30737,7 +30824,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 10:38 <a href="https://www.bbc.co.uk/news/articles/ce948d9gxevo">&#x27;That&#x27;s me!&#x27;: Hundreds tell BBC that medication triggered gambling and other addictions - BBC News</a></li>
 <li> 10:38 <a href="https://www.bbc.co.uk/search?q=Gambling&amp;d=NEWS_PS">BBC - Search</a></li>
 <li> 10:38 <a href="https://www.bbc.co.uk/search?d=NEWS_PS">Scotland Business | Latest News &amp; Updates | BBC News</a></li>
-<li> 10:37 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:37 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 10:37 www.google.com</li>
 </ul>
 
@@ -30903,7 +30990,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:21 www.reddit.com</li>
 <li> 07:20 reductress.com</li>
 <li> 07:19 <a href="https://www.bbc.co.uk/sport/articles/c0q3nejy1pjo">Home - BBC News</a></li>
-<li> 07:15 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:15 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:58 www.google.com</li>
 <li> 06:48 www.reddit.com</li>
 <li class='same'> 06:47 www.reddit.com</li>
@@ -31549,7 +31636,7 @@ With number of accesses/minutes in parentheses
 <li> 21:11 amazon.co.uk</li>
 <li> 21:10 fritz.box</li>
 <li> 21:06 <a href="https://www.bbc.co.uk/sport/articles/clyzgpw725qo">Winter Olympics 2026: GB women spring shock to beat world champions Canada - BBC Sport</a></li>
-<li> 21:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:06 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:05 www.google.com</li>
 <li class='same'> 20:52 www.google.com</li>
 <li> 20:52 www.reddit.com</li>
@@ -31699,11 +31786,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:50 <a href="https://www.bbc.co.uk/news/articles/c3wlpn9gw2yo">Wuthering Heights: Why Margot Robbie and Jacob Elordi&#x27;s &#x27;mutual obsession&#x27; is giving some fans the ick - BBC News</a></li>
-<li> 11:50 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:50 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 11:47 <a href="https://www.bbc.co.uk/news/articles/czr07r0vengo">Home - BBC News</a></li>
-<li> 11:47 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:47 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 11:47 <a href="https://www.bbc.co.uk/news/articles/cly8j19rql7o">Home - BBC News</a></li>
-<li> 11:46 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:46 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 11:29 moodle.royalholloway.ac.uk</li>
 <li> 11:29 login.microsoftonline.com</li>
 <li> 11:29 moodle.royalholloway.ac.uk</li>
@@ -31717,7 +31804,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:47 www.politico.eu</li>
-<li> 09:37 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:37 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -32445,7 +32532,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:34 www.politico.com</li>
 <li> 06:32 www.foxnews.com</li>
 <li> 06:29 <a href="https://www.bbc.co.uk/news/articles/cy03g54946ko">Home - BBC News</a></li>
-<li> 06:28 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:28 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:28 <a href="https://www.bbc.co.uk/news/articles/cp37lryxq4eo">Mahmood unveils plans to reform &#x27;broken&#x27; policing in England and Wales - BBC News</a></li>
 <li> 06:28 www.google.com</li>
 <li> 06:28 <a href="https://www.theguardian.com/commentisfree/2026/feb/10/keir-starmer-wes-streeting-rayner-sarwar-political-drama-labour">Epstein engineered intimate relationship for Tesla’s Kimbal Musk, emails show | Jeffrey Epstein | The Guardian</a></li>
@@ -33423,9 +33510,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:52 <a href="https://www.bbc.co.uk/news/articles/czjg8mlxnvwo">University begins High Court challenge against £585k free speech fine - BBC News</a></li>
-<li> 21:51 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:51 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:50 <a href="https://www.bbc.co.uk/news/articles/cn0k65pnxjxo">Home - BBC News</a></li>
-<li> 21:50 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:50 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:48 <a href="https://www.theguardian.com/politics/2026/feb/03/epstein-mandelson-devious-lobbied-bank-mining-project">Latest news, sport and opinion from the Guardian</a></li>
 <li> 21:42 <a href="https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes">Latest news, sport and opinion from the Guardian</a></li>
 <li> 21:39 <a href="https://www.theguardian.com/education/2026/feb/03/university-of-sussex-high-court-office-for-students-ofs-ruling">Latest news, sport and opinion from the Guardian</a></li>
@@ -34228,9 +34315,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 03:30 theonion.com</li>
 <li> 03:30 www.google.com</li>
 <li> 03:03 squallyshowers.wordpress.com</li>
-<li> 02:59 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 02:59 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 02:58 <a href="https://www.bbc.co.uk/news/articles/c24gyz3j6e1o">Home - BBC News</a></li>
-<li> 02:57 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 02:57 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 02:57 <a href="https://www.bbc.co.uk/news/articles/c0eryxnqyyvo">BBC - Home</a></li>
 <li> 02:56 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 02:55 <a href="https://www.bbc.co.uk/programmes/articles/1QH6tQXdkHtTJ9CRV4cdvsv/eight-things-we-learned-from-kemi-badenoch-s-desert-island-discs">BBC - Home</a></li>
@@ -34238,7 +34325,7 @@ With number of accesses/minutes in parentheses
 <li> 02:53 <a href="https://www.bbc.co.uk/news/articles/cp87l604nx8o">BBC - Home</a></li>
 <li> 02:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 02:51 <a href="https://www.bbc.co.uk/news/articles/c0eryxnqyyvo">BBC - Home</a></li>
-<li> 02:51 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 02:51 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 02:39 www.nytimes.com</li>
 <li> 02:38 web.archive.org</li>
 <li> 02:35 www.google.com</li>
@@ -34433,7 +34520,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 06:16 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:12 <a href="https://www.bbc.co.uk/sport/football/articles/cy0520ey7jjo">BBC - Home</a></li>
 <li> 06:11 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
-<li> 06:09 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:09 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:08 www.google.com</li>
 </ul>
 
@@ -34461,10 +34548,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:01 <a href="https://www.bbc.co.uk/news/articles/cdjnpvl201yo">Home - BBC News</a></li>
-<li> 19:00 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:00 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 19:00 <a href="https://www.bbc.co.uk/news/videos/clygp96zm7go">Home - BBC News</a></li>
 <li> 18:39 chatgpt.com</li>
-<li> 18:39 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:39 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:39 chatgpt.com</li>
 <li> 18:39 chat.openai.com</li>
 </ul>
@@ -34480,13 +34567,13 @@ With number of accesses/minutes in parentheses
 <li> 17:01 login.microsoftonline.com</li>
 <li> 17:00 forms.office.com</li>
 <li> 17:00 eur03.safelinks.protection.outlook.com</li>
-<li> 16:57 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:57 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:54 <a href="https://www.bbc.co.uk/news/articles/cd6wpdpylj1o">Home - BBC News</a></li>
-<li> 16:54 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:54 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:53 <a href="https://www.bbc.co.uk/news/articles/c7v0948vm9go">Home - BBC News</a></li>
-<li> 16:53 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:53 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:51 <a href="https://www.bbc.co.uk/news/articles/c3dm27359xxo">Home - BBC News</a></li>
-<li> 16:51 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:51 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:51 reductress.com</li>
 <li> 16:42 www.bigmarker.com</li>
 <li> 16:41 safeguardingdigital.co.uk</li>
@@ -34714,7 +34801,7 @@ With number of accesses/minutes in parentheses
 <li> 17:56 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:41 <a href="https://www.bbc.co.uk/news/articles/c75x9wqwz40o">India-EU trade deal under the looming shadow of Donald Trump - BBC News</a></li>
 <li> 17:39 www.parkrun.org.uk</li>
-<li> 17:39 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:39 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 17:28 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li class='same'> 17:23 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:23 eis-prod.ec.royalholloway.ac.uk</li>
@@ -34849,12 +34936,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:12 <a href="https://www.bbc.co.uk/news/articles/ce3e53e34klo">Fifty Labour MPs sign letter objecting to Andy Burnham decision - BBC News</a></li>
-<li> 06:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:12 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:09 <a href="https://www.bbc.co.uk/news/articles/c8d0l0g8yz5o">Landmark social media trial to begin over addiction claims - BBC News</a></li>
 <li> 06:09 <a href="https://www.bbc.co.uk/news/articles/c24g8v6qr1mo">Home - BBC News</a></li>
-<li> 06:09 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:09 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:08 <a href="https://www.bbc.co.uk/news/articles/cew87q890pyo">Home - BBC News</a></li>
-<li> 06:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:08 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <H3>Monday, 26/01/26</H3>
@@ -34867,7 +34954,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:27 www.tesco.com</li>
 <li> 20:58 <a href="https://www.bbc.co.uk/news/articles/cp37lryxq4eo">Mahmood unveils plans to reform &#x27;broken&#x27; policing in England and Wales - BBC News</a></li>
-<li> 20:57 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 20:57 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 20:57 <a href="https://www.bbc.co.uk/news/articles/c338plx3pdlo">Steve Pemberton gives Weakest Link prize to Chorley hospice - BBC News</a></li>
 <li> 20:56 www.foxnews.com</li>
 </ul>
@@ -34875,7 +34962,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:12 www.google.com</li>
-<li> 19:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:12 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -34931,7 +35018,7 @@ With number of accesses/minutes in parentheses
 <li> 16:40 ico.org.uk</li>
 <li class='same'> 16:39 ico.org.uk</li>
 <li> 16:39 <a href="https://www.bbc.co.uk/news/articles/clye99wg0y8o">EU investigates Elon Musk&#x27;s X over Grok AI sexual deepfakes - BBC News</a></li>
-<li> 16:39 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:39 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:39 session.bbc.co.uk</li>
 <li> 16:39 outlook.office365.com</li>
 <li> 16:39 mail.rhul.ac.uk</li>
@@ -34985,7 +35072,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:19 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 20:19 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -35028,7 +35115,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:58 <a href="https://www.bbc.co.uk/news/articles/c79rxy9npj4o">Andy Burnham&#x27;s bid to return as MP blocked by Labour ruling body - BBC News</a></li>
 <li> 14:56 <a href="https://www.bbc.co.uk/news/articles/czr4e7ep468o">Home - BBC News</a></li>
-<li> 14:56 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 14:56 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 14:56 www.parkrun.org.uk</li>
 </ul>
 
@@ -35117,7 +35204,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:06 <a href="https://www.theguardian.com/sport/2026/jan/24/alex-honnold-free-solo-taipei-101-netflix">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:06 www.google.com</li>
 <li> 06:38 <a href="https://www.bbc.co.uk/news/articles/cj6wy85l3x5o">Five ways weight-loss jabs are changing spending habits - BBC News</a></li>
-<li> 06:38 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:38 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:38 theguardian.com</li>
 <li> 06:38 www.amazon.co.uk</li>
 </ul>
@@ -35338,7 +35425,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:25 www.reddit.com</li>
 <li class='same'> 19:24 www.reddit.com</li>
 <li> 19:24 www.google.com</li>
-<li> 19:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:08 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:57 teams.microsoft.com</li>
 <li> 18:57 docs.google.com</li>
 <li> 18:53 jobs.royalholloway.ac.uk</li>
@@ -35394,7 +35481,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:05 <a href="https://www.bbc.co.uk/news/articles/cvg553rk7zvo">Home - BBC News</a></li>
-<li> 08:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 08:04 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 08:01 biid.org.uk</li>
 <li> 08:01 www.google.com</li>
 <li> 08:00 www.thenec.co.uk</li>
@@ -35428,7 +35515,7 @@ With number of accesses/minutes in parentheses
 <li> 16:54 www.google.com</li>
 <li> 16:53 <a href="https://www.bbc.co.uk/news/articles/ckgyyqkn0yvo">Oscar nominations 2026: Vampire film Sinners breaks record - BBC News</a></li>
 <li> 16:53 <a href="https://www.bbc.co.uk/news/articles/cz0ppdjmjy9o">Home - BBC News</a></li>
-<li> 16:52 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:52 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:52 www.tesco.com</li>
 <li> 16:47 forms.office.com</li>
 <li class='same'> 16:45 forms.office.com</li>
@@ -35676,7 +35763,7 @@ With number of accesses/minutes in parentheses
 <li> 07:41 www.google.com</li>
 <li> 07:40 <a href="https://www.bbc.co.uk/news/articles/cx2yd455rd0o">Lords back UK social media ban for under-16s - BBC News</a></li>
 <li> 07:39 <a href="https://www.bbc.co.uk/news/articles/cz0pnekxpn8o">Home - BBC News</a></li>
-<li> 07:38 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:38 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:38 <a href="https://www.bbc.co.uk/news/articles/cx2lej7d52po">Lyse Doucet: Trump is shaking the world order more than any president since WW2 - BBC News</a></li>
 <li> 07:28 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 07:27 scholar.google.co.uk</li>
@@ -35767,14 +35854,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:33 <a href="https://www.bbc.co.uk/news/articles/cx2lej7d52po">Lyse Doucet: Trump is shaking the world order more than any president since WW2 - BBC News</a></li>
-<li> 15:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:32 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:30 <a href="https://www.bbc.co.uk/news/articles/cwy1l9pgjv7o">Home - BBC News</a></li>
-<li> 15:18 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:18 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:14 outlook.office365.com</li>
 <li class='same'> 15:13 outlook.office365.com</li>
 <li class='same'> 15:11 outlook.office365.com</li>
 <li> 15:11 mail.rhul.ac.uk</li>
-<li> 15:03 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:03 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:02 theguardian.com</li>
 <li> 14:55 chatgpt.com</li>
 <li> 14:47 dashboards.rhul.ac.uk</li>
@@ -35924,7 +36011,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:22 <a href="https://www.bbc.co.uk/news/articles/cz7ynwzn8pqo">Home - BBC News</a></li>
-<li> 21:21 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:21 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:21 www.google.com</li>
 </ul>
 
@@ -36068,10 +36155,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 23:54 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 23:54 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 23:51 <a href="https://www.theguardian.com/film/2026/jan/19/matt-damon-netflix-plot-explained-phones">Latest news, sport and opinion from the Guardian</a></li>
 <li> 23:47 <a href="https://www.theguardian.com/politics/2026/jan/19/who-said-it-the-robert-jenrick-memo-david-brent-the-office-ricky-gervais">Latest news, sport and opinion from the Guardian</a></li>
-<li> 23:46 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 23:46 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -36388,9 +36475,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 12:13 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 12:12 <a href="https://www.bbc.co.uk/news/articles/cly148lvyevo">Home - BBC News</a></li>
-<li> 12:11 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:11 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 12:11 www.google.com</li>
 <li> 12:11 www.instagram.com</li>
 </ul>
@@ -36920,9 +37007,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:04 www.google.com</li>
 <li> 07:56 <a href="https://www.theguardian.com/technology/2026/jan/02/uber-avoids-new-uk-taxi-tax-rewriting-driver-contracts">Access Restricted</a></li>
 <li> 07:56 <a href="https://www.bbc.co.uk/news/articles/ckgvjnxpp9zo">Home - BBC News</a></li>
-<li> 07:55 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:55 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:54 <a href="https://www.bbc.co.uk/news/articles/cj9rvkde0xxo">Home - BBC News</a></li>
-<li> 07:53 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:53 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:53 <a href="https://www.bbc.co.uk/newd">BBC - 404: Not Found</a></li>
 <li> 07:43 libbyapp.com</li>
 <li> 07:36 fyp.cs.rhul.ac.uk</li>
@@ -38354,7 +38441,7 @@ With number of accesses/minutes in parentheses
 <li> 07:41 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 07:41 <a href="https://en.wikipedia.org/"></a></li>
 <li> 07:40 www.linkedin.com</li>
-<li> 07:37 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:37 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:37 session.bbc.co.uk</li>
 <li> 07:33 web.whatsapp.com</li>
 <li> 07:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -39175,7 +39262,7 @@ With number of accesses/minutes in parentheses
 <li> 12:42 <a href="https://www.bbc.co.uk/news/articles/cewjz55lvqlo">Southern Trust: Woman detoxed alone after failing to access local treatment - BBC News</a></li>
 <li> 12:41 <a href="https://www.bbc.co.uk/news/articles/c07xkeee2k3o">Trump aide Stephen Miller says no-one would fight US over Greenland - BBC News</a></li>
 <li> 12:40 <a href="https://www.bbc.co.uk/news/articles/c1509kklkzvo">Birmingham bin strike reaches one year mark with no end in sight - BBC News</a></li>
-<li> 12:40 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:40 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 12:38 <a href="https://www.bbc.co.uk/news/articles/c205nxy0p31o">Drivers over 70 to face eye tests every three years - BBC News</a></li>
 <li> 12:38 www.reddit.com</li>
 <li> 12:38 outlook.office365.com</li>
@@ -40080,7 +40167,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:40 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 08:23 <a href="https://www.youtube.com/watch?v=0jXC9bLh8X4&amp;list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&amp;index=138">GCSE Maths: N6-07 [Higher Powers of 2, 3, 4, 5 Test] - YouTube</a></li>
 <li> 08:22 <a href="https://www.bbc.co.uk/news/articles/cp8z60j7438o">Home - BBC News</a></li>
-<li> 08:21 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 08:21 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 08:21 <a href="https://www.bbc.co.uk/news/topics/clye196748dt">Information Commissioner&#x27;s Office - BBC News</a></li>
 <li> 08:21 www.google.com</li>
 <li> 08:18 <a href="https://www.youtube.com/watch?v=7OIH57MLOmg&amp;list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&amp;index=137">GCSE Maths: N6-06 [Higher Powers of 2, 3, 4, 5] - YouTube</a></li>
@@ -43295,10 +43382,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:22 <a href="https://www.bbc.co.uk/news/articles/cwyv7211jljo">Home - BBC News</a></li>
-<li> 11:22 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li class='same'> 10:59 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:22 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
+<li class='same'> 10:59 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 10:58 <a href="https://www.bbc.co.uk/news/articles/cpvdkw4xgewo">Home - BBC News</a></li>
-<li> 10:58 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:58 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 10:58 www.google.com</li>
 </ul>
 
@@ -44252,8 +44339,8 @@ With number of accesses/minutes in parentheses
 <li> 11:45 <a href="https://www.bbc.co.uk/news/articles/cx2gylngx7go">Wake Up Dead Man: A Knives Out Mystery filmed in Essex church - BBC News</a></li>
 <li> 11:43 <a href="https://www.bbc.co.uk/news/articles/cwyn5e641yjo">Kyiv: More than 600,000 without power after Russian strikes - BBC News</a></li>
 <li> 11:42 <a href="https://www.bbc.co.uk/news/articles/cx2gylngx7go">Wake Up Dead Man: A Knives Out Mystery filmed in Essex church - BBC News</a></li>
-<li> 11:42 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li class='same'> 11:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:42 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
+<li class='same'> 11:32 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 11:21 <a href="https://www.bbc.co.uk/news/articles/cgjn2y4eed5o">BBC - Home</a></li>
 <li> 11:21 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 11:17 whatsupbeds.com</li>
@@ -44267,7 +44354,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:38 <a href="https://www.bbc.co.uk/news/articles/cx272dj04rno">Home - BBC News</a></li>
-<li> 10:38 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:38 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 10:35 <a href="https://www.bbc.co.uk/news/articles/c7vm5d42r8mo">BBC - Home</a></li>
 <li> 10:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 10:34 <a href="https://www.bbc.co.uk/news/articles/cdxweyy157go">BBC - Home</a></li>
@@ -44694,7 +44781,7 @@ With number of accesses/minutes in parentheses
 <li> 17:19 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 17:19 <a href="https://en.wikipedia.org/wiki/State_of_emergency">State of emergency - Wikipedia</a></li>
 <li> 17:07 <a href="https://www.bbc.co.uk/news/articles/c246ndy63j9o">Home - BBC News</a></li>
-<li> 17:07 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:07 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:51 <a href="https://en.wikipedia.org/wiki/State_of_emergency">State of emergency - Wikipedia</a></li>
 <li> 16:48 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:48 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
@@ -44708,7 +44795,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:54 <a href="https://www.bbc.co.uk/news/articles/c0edw7g7z79o">Home - BBC News</a></li>
-<li> 15:54 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:54 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -44841,7 +44928,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:43 <a href="https://www.bbc.co.uk/news/articles/c1dzp050yn2o">Italian parliament unanimously votes to make femicide a crime - BBC News</a></li>
 <li> 18:41 <a href="https://www.bbc.co.uk/news/articles/cj4w44w42j5o">Home - BBC News</a></li>
-<li> 18:41 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:41 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:41 www.google.com</li>
 </ul>
 
@@ -48363,7 +48450,7 @@ With number of accesses/minutes in parentheses
 <li> 07:13 <a href="https://www.youtube.com/watch?v=5t1HLv3IXMM&amp;t=156s">(14) Lego Vehicles Climb Walls - YouTube</a></li>
 <li> 07:13 <a href="https://www.youtube.com/">YouTube</a></li>
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/c5yl60yp9g6o">Chris Mason: Unpicking a messy day for the government - BBC News</a></li>
-<li> 07:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:08 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;wvprov=sticky-header">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:57 www.theregister.com</li>
@@ -48692,7 +48779,7 @@ With number of accesses/minutes in parentheses
 <li> 14:31 <a href="https://www.bbc.co.uk/news/uk-wales-48120428">Daniel Kelley: The teen behind the cybercrime screen - BBC News</a></li>
 <li> 14:31 duckduckgo.com</li>
 <li> 14:29 <a href="https://www.bbc.co.uk/news/live/c2dr3z9egljt">New Epstein emails that mention Trump released by House Democrats - live updates - BBC News</a></li>
-<li> 14:29 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 14:29 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 14:28 outlook.office365.com</li>
 </ul>
 
@@ -72255,10 +72342,10 @@ With number of accesses/minutes in parentheses
 <li> 17:14 <a href="https://en.wikipedia.org/wiki/In_a_Perfect_World_(Kanye_West_album)">In a Perfect World (Kanye West album) - Wikipedia</a></li>
 <li> 17:14 <a href="https://en.wikipedia.org/wiki/WW3_%28Kanye_West_album%29">In a Perfect World (Kanye West album) - Wikipedia</a></li>
 <li> 17:10 <a href="https://www.bbc.co.uk/news/articles/c4gkzgqe30yo">Ukraine&#x27;s sky defenders in Sumy stuck in relentless battle - BBC News</a></li>
-<li> 17:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:10 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 17:07 <a href="https://www.bbc.co.uk/news/articles/cn5kqe01r5zo">Manchester airport brawl began with Starbucks assault, jury hears - BBC News</a></li>
 <li> 17:06 <a href="https://www.bbc.co.uk/news/articles/cpwqy40wxw1o">Tyler Webb: Man who encouraged woman to kill herself sentenced - BBC News</a></li>
-<li> 17:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:06 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 17:06 web.whatsapp.com</li>
 <li> 16:57 www.paypal.com</li>
 <li> 16:56 www.reddit.com</li>
@@ -75077,8 +75164,8 @@ With number of accesses/minutes in parentheses
 <li> 20:26 www.google.com</li>
 <li> 20:26 www.reddit.com</li>
 <li> 20:26 www.google.com</li>
-<li> 20:20 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li class='same'> 20:18 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 20:20 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
+<li class='same'> 20:18 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 20:18 www.google.com</li>
 </ul>
 
@@ -75731,7 +75818,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:44 www.reddit.com</li>
 <li class='same'> 21:43 www.reddit.com</li>
 <li class='same'> 21:42 www.reddit.com</li>
-<li> 21:41 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:41 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:41 www.google.com</li>
 <li> 21:41 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
 <li> 21:41 www.google.com</li>
@@ -78244,7 +78331,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:46 <a href="https://www.bbc.co.uk/news/articles/cdedjnw8e85o">The huge sums energy firms get to NOT provide power - BBC News</a></li>
-<li> 06:45 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:45 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 06:44 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/world/2025/jun/09/ukraine-war-briefing-poland-airspace-russia-airstrikes">Ukraine war briefing: Poland scrambles planes to secure airspace as Russia targets western Ukraine | Ukraine | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/world/2025/jun/08/russian-forces-closing-in-on-sumy-city-three-years-after-ukraine-forced-them-out-of-region">Russian forces closing in on Sumy city three years after Ukraine forced them out of region | Ukraine | The Guardian</a></li>
@@ -78479,7 +78566,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:28 chatgpt.com</li>
 <li> 13:28 chat.openai.com</li>
 <li> 13:08 <a href="https://www.bbc.co.uk/news/articles/c5ykel5dr62o">China&#x27;s driverless lorries hope to expand - BBC News</a></li>
-<li> 13:07 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 13:07 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 13:07 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
 <li> 13:07 www.google.com</li>
 <li class='same'> 13:06 www.google.com</li>
@@ -78924,7 +79011,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:21 oots.fandom.com</li>
 <li> 07:21 duckduckgo.com</li>
 <li> 07:05 <a href="https://www.bbc.co.uk/news/articles/cr58pqjlnjlo">M&amp;S hackers sent abuse and ransom demand directly to CEO - BBC News</a></li>
-<li> 07:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:04 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:03 www.reddit.com</li>
 <li class='same'> 07:02 www.reddit.com</li>
 <li class='same'> 07:01 www.reddit.com</li>
@@ -81576,7 +81663,7 @@ With number of accesses/minutes in parentheses
 <li> 07:48 sora.chatgpt.com</li>
 <li class='same'> 07:44 sora.chatgpt.com</li>
 <li> 07:23 <a href="https://www.bbc.co.uk/news/articles/c3087vlmljmo">Prince William: David Attenborough was &#x27;inspiration&#x27; for new show - BBC News</a></li>
-<li> 07:22 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:22 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/world/2025/may/09/mexico-google-lawsuit-gulf-of-mexico">Mexico sues Google over changing Gulf of Mexico’s name for US users | Mexico | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas">Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’ | Elon Musk | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
@@ -82039,7 +82126,7 @@ With number of accesses/minutes in parentheses
 <li> 09:31 reductress.com</li>
 <li> 09:30 <a href="https://www.theguardian.com/world/live/2025/may/21/vladimir-putin-kursk-volodymyr-zelenskyy-ukraine-russia-ukraine-war-live">Russia-Ukraine war live: Putin visits Kursk region for first time since recapturing from Ukraine</a></li>
 <li> 09:29 <a href="https://www.bbc.co.uk/news/articles/cwy33n484x0o">Trump unveils plans for &#x27;Golden Dome&#x27; missile defence system - BBC News</a></li>
-<li> 09:29 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:29 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 09:28 www.google.com</li>
 <li> 09:26 outlook.office365.com</li>
 <li> 09:23 Local file</li>
@@ -82369,9 +82456,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:49 <a href="https://www.bbc.co.uk/news/articles/cgr5nen5gxyo">M&amp;S and Co-Op: BBC reporter on talking to the hackers - BBC News</a></li>
-<li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:49 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 11:49 <a href="https://www.bbc.co.uk/naidheachdan">Naidheachdan - BBC Naidheachdan</a></li>
-<li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:49 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/politics/2025/may/17/essex-thurrock-grays-views-brexit-eu-referendum">‘It feels like we never left’: resentment builds in one of UK’s firmest Brexit-backing areas | Brexit | The Guardian</a></li>
 </ul>
 
@@ -84773,7 +84860,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:55 outlook.office.com</li>
 <li class='same'> 15:54 outlook.office.com</li>
 <li> 15:36 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
-<li> 15:35 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:35 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:35 <a href="https://www.theguardian.com/lifeandstyle/2025/may/07/a-moment-that-changed-me-i-found-out-the-identity-of-my-troll-and-it-shook-me">A moment that changed me: I found out the identity of my troll – and it shook me | Social media | The Guardian</a></li>
 <li class='same'> 15:25 <a href="https://www.theguardian.com/lifeandstyle/2025/may/07/a-moment-that-changed-me-i-found-out-the-identity-of-my-troll-and-it-shook-me">A moment that changed me: I found out the identity of my troll – and it shook me | Social media | The Guardian</a></li>
 <li> 15:24 <a href="https://www.theguardian.com/tv-and-radio/2025/may/07/phoebe-waller-bridge-octopus-show-macauley-culkin-pizza-songs-stars-wildest-career-u-turns">From Phoebe Waller-Bridge’s octopus show to Macaulay Culkin’s pizza band: stars’ wildest career U-turns | Phoebe Waller-Bridge | The Guardian</a></li>
@@ -84907,7 +84994,7 @@ With number of accesses/minutes in parentheses
 <li> 07:45 herts.instructure.com</li>
 <li> 07:37 www.tinkercad.com</li>
 <li> 07:26 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
-<li> 07:25 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:25 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:25 www.google.com</li>
 <li> 07:14 jobs.reading.ac.uk</li>
 <li> 07:14 www.jobs.ac.uk</li>
@@ -84915,7 +85002,7 @@ With number of accesses/minutes in parentheses
 <li> 07:13 gmail.com</li>
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/cm2e2z1y1pko">GCSE results day to change for thousands of students with new app - BBC News</a></li>
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/cly2jjg10xlo">Alicia Vikander: Oscar winner to make UK theatre debut in Ibsen&#x27;s The Lady from the Sea - BBC News</a></li>
-<li> 07:11 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:11 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:11 outlook.office.com</li>
 <li> 07:10 feedly.com</li>
 <li> 07:05 www.instagram.com</li>
@@ -85157,7 +85244,7 @@ With number of accesses/minutes in parentheses
 <li> 09:01 feedly.com</li>
 <li class='same'> 09:00 feedly.com</li>
 <li> 09:00 mail.google.com</li>
-<li> 09:00 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:00 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 08:59 mail.google.com</li>
 <li class='same'> 08:58 mail.google.com</li>
 </ul>
@@ -85542,7 +85629,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 22:00 <a href="https://www.bbc.co.uk/news/articles/cly1n7jz587o">Trump&#x27;s first 100 days and the rapid remaking of a nation - BBC News</a></li>
 <li> 22:00 duckduckgo.com</li>
-<li> 22:00 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:00 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:59 www.reddit.com</li>
 <li class='same'> 21:56 www.reddit.com</li>
 <li class='same'> 21:53 www.reddit.com</li>
@@ -86346,7 +86433,7 @@ With number of accesses/minutes in parentheses
 <li> 15:32 github.com</li>
 <li> 15:32 mail.google.com</li>
 <li> 15:27 <a href="https://www.bbc.co.uk/news/live/cpvrrre4zlkt">White House blasts &#x27;hostile&#x27; Amazon over tariffs while marking Trump’s 100 days - live updates - BBC News</a></li>
-<li> 15:27 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:27 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:27 mail.google.com</li>
 <li> 15:23 feedly.com</li>
 <li> 15:23 www.giantitp.com</li>
@@ -86767,7 +86854,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:16 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
 <li> 07:14 <a href="https://www.bbc.co.uk/news/articles/cpdzpzy1jwzo">Home needed for two killer whales stuck in shuttered zoo - BBC News</a></li>
-<li> 07:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:13 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 </ul>
 
 <br>
@@ -88071,7 +88158,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 16:02 <a href="https://www.bbc.co.uk/news/articles/cewgj1p79j4o">Man admits dangerous driving after seven officers hurt in crash - BBC News</a></li>
-<li> 16:02 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:02 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 16:02 www.google.com</li>
 </ul>
 
@@ -88093,7 +88180,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:53 <a href="https://www.bbc.co.uk/news/articles/c74z04j23pwo">The Supreme Court ruling gives clarity - now comes the hard part - BBC News</a></li>
-<li> 07:53 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:53 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 07:53 www.facebook.com</li>
 <li> 07:52 feedly.com</li>
 <li> 07:51 www.reddit.com</li>
@@ -89169,7 +89256,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 04:38 www.foxnews.com</li>
 <li class='same'> 04:37 www.foxnews.com</li>
 <li> 04:34 <a href="https://www.bbc.co.uk/news/articles/c20xxv3y9r2o">Trump has backtracked, but this is far from over - BBC News</a></li>
-<li> 04:33 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 04:33 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 04:33 <a href="https://www.bbc.co.uk/news/uk-england-merseyside-68197461">Southport: Boy still recovering months after zorb lifted by gust - BBC News</a></li>
 <li> 04:15 www.google.com</li>
 <li> 04:13 www.theguardian.com</li>
@@ -89665,7 +89752,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:25 www.reddit.com</li>
 <li> 09:12 <a href="https://www.bbc.co.uk/news/articles/cx208nkvw83o">Molly Russell: Meta and Pinterest make secret charity donation - BBC News</a></li>
 <li> 09:11 <a href="https://www.bbc.co.uk/news/articles/c77njdlvj66o">Donald Trump&#x27;s tariffs have shaken the markets - how worried should we be? - BBC News</a></li>
-<li> 09:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:10 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 09:10 www.facebook.com</li>
 <li class='same'> 09:09 www.facebook.com</li>
 <li> 09:06 duckduckgo.com</li>
@@ -91945,7 +92032,7 @@ With number of accesses/minutes in parentheses
 <li> 21:05 web.whatsapp.com</li>
 <li> 21:05 www.theguardian.com</li>
 <li class='same'> 21:03 www.theguardian.com</li>
-<li> 21:01 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:01 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 21:01 www.rtings.com</li>
 <li> 21:01 duckduckgo.com</li>
 <li> 20:59 www.reddit.com</li>
@@ -105182,11 +105269,11 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 18:37 www.magicalkingdoms.com</li>
 <li> 18:37 www.reddit.com</li>
 <li> 18:37 <a href="https://www.bbc.co.uk/news/articles/crr0qq491z4o">Claire Chick: Man charged with murder of Plymouth university lecturer - BBC News</a></li>
-<li> 18:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:36 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:36 <a href="https://www.bbc.co.uk/news/articles/cj48571qq7vo">&#x27;I don&#x27;t want to buy a £4 coffee just so I can use the loo&#x27; - BBC News</a></li>
-<li> 18:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:36 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:35 <a href="https://www.bbc.co.uk/news/articles/c0lz69ndnreo">Nick Cave tells Desert Island Discs work repelled him after sons&#x27; deaths - BBC News</a></li>
-<li> 18:34 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:34 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 18:34 blog.thermoworks.com</li>
 <li> 18:12 docs.google.com</li>
 </ul>
@@ -115282,7 +115369,7 @@ With number of accesses/minutes in parentheses
 <li> 15:53 outlook.office365.com</li>
 <li class='same'> 15:46 outlook.office365.com</li>
 <li class='same'> 15:37 outlook.office365.com</li>
-<li> 15:33 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:33 <a href="https://www.bbc.co.uk/news">Trump reveals millions of dollars&#x27; worth of share deals in big tech and AI - BBC News</a></li>
 <li> 15:33 session.bbc.co.uk</li>
 <li> 15:33 bsky.app</li>
 <li class='same'> 15:31 bsky.app</li>
@@ -124048,65 +124135,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:06 outlook.office365.com</li>
 <li class='same'> 11:05 outlook.office365.com</li>
 <li> 11:02 www.accessable.co.uk</li>
-<li> 11:02 www.google.com</li>
-<li> 11:00 outlook.office365.com</li>
-<li> 10:59 www.google.com</li>
-<li> 10:57 outlook.office365.com</li>
-<li class='same'> 10:53 outlook.office365.com</li>
-<li class='same'> 10:52 outlook.office365.com</li>
-<li class='same'> 10:51 outlook.office365.com</li>
-<li class='same'> 10:50 outlook.office365.com</li>
-<li> 10:44 calendar.google.com</li>
-<li> 10:43 outlook.office365.com</li>
-<li> 10:42 moodle.royalholloway.ac.uk</li>
-<li> 10:42 Local file</li>
-<li> 10:42 moodle.royalholloway.ac.uk</li>
-<li> 10:38 web.whatsapp.com</li>
-<li> 10:38 rhul-my.sharepoint.com</li>
-<li class='same'> 10:37 rhul-my.sharepoint.com</li>
-<li> 10:37 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:00 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 08:59 outlook.office365.com</li>
-<li class='same'> 08:58 outlook.office365.com</li>
-<li> 08:58 mail.rhul.ac.uk</li>
-<li> 08:52 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Biography#Opening_paragraph">Wikipedia:Manual of Style/Biography - Wikipedia</a></li>
-<li> 08:52 <a href="https://en.wikipedia.org/wiki/MOS:FIRSTBIO">Wikipedia:Manual of Style/Biography - Wikipedia</a></li>
-<li> 08:51 <a href="https://en.wikipedia.org/wiki/Talk:Tommy_Robinson">Talk:Tommy Robinson - Wikipedia</a></li>
-<li> 08:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 08:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 08:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 08:51 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing#Information_Security">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
-<li> 08:51 outlook.office.com</li>
-<li class='same'> 08:50 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:41 www.google.com</li>
-<li class='same'> 07:34 www.google.com</li>
-<li> 07:23 www.linkedin.com</li>
-<li> 07:23 www.google.com</li>
-<li class='same'> 07:22 www.google.com</li>
-<li> 07:15 www.theguardian.com</li>
-<li> 07:14 www.google.com</li>
-<li> 07:14 x.com</li>
-<li> 07:14 www.google.com</li>
-<li> 07:14 x.com</li>
-<li> 07:14 www.google.com</li>
-</ul>
-
-<H3>Thursday, 31/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 15:38 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing#Information_Security-DoesNotExist-DiscussionToolsHack">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
-<li> 15:38 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing#Information_Security">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
 </ul>
