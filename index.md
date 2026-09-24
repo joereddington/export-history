@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5350)</li>
 <li>www.reddit.com (5339)</li>
-<li>www.google.com (5061)</li>
-<li>outlook.office365.com (4461)</li>
-<li>duckduckgo.com (3945)</li>
+<li>www.google.com (5059)</li>
+<li>outlook.office365.com (4460)</li>
+<li>duckduckgo.com (3947)</li>
 <li>outlook.office.com (3901)</li>
-<li>docs.google.com (3287)</li>
+<li>docs.google.com (3285)</li>
 <li>chatgpt.com (2885)</li>
 <li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1771)</li>
-<li>www.facebook.com (1727)</li>
+<li>moodle.royalholloway.ac.uk (1773)</li>
+<li>www.facebook.com (1726)</li>
 <li>calendar.google.com (1563)</li>
-<li>login.microsoftonline.com (1400)</li>
+<li>login.microsoftonline.com (1406)</li>
 <li>chat.openai.com (1331)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
@@ -105,6 +105,53 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 24/09/26</H3>
+
+<br>
+
+<ul><li> 18:50 learningonscreen.ac.uk</li>
+<li class='same'> 18:49 learningonscreen.ac.uk</li>
+<li class='same'> 18:48 learningonscreen.ac.uk</li>
+<li class='same'> 18:47 learningonscreen.ac.uk</li>
+<li class='same'> 18:46 learningonscreen.ac.uk</li>
+<li> 18:46 login.learningonscreen.ac.uk</li>
+<li> 18:46 learningonscreen.ac.uk</li>
+<li> 18:46 connect.openathens.net</li>
+<li> 18:46 login.openathens.net</li>
+<li> 18:46 login.microsoftonline.com</li>
+<li> 18:46 device.login.microsoftonline.com</li>
+<li> 18:45 login.openathens.net</li>
+<li> 18:45 login.microsoftonline.com</li>
+<li> 18:45 login.openathens.net</li>
+<li> 18:45 connect.openathens.net</li>
+<li> 18:45 login.learningonscreen.ac.uk</li>
+<li> 18:45 connect.openathens.net</li>
+<li> 18:45 login.learningonscreen.ac.uk</li>
+<li> 18:45 learningonscreen.ac.uk</li>
+<li> 18:17 www.instagram.com</li>
+<li> 18:16 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 17:43 fyp.cs.rhul.ac.uk</li>
+<li> 17:40 moodle.royalholloway.ac.uk</li>
+<li> 17:40 login.microsoftonline.com</li>
+<li> 17:40 device.login.microsoftonline.com</li>
+<li> 17:40 moodle.royalholloway.ac.uk</li>
+<li> 17:40 login.microsoftonline.com</li>
+<li> 17:40 eur03.safelinks.protection.outlook.com</li>
+<li> 17:37 fyp.cs.rhul.ac.uk</li>
+<li> 17:36 fast.com</li>
+<li> 17:32 intranet.royalholloway.ac.uk</li>
+<li> 17:32 duckduckgo.com</li>
+<li class='same'> 17:31 duckduckgo.com</li>
+<li> 17:31 myview.rhul.zellis.com</li>
+<li> 17:31 login.microsoftonline.com</li>
+<li> 17:31 device.login.microsoftonline.com</li>
+<li> 17:31 myview.rhul.zellis.com</li>
+<li> 17:31 login.microsoftonline.com</li>
+<li> 17:31 myview.rhul.zellis.com</li>
+</ul>
 
 <br>
 
@@ -124073,17 +124120,4 @@ With number of accesses/minutes in parentheses
 <li> 12:29 mail.rhul.ac.uk</li>
 <li> 12:26 www.facebook.com</li>
 <li> 12:13 rhul-my.sharepoint.com</li>
-<li> 12:13 www.facebook.com</li>
-<li> 12:12 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today/">Joe Reddington | Things I make.</a></li>
-<li> 12:12 <a href="https://joereddington.com/media.html">Joe Reddington | Things I make.</a></li>
-<li> 12:11 outlook.office365.com</li>
-<li> 12:11 github.com</li>
-<li class='same'> 12:10 github.com</li>
-<li> 12:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 12:10 www.google.com</li>
-<li> 12:09 <a href="https://joereddington.com/2021/01/02/mynameis.html">Hello, my name is Joe! | Joe Reddington</a></li>
-<li> 12:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 12:09 www.google.com</li>
-<li> 12:09 docs.google.com</li>
-<li class='same'> 12:08 docs.google.com</li>
 </ul>
