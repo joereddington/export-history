@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5350)</li>
+<ol><li>mail.google.com (5351)</li>
 <li>www.reddit.com (5339)</li>
-<li>www.google.com (5059)</li>
-<li>outlook.office365.com (4460)</li>
+<li>www.google.com (5058)</li>
+<li>outlook.office365.com (4453)</li>
 <li>duckduckgo.com (3947)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3285)</li>
@@ -79,20 +79,20 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1773)</li>
-<li>www.facebook.com (1726)</li>
-<li>calendar.google.com (1563)</li>
+<li>www.facebook.com (1725)</li>
+<li>calendar.google.com (1562)</li>
 <li>login.microsoftonline.com (1406)</li>
 <li>chat.openai.com (1331)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1131)</li>
+<li>gmail.com (1132)</li>
 <li>web.whatsapp.com (1126)</li>
-<li>mail.rhul.ac.uk (962)</li>
+<li>mail.rhul.ac.uk (960)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (834)</li>
-<li>rhul-my.sharepoint.com (826)</li>
-<li>forms.office.com (760)</li>
-<li>rhul.sharepoint.com (605)</li>
+<li>rhul-my.sharepoint.com (824)</li>
+<li>forms.office.com (758)</li>
+<li>rhul.sharepoint.com (604)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (505)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:50 learningonscreen.ac.uk</li>
+<ul><li> 19:29 www.google.com</li>
+<li> 19:29 us06web.zoom.us</li>
+<li> 19:29 mail.google.com</li>
+<li> 19:29 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:57 192.168.178.1</li>
+<li> 18:50 learningonscreen.ac.uk</li>
 <li class='same'> 18:49 learningonscreen.ac.uk</li>
 <li class='same'> 18:48 learningonscreen.ac.uk</li>
 <li class='same'> 18:47 learningonscreen.ac.uk</li>
@@ -124098,26 +124107,4 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 12:45 forms.office.com</li>
 <li> 12:45 discord.com</li>
 <li class='same'> 12:44 discord.com</li>
-<li> 12:44 outlook.office365.com</li>
-<li class='same'> 12:43 outlook.office365.com</li>
-<li> 12:43 mail.rhul.ac.uk</li>
-<li> 12:41 calendar.google.com</li>
-<li> 12:41 outlook.office365.com</li>
-<li> 12:40 <a href="https://en.wikipedia.org/wiki/2022_Optus_data_breach#:~:text=In%20September%202022%2C%20Australian%20telecommunications%20company%20Optus%20suffered,former%20customers%20comprising%20a%20third%20of%20Australia%27s%20population.)">2022 Optus data breach - Wikipedia</a></li>
-<li> 12:39 rhul-my.sharepoint.com</li>
-<li> 12:39 forms.office.com</li>
-<li class='same'> 12:38 forms.office.com</li>
-<li> 12:38 outlook.office365.com</li>
-<li> 12:37 rhul.sharepoint.com</li>
-<li> 12:36 outlook.office365.com</li>
-<li> 12:32 ico.org.uk</li>
-<li> 12:32 www.gorvins.com</li>
-<li> 12:31 www.google.com</li>
-<li> 12:30 ico.org.uk</li>
-<li> 12:30 www.google.com</li>
-<li> 12:30 outlook.office365.com</li>
-<li class='same'> 12:29 outlook.office365.com</li>
-<li> 12:29 mail.rhul.ac.uk</li>
-<li> 12:26 www.facebook.com</li>
-<li> 12:13 rhul-my.sharepoint.com</li>
 </ul>
