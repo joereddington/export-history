@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5355)</li>
+<ol><li>mail.google.com (5350)</li>
 <li>www.reddit.com (5337)</li>
 <li>www.google.com (5061)</li>
 <li>outlook.office365.com (4461)</li>
 <li>duckduckgo.com (3945)</li>
 <li>outlook.office.com (3901)</li>
-<li>docs.google.com (3290)</li>
-<li>chatgpt.com (2883)</li>
+<li>docs.google.com (3287)</li>
+<li>chatgpt.com (2885)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1768)</li>
+<li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1727)</li>
 <li>calendar.google.com (1563)</li>
 <li>login.microsoftonline.com (1400)</li>
-<li>chat.openai.com (1330)</li>
+<li>chat.openai.com (1331)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1133)</li>
+<li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1126)</li>
 <li>mail.rhul.ac.uk (962)</li>
 <li>tvtropes.org (880)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (505)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (468)</li>
+<li>drive.google.com (466)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 24/09/26</H3>
+
+<br>
+
+<ul><li> 11:57 <a href="https://www.youtube.com/watch?v=2BQ-QxN5X9A"></a></li>
+<li> 11:57 eur03.safelinks.protection.outlook.com</li>
+<li> 11:53 chatgpt.com</li>
+<li class='same'> 11:52 chatgpt.com</li>
+<li> 11:52 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:08 moodle.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -124036,7 +124050,6 @@ With number of accesses/minutes in parentheses
 <li> 12:43 mail.rhul.ac.uk</li>
 <li> 12:41 calendar.google.com</li>
 <li> 12:41 outlook.office365.com</li>
-<li> 12:40 eur03.safelinks.protection.outlook.com</li>
 <li> 12:40 <a href="https://en.wikipedia.org/wiki/2022_Optus_data_breach#:~:text=In%20September%202022%2C%20Australian%20telecommunications%20company%20Optus%20suffered,former%20customers%20comprising%20a%20third%20of%20Australia%27s%20population.)">2022 Optus data breach - Wikipedia</a></li>
 <li> 12:39 rhul-my.sharepoint.com</li>
 <li> 12:39 forms.office.com</li>
@@ -124067,19 +124080,4 @@ With number of accesses/minutes in parentheses
 <li> 12:09 www.google.com</li>
 <li> 12:09 docs.google.com</li>
 <li class='same'> 12:08 docs.google.com</li>
-<li class='same'> 12:07 docs.google.com</li>
-<li> 12:07 mail.google.com</li>
-<li> 12:07 accounts.youtube.com</li>
-<li> 12:07 accounts.google.co.uk</li>
-<li> 12:07 mail.google.com</li>
-<li class='same'> 12:06 mail.google.com</li>
-<li> 12:06 accounts.google.com</li>
-<li> 12:06 mail.google.com</li>
-<li> 12:06 gmail.com</li>
-<li> 12:06 mail.google.com</li>
-<li> 12:06 gmail.com</li>
-<li> 12:06 docs.google.com</li>
-<li> 12:06 drive.google.com</li>
-<li> 12:06 docs.google.com</li>
-<li> 12:06 drive.google.com</li>
 </ul>
