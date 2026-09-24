@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5350)</li>
-<li>www.reddit.com (5337)</li>
+<li>www.reddit.com (5339)</li>
 <li>www.google.com (5061)</li>
 <li>outlook.office365.com (4461)</li>
 <li>duckduckgo.com (3945)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3287)</li>
 <li>chatgpt.com (2885)</li>
-<li>www.linkedin.com (2364)</li>
+<li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1769)</li>
+<li>moodle.royalholloway.ac.uk (1771)</li>
 <li>www.facebook.com (1727)</li>
 <li>calendar.google.com (1563)</li>
 <li>login.microsoftonline.com (1400)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:57 <a href="https://www.youtube.com/watch?v=2BQ-QxN5X9A"></a></li>
+<ul><li> 12:38 www.reddit.com</li>
+<li class='same'> 12:35 www.reddit.com</li>
+<li> 12:34 www.linkedin.com</li>
+<li> 12:08 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:06 moodle.royalholloway.ac.uk</li>
+<li> 11:57 <a href="https://www.youtube.com/watch?v=2BQ-QxN5X9A">(87) FYP demo video - YouTube</a></li>
 <li> 11:57 eur03.safelinks.protection.outlook.com</li>
 <li> 11:53 chatgpt.com</li>
 <li class='same'> 11:52 chatgpt.com</li>
