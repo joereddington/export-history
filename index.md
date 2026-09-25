@@ -70,29 +70,29 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5351)</li>
 <li>www.reddit.com (5339)</li>
-<li>www.google.com (5058)</li>
-<li>outlook.office365.com (4453)</li>
+<li>www.google.com (5056)</li>
+<li>outlook.office365.com (4437)</li>
 <li>duckduckgo.com (3947)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2885)</li>
-<li>www.linkedin.com (2365)</li>
+<li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1773)</li>
+<li>moodle.royalholloway.ac.uk (1774)</li>
 <li>www.facebook.com (1725)</li>
 <li>calendar.google.com (1562)</li>
 <li>login.microsoftonline.com (1406)</li>
 <li>chat.openai.com (1331)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1132)</li>
+<li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1126)</li>
-<li>mail.rhul.ac.uk (960)</li>
+<li>mail.rhul.ac.uk (958)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (834)</li>
-<li>rhul-my.sharepoint.com (824)</li>
-<li>forms.office.com (758)</li>
-<li>rhul.sharepoint.com (604)</li>
+<li>feedly.com (836)</li>
+<li>rhul-my.sharepoint.com (821)</li>
+<li>forms.office.com (755)</li>
+<li>rhul.sharepoint.com (603)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (505)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:29 www.google.com</li>
+<ul><li> 21:25 www.feynmanlectures.caltech.edu</li>
+<li> 21:00 chatgpt.com</li>
+<li> 20:59 chat.openai.com</li>
+<li> 20:56 www.goodreads.com</li>
+<li> 20:55 docs.google.com</li>
+<li> 20:44 www.feynmanlectures.caltech.edu</li>
+<li> 20:44 learningonscreen.ac.uk</li>
+<li> 20:44 login.learningonscreen.ac.uk</li>
+<li> 20:44 learningonscreen.ac.uk</li>
+<li> 20:44 connect.openathens.net</li>
+<li> 20:44 login.openathens.net</li>
+<li> 20:44 connect.openathens.net</li>
+<li> 20:44 login.learningonscreen.ac.uk</li>
+<li> 20:44 connect.openathens.net</li>
+<li> 20:44 login.learningonscreen.ac.uk</li>
+<li> 20:43 learningonscreen.ac.uk</li>
+<li> 20:38 feedly.com</li>
+<li class='same'> 20:37 feedly.com</li>
+<li> 20:35 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 19:34 www.zoom.com</li>
+<li> 19:34 us06web.zoom.us</li>
+<li> 19:30 mail.google.com</li>
+<li> 19:29 us06web.zoom.us</li>
+<li> 19:29 www.google.com</li>
 <li> 19:29 us06web.zoom.us</li>
 <li> 19:29 mail.google.com</li>
 <li> 19:29 gmail.com</li>
@@ -124048,63 +124075,4 @@ With number of accesses/minutes in parentheses
 <li> 16:06 outlook.office365.com</li>
 <li class='same'> 16:05 outlook.office365.com</li>
 <li> 16:04 cisse.info</li>
-<li> 16:04 outlook.office365.com</li>
-<li> 16:03 www.google.com</li>
-<li> 16:02 events.zoom.us</li>
-<li> 16:02 mail.google.com</li>
-<li> 16:02 gmail.com</li>
-<li> 16:02 zoom.us</li>
-<li> 16:02 outlook.office365.com</li>
-<li> 16:01 events.zoom.us</li>
-<li> 16:01 outlook.office365.com</li>
-<li class='same'> 16:00 outlook.office365.com</li>
-<li> 16:00 mail.rhul.ac.uk</li>
-<li> 16:00 events.zoom.us</li>
-<li> 16:00 cisse.info</li>
-<li> 16:00 www.google.com</li>
-<li> 16:00 outlook.office365.com</li>
-<li> 16:00 mail.rhul.ac.uk</li>
-<li> 15:52 rhul-my.sharepoint.com</li>
-<li class='same'> 15:47 rhul-my.sharepoint.com</li>
-<li> 15:43 outlook.office365.com</li>
-<li> 15:40 rhul-my.sharepoint.com</li>
-<li> 15:40 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:40 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 15:40 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:38 experience.elluciancloud.ie</li>
-<li> 15:38 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 15:38 experience.elluciancloud.ie</li>
-<li> 15:37 outlook.office365.com</li>
-<li class='same'> 15:36 outlook.office365.com</li>
-<li class='same'> 15:35 outlook.office365.com</li>
-<li> 15:35 www.linkedin.com</li>
-<li> 15:20 outlook.office365.com</li>
-<li> 15:19 docs.google.com</li>
-<li> 15:19 outlook.office365.com</li>
-<li> 15:16 projects.cs.rhul.ac.uk</li>
-<li class='same'> 15:15 projects.cs.rhul.ac.uk</li>
-<li> 15:14 chatgpt.com</li>
-<li> 15:14 chat.openai.com</li>
-<li> 15:13 www.linkedin.com</li>
-<li> 15:13 outlook.office365.com</li>
-<li class='same'> 15:12 outlook.office365.com</li>
-<li> 15:08 rhul.sharepoint.com</li>
-<li> 15:08 outlook.office365.com</li>
-<li class='same'> 15:07 outlook.office365.com</li>
-<li> 15:07 www.linkedin.com</li>
-<li class='same'> 15:02 www.linkedin.com</li>
-<li> 15:02 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:46 forms.office.com</li>
-<li class='same'> 13:40 forms.office.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 12:45 forms.office.com</li>
-<li> 12:45 discord.com</li>
-<li class='same'> 12:44 discord.com</li>
 </ul>
