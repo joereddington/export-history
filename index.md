@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3950)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3286)</li>
-<li>chatgpt.com (2887)</li>
+<li>chatgpt.com (2889)</li>
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1774)</li>
 <li>www.facebook.com (1726)</li>
 <li>calendar.google.com (1565)</li>
-<li>login.microsoftonline.com (1407)</li>
-<li>chat.openai.com (1332)</li>
+<li>login.microsoftonline.com (1408)</li>
+<li>chat.openai.com (1333)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1133)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (837)</li>
 <li>rhul-my.sharepoint.com (821)</li>
 <li>forms.office.com (755)</li>
-<li>rhul.sharepoint.com (603)</li>
+<li>rhul.sharepoint.com (605)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (505)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 25/09/26</H3>
+
+<br>
+
+<ul><li> 15:15 rhul.sharepoint.com</li>
+<li> 15:15 login.microsoftonline.com</li>
+<li> 15:15 device.login.microsoftonline.com</li>
+<li> 15:15 rhul.sharepoint.com</li>
+<li> 15:15 intranet.royalholloway.ac.uk</li>
+<li> 15:06 chatgpt.com</li>
+<li class='same'> 15:05 chatgpt.com</li>
+<li> 15:05 chat.openai.com</li>
+</ul>
 
 <br>
 
