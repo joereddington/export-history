@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5367)</li>
 <li>mail.google.com (5362)</li>
 <li>www.google.com (5062)</li>
-<li>outlook.office365.com (4435)</li>
+<li>outlook.office365.com (4433)</li>
 <li>duckduckgo.com (3950)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3286)</li>
-<li>chatgpt.com (2891)</li>
+<li>chatgpt.com (2892)</li>
 <li>www.linkedin.com (2368)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1774)</li>
+<li>moodle.royalholloway.ac.uk (1773)</li>
 <li>www.facebook.com (1726)</li>
 <li>calendar.google.com (1567)</li>
-<li>login.microsoftonline.com (1408)</li>
-<li>chat.openai.com (1332)</li>
+<li>login.microsoftonline.com (1410)</li>
+<li>chat.openai.com (1333)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1134)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (959)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
-<li>rhul-my.sharepoint.com (821)</li>
+<li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (755)</li>
-<li>rhul.sharepoint.com (605)</li>
+<li>rhul.sharepoint.com (607)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (505)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:57 calendar.google.com</li>
+<ul><li> 17:11 chatgpt.com</li>
+<li class='same'> 17:10 chatgpt.com</li>
+<li> 17:10 chat.openai.com</li>
+<li> 17:10 myview.rhul.zellis.com</li>
+<li class='same'> 17:09 myview.rhul.zellis.com</li>
+<li> 17:09 login.microsoftonline.com</li>
+<li> 17:09 myview.rhul.zellis.com</li>
+<li> 17:09 login.microsoftonline.com</li>
+<li> 17:09 device.login.microsoftonline.com</li>
+<li> 17:09 myview.rhul.zellis.com</li>
+<li> 17:03 rhul.sharepoint.com</li>
+<li class='same'> 17:02 rhul.sharepoint.com</li>
+<li class='same'> 17:01 rhul.sharepoint.com</li>
+<li> 16:57 calendar.google.com</li>
 <li> 16:42 www.linkedin.com</li>
 </ul>
 
@@ -124235,11 +124248,4 @@ With number of accesses/minutes in parentheses
 <li> 16:29 outlook.office365.com</li>
 <li> 16:29 rhul.hosted.panopto.com</li>
 <li class='same'> 16:28 rhul.hosted.panopto.com</li>
-<li> 16:27 moodle.royalholloway.ac.uk</li>
-<li> 16:27 rhul.hosted.panopto.com</li>
-<li> 16:26 rhul.sharepoint.com</li>
-<li> 16:26 outlook.office365.com</li>
-<li class='same'> 16:20 outlook.office365.com</li>
-<li> 16:15 rhul-my.sharepoint.com</li>
-<li> 16:10 chatgpt.com</li>
 </ul>
