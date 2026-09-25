@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5367)</li>
 <li>mail.google.com (5362)</li>
 <li>www.google.com (5062)</li>
-<li>outlook.office365.com (4433)</li>
+<li>outlook.office365.com (4431)</li>
 <li>duckduckgo.com (3950)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3286)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1773)</li>
 <li>www.facebook.com (1726)</li>
-<li>calendar.google.com (1567)</li>
+<li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1412)</li>
 <li>chat.openai.com (1334)</li>
 <li>www.amazon.co.uk (1325)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:21 chatgpt.com</li>
+<ul><li> 18:30 127.0.0.1:8000</li>
+<li> 18:21 chatgpt.com</li>
 <li class='same'> 18:20 chatgpt.com</li>
 <li> 18:20 chat.openai.com</li>
 <li> 18:17 127.0.0.1:8000</li>
@@ -134,11 +135,8 @@ With number of accesses/minutes in parentheses
 <li> 17:50 learningonscreen.ac.uk</li>
 <li> 17:50 fast.com</li>
 <li> 17:50 192.168.178.1</li>
-</ul>
-
-<br>
-
-<ul><li> 17:11 chatgpt.com</li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:11 chatgpt.com</li>
 <li class='same'> 17:10 chatgpt.com</li>
 <li> 17:10 chat.openai.com</li>
 <li> 17:10 myview.rhul.zellis.com</li>
@@ -124273,7 +124271,4 @@ With number of accesses/minutes in parentheses
 <li> 16:31 mail.google.com</li>
 <li> 16:31 gmail.com</li>
 <li> 16:31 outlook.office365.com</li>
-<li class='same'> 16:30 outlook.office365.com</li>
-<li> 16:29 calendar.google.com</li>
-<li> 16:29 outlook.office365.com</li>
 </ul>
