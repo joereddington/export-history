@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5356)</li>
+<ol><li>www.reddit.com (5367)</li>
 <li>mail.google.com (5351)</li>
 <li>www.google.com (5062)</li>
-<li>outlook.office365.com (4437)</li>
+<li>outlook.office365.com (4438)</li>
 <li>duckduckgo.com (3949)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2885)</li>
-<li>www.linkedin.com (2361)</li>
+<li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1774)</li>
 <li>www.facebook.com (1726)</li>
-<li>calendar.google.com (1562)</li>
-<li>login.microsoftonline.com (1406)</li>
+<li>calendar.google.com (1564)</li>
+<li>login.microsoftonline.com (1407)</li>
 <li>chat.openai.com (1331)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1126)</li>
-<li>mail.rhul.ac.uk (958)</li>
+<li>mail.rhul.ac.uk (959)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
 <li>rhul-my.sharepoint.com (821)</li>
@@ -108,16 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:26 localhost:8443</li>
+<ul><li> 13:50 dashboards.rhul.ac.uk</li>
+<li class='same'> 13:49 dashboards.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:56 outlook.cloud.microsoft</li>
+<li> 12:56 device.login.microsoftonline.com</li>
+<li> 12:56 login.microsoftonline.com</li>
+<li> 12:56 outlook.office365.com</li>
+<li> 12:56 outlook.cloud.microsoft</li>
+<li> 12:56 mail.rhul.ac.uk</li>
+<li> 12:56 calendar.google.com</li>
+<li class='same'> 12:55 calendar.google.com</li>
+<li> 12:41 localhost:8443</li>
+<li> 12:40 www.linkedin.com</li>
+<li> 12:38 www.reddit.com</li>
+<li class='same'> 12:36 www.reddit.com</li>
+<li> 12:36 casper.cs.rhul.ac.uk</li>
+<li class='same'> 12:35 casper.cs.rhul.ac.uk</li>
+<li> 12:26 localhost:8443</li>
 <li class='same'> 12:25 localhost:8443</li>
 <li class='same'> 12:24 localhost:8443</li>
 <li> 12:23 fast.com</li>
+<li> 12:19 www.reddit.com</li>
+<li class='same'> 12:18 www.reddit.com</li>
+<li class='same'> 12:17 www.reddit.com</li>
 </ul>
 
 <br>
 
 <ul><li> 11:41 casper.cs.rhul.ac.uk</li>
+<li> 11:35 www.reddit.com</li>
+<li class='same'> 11:34 www.reddit.com</li>
 <li> 11:33 fast.com</li>
+<li> 11:32 www.reddit.com</li>
+<li class='same'> 11:31 www.reddit.com</li>
+<li class='same'> 11:30 www.reddit.com</li>
+<li class='same'> 11:29 www.reddit.com</li>
 <li> 11:24 casper.cs.rhul.ac.uk</li>
 <li> 11:24 localhost:8443</li>
 <li class='same'> 11:13 localhost:8443</li>
