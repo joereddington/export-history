@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3950)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3286)</li>
-<li>chatgpt.com (2892)</li>
+<li>chatgpt.com (2894)</li>
 <li>www.linkedin.com (2368)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1773)</li>
 <li>www.facebook.com (1726)</li>
 <li>calendar.google.com (1567)</li>
 <li>login.microsoftonline.com (1412)</li>
-<li>chat.openai.com (1333)</li>
+<li>chat.openai.com (1334)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1134)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:56 127.0.0.1:8000</li>
+<ul><li> 18:21 chatgpt.com</li>
+<li class='same'> 18:20 chatgpt.com</li>
+<li> 18:20 chat.openai.com</li>
+<li> 18:17 127.0.0.1:8000</li>
+<li> 18:14 192.168.178.1</li>
+<li> 17:56 127.0.0.1:8000</li>
 <li> 17:55 learningonscreen.ac.uk</li>
 <li class='same'> 17:54 learningonscreen.ac.uk</li>
 <li class='same'> 17:53 learningonscreen.ac.uk</li>
@@ -124271,6 +124276,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:30 outlook.office365.com</li>
 <li> 16:29 calendar.google.com</li>
 <li> 16:29 outlook.office365.com</li>
-<li> 16:29 rhul.hosted.panopto.com</li>
-<li class='same'> 16:28 rhul.hosted.panopto.com</li>
 </ul>
