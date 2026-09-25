@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5367)</li>
-<li>mail.google.com (5358)</li>
+<li>mail.google.com (5362)</li>
 <li>www.google.com (5062)</li>
-<li>outlook.office365.com (4438)</li>
+<li>outlook.office365.com (4435)</li>
 <li>duckduckgo.com (3950)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3286)</li>
-<li>chatgpt.com (2889)</li>
-<li>www.linkedin.com (2363)</li>
+<li>chatgpt.com (2891)</li>
+<li>www.linkedin.com (2367)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1774)</li>
 <li>www.facebook.com (1726)</li>
-<li>calendar.google.com (1565)</li>
+<li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1408)</li>
-<li>chat.openai.com (1333)</li>
+<li>chat.openai.com (1332)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1133)</li>
+<li>gmail.com (1134)</li>
 <li>web.whatsapp.com (1126)</li>
 <li>mail.rhul.ac.uk (959)</li>
 <li>tvtropes.org (880)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:15 rhul.sharepoint.com</li>
+<ul><li> 15:53 mail.google.com</li>
+<li class='same'> 15:51 mail.google.com</li>
+<li> 15:51 <a href="https://joereddington.com/2026/09/25/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 15:51 <a href="https://joereddington.com/2026/09/18/grat.html">Gratitude | Joe Reddington</a></li>
+<li> 15:51 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 15:50 secure.terrapinn.com</li>
+<li> 15:50 www.linkedin.com</li>
+<li class='same'> 15:46 www.linkedin.com</li>
+<li> 15:46 Local file</li>
+<li> 15:46 www.linkedin.com</li>
+<li class='same'> 15:45 www.linkedin.com</li>
+<li> 15:40 www.feynmanlectures.caltech.edu</li>
+<li> 15:38 <a href="https://joereddington.com/2026/09/15/promotion.html">Promotion | Joe Reddington</a></li>
+<li> 15:38 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 15:38 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:37 mail.google.com</li>
+<li class='same'> 15:36 mail.google.com</li>
+<li> 15:36 gmail.com</li>
+<li> 15:33 calendar.google.com</li>
+<li class='same'> 15:31 calendar.google.com</li>
+<li> 15:30 chatgpt.com</li>
+<li> 15:30 blackhat.informafestivals.com</li>
+<li> 15:30 blackhat.com</li>
+<li> 15:28 research.edgehill.ac.uk</li>
+<li> 15:27 chatgpt.com</li>
+<li> 15:15 rhul.sharepoint.com</li>
 <li> 15:15 login.microsoftonline.com</li>
 <li> 15:15 device.login.microsoftonline.com</li>
 <li> 15:15 rhul.sharepoint.com</li>
@@ -124211,15 +124236,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:20 outlook.office365.com</li>
 <li> 16:15 rhul-my.sharepoint.com</li>
 <li> 16:10 chatgpt.com</li>
-<li> 16:10 chat.openai.com</li>
-<li> 16:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 16:07 outlook.office365.com</li>
-<li> 16:07 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 16:07 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 16:07 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 16:07 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 16:06 calendar.google.com</li>
-<li> 16:06 outlook.office365.com</li>
-<li class='same'> 16:05 outlook.office365.com</li>
-<li> 16:04 cisse.info</li>
 </ul>
