@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5367)</li>
-<li>mail.google.com (5351)</li>
+<li>mail.google.com (5358)</li>
 <li>www.google.com (5062)</li>
 <li>outlook.office365.com (4438)</li>
-<li>duckduckgo.com (3949)</li>
+<li>duckduckgo.com (3950)</li>
 <li>outlook.office.com (3901)</li>
-<li>docs.google.com (3285)</li>
-<li>chatgpt.com (2885)</li>
-<li>www.linkedin.com (2362)</li>
+<li>docs.google.com (3286)</li>
+<li>chatgpt.com (2887)</li>
+<li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1774)</li>
 <li>www.facebook.com (1726)</li>
-<li>calendar.google.com (1564)</li>
+<li>calendar.google.com (1565)</li>
 <li>login.microsoftonline.com (1407)</li>
-<li>chat.openai.com (1331)</li>
+<li>chat.openai.com (1332)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1131)</li>
+<li>gmail.com (1133)</li>
 <li>web.whatsapp.com (1126)</li>
 <li>mail.rhul.ac.uk (959)</li>
 <li>tvtropes.org (880)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (505)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (466)</li>
+<li>drive.google.com (467)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:50 dashboards.rhul.ac.uk</li>
+<ul><li> 14:25 www.linkedin.com</li>
+<li> 14:24 mail.google.com</li>
+<li> 14:24 calendar.google.com</li>
+<li> 14:22 mail.google.com</li>
+<li> 14:21 chatgpt.com</li>
+<li class='same'> 14:20 chatgpt.com</li>
+<li> 14:20 chat.openai.com</li>
+<li> 14:20 mail.google.com</li>
+<li class='same'> 14:12 mail.google.com</li>
+<li class='same'> 14:07 mail.google.com</li>
+<li> 14:07 gmail.com</li>
+<li> 14:07 libraries.surreycc.gov.uk</li>
+<li> 14:07 www.surreycc.gov.uk</li>
+<li> 14:07 duckduckgo.com</li>
+<li> 14:06 mail.google.com</li>
+<li class='same'> 14:05 mail.google.com</li>
+<li> 14:05 gmail.com</li>
+<li> 14:02 docs.google.com</li>
+<li> 14:02 drive.google.com</li>
+<li> 13:50 dashboards.rhul.ac.uk</li>
 <li class='same'> 13:49 dashboards.rhul.ac.uk</li>
 </ul>
 
