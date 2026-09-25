@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1773)</li>
 <li>www.facebook.com (1726)</li>
 <li>calendar.google.com (1567)</li>
-<li>login.microsoftonline.com (1410)</li>
+<li>login.microsoftonline.com (1412)</li>
 <li>chat.openai.com (1333)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 25/09/26</H3>
+
+<br>
+
+<ul><li> 17:56 127.0.0.1:8000</li>
+<li> 17:55 learningonscreen.ac.uk</li>
+<li class='same'> 17:54 learningonscreen.ac.uk</li>
+<li class='same'> 17:53 learningonscreen.ac.uk</li>
+<li class='same'> 17:52 learningonscreen.ac.uk</li>
+<li class='same'> 17:51 learningonscreen.ac.uk</li>
+<li> 17:51 login.learningonscreen.ac.uk</li>
+<li> 17:51 learningonscreen.ac.uk</li>
+<li> 17:51 connect.openathens.net</li>
+<li> 17:51 login.openathens.net</li>
+<li> 17:51 login.microsoftonline.com</li>
+<li> 17:51 device.login.microsoftonline.com</li>
+<li> 17:51 login.openathens.net</li>
+<li> 17:51 login.microsoftonline.com</li>
+<li> 17:51 connect.openathens.net</li>
+<li> 17:51 login.learningonscreen.ac.uk</li>
+<li> 17:51 connect.openathens.net</li>
+<li> 17:51 login.learningonscreen.ac.uk</li>
+<li> 17:50 learningonscreen.ac.uk</li>
+<li> 17:50 fast.com</li>
+<li> 17:50 192.168.178.1</li>
+</ul>
 
 <br>
 
