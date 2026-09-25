@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5356)</li>
 <li>mail.google.com (5351)</li>
-<li>www.google.com (5061)</li>
+<li>www.google.com (5062)</li>
 <li>outlook.office365.com (4437)</li>
 <li>duckduckgo.com (3949)</li>
 <li>outlook.office.com (3901)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:24 casper.cs.rhul.ac.uk</li>
+<ul><li> 12:26 localhost:8443</li>
+<li class='same'> 12:25 localhost:8443</li>
+<li class='same'> 12:24 localhost:8443</li>
+<li> 12:23 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:41 casper.cs.rhul.ac.uk</li>
+<li> 11:33 fast.com</li>
+<li> 11:24 casper.cs.rhul.ac.uk</li>
 <li> 11:24 localhost:8443</li>
 <li class='same'> 11:13 localhost:8443</li>
 <li class='same'> 11:09 localhost:8443</li>
@@ -126,11 +136,18 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:13 duckduckgo.com</li>
 <li class='same'> 10:12 duckduckgo.com</li>
 <li> 10:01 fast.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:09 m.youtube.com</li>
+<li> 09:47 intranet.royalholloway.ac.uk</li>
+<li> 09:47 www.diy.com</li>
+<li> 09:47 intranet.royalholloway.ac.uk</li>
+<li> 09:21 www.diy.com</li>
+<li class='same'> 09:18 www.diy.com</li>
+<li class='same'> 09:17 www.diy.com</li>
+<li class='same'> 09:16 www.diy.com</li>
+<li class='same'> 09:14 www.diy.com</li>
+<li class='same'> 09:13 www.diy.com</li>
+<li class='same'> 09:09 www.diy.com</li>
+<li> 09:09 www.google.com</li>
+<li> 09:09 m.youtube.com</li>
 </ul>
 
 <br>
