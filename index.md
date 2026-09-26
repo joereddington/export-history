@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5413)</li>
-<li>mail.google.com (5366)</li>
+<li>mail.google.com (5364)</li>
 <li>www.google.com (5060)</li>
-<li>outlook.office365.com (4429)</li>
+<li>outlook.office365.com (4426)</li>
 <li>duckduckgo.com (3951)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3287)</li>
-<li>chatgpt.com (2894)</li>
+<li>chatgpt.com (2893)</li>
 <li>www.linkedin.com (2368)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1773)</li>
 <li>www.facebook.com (1727)</li>
 <li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1412)</li>
-<li>chat.openai.com (1334)</li>
+<li>chat.openai.com (1333)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1134)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (959)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
-<li>rhul-my.sharepoint.com (820)</li>
-<li>forms.office.com (755)</li>
+<li>rhul-my.sharepoint.com (819)</li>
+<li>forms.office.com (753)</li>
 <li>rhul.sharepoint.com (607)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:08 127.0.0.1:8000</li>
+<ul><li> 12:51 localhost:8000</li>
+<li> 12:31 127.0.0.1:8000</li>
+<li class='same'> 12:08 127.0.0.1:8000</li>
 </ul>
 
 <br>
@@ -124329,23 +124331,4 @@ With number of accesses/minutes in parentheses
 <li> 17:16 mail.rhul.ac.uk</li>
 <li> 17:16 www.linkedin.com</li>
 <li> 17:06 chatgpt.com</li>
-<li> 17:06 chat.openai.com</li>
-<li> 17:05 rhul-my.sharepoint.com</li>
-<li> 17:05 forms.office.com</li>
-<li> 17:03 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:03 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 17:03 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:03 experience.elluciancloud.ie</li>
-<li> 17:03 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 17:03 experience.elluciancloud.ie</li>
-<li> 17:03 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:00 forms.office.com</li>
-<li> 16:55 outlook.office365.com</li>
-<li> 16:54 rhul.hosted.panopto.com</li>
-<li> 16:53 outlook.office365.com</li>
-<li> 16:49 chatgpt.com</li>
-<li> 16:49 github.com</li>
-<li> 16:49 mail.google.com</li>
-<li> 16:48 outlook.office365.com</li>
-<li> 16:44 mail.google.com</li>
 </ul>
