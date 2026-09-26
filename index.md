@@ -71,21 +71,21 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5422)</li>
 <li>mail.google.com (5364)</li>
 <li>www.google.com (5062)</li>
-<li>outlook.office365.com (4413)</li>
-<li>duckduckgo.com (3953)</li>
+<li>outlook.office365.com (4412)</li>
+<li>duckduckgo.com (3954)</li>
 <li>outlook.office.com (3901)</li>
-<li>docs.google.com (3288)</li>
-<li>chatgpt.com (2892)</li>
+<li>docs.google.com (3287)</li>
+<li>chatgpt.com (2894)</li>
 <li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1772)</li>
+<li>moodle.royalholloway.ac.uk (1771)</li>
 <li>www.facebook.com (1727)</li>
 <li>calendar.google.com (1571)</li>
 <li>login.microsoftonline.com (1412)</li>
-<li>chat.openai.com (1333)</li>
-<li>www.amazon.co.uk (1325)</li>
+<li>chat.openai.com (1335)</li>
+<li>www.amazon.co.uk (1324)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1135)</li>
+<li>gmail.com (1133)</li>
 <li>web.whatsapp.com (1124)</li>
 <li>mail.rhul.ac.uk (957)</li>
 <li>tvtropes.org (880)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 www.patreon.com</li>
+<ul><li> 16:58 www.feynmanlectures.caltech.edu</li>
+<li class='same'> 16:57 www.feynmanlectures.caltech.edu</li>
+<li> 16:57 chatgpt.com</li>
+<li> 16:57 chat.openai.com</li>
+<li> 16:57 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 16:11 pscopenmeetresults.co.uk</li>
+<li class='same'> 16:05 pscopenmeetresults.co.uk</li>
+<li> 16:04 www.google.com</li>
+<li> 16:04 pscopenmeetresults.co.uk</li>
+<li> 16:04 mail.google.com</li>
+<li> 16:04 www.google.com</li>
+<li> 16:04 uk.gomotionapp.com</li>
+<li> 16:04 mail.google.com</li>
+<li class='same'> 16:03 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:18 vimeo.com</li>
+<li> 15:18 www.patreon.com</li>
+<li> 15:13 chatgpt.com</li>
+<li> 15:13 chat.openai.com</li>
+<li> 15:05 houseprices.anna.ps</li>
+<li> 15:04 www.linkedin.com</li>
+<li> 15:03 calendar.google.com</li>
+<li> 15:03 www.timeanddate.com</li>
+<li class='same'> 15:02 www.timeanddate.com</li>
+<li> 15:02 duckduckgo.com</li>
+<li> 15:01 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:00 www.patreon.com</li>
+<li class='same'> 14:59 www.patreon.com</li>
 <li> 14:59 checkout.paypal.com</li>
 <li> 14:59 www.paypal.com</li>
 <li> 14:59 checkout.paypal.com</li>
@@ -124323,20 +124357,4 @@ With number of accesses/minutes in parentheses
 <li> 19:02 calendar.google.com</li>
 <li> 19:02 mail.google.com</li>
 <li> 19:01 eu.docusign.net</li>
-<li> 19:01 mail.google.com</li>
-<li> 18:59 www.amazon.co.uk</li>
-<li> 18:59 www.google.com</li>
-<li class='same'> 18:58 www.google.com</li>
-<li> 18:58 docs.google.com</li>
-<li> 18:58 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 18:58 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 18:58 mail.google.com</li>
-<li> 18:58 gmail.com</li>
-<li> 18:58 mail.google.com</li>
-<li> 18:58 gmail.com</li>
-<li> 18:57 www.linkedin.com</li>
-<li> 18:57 outlook.office365.com</li>
-<li> 18:55 moodle.royalholloway.ac.uk</li>
-<li> 18:55 projects.cs.rhul.ac.uk</li>
-<li> 18:50 calendar.google.com</li>
 </ul>
