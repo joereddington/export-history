@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5404)</li>
+<ol><li>www.reddit.com (5403)</li>
 <li>mail.google.com (5366)</li>
-<li>www.google.com (5063)</li>
-<li>outlook.office365.com (4430)</li>
+<li>www.google.com (5061)</li>
+<li>outlook.office365.com (4429)</li>
 <li>duckduckgo.com (3951)</li>
 <li>outlook.office.com (3901)</li>
 <li>docs.google.com (3287)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:28 houseprices.anna.ps</li>
+<ul><li> 08:34 mail.google.com</li>
+<li> 08:33 127.0.0.1:8000</li>
+<li> 08:28 houseprices.anna.ps</li>
 <li> 08:26 libraries.surreycc.gov.uk</li>
 <li> 08:26 www.surreycc.gov.uk</li>
 <li> 08:26 duckduckgo.com</li>
@@ -12179,11 +12181,7 @@ With number of accesses/minutes in parentheses
 <li> 15:25 chatgpt.com</li>
 <li> 15:25 chat.openai.com</li>
 <li> 15:23 mail.google.com</li>
-<li> 15:22 pscopenmeetresults.co.uk</li>
-<li class='same'> 15:15 pscopenmeetresults.co.uk</li>
-<li class='same'> 15:14 pscopenmeetresults.co.uk</li>
-<li class='same'> 15:13 pscopenmeetresults.co.uk</li>
-<li> 15:13 www.google.com</li>
+<li> 15:13 pscopenmeetresults.co.uk</li>
 <li> 15:13 uk.gomotionapp.com</li>
 <li> 15:13 mail.google.com</li>
 <li class='same'> 15:12 mail.google.com</li>
@@ -124333,10 +124331,4 @@ With number of accesses/minutes in parentheses
 <li> 16:40 experience.elluciancloud.ie</li>
 <li> 16:38 www.google.com</li>
 <li> 16:38 store.nintendo.co.uk</li>
-<li> 16:38 www.reddit.com</li>
-<li> 16:38 www.google.com</li>
-<li> 16:33 outlook.office365.com</li>
-<li> 16:33 github.com</li>
-<li class='same'> 16:31 github.com</li>
-<li> 16:31 mail.google.com</li>
 </ul>
