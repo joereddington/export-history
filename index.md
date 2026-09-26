@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5422)</li>
 <li>mail.google.com (5364)</li>
-<li>www.google.com (5065)</li>
-<li>outlook.office365.com (4426)</li>
-<li>duckduckgo.com (3951)</li>
+<li>www.google.com (5062)</li>
+<li>outlook.office365.com (4413)</li>
+<li>duckduckgo.com (3953)</li>
 <li>outlook.office.com (3901)</li>
-<li>docs.google.com (3287)</li>
+<li>docs.google.com (3288)</li>
 <li>chatgpt.com (2892)</li>
-<li>www.linkedin.com (2367)</li>
+<li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1773)</li>
+<li>moodle.royalholloway.ac.uk (1772)</li>
 <li>www.facebook.com (1727)</li>
-<li>calendar.google.com (1566)</li>
+<li>calendar.google.com (1571)</li>
 <li>login.microsoftonline.com (1412)</li>
 <li>chat.openai.com (1333)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1134)</li>
-<li>web.whatsapp.com (1126)</li>
-<li>mail.rhul.ac.uk (958)</li>
+<li>gmail.com (1135)</li>
+<li>web.whatsapp.com (1124)</li>
+<li>mail.rhul.ac.uk (957)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
 <li>rhul-my.sharepoint.com (819)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (607)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (505)</li>
+<li>www.theguardian.com (504)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (467)</li>
 
@@ -105,6 +105,38 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 26/09/26</H3>
+
+<br>
+
+<ul><li> 14:59 www.patreon.com</li>
+<li> 14:59 checkout.paypal.com</li>
+<li> 14:59 www.paypal.com</li>
+<li> 14:59 checkout.paypal.com</li>
+<li> 14:59 www.patreon.com</li>
+<li> 14:59 mail.google.com</li>
+<li> 14:59 gmail.com</li>
+<li> 14:58 www.patreon.com</li>
+<li> 14:57 chatgpt.com</li>
+<li> 14:56 www.patreon.com</li>
+<li> 14:56 duckduckgo.com</li>
+<li> 14:52 www.goodreads.com</li>
+<li> 14:52 docs.google.com</li>
+<li> 14:52 www.goodreads.com</li>
+<li> 14:51 libbyapp.com</li>
+<li> 14:50 calendar.google.com</li>
+<li class='same'> 14:46 calendar.google.com</li>
+<li class='same'> 14:45 calendar.google.com</li>
+<li> 14:45 www.easyjet.com</li>
+<li> 14:45 duckduckgo.com</li>
+<li> 14:44 chatgpt.com</li>
+<li> 14:44 chat.openai.com</li>
+<li> 14:44 calendar.google.com</li>
+<li class='same'> 14:43 calendar.google.com</li>
+<li> 14:39 www.linkedin.com</li>
+<li class='same'> 14:38 www.linkedin.com</li>
+<li> 14:38 houseprices.anna.ps</li>
+<li> 14:37 www.giantitp.com</li>
+</ul>
 
 <br>
 
@@ -124307,48 +124339,4 @@ With number of accesses/minutes in parentheses
 <li> 18:55 moodle.royalholloway.ac.uk</li>
 <li> 18:55 projects.cs.rhul.ac.uk</li>
 <li> 18:50 calendar.google.com</li>
-<li> 18:49 outlook.office365.com</li>
-<li class='same'> 18:48 outlook.office365.com</li>
-<li class='same'> 18:47 outlook.office365.com</li>
-<li class='same'> 18:46 outlook.office365.com</li>
-<li class='same'> 18:38 outlook.office365.com</li>
-<li> 18:17 moodle.royalholloway.ac.uk</li>
-<li> 18:07 projects.cs.rhul.ac.uk</li>
-<li> 18:07 outlook.office365.com</li>
-<li> 18:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 18:06 web.whatsapp.com</li>
-<li> 18:04 experience.elluciancloud.ie</li>
-<li> 18:04 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 17:48 chatgpt.com</li>
-<li> 17:48 outlook.office365.com</li>
-<li> 17:48 www.linkedin.com</li>
-<li> 17:48 dashboards.rhul.ac.uk</li>
-<li> 17:48 outlook.office365.com</li>
-<li class='same'> 17:47 outlook.office365.com</li>
-<li> 17:47 dashboards.rhul.ac.uk</li>
-<li> 17:47 outlook.office365.com</li>
-<li> 17:47 www.linkedin.com</li>
-<li> 17:46 outlook.office365.com</li>
-<li class='same'> 17:45 outlook.office365.com</li>
-<li> 17:45 mail.rhul.ac.uk</li>
-<li> 17:45 mail.google.com</li>
-<li> 17:45 www.linkedin.com</li>
-<li class='same'> 17:44 www.linkedin.com</li>
-<li class='same'> 17:43 www.linkedin.com</li>
-<li class='same'> 17:42 www.linkedin.com</li>
-<li> 17:40 www.theguardian.com</li>
-<li> 17:40 www.linkedin.com</li>
-<li> 17:37 brewhome.onelink.me</li>
-<li> 17:37 brew.sh</li>
-<li> 17:37 ad.doubleclick.net</li>
-<li> 17:37 www.google.com</li>
-<li> 17:35 www.linkedin.com</li>
-<li> 17:34 jekyllrb.com</li>
-<li> 17:34 www.smashingmagazine.com</li>
-<li> 17:34 www.google.com</li>
-<li> 17:33 chatgpt.com</li>
-<li> 17:33 chat.openai.com</li>
-<li> 17:32 www.google.com</li>
-<li> 17:31 web.whatsapp.com</li>
-<li> 17:16 outlook.office365.com</li>
 </ul>
