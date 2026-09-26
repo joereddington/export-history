@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5403)</li>
+<ol><li>www.reddit.com (5414)</li>
 <li>mail.google.com (5366)</li>
 <li>www.google.com (5061)</li>
 <li>outlook.office365.com (4429)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:34 mail.google.com</li>
+<ul><li class='same'> 09:04 www.reddit.com</li>
+<li> 08:55 127.0.0.1:8000</li>
+<li> 08:34 mail.google.com</li>
 <li> 08:33 127.0.0.1:8000</li>
 <li> 08:28 houseprices.anna.ps</li>
 <li> 08:26 libraries.surreycc.gov.uk</li>
@@ -135,7 +137,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:20 www.reddit.com</li>
+<ul><li> 07:35 www.reddit.com</li>
+<li class='same'> 07:34 www.reddit.com</li>
+<li class='same'> 07:33 www.reddit.com</li>
+<li class='same'> 07:32 www.reddit.com</li>
+<li class='same'> 07:31 www.reddit.com</li>
+<li class='same'> 07:30 www.reddit.com</li>
+<li class='same'> 07:29 www.reddit.com</li>
+<li class='same'> 07:20 www.reddit.com</li>
 <li class='same'> 07:15 www.reddit.com</li>
 <li class='same'> 07:13 www.reddit.com</li>
 <li class='same'> 07:10 www.reddit.com</li>
@@ -124331,4 +124340,27 @@ With number of accesses/minutes in parentheses
 <li> 16:40 experience.elluciancloud.ie</li>
 <li> 16:38 www.google.com</li>
 <li> 16:38 store.nintendo.co.uk</li>
+</ul>
+
+<H3>Tuesday, 15/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 06:36 www.reddit.com</li>
+</ul>
+
+<H3>Friday, 11/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 18:02 www.reddit.com</li>
+<li class='same'> 18:01 www.reddit.com</li>
 </ul>
