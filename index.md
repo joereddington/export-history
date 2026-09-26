@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5416)</li>
+<ol><li>www.reddit.com (5413)</li>
 <li>mail.google.com (5366)</li>
-<li>www.google.com (5061)</li>
+<li>www.google.com (5060)</li>
 <li>outlook.office365.com (4429)</li>
 <li>duckduckgo.com (3951)</li>
 <li>outlook.office.com (3901)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 26/09/26</H3>
+
+<br>
+
+<ul><li> 12:08 127.0.0.1:8000</li>
+</ul>
 
 <br>
 
@@ -124343,31 +124348,4 @@ With number of accesses/minutes in parentheses
 <li> 16:49 mail.google.com</li>
 <li> 16:48 outlook.office365.com</li>
 <li> 16:44 mail.google.com</li>
-<li> 16:40 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 16:40 experience.elluciancloud.ie</li>
-<li> 16:38 www.google.com</li>
-<li> 16:38 store.nintendo.co.uk</li>
-</ul>
-
-<H3>Tuesday, 15/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 06:36 www.reddit.com</li>
-</ul>
-
-<H3>Friday, 11/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 18:02 www.reddit.com</li>
-<li class='same'> 18:01 www.reddit.com</li>
 </ul>
