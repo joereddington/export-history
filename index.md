@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5443)</li>
 <li>mail.google.com (5345)</li>
-<li>www.google.com (5049)</li>
+<li>www.google.com (5047)</li>
 <li>outlook.office365.com (4412)</li>
 <li>duckduckgo.com (3960)</li>
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2901)</li>
-<li>www.linkedin.com (2363)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1732)</li>
-<li>calendar.google.com (1569)</li>
+<li>calendar.google.com (1570)</li>
 <li>login.microsoftonline.com (1416)</li>
 <li>chat.openai.com (1339)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:59 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 09:26 www.linkedin.com</li>
+<li> 09:21 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 09:20 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 09:19 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 09:18 fyp.cs.rhul.ac.uk</li>
+<li> 09:17 dashboards.rhul.ac.uk</li>
+<li class='same'> 09:16 dashboards.rhul.ac.uk</li>
+<li> 09:16 fyp.cs.rhul.ac.uk</li>
+<li> 09:15 dashboards.rhul.ac.uk</li>
+<li> 09:15 fyp.cs.rhul.ac.uk</li>
+<li> 09:01 rallly.co</li>
+<li> 09:01 eur03.safelinks.protection.outlook.com</li>
+<li> 09:01 app.rallly.co</li>
+<li> 09:01 calendar.google.com</li>
+<li> 08:59 webtimetables.royalholloway.ac.uk</li>
 <li> 08:57 casper.cs.rhul.ac.uk</li>
 <li> 08:57 duckduckgo.com</li>
 <li> 08:57 dashboards.rhul.ac.uk</li>
@@ -124379,19 +124393,4 @@ With number of accesses/minutes in parentheses
 <li> 06:12 gmail.com</li>
 <li> 06:12 mail.google.com</li>
 <li> 06:11 outlook.office365.com</li>
-</ul>
-
-<H3>Sunday, 03/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 17:57 x.com</li>
-<li> 17:57 www.natesilver.net</li>
-<li> 17:57 www.google.com</li>
-<li> 17:57 www.natesilver.net</li>
-<li> 17:57 www.google.com</li>
 </ul>
