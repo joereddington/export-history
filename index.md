@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5440)</li>
+<ol><li>www.reddit.com (5442)</li>
 <li>mail.google.com (5340)</li>
 <li>www.google.com (5047)</li>
 <li>outlook.office365.com (4411)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2902)</li>
-<li>www.linkedin.com (2362)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1730)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:28 www.linkedin.com</li>
+<ul><li> 13:55 casper.cs.rhul.ac.uk</li>
+<li> 13:48 www.linkedin.com</li>
+<li> 13:34 www.reddit.com</li>
+<li class='same'> 13:33 www.reddit.com</li>
+<li> 13:31 www.linkedin.com</li>
+<li> 13:29 casper.cs.rhul.ac.uk</li>
+<li> 13:28 fyp.cs.rhul.ac.uk</li>
+<li> 13:28 www.linkedin.com</li>
 <li class='same'> 13:14 www.linkedin.com</li>
 <li> 13:12 casper.cs.rhul.ac.uk</li>
 <li> 13:10 webapp.cim.rhul.ac.uk</li>
