@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5440)</li>
 <li>mail.google.com (5345)</li>
-<li>www.google.com (5056)</li>
+<li>www.google.com (5054)</li>
 <li>outlook.office365.com (4412)</li>
 <li>duckduckgo.com (3954)</li>
 <li>outlook.office.com (3900)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2896)</li>
-<li>www.linkedin.com (2357)</li>
+<li>chatgpt.com (2897)</li>
+<li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1728)</li>
 <li>calendar.google.com (1570)</li>
 <li>login.microsoftonline.com (1416)</li>
 <li>chat.openai.com (1336)</li>
-<li>www.amazon.co.uk (1321)</li>
+<li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1121)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 28/09/26</H3>
+
+<br>
+
+<ul><li> 06:57 www.linkedin.com</li>
+</ul>
+
 <H3>Sunday, 27/09/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:56 www.natesilver.net</li>
+<li> 21:56 www.parkrun.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 21:10 casper.cs.rhul.ac.uk</li>
+<li> 21:08 webtimetables.royalholloway.ac.uk</li>
+<li> 21:07 casper.cs.rhul.ac.uk</li>
+<li class='same'> 21:05 casper.cs.rhul.ac.uk</li>
+<li> 21:04 uk.gomotionapp.com</li>
+<li> 21:03 192.168.178.1</li>
+<li> 21:03 chatgpt.com</li>
+</ul>
 
 <br>
 
@@ -12167,8 +12195,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:31 addons.mozilla.org</li>
 <li> 12:30 www.linkedin.com</li>
 <li class='same'> 12:29 www.linkedin.com</li>
-<li> 12:29 www.ebay.co.uk</li>
-<li class='same'> 12:28 www.ebay.co.uk</li>
+<li> 12:28 www.ebay.co.uk</li>
 <li> 12:28 www.amazon.co.uk</li>
 <li> 12:28 www.ebay.co.uk</li>
 <li> 12:28 www.amazon.co.uk</li>
@@ -12196,7 +12223,6 @@ With number of accesses/minutes in parentheses
 <li> 12:14 <a href="https://en.wikipedia.org/wiki/Wikipedia:Sockpuppet_investigations/Medcurity_HIPAA_Compliance#c-Dreamyshade-20260629041800-Suspected_sockpuppets-DoesNotExist-DiscussionToolsHack">Wikipedia:Sockpuppet investigations/Medcurity HIPAA Compliance - Wikipedia</a></li>
 <li> 12:14 <a href="https://en.wikipedia.org/wiki/Wikipedia:Sockpuppet_investigations/Medcurity_HIPAA_Compliance">Wikipedia:Sockpuppet investigations/Medcurity HIPAA Compliance - Wikipedia</a></li>
 <li> 12:13 <a href="https://en.wikipedia.org/wiki/Wikipedia:Sockpuppet_investigations/Medcurity_HIPAA_Compliance#c-Dreamyshade-20260629041800-Suspected_sockpuppets">Wikipedia:Sockpuppet investigations/Medcurity HIPAA Compliance - Wikipedia</a></li>
-<li> 12:13 <a href="https://en.wikipedia.org/wiki/Special:GoToComment/c-Dreamyshade-20260629041800"></a></li>
 <li> 12:13 <a href="https://en.wikipedia.org/wiki/User:Jgellatly">User:Jgellatly - Wikipedia</a></li>
 <li> 12:12 <a href="https://en.wikipedia.org/wiki/Wikipedia:AI_noticeboard#User:Jgellatly">Wikipedia:AI noticeboard - Wikipedia</a></li>
 <li> 12:11 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_security#Regulatory_requirements_sections">Wikipedia talk:WikiProject Computer security - Wikipedia</a></li>
@@ -12218,7 +12244,6 @@ With number of accesses/minutes in parentheses
 <li> 11:27 chat.openai.com</li>
 <li> 11:26 <a href="https://en.wikipedia.org/wiki/Insider_threat#Research">Insider threat - Wikipedia</a></li>
 <li> 11:26 <a href="https://en.wikipedia.org/w/index.php?title=Insider_threat&amp;action=edit&amp;section=2">Editing Insider threat - Wikipedia</a></li>
-<li> 11:24 www.fortinet.com</li>
 <li> 11:24 fritz.box</li>
 <li> 11:24 <a href="https://en.wikipedia.org/wiki/Insider_threat#Research">Insider threat - Wikipedia</a></li>
 <li> 11:24 <a href="https://en.wikipedia.org/w/index.php?title=Insider_threat&amp;action=edit&amp;section=2">Editing Insider threat - Wikipedia</a></li>
@@ -12242,7 +12267,6 @@ With number of accesses/minutes in parentheses
 <li> 11:19 www.sei.cmu.edu</li>
 <li> 11:19 www.cert.org</li>
 <li> 11:19 www.sei.cmu.edu</li>
-<li> 11:19 www.cert.org</li>
 <li> 11:19 <a href="https://en.wikipedia.org/wiki/Insider_threat#Research">Insider threat - Wikipedia</a></li>
 <li> 11:19 <a href="https://en.wikipedia.org/w/index.php?title=Insider_threat&amp;action=edit&amp;section=2">Editing Insider threat - Wikipedia</a></li>
 <li> 11:19 <a href="https://en.wikipedia.org/wiki/Insider_threat#Overview">Insider threat - Wikipedia</a></li>
@@ -12290,7 +12314,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:48 uk.trustpilot.com</li>
-<li> 09:48 link.trustpilot.com</li>
 <li> 09:48 www.ndsportstherapy.com</li>
 <li> 09:46 a2.mhs.com</li>
 <li class='same'> 09:45 a2.mhs.com</li>
@@ -124367,8 +124390,4 @@ With number of accesses/minutes in parentheses
 <li> 17:00 www.google.com</li>
 <li> 16:57 www.amazon.co.uk</li>
 <li class='same'> 16:56 www.amazon.co.uk</li>
-<li> 16:56 www.google.com</li>
-<li> 16:54 www.amazon.co.uk</li>
-<li> 16:53 www.google.com</li>
-<li> 16:53 www.amazon.co.uk</li>
 </ul>
