@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5442)</li>
-<li>mail.google.com (5339)</li>
-<li>www.google.com (5044)</li>
+<ol><li>www.reddit.com (5445)</li>
+<li>mail.google.com (5337)</li>
+<li>www.google.com (5043)</li>
 <li>outlook.office365.com (4411)</li>
-<li>duckduckgo.com (3962)</li>
+<li>duckduckgo.com (3963)</li>
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2905)</li>
-<li>www.linkedin.com (2366)</li>
+<li>www.linkedin.com (2367)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1726)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1339)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1129)</li>
+<li>gmail.com (1128)</li>
 <li>web.whatsapp.com (1121)</li>
 <li>mail.rhul.ac.uk (957)</li>
 <li>tvtropes.org (880)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (504)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (468)</li>
+<li>drive.google.com (467)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:28 duckduckgo.com</li>
+<ul><li> 17:53 www.reddit.com</li>
+<li class='same'> 17:52 www.reddit.com</li>
+<li class='same'> 17:49 www.reddit.com</li>
+<li class='same'> 17:47 www.reddit.com</li>
+<li class='same'> 17:46 www.reddit.com</li>
+<li> 17:40 duckduckgo.com</li>
+<li> 17:39 intranet.royalholloway.ac.uk</li>
+<li> 17:31 www.linkedin.com</li>
+<li> 17:28 www.royalholloway.ac.uk</li>
+<li> 17:28 duckduckgo.com</li>
 <li> 17:28 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 17:27 webtimetables.royalholloway.ac.uk</li>
 <li> 17:27 calendar.google.com</li>
@@ -124413,13 +124422,4 @@ With number of accesses/minutes in parentheses
 <li> 07:37 gmail.com</li>
 <li> 07:34 support.apple.com</li>
 <li> 07:34 www.google.com</li>
-<li class='same'> 07:24 www.google.com</li>
-<li> 07:15 <a href="https://joereddington.com/Comics/2024-08-07.html">2024-08-07 | Joe’s Comics</a></li>
-<li> 07:15 <a href="https://joereddington.com/Comics/">2022-05-01 | Joe’s Comics</a></li>
-<li> 07:14 drive.google.com</li>
-<li> 07:05 www.reddit.com</li>
-<li class='same'> 07:03 www.reddit.com</li>
-<li> 07:03 mail.google.com</li>
-<li class='same'> 07:01 mail.google.com</li>
-<li> 07:01 gmail.com</li>
 </ul>
