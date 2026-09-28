@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5440)</li>
-<li>mail.google.com (5341)</li>
+<li>mail.google.com (5340)</li>
 <li>www.google.com (5047)</li>
 <li>outlook.office365.com (4411)</li>
 <li>duckduckgo.com (3960)</li>
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2902)</li>
-<li>www.linkedin.com (2366)</li>
+<li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1730)</li>
@@ -108,12 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:01 chatgpt.com</li>
+<ul><li> 13:28 www.linkedin.com</li>
+<li class='same'> 13:14 www.linkedin.com</li>
+<li> 13:12 casper.cs.rhul.ac.uk</li>
+<li> 13:10 webapp.cim.rhul.ac.uk</li>
+<li> 13:10 134.219.148.105</li>
+<li> 13:01 fyp.cs.rhul.ac.uk</li>
+<li> 12:59 casper.cs.rhul.ac.uk</li>
 </ul>
 
 <br>
 
-<ul><li> 11:18 casper.cs.rhul.ac.uk</li>
+<ul><li> 12:17 fast.com</li>
+<li> 12:17 www.markmonitor.com</li>
+<li> 12:01 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:25 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:18 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:09 casper.cs.rhul.ac.uk</li>
 <li class='same'> 11:05 casper.cs.rhul.ac.uk</li>
 </ul>
 
@@ -178,7 +193,8 @@ With number of accesses/minutes in parentheses
 <li> 08:08 duckduckgo.com</li>
 <li class='same'> 08:07 duckduckgo.com</li>
 <li> 08:05 webtimetables.royalholloway.ac.uk</li>
-<li> 07:47 casper.cs.rhul.ac.uk</li>
+<li> 07:48 casper.cs.rhul.ac.uk</li>
+<li class='same'> 07:47 casper.cs.rhul.ac.uk</li>
 <li> 07:46 chatgpt.com</li>
 <li> 07:46 casper.cs.rhul.ac.uk</li>
 <li> 07:46 chatgpt.com</li>
@@ -124394,12 +124410,4 @@ With number of accesses/minutes in parentheses
 <li> 06:29 www.google.com</li>
 <li> 06:29 www.facebook.com</li>
 <li> 06:29 mail.google.com</li>
-<li> 06:27 www.linkedin.com</li>
-<li class='same'> 06:26 www.linkedin.com</li>
-<li class='same'> 06:25 www.linkedin.com</li>
-<li class='same'> 06:24 www.linkedin.com</li>
-<li> 06:24 www.paypal.com</li>
-<li> 06:24 www.linkedin.com</li>
-<li class='same'> 06:23 www.linkedin.com</li>
-<li> 06:22 mail.google.com</li>
 </ul>
