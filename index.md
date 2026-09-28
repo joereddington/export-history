@@ -72,17 +72,17 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5340)</li>
 <li>www.google.com (5047)</li>
 <li>outlook.office365.com (4411)</li>
-<li>duckduckgo.com (3960)</li>
+<li>duckduckgo.com (3961)</li>
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2902)</li>
-<li>www.linkedin.com (2364)</li>
+<li>chatgpt.com (2904)</li>
+<li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1730)</li>
 <li>calendar.google.com (1570)</li>
 <li>login.microsoftonline.com (1416)</li>
-<li>chat.openai.com (1339)</li>
+<li>chat.openai.com (1340)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1129)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:55 casper.cs.rhul.ac.uk</li>
+<ul><li> 14:30 chatgpt.com</li>
+<li class='same'> 14:29 chatgpt.com</li>
+<li> 14:29 chat.openai.com</li>
+<li> 14:29 www.linkedin.com</li>
+<li> 14:18 www.top10vpn.com</li>
+<li> 14:18 cmdns.dns-oarc.net</li>
+<li> 14:18 cmdns.dev.dns-oarc.net</li>
+<li> 14:18 duckduckgo.com</li>
+<li> 13:57 intranet.royalholloway.ac.uk</li>
+<li> 13:55 casper.cs.rhul.ac.uk</li>
 <li> 13:48 www.linkedin.com</li>
 <li> 13:34 www.reddit.com</li>
 <li class='same'> 13:33 www.reddit.com</li>
