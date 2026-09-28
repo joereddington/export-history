@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5442)</li>
-<li>mail.google.com (5340)</li>
-<li>www.google.com (5047)</li>
+<li>mail.google.com (5339)</li>
+<li>www.google.com (5044)</li>
 <li>outlook.office365.com (4411)</li>
 <li>duckduckgo.com (3961)</li>
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2904)</li>
+<li>chatgpt.com (2905)</li>
 <li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
-<li>www.facebook.com (1730)</li>
+<li>www.facebook.com (1726)</li>
 <li>calendar.google.com (1570)</li>
 <li>login.microsoftonline.com (1416)</li>
-<li>chat.openai.com (1340)</li>
+<li>chat.openai.com (1339)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1129)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:30 chatgpt.com</li>
+<ul><li> 14:37 chatgpt.com</li>
+<li class='same'> 14:31 chatgpt.com</li>
+<li class='same'> 14:30 chatgpt.com</li>
 <li class='same'> 14:29 chatgpt.com</li>
 <li> 14:29 chat.openai.com</li>
 <li> 14:29 www.linkedin.com</li>
@@ -124407,23 +124409,4 @@ With number of accesses/minutes in parentheses
 <li> 07:03 mail.google.com</li>
 <li class='same'> 07:01 mail.google.com</li>
 <li> 07:01 gmail.com</li>
-<li> 06:55 apple.stackexchange.com</li>
-<li> 06:55 www.google.com</li>
-<li> 06:49 chatgpt.com</li>
-<li> 06:49 chat.openai.com</li>
-<li> 06:47 www.facebook.com</li>
-<li> 06:47 harrypotter.fandom.com</li>
-<li class='same'> 06:45 harrypotter.fandom.com</li>
-<li class='same'> 06:44 harrypotter.fandom.com</li>
-<li class='same'> 06:43 harrypotter.fandom.com</li>
-<li> 06:43 www.google.com</li>
-<li> 06:41 www.facebook.com</li>
-<li> 06:41 www.mozilla.org</li>
-<li> 06:41 www.facebook.com</li>
-<li> 06:35 <a href="https://en.wikipedia.org/wiki/Kate_O%27Mara">Kate O&#x27;Mara - Wikipedia</a></li>
-<li> 06:30 <a href="https://en.wikipedia.org/wiki/Lois_Maxwell">Lois Maxwell - Wikipedia</a></li>
-<li> 06:29 <a href="https://en.wikipedia.org/wiki/You_Only_Live_Twice_(film)">You Only Live Twice (film) - Wikipedia</a></li>
-<li> 06:29 www.google.com</li>
-<li> 06:29 www.facebook.com</li>
-<li> 06:29 mail.google.com</li>
 </ul>
