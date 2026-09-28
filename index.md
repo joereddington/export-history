@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5440)</li>
+<ol><li>www.reddit.com (5444)</li>
 <li>mail.google.com (5345)</li>
-<li>www.google.com (5054)</li>
+<li>www.google.com (5053)</li>
 <li>outlook.office365.com (4412)</li>
-<li>duckduckgo.com (3954)</li>
+<li>duckduckgo.com (3957)</li>
 <li>outlook.office.com (3900)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2899)</li>
-<li>www.linkedin.com (2359)</li>
+<li>chatgpt.com (2900)</li>
+<li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1728)</li>
-<li>calendar.google.com (1570)</li>
+<li>calendar.google.com (1569)</li>
 <li>login.microsoftonline.com (1416)</li>
-<li>chat.openai.com (1337)</li>
-<li>www.amazon.co.uk (1319)</li>
+<li>chat.openai.com (1338)</li>
+<li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1121)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:46 chatgpt.com</li>
+<ul><li> 08:28 www.linkedin.com</li>
+<li> 08:19 www.reddit.com</li>
+<li class='same'> 08:17 www.reddit.com</li>
+<li class='same'> 08:16 www.reddit.com</li>
+<li class='same'> 08:15 www.reddit.com</li>
+<li> 08:15 www.giantitp.com</li>
+<li> 08:12 www.linkedin.com</li>
+<li> 08:11 chatgpt.com</li>
+<li> 08:11 chat.openai.com</li>
+<li> 08:10 duckduckgo.com</li>
+<li> 08:10 www.linkedin.com</li>
+<li class='same'> 08:09 www.linkedin.com</li>
+<li> 08:09 sylod.com</li>
+<li> 08:08 qaqooking.wiki</li>
+<li> 08:08 duckduckgo.com</li>
+<li class='same'> 08:07 duckduckgo.com</li>
+<li> 08:05 webtimetables.royalholloway.ac.uk</li>
+<li> 07:47 casper.cs.rhul.ac.uk</li>
+<li> 07:46 chatgpt.com</li>
 <li> 07:46 casper.cs.rhul.ac.uk</li>
 <li> 07:46 chatgpt.com</li>
 <li> 07:46 chat.openai.com</li>
@@ -130,7 +148,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:56 www.natesilver.net</li>
+<ul><li> 22:01 www.natesilver.net</li>
+<li class='same'> 21:58 www.natesilver.net</li>
+<li class='same'> 21:57 www.natesilver.net</li>
+<li class='same'> 21:56 www.natesilver.net</li>
 <li> 21:56 www.parkrun.org.uk</li>
 </ul>
 
@@ -124396,9 +124417,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:03 outlook.office.com</li>
 <li class='same'> 17:02 outlook.office.com</li>
 <li class='same'> 17:01 outlook.office.com</li>
-<li> 17:00 calendar.google.com</li>
-<li> 17:00 m.luton.gov.uk</li>
-<li> 17:00 www.google.com</li>
-<li> 16:57 www.amazon.co.uk</li>
-<li class='same'> 16:56 www.amazon.co.uk</li>
 </ul>
