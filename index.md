@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5444)</li>
+<ol><li>www.reddit.com (5443)</li>
 <li>mail.google.com (5345)</li>
-<li>www.google.com (5053)</li>
+<li>www.google.com (5049)</li>
 <li>outlook.office365.com (4412)</li>
-<li>duckduckgo.com (3957)</li>
-<li>outlook.office.com (3900)</li>
+<li>duckduckgo.com (3960)</li>
+<li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2900)</li>
+<li>chatgpt.com (2901)</li>
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
-<li>www.facebook.com (1728)</li>
+<li>www.facebook.com (1732)</li>
 <li>calendar.google.com (1569)</li>
 <li>login.microsoftonline.com (1416)</li>
-<li>chat.openai.com (1338)</li>
+<li>chat.openai.com (1339)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1131)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:28 www.linkedin.com</li>
+<ul><li> 08:59 webtimetables.royalholloway.ac.uk</li>
+<li> 08:57 casper.cs.rhul.ac.uk</li>
+<li> 08:57 duckduckgo.com</li>
+<li> 08:57 dashboards.rhul.ac.uk</li>
+<li> 08:57 duckduckgo.com</li>
+<li> 08:53 dashboards.rhul.ac.uk</li>
+<li> 08:44 www.facebook.com</li>
+<li class='same'> 08:43 www.facebook.com</li>
+<li class='same'> 08:36 www.facebook.com</li>
+<li class='same'> 08:34 www.facebook.com</li>
+<li> 08:34 facebook.com</li>
+<li> 08:34 calendar.google.com</li>
+<li> 08:32 intranet.royalholloway.ac.uk</li>
+<li> 08:30 chatgpt.com</li>
+<li> 08:30 chat.openai.com</li>
+<li> 08:30 www.royalholloway.ac.uk</li>
+<li> 08:30 duckduckgo.com</li>
+<li> 08:28 www.linkedin.com</li>
 <li> 08:19 www.reddit.com</li>
 <li class='same'> 08:17 www.reddit.com</li>
 <li class='same'> 08:16 www.reddit.com</li>
@@ -124377,44 +124394,4 @@ With number of accesses/minutes in parentheses
 <li> 17:57 www.google.com</li>
 <li> 17:57 www.natesilver.net</li>
 <li> 17:57 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:49 www.natesilver.net</li>
-<li> 11:49 www.google.com</li>
-<li> 11:31 www.nytimes.com</li>
-<li> 11:30 www.reddit.com</li>
-<li> 11:30 www.google.com</li>
-<li> 11:30 pmc.ncbi.nlm.nih.gov</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 09:50 pmc.ncbi.nlm.nih.gov</li>
-<li> 09:50 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:23 www.google.com</li>
-<li> 07:23 amp.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 00:00 calendar.google.com</li>
-</ul>
-
-<H3>Saturday, 02/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 17:03 outlook.office.com</li>
-<li class='same'> 17:02 outlook.office.com</li>
-<li class='same'> 17:01 outlook.office.com</li>
 </ul>
