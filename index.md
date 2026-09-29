@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5449)</li>
 <li>mail.google.com (5337)</li>
-<li>www.google.com (5043)</li>
+<li>www.google.com (5042)</li>
 <li>outlook.office365.com (4411)</li>
 <li>duckduckgo.com (3963)</li>
 <li>outlook.office.com (3897)</li>
@@ -80,16 +80,16 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1726)</li>
-<li>calendar.google.com (1571)</li>
+<li>calendar.google.com (1572)</li>
 <li>login.microsoftonline.com (1416)</li>
 <li>chat.openai.com (1339)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1128)</li>
+<li>gmail.com (1127)</li>
 <li>web.whatsapp.com (1121)</li>
 <li>mail.rhul.ac.uk (957)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (837)</li>
+<li>feedly.com (838)</li>
 <li>rhul-my.sharepoint.com (819)</li>
 <li>forms.office.com (753)</li>
 <li>rhul.sharepoint.com (607)</li>
@@ -104,11 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 29/09/26</H3>
+
+<br>
+
+<ul><li> 09:29 feedly.com</li>
+<li> 09:29 www.giantitp.com</li>
+<li> 09:20 192.168.178.1</li>
+<li class='same'> 09:19 192.168.178.1</li>
+<li> 09:19 calendar.google.com</li>
+</ul>
+
 <H3>Monday, 28/09/26</H3>
 
 <br>
 
-<ul><li> 18:04 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:17 app.heyguest.ai</li>
+<li> 18:04 www.reddit.com</li>
 <li class='same'> 18:02 www.reddit.com</li>
 <li class='same'> 18:01 www.reddit.com</li>
 <li class='same'> 17:59 www.reddit.com</li>
@@ -157,6 +173,7 @@ With number of accesses/minutes in parentheses
 <li> 13:12 casper.cs.rhul.ac.uk</li>
 <li> 13:10 webapp.cim.rhul.ac.uk</li>
 <li> 13:10 134.219.148.105</li>
+<li> 13:10 webapp.cim.rhul.ac.uk</li>
 <li> 13:01 fyp.cs.rhul.ac.uk</li>
 <li> 12:59 casper.cs.rhul.ac.uk</li>
 </ul>
@@ -124423,7 +124440,4 @@ With number of accesses/minutes in parentheses
 <li> 07:44 www.google.com</li>
 <li> 07:38 mail.google.com</li>
 <li class='same'> 07:37 mail.google.com</li>
-<li> 07:37 gmail.com</li>
-<li> 07:34 support.apple.com</li>
-<li> 07:34 www.google.com</li>
 </ul>
