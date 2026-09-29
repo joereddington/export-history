@@ -71,30 +71,30 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5449)</li>
 <li>mail.google.com (5334)</li>
 <li>www.google.com (5039)</li>
-<li>outlook.office365.com (4411)</li>
+<li>outlook.office365.com (4413)</li>
 <li>duckduckgo.com (3963)</li>
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2905)</li>
+<li>chatgpt.com (2906)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1725)</li>
 <li>calendar.google.com (1572)</li>
-<li>login.microsoftonline.com (1416)</li>
-<li>chat.openai.com (1339)</li>
+<li>login.microsoftonline.com (1422)</li>
+<li>chat.openai.com (1340)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1127)</li>
 <li>web.whatsapp.com (1121)</li>
-<li>mail.rhul.ac.uk (957)</li>
+<li>mail.rhul.ac.uk (958)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
-<li>rhul-my.sharepoint.com (819)</li>
+<li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (753)</li>
-<li>rhul.sharepoint.com (609)</li>
+<li>rhul.sharepoint.com (611)</li>
 <li>fritz.box (590)</li>
-<li>m365.cloud.microsoft (543)</li>
+<li>m365.cloud.microsoft (544)</li>
 <li>www.theguardian.com (504)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (467)</li>
@@ -105,6 +105,37 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 29/09/26</H3>
+
+<br>
+
+<ul><li> 10:29 login.microsoftonline.com</li>
+<li> 10:29 rhul-my.sharepoint.com</li>
+<li> 10:27 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:26 webtimetables.royalholloway.ac.uk</li>
+<li> 10:21 chatgpt.com</li>
+<li> 10:21 chat.openai.com</li>
+<li> 10:17 rhul.sharepoint.com</li>
+<li> 10:17 login.microsoftonline.com</li>
+<li> 10:17 device.login.microsoftonline.com</li>
+<li> 10:17 rhul.sharepoint.com</li>
+<li> 10:16 rhul-my.sharepoint.com</li>
+<li> 10:16 login.microsoftonline.com</li>
+<li> 10:16 device.login.microsoftonline.com</li>
+<li> 10:16 rhul-my.sharepoint.com</li>
+<li> 10:16 outlook.office365.com</li>
+<li> 10:16 login.microsoftonline.com</li>
+<li> 10:16 device.login.microsoftonline.com</li>
+<li> 10:16 outlook.office365.com</li>
+<li> 10:16 mail.rhul.ac.uk</li>
+<li> 10:16 www.office.com</li>
+<li> 10:16 m365.cloud.microsoft</li>
+<li> 10:16 login.microsoftonline.com</li>
+<li> 10:16 www.office.com</li>
+<li> 10:16 office.herts.ac.uk</li>
+<li> 10:16 office.com</li>
+<li> 10:16 login.microsoftonline.com</li>
+<li> 10:16 device.login.microsoftonline.com</li>
+</ul>
 
 <br>
 
