@@ -70,29 +70,29 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5455)</li>
 <li>mail.google.com (5333)</li>
-<li>www.google.com (5038)</li>
+<li>www.google.com (5034)</li>
 <li>outlook.office365.com (4412)</li>
 <li>duckduckgo.com (3964)</li>
-<li>outlook.office.com (3897)</li>
+<li>outlook.office.com (3892)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2909)</li>
+<li>chatgpt.com (2910)</li>
 <li>www.linkedin.com (2373)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1777)</li>
-<li>www.facebook.com (1729)</li>
-<li>calendar.google.com (1576)</li>
-<li>login.microsoftonline.com (1424)</li>
-<li>chat.openai.com (1342)</li>
+<li>moodle.royalholloway.ac.uk (1780)</li>
+<li>www.facebook.com (1728)</li>
+<li>calendar.google.com (1571)</li>
+<li>login.microsoftonline.com (1426)</li>
+<li>chat.openai.com (1343)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1127)</li>
-<li>web.whatsapp.com (1121)</li>
+<li>web.whatsapp.com (1120)</li>
 <li>mail.rhul.ac.uk (957)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
-<li>rhul-my.sharepoint.com (826)</li>
+<li>rhul-my.sharepoint.com (824)</li>
 <li>forms.office.com (753)</li>
-<li>rhul.sharepoint.com (611)</li>
+<li>rhul.sharepoint.com (615)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>www.theguardian.com (504)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:56 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<ul><li> 16:20 rhul.hosted.panopto.com</li>
+<li> 16:20 moodle.royalholloway.ac.uk</li>
+<li> 16:20 rhul.hosted.panopto.com</li>
+<li class='same'> 16:19 rhul.hosted.panopto.com</li>
+<li class='same'> 16:18 rhul.hosted.panopto.com</li>
+<li class='same'> 16:17 rhul.hosted.panopto.com</li>
+<li> 16:17 moodle.royalholloway.ac.uk</li>
+<li> 16:17 login.microsoftonline.com</li>
+<li> 16:17 device.login.microsoftonline.com</li>
+<li> 16:17 rhul.hosted.panopto.com</li>
+<li> 16:17 moodle.royalholloway.ac.uk</li>
+<li> 16:17 rhul.hosted.panopto.com</li>
+<li> 16:16 rhul.sharepoint.com</li>
+<li class='same'> 16:14 rhul.sharepoint.com</li>
+<li> 16:13 chatgpt.com</li>
+<li> 16:13 chat.openai.com</li>
+<li> 16:12 login.microsoftonline.com</li>
+<li> 16:12 device.login.microsoftonline.com</li>
+<li> 16:12 rhul.sharepoint.com</li>
+<li> 16:09 dashboards.rhul.ac.uk</li>
+<li> 16:07 rhul.sharepoint.com</li>
+<li> 15:56 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 15:54 <a href="https://en.wikipedia.org/wiki/2022_LastPass_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 15:54 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 </ul>
@@ -124492,28 +124513,4 @@ With number of accesses/minutes in parentheses
 <li> 09:27 outlook.office.com</li>
 <li class='same'> 09:26 outlook.office.com</li>
 <li> 09:25 rhul-my.sharepoint.com</li>
-<li> 09:25 www.google.com</li>
-<li> 09:25 outlook.office.com</li>
-<li> 09:21 rhul-my.sharepoint.com</li>
-<li class='same'> 09:20 rhul-my.sharepoint.com</li>
-<li> 09:19 www.facebook.com</li>
-<li> 09:19 www.oecd.org</li>
-<li class='same'> 09:18 www.oecd.org</li>
-<li> 09:18 www.google.com</li>
-<li> 09:11 outlook.office.com</li>
-<li> 09:10 calendar.google.com</li>
-<li> 09:10 24timezones.com</li>
-<li class='same'> 09:09 24timezones.com</li>
-<li> 09:09 www.google.com</li>
-<li> 09:08 cisse.info</li>
-<li> 09:08 calendar.google.com</li>
-<li> 09:07 outlook.office.com</li>
-<li> 09:07 web.whatsapp.com</li>
-<li> 09:07 calendar.google.com</li>
-<li class='same'> 09:06 calendar.google.com</li>
-<li> 09:06 www.royalholloway.ac.uk</li>
-<li> 09:06 www.google.com</li>
-<li> 09:06 calendar.google.com</li>
-<li> 09:05 outlook.office.com</li>
-<li class='same'> 09:04 outlook.office.com</li>
 </ul>
