@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5449)</li>
-<li>mail.google.com (5334)</li>
+<li>mail.google.com (5333)</li>
 <li>www.google.com (5039)</li>
 <li>outlook.office365.com (4413)</li>
 <li>duckduckgo.com (3963)</li>
@@ -78,10 +78,10 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2906)</li>
 <li>www.linkedin.com (2369)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1775)</li>
-<li>www.facebook.com (1727)</li>
+<li>moodle.royalholloway.ac.uk (1777)</li>
+<li>www.facebook.com (1728)</li>
 <li>calendar.google.com (1574)</li>
-<li>login.microsoftonline.com (1422)</li>
+<li>login.microsoftonline.com (1423)</li>
 <li>chat.openai.com (1340)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (958)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
-<li>rhul-my.sharepoint.com (824)</li>
+<li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (753)</li>
 <li>rhul.sharepoint.com (611)</li>
 <li>fritz.box (590)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:26 www.facebook.com</li>
+<ul><li> 12:17 moodle.royalholloway.ac.uk</li>
+<li> 12:16 rhul-my.sharepoint.com</li>
+<li class='same'> 12:14 rhul-my.sharepoint.com</li>
+<li> 12:14 moodle.royalholloway.ac.uk</li>
+<li> 12:14 login.microsoftonline.com</li>
+<li> 12:14 device.login.microsoftonline.com</li>
+<li> 11:45 www.facebook.com</li>
+<li class='same'> 11:26 www.facebook.com</li>
 <li class='same'> 11:21 www.facebook.com</li>
 <li> 11:21 facebook.com</li>
 <li> 10:59 www.linkedin.com</li>
@@ -12214,7 +12221,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:57 www.airbnb.co.uk</li>
 <li class='same'> 10:56 www.airbnb.co.uk</li>
 <li class='same'> 10:55 www.airbnb.co.uk</li>
-<li class='same'> 10:54 www.airbnb.co.uk</li>
 <li class='same'> 10:51 www.airbnb.co.uk</li>
 <li> 10:48 www.rhc70s.org</li>
 <li> 10:32 webtimetables.royalholloway.ac.uk</li>
@@ -124473,8 +124479,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:16 outlook.office365.com</li>
 <li> 08:16 mail.rhul.ac.uk</li>
-<li> 08:16 mail.google.com</li>
-<li> 08:10 theonion.com</li>
-<li> 08:08 newsthump.com</li>
-<li> 08:05 reductress.com</li>
 </ul>
