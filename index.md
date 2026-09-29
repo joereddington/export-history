@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5449)</li>
 <li>mail.google.com (5333)</li>
-<li>www.google.com (5039)</li>
+<li>www.google.com (5038)</li>
 <li>outlook.office365.com (4413)</li>
 <li>duckduckgo.com (3963)</li>
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2906)</li>
-<li>www.linkedin.com (2369)</li>
+<li>chatgpt.com (2908)</li>
+<li>www.linkedin.com (2370)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1777)</li>
 <li>www.facebook.com (1728)</li>
-<li>calendar.google.com (1574)</li>
+<li>calendar.google.com (1576)</li>
 <li>login.microsoftonline.com (1423)</li>
-<li>chat.openai.com (1340)</li>
-<li>www.amazon.co.uk (1317)</li>
+<li>chat.openai.com (1341)</li>
+<li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1127)</li>
 <li>web.whatsapp.com (1121)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:17 moodle.royalholloway.ac.uk</li>
+<ul><li> 12:57 chatgpt.com</li>
+<li> 12:56 www.linkedin.com</li>
+<li> 12:56 www.terrapinn.com</li>
+<li class='same'> 12:55 www.terrapinn.com</li>
+<li> 12:55 secure.terrapinn.com</li>
+<li> 12:55 chatgpt.com</li>
+<li> 12:55 chat.openai.com</li>
+<li> 12:41 www.giantitp.com</li>
+<li> 12:39 calendar.google.com</li>
+<li class='same'> 12:38 calendar.google.com</li>
+<li> 12:35 fast.com</li>
+<li> 12:17 moodle.royalholloway.ac.uk</li>
 <li> 12:16 rhul-my.sharepoint.com</li>
 <li class='same'> 12:14 rhul-my.sharepoint.com</li>
 <li> 12:14 moodle.royalholloway.ac.uk</li>
@@ -12119,8 +12130,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:18 www.amazon.co.uk</li>
-<li> 21:06 www.google.com</li>
+<ul><li> 21:06 www.google.com</li>
 <li> 21:06 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 </ul>
 
@@ -12147,7 +12157,6 @@ With number of accesses/minutes in parentheses
 <li> 14:25 calendar.google.com</li>
 <li> 14:25 pay.truelayer.com</li>
 <li> 14:25 mobile.prod.chiphq.net</li>
-<li> 14:24 auth.truelayer.com</li>
 <li> 14:24 login.truelayer.com</li>
 <li> 14:22 forums.moneysavingexpert.com</li>
 <li> 14:22 www.google.com</li>
@@ -12181,8 +12190,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:28 www.agacookshop.co.uk</li>
 <li class='same'> 12:27 www.agacookshop.co.uk</li>
 <li class='same'> 12:26 www.agacookshop.co.uk</li>
-<li> 12:25 www.google.com</li>
-<li> 12:25 www.agacookshop.co.uk</li>
+<li class='same'> 12:25 www.agacookshop.co.uk</li>
 <li> 12:25 www.google.com</li>
 <li> 12:25 www.findamasters.com</li>
 </ul>
@@ -12216,10 +12224,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:04 calendar.google.com</li>
 <li class='same'> 11:03 calendar.google.com</li>
 <li> 11:01 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 10:59 www.airbnb.co.uk</li>
-<li class='same'> 10:58 www.airbnb.co.uk</li>
+<li> 10:58 www.airbnb.co.uk</li>
 <li class='same'> 10:57 www.airbnb.co.uk</li>
-<li class='same'> 10:56 www.airbnb.co.uk</li>
 <li class='same'> 10:55 www.airbnb.co.uk</li>
 <li class='same'> 10:51 www.airbnb.co.uk</li>
 <li> 10:48 www.rhc70s.org</li>
