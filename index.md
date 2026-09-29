@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5455)</li>
-<li>mail.google.com (5333)</li>
-<li>www.google.com (5034)</li>
+<li>mail.google.com (5324)</li>
+<li>www.google.com (5033)</li>
 <li>outlook.office365.com (4412)</li>
 <li>duckduckgo.com (3964)</li>
-<li>outlook.office.com (3892)</li>
+<li>outlook.office.com (3890)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2910)</li>
-<li>www.linkedin.com (2373)</li>
+<li>chatgpt.com (2912)</li>
+<li>www.linkedin.com (2374)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1780)</li>
+<li>moodle.royalholloway.ac.uk (1782)</li>
 <li>www.facebook.com (1728)</li>
 <li>calendar.google.com (1571)</li>
 <li>login.microsoftonline.com (1426)</li>
 <li>chat.openai.com (1343)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1127)</li>
+<li>gmail.com (1125)</li>
 <li>web.whatsapp.com (1120)</li>
 <li>mail.rhul.ac.uk (957)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
-<li>rhul-my.sharepoint.com (824)</li>
+<li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (753)</li>
 <li>rhul.sharepoint.com (615)</li>
 <li>fritz.box (590)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:20 rhul.hosted.panopto.com</li>
+<ul><li> 16:52 www.linkedin.com</li>
+<li class='same'> 16:51 www.linkedin.com</li>
+<li> 16:51 rhul.hosted.panopto.com</li>
+<li> 16:51 dashboards.rhul.ac.uk</li>
+<li> 16:50 chatgpt.com</li>
+<li> 16:39 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:38 moodle.royalholloway.ac.uk</li>
+<li> 16:37 chatgpt.com</li>
+<li> 16:37 chat.openai.com</li>
+<li> 16:37 moodle.royalholloway.ac.uk</li>
+<li> 16:36 rhul.hosted.panopto.com</li>
+<li> 16:33 dashboards.rhul.ac.uk</li>
+<li> 16:25 rhul.hosted.panopto.com</li>
+<li class='same'> 16:20 rhul.hosted.panopto.com</li>
 <li> 16:20 moodle.royalholloway.ac.uk</li>
 <li> 16:20 rhul.hosted.panopto.com</li>
 <li class='same'> 16:19 rhul.hosted.panopto.com</li>
@@ -124484,33 +124497,4 @@ With number of accesses/minutes in parentheses
 <li> 10:11 admin.google.com</li>
 <li class='same'> 10:10 admin.google.com</li>
 <li> 10:09 chatgpt.com</li>
-<li> 10:08 chat.openai.com</li>
-<li> 10:08 admin.google.com</li>
-<li> 10:08 www.google.com</li>
-<li> 10:07 mail.google.com</li>
-<li class='same'> 10:01 mail.google.com</li>
-<li> 09:59 accounts.google.com</li>
-<li> 09:59 mail.google.com</li>
-<li> 09:59 gmail.com</li>
-<li> 09:51 rhul-my.sharepoint.com</li>
-<li> 09:50 mail.google.com</li>
-<li class='same'> 09:47 mail.google.com</li>
-<li> 09:46 Local file</li>
-<li> 09:45 qbo.intuit.com</li>
-<li> 09:45 accounts.intuit.com</li>
-<li> 09:45 qbo.intuit.com</li>
-<li> 09:45 c14.qbo.intuit.com</li>
-<li> 09:45 app.qbo.intuit.com</li>
-<li> 09:45 mail.google.com</li>
-<li> 09:37 rhul-my.sharepoint.com</li>
-<li class='same'> 09:36 rhul-my.sharepoint.com</li>
-<li> 09:33 mail.google.com</li>
-<li> 09:32 www.linkedin.com</li>
-<li> 09:32 mail.google.com</li>
-<li class='same'> 09:31 mail.google.com</li>
-<li> 09:31 gmail.com</li>
-<li> 09:28 moodle.royalholloway.ac.uk</li>
-<li> 09:27 outlook.office.com</li>
-<li class='same'> 09:26 outlook.office.com</li>
-<li> 09:25 rhul-my.sharepoint.com</li>
 </ul>
