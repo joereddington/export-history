@@ -76,11 +76,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3897)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2906)</li>
-<li>www.linkedin.com (2367)</li>
+<li>www.linkedin.com (2368)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1725)</li>
-<li>calendar.google.com (1572)</li>
+<li>calendar.google.com (1574)</li>
 <li>login.microsoftonline.com (1422)</li>
 <li>chat.openai.com (1340)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (958)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
-<li>rhul-my.sharepoint.com (822)</li>
+<li>rhul-my.sharepoint.com (824)</li>
 <li>forms.office.com (753)</li>
 <li>rhul.sharepoint.com (611)</li>
 <li>fritz.box (590)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 login.microsoftonline.com</li>
+<ul><li> 10:54 www.linkedin.com</li>
+<li> 10:54 www.giantitp.com</li>
+<li> 10:48 rhul-my.sharepoint.com</li>
+<li> 10:35 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
+<li> 10:34 calendar.google.com</li>
+<li class='same'> 10:30 calendar.google.com</li>
+<li> 10:29 rhul-my.sharepoint.com</li>
+<li> 10:29 login.microsoftonline.com</li>
+<li> 10:29 device.login.microsoftonline.com</li>
 <li> 10:29 rhul-my.sharepoint.com</li>
 <li> 10:27 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 10:26 webtimetables.royalholloway.ac.uk</li>
