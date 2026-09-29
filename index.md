@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5449)</li>
-<li>mail.google.com (5337)</li>
-<li>www.google.com (5042)</li>
+<li>mail.google.com (5334)</li>
+<li>www.google.com (5039)</li>
 <li>outlook.office365.com (4411)</li>
 <li>duckduckgo.com (3963)</li>
 <li>outlook.office.com (3897)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
-<li>www.facebook.com (1726)</li>
+<li>www.facebook.com (1725)</li>
 <li>calendar.google.com (1572)</li>
 <li>login.microsoftonline.com (1416)</li>
 <li>chat.openai.com (1339)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (838)</li>
 <li>rhul-my.sharepoint.com (819)</li>
 <li>forms.office.com (753)</li>
-<li>rhul.sharepoint.com (607)</li>
+<li>rhul.sharepoint.com (609)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (504)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:29 feedly.com</li>
+<ul><li> 09:46 192.168.178.1</li>
+<li> 09:39 modchoice.cim.rhul.ac.uk</li>
+<li class='same'> 09:38 modchoice.cim.rhul.ac.uk</li>
+<li> 09:38 rhul.sharepoint.com</li>
+<li class='same'> 09:37 rhul.sharepoint.com</li>
+<li> 09:29 feedly.com</li>
 <li> 09:29 www.giantitp.com</li>
 <li> 09:20 192.168.178.1</li>
 <li class='same'> 09:19 192.168.178.1</li>
@@ -12232,14 +12237,10 @@ With number of accesses/minutes in parentheses
 <li> 09:08 chatgpt.com</li>
 <li> 09:07 127.0.0.1:56677</li>
 <li> 09:07 accounts.google.com</li>
-<li> 09:07 accounts.firefox.com</li>
-<li class='same'> 09:06 accounts.firefox.com</li>
 <li> 09:04 <a href="https://joereddington.com/Comics/2024-08-07.html">2024-08-07 | Joe’s Comics</a></li>
 <li> 09:04 <a href="https://joereddington.com/Comics/">2022-05-01 | Joe’s Comics</a></li>
-<li> 09:04 <a href="http://joereddington.com/Comics/"></a></li>
 <li> 09:04 github.com</li>
 <li> 09:04 drive.google.com</li>
-<li> 09:04 dl.google.com</li>
 <li> 09:03 support.google.com</li>
 <li> 09:03 duckduckgo.com</li>
 <li> 09:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -124432,12 +124433,4 @@ With number of accesses/minutes in parentheses
 <li> 08:10 theonion.com</li>
 <li> 08:08 newsthump.com</li>
 <li> 08:05 reductress.com</li>
-<li> 08:05 www.google.com</li>
-<li class='same'> 07:56 www.google.com</li>
-<li> 07:56 www.natesilver.net</li>
-<li> 07:46 mail.google.com</li>
-<li> 07:44 www.facebook.com</li>
-<li> 07:44 www.google.com</li>
-<li> 07:38 mail.google.com</li>
-<li class='same'> 07:37 mail.google.com</li>
 </ul>
