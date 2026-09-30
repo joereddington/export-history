@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5496)</li>
+<ol><li>www.reddit.com (5498)</li>
 <li>mail.google.com (5271)</li>
 <li>www.google.com (4993)</li>
 <li>outlook.office365.com (4382)</li>
 <li>duckduckgo.com (3972)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3270)</li>
-<li>chatgpt.com (2915)</li>
+<li>chatgpt.com (2917)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1776)</li>
 <li>www.facebook.com (1710)</li>
 <li>calendar.google.com (1559)</li>
 <li>login.microsoftonline.com (1432)</li>
-<li>chat.openai.com (1346)</li>
+<li>chat.openai.com (1347)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1112)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:20 learningonscreen.ac.uk</li>
+<ul><li> 18:25 chatgpt.com</li>
+<li> 18:25 chat.openai.com</li>
+<li> 18:24 192.168.178.1</li>
+<li> 18:24 chatgpt.com</li>
+<li> 18:24 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 17:45 www.reddit.com</li>
+<li class='same'> 17:43 www.reddit.com</li>
+<li> 17:20 learningonscreen.ac.uk</li>
 <li class='same'> 17:19 learningonscreen.ac.uk</li>
 <li> 17:19 login.learningonscreen.ac.uk</li>
 <li> 17:19 learningonscreen.ac.uk</li>
