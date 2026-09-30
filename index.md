@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5475)</li>
+<ol><li>www.reddit.com (5485)</li>
 <li>mail.google.com (5283)</li>
-<li>www.google.com (5009)</li>
+<li>www.google.com (5027)</li>
 <li>outlook.office365.com (4395)</li>
 <li>duckduckgo.com (3968)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3272)</li>
-<li>chatgpt.com (2911)</li>
-<li>www.linkedin.com (2370)</li>
-<li>bsky.app (2010)</li>
+<li>chatgpt.com (2912)</li>
+<li>www.linkedin.com (2369)</li>
+<li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
-<li>www.facebook.com (1715)</li>
+<li>www.facebook.com (1710)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1428)</li>
-<li>chat.openai.com (1345)</li>
+<li>chat.openai.com (1346)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1117)</li>
 <li>gmail.com (1117)</li>
+<li>web.whatsapp.com (1116)</li>
 <li>mail.rhul.ac.uk (954)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (839)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:58 accounts.google.com</li>
+<ul><li> 13:28 ieeexplore.ieee.org</li>
+<li class='same'> 13:27 ieeexplore.ieee.org</li>
+<li> 13:22 dashboards.rhul.ac.uk</li>
+<li> 13:22 www.reddit.com</li>
+<li> 13:21 chatgpt.com</li>
+<li> 13:21 chat.openai.com</li>
+<li> 13:02 ieeexplore.ieee.org</li>
+<li> 12:58 accounts.google.com</li>
 <li> 12:58 ads.google.com</li>
 <li> 12:58 accounts.google.com</li>
 <li> 12:58 ads.google.com</li>
@@ -236,7 +243,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:48 www.google.com</li>
+<ul><li> 19:14 www.reddit.com</li>
+<li class='same'> 19:13 www.reddit.com</li>
+<li class='same'> 19:12 www.reddit.com</li>
+<li class='same'> 19:11 www.reddit.com</li>
+<li class='same'> 19:09 www.reddit.com</li>
+<li class='same'> 19:07 www.reddit.com</li>
+<li class='same'> 18:56 www.reddit.com</li>
+<li> 18:56 www.google.com</li>
+<li> 18:55 x.com</li>
+<li> 18:55 www.google.com</li>
+<li> 18:55 www.reddit.com</li>
+<li> 18:48 www.google.com</li>
 <li> 18:47 mail.google.com</li>
 <li class='same'> 18:46 mail.google.com</li>
 <li class='same'> 18:45 mail.google.com</li>
@@ -245,6 +263,8 @@ With number of accesses/minutes in parentheses
 <li> 18:44 workspace.google.com</li>
 <li> 18:44 mail.google.com</li>
 <li> 18:44 gmail.com</li>
+<li> 18:35 www.reddit.com</li>
+<li> 18:27 webtimetables.royalholloway.ac.uk</li>
 <li> 18:18 www.reddit.com</li>
 <li class='same'> 18:16 www.reddit.com</li>
 <li class='same'> 18:14 www.reddit.com</li>
@@ -362,7 +382,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:21 www.facebook.com</li>
 <li> 11:21 facebook.com</li>
 <li> 10:59 www.linkedin.com</li>
-<li> 10:55 www.culturetrust.com</li>
+<li> 10:57 everyonetheatres.com</li>
+<li> 10:57 www.nationaltrust.org.uk</li>
+<li> 10:56 www.culturetrust.com</li>
+<li class='same'> 10:55 www.culturetrust.com</li>
 <li> 10:54 www.linkedin.com</li>
 <li> 10:54 www.giantitp.com</li>
 <li> 10:48 rhul-my.sharepoint.com</li>
@@ -124270,22 +124293,162 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:47 apply.unity.co.uk</li>
 <li> 15:42 www.linkedin.com</li>
 <li> 15:42 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:14 www.linkedin.com</li>
-<li> 15:03 www.facebook.com</li>
-<li> 15:01 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 14:55 www.facebook.com</li>
-<li> 14:53 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 14:50 www.facebook.com</li>
-<li class='same'> 14:49 www.facebook.com</li>
-<li> 14:45 bsky.app</li>
-<li> 14:41 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li class='same'> 14:29 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 14:24 web.whatsapp.com</li>
-<li> 14:22 www.facebook.com</li>
-<li> 14:01 experience.elluciancloud.ie</li>
-<li> 14:01 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 13:57 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li class='same'> 13:56 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 13:56 experience.elluciancloud.ie</li>
-<li> 13:56 extensions.royalholloway.ac.uk</li>
+</ul>
+
+<H3>Friday, 01/11/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:32 www.google.com</li>
+</ul>
+
+<H3>Wednesday, 30/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 13:55 www.google.com</li>
+</ul>
+
+<H3>Tuesday, 29/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:51 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:05 www.google.com</li>
+</ul>
+
+<H3>Friday, 18/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:13 www.google.com</li>
+</ul>
+
+<H3>Tuesday, 15/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 14:39 www.google.com</li>
+</ul>
+
+<H3>Monday, 14/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:17 www.google.com</li>
+</ul>
+
+<H3>Thursday, 10/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:53 www.google.com</li>
+</ul>
+
+<H3>Monday, 07/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 14:25 www.google.com</li>
+</ul>
+
+<H3>Thursday, 03/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 10:34 www.google.com</li>
+</ul>
+
+<H3>Wednesday, 02/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 13:36 www.google.com</li>
+</ul>
+
+<H3>Monday, 30/09/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 16:13 www.google.com</li>
+</ul>
+
+<H3>Wednesday, 25/09/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 15:11 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:29 www.google.com</li>
+</ul>
+
+<H3>Monday, 23/09/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:09 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:10 www.google.com</li>
 </ul>
