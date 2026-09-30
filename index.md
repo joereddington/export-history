@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5477)</li>
-<li>mail.google.com (5295)</li>
-<li>www.google.com (5017)</li>
+<ol><li>www.reddit.com (5475)</li>
+<li>mail.google.com (5283)</li>
+<li>www.google.com (5009)</li>
 <li>outlook.office365.com (4395)</li>
 <li>duckduckgo.com (3968)</li>
 <li>outlook.office.com (3879)</li>
-<li>docs.google.com (3280)</li>
-<li>chatgpt.com (2918)</li>
-<li>www.linkedin.com (2371)</li>
-<li>bsky.app (2013)</li>
+<li>docs.google.com (3272)</li>
+<li>chatgpt.com (2911)</li>
+<li>www.linkedin.com (2370)</li>
+<li>bsky.app (2010)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
-<li>www.facebook.com (1718)</li>
+<li>www.facebook.com (1715)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1428)</li>
-<li>chat.openai.com (1346)</li>
+<li>chat.openai.com (1345)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1120)</li>
-<li>web.whatsapp.com (1118)</li>
+<li>web.whatsapp.com (1117)</li>
+<li>gmail.com (1117)</li>
 <li>mail.rhul.ac.uk (954)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (840)</li>
+<li>feedly.com (839)</li>
 <li>rhul-my.sharepoint.com (821)</li>
 <li>forms.office.com (752)</li>
 <li>rhul.sharepoint.com (615)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (544)</li>
 <li>www.theguardian.com (501)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (466)</li>
+<li>drive.google.com (463)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 30/09/26</H3>
+
+<br>
+
+<ul><li> 12:58 accounts.google.com</li>
+<li> 12:58 ads.google.com</li>
+<li> 12:58 accounts.google.com</li>
+<li> 12:58 ads.google.com</li>
+<li> 12:57 accounts.google.com</li>
+<li> 12:57 ads.google.com</li>
+<li> 12:57 accounts.google.com</li>
+<li> 12:57 ads.google.com</li>
+<li> 12:57 accounts.google.com</li>
+<li> 12:57 ads.google.com</li>
+<li> 12:57 accounts.google.com</li>
+<li class='same'> 12:56 accounts.google.com</li>
+<li> 12:56 ads.google.com</li>
+<li> 12:56 accounts.google.com</li>
+<li> 12:56 ads.google.com</li>
+<li> 12:56 accounts.google.com</li>
+<li class='same'> 12:55 accounts.google.com</li>
+<li> 12:55 ads.google.com</li>
+<li> 12:55 accounts.google.com</li>
+<li> 12:55 ads.google.com</li>
+<li> 12:55 accounts.google.com</li>
+<li> 12:55 ads.google.com</li>
+<li class='same'> 12:52 ads.google.com</li>
+<li> 12:51 chatgpt.com</li>
+<li class='same'> 12:48 chatgpt.com</li>
+<li> 12:48 chat.openai.com</li>
+</ul>
 
 <br>
 
@@ -124258,129 +124288,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:56 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 13:56 experience.elluciancloud.ie</li>
 <li> 13:56 extensions.royalholloway.ac.uk</li>
-<li> 13:56 experience.elluciancloud.ie</li>
-<li> 13:55 www.flaticon.com</li>
-<li> 13:55 whitewaterwriters.com</li>
-<li> 13:55 www.flaticon.com</li>
-<li> 13:55 www.google.com</li>
-<li> 13:44 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 13:40 chatgpt.com</li>
-<li class='same'> 13:36 chatgpt.com</li>
-<li class='same'> 13:32 chatgpt.com</li>
-<li> 13:29 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 13:26 chatgpt.com</li>
-<li class='same'> 13:22 chatgpt.com</li>
-<li class='same'> 13:21 chatgpt.com</li>
-<li> 13:09 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 13:04 chatgpt.com</li>
-<li> 13:04 chat.openai.com</li>
-<li> 13:02 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 13:02 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 13:02 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 13:02 experience.elluciancloud.ie</li>
-<li> 13:02 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 13:02 experience.elluciancloud.ie</li>
-<li> 13:00 cwe.mitre.org</li>
-<li> 13:00 www.cve.org</li>
-<li> 12:58 www.reddit.com</li>
-<li> 12:57 www.cve.org</li>
-<li> 12:57 www.cisa.gov</li>
-<li> 12:57 www.reddit.com</li>
-<li> 12:56 www.cvsukltd.co.uk</li>
-<li> 12:56 www.google.com</li>
-<li> 12:55 bsky.app</li>
-<li class='same'> 12:52 bsky.app</li>
-<li> 12:51 www.facebook.com</li>
-<li> 12:46 feedly.com</li>
-<li> 12:44 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 12:19 docs.google.com</li>
-<li class='same'> 12:13 docs.google.com</li>
-<li> 12:12 drive.google.com</li>
-<li> 12:01 mail.google.com</li>
-<li> 11:52 www.google.com</li>
-<li> 11:50 mail.google.com</li>
-<li> 11:45 www.reading.ac.uk</li>
-<li> 11:43 mail.google.com</li>
-<li> 11:43 www.gmail.com</li>
-<li> 11:43 web.whatsapp.com</li>
-<li> 11:42 whitewaterwriters.com</li>
-<li> 11:41 mail.google.com</li>
-<li class='same'> 11:38 mail.google.com</li>
-<li class='same'> 11:37 mail.google.com</li>
-<li> 11:37 gmail.com</li>
-<li> 11:37 mail.google.com</li>
-<li> 11:23 accounts.intuit.com</li>
-<li> 11:11 <a href="https://en.wikipedia.org/wiki/Public-key_cryptography">Public-key cryptography - Wikipedia</a></li>
-<li> 11:11 <a href="https://en.wikipedia.org/wiki/Category:RSA_Factoring_Challenge">Category:RSA Factoring Challenge - Wikipedia</a></li>
-<li> 11:11 <a href="https://en.wikipedia.org/wiki/Wiener%27s_attack">Wiener&#x27;s attack - Wikipedia</a></li>
-<li> 11:11 <a href="https://en.wikipedia.org/wiki/Category:Attacks_on_public-key_cryptosystems">Category:Attacks on public-key cryptosystems - Wikipedia</a></li>
-<li> 11:11 www.google.com</li>
-<li> 11:09 chatgpt.com</li>
-<li class='same'> 11:08 chatgpt.com</li>
-<li> 11:08 chat.openai.com</li>
-<li> 11:06 mail.google.com</li>
-<li> 11:06 gmail.com</li>
-<li> 10:54 www.reading.ac.uk</li>
-<li> 10:54 www.google.com</li>
-<li> 10:49 www.gov.uk</li>
-<li> 10:49 www.google.com</li>
-<li> 10:44 mail.google.com</li>
-<li> 10:43 <a href="https://en.wikipedia.org/wiki/Stay_Lucky">Stay Lucky - Wikipedia</a></li>
-<li> 10:43 www.google.com</li>
-<li> 10:40 mail.google.com</li>
-<li class='same'> 10:38 mail.google.com</li>
-<li> 10:36 docs.google.com</li>
-<li> 10:35 www.dropbox.com</li>
-<li> 10:35 docs.google.com</li>
-<li> 10:35 drive.google.com</li>
-<li> 10:35 docs.google.com</li>
-<li> 10:28 mail.google.com</li>
-<li> 10:28 gmail.com</li>
-<li> 10:25 docs.google.com</li>
-<li class='same'> 10:24 docs.google.com</li>
-<li> 10:22 qbo.intuit.com</li>
-<li class='same'> 10:21 qbo.intuit.com</li>
-<li> 10:21 drive.google.com</li>
-<li> 10:21 docs.google.com</li>
-<li> 10:18 qbo.intuit.com</li>
-<li class='same'> 10:17 qbo.intuit.com</li>
-<li class='same'> 10:16 qbo.intuit.com</li>
-<li> 10:16 online.unity.co.uk</li>
-<li> 10:15 qbo.intuit.com</li>
-<li class='same'> 10:14 qbo.intuit.com</li>
-<li class='same'> 10:12 qbo.intuit.com</li>
-<li class='same'> 10:11 qbo.intuit.com</li>
-<li> 10:11 online.unity.co.uk</li>
-<li> 10:10 qbo.intuit.com</li>
-<li class='same'> 10:09 qbo.intuit.com</li>
-<li class='same'> 10:07 qbo.intuit.com</li>
-<li class='same'> 10:06 qbo.intuit.com</li>
-<li> 10:06 online.unity.co.uk</li>
-<li> 10:05 qbo.intuit.com</li>
-<li class='same'> 10:04 qbo.intuit.com</li>
-<li class='same'> 10:03 qbo.intuit.com</li>
-<li class='same'> 10:02 qbo.intuit.com</li>
-<li> 10:00 online.unity.co.uk</li>
-<li class='same'> 09:59 online.unity.co.uk</li>
-<li> 09:58 qbo.intuit.com</li>
-<li class='same'> 09:57 qbo.intuit.com</li>
-<li class='same'> 09:56 qbo.intuit.com</li>
-<li class='same'> 09:55 qbo.intuit.com</li>
-<li class='same'> 09:54 qbo.intuit.com</li>
-<li> 09:53 online.unity.co.uk</li>
-<li> 09:51 www.unity-online.co.uk</li>
-<li> 09:51 online.unity.co.uk</li>
-<li> 09:51 qbo.intuit.com</li>
-<li> 09:51 accounts.intuit.com</li>
-<li> 09:51 c14.qbo.intuit.com</li>
-<li> 09:51 app.qbo.intuit.com</li>
-<li> 09:50 www.google.com</li>
-<li> 09:50 online.unity.co.uk</li>
-<li> 09:50 www.unity-online.co.uk</li>
-<li> 09:50 online.unity.co.uk</li>
-<li> 09:45 bsky.app</li>
-<li> 09:43 jobs.royalholloway.ac.uk</li>
-<li> 09:43 www.linkedin.com</li>
-<li> 09:38 www.facebook.com</li>
-<li class='same'> 09:37 www.facebook.com</li>
 </ul>
