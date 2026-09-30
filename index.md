@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3970)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3270)</li>
-<li>chatgpt.com (2915)</li>
+<li>chatgpt.com (2916)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>www.theguardian.com (475)</li>
+<li>www.theguardian.com (472)</li>
 <li>drive.google.com (462)</li>
 
 
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 www.reddit.com</li>
+<ul><li> 15:29 chatgpt.com</li>
+<li> 15:29 www.reddit.com</li>
 <li class='same'> 15:28 www.reddit.com</li>
 </ul>
 
@@ -124191,11 +124192,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:12 outlook.office365.com</li>
 <li class='same'> 09:11 outlook.office365.com</li>
 <li> 09:11 mail.rhul.ac.uk</li>
-<li> 09:07 www.theguardian.com</li>
-<li class='same'> 08:50 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 08:03 www.theguardian.com</li>
 </ul>
