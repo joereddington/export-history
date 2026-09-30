@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5488)</li>
-<li>mail.google.com (5279)</li>
-<li>www.google.com (5010)</li>
+<ol><li>www.reddit.com (5484)</li>
+<li>mail.google.com (5271)</li>
+<li>www.google.com (4995)</li>
 <li>outlook.office365.com (4395)</li>
 <li>duckduckgo.com (3970)</li>
 <li>outlook.office.com (3879)</li>
-<li>docs.google.com (3272)</li>
+<li>docs.google.com (3270)</li>
 <li>chatgpt.com (2915)</li>
-<li>www.linkedin.com (2366)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
 <li>www.facebook.com (1710)</li>
-<li>calendar.google.com (1565)</li>
+<li>calendar.google.com (1562)</li>
 <li>login.microsoftonline.com (1428)</li>
 <li>chat.openai.com (1347)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1115)</li>
-<li>web.whatsapp.com (1115)</li>
+<li>web.whatsapp.com (1113)</li>
+<li>gmail.com (1111)</li>
 <li>mail.rhul.ac.uk (954)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (839)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (616)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
-<li>www.theguardian.com (501)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (463)</li>
+<li>www.theguardian.com (475)</li>
+<li>drive.google.com (462)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 30/09/26</H3>
+
+<br>
+
+<ul><li> 15:29 www.reddit.com</li>
+<li class='same'> 15:28 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -124192,133 +124198,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 08:03 www.theguardian.com</li>
-<li class='same'> 08:02 www.theguardian.com</li>
-<li> 07:35 search.app.goo.gl</li>
-<li> 07:34 www.theguardian.com</li>
-<li class='same'> 07:10 www.theguardian.com</li>
-<li class='same'> 07:08 www.theguardian.com</li>
-<li class='same'> 07:07 www.theguardian.com</li>
-<li class='same'> 07:06 www.theguardian.com</li>
-<li class='same'> 06:48 www.theguardian.com</li>
-<li class='same'> 06:46 www.theguardian.com</li>
-<li class='same'> 06:45 www.theguardian.com</li>
-<li class='same'> 06:44 www.theguardian.com</li>
-<li class='same'> 06:39 www.theguardian.com</li>
-<li class='same'> 06:38 www.theguardian.com</li>
-<li class='same'> 06:31 www.theguardian.com</li>
-<li class='same'> 06:19 www.theguardian.com</li>
-<li class='same'> 06:18 www.theguardian.com</li>
-<li class='same'> 06:16 www.theguardian.com</li>
-<li class='same'> 06:15 www.theguardian.com</li>
-<li> 06:09 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 00:22 calendar.google.com</li>
-</ul>
-
-<H3>Tuesday, 05/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:36 web.whatsapp.com</li>
-<li> 20:33 www.reddit.com</li>
-<li class='same'> 20:29 www.reddit.com</li>
-<li> 20:27 www.google.com</li>
-<li> 20:26 www.linkedin.com</li>
-<li> 20:22 www.theguardian.com</li>
-<li class='same'> 20:21 www.theguardian.com</li>
-<li> 20:19 www.linkedin.com</li>
-<li> 20:14 accounts.intuit.com</li>
-<li> 20:12 www.criticalpublishing.com</li>
-<li> 20:08 www.ntu.ac.uk</li>
-<li> 20:08 www.google.com</li>
-<li class='same'> 20:07 www.google.com</li>
-<li> 20:03 fft.org.uk</li>
-<li> 20:03 www.google.com</li>
-<li> 20:02 www.reddit.com</li>
-<li> 19:59 www.ebay.co.uk</li>
-<li class='same'> 19:55 www.ebay.co.uk</li>
-<li> 19:53 challengeworks.org</li>
-<li class='same'> 19:52 challengeworks.org</li>
-<li> 19:52 www.nesta.org.uk</li>
-<li> 19:52 www.google.com</li>
-<li> 19:52 www.myfundingcentral.co.uk</li>
-<li class='same'> 19:47 www.myfundingcentral.co.uk</li>
-<li> 19:41 mail.google.com</li>
-<li> 19:41 gmail.com</li>
-<li> 19:40 www.google.com</li>
-<li> 19:40 calendar.google.com</li>
-<li> 19:35 www.peninsulagrouplimited.com</li>
-<li> 19:35 www.google.com</li>
-<li> 19:15 qbo.intuit.com</li>
-<li class='same'> 19:14 qbo.intuit.com</li>
-<li> 19:14 accounts.intuit.com</li>
-<li> 19:14 qbo.intuit.com</li>
-<li> 19:14 c14.qbo.intuit.com</li>
-<li> 19:14 app.qbo.intuit.com</li>
-<li> 19:12 mail.google.com</li>
-<li> 19:12 gmail.com</li>
-<li> 19:08 equalitytime.co.uk</li>
-<li> 19:07 docs.google.com</li>
-<li> 19:00 meet.google.com</li>
-<li> 19:00 calendar.google.com</li>
-<li> 19:00 web.whatsapp.com</li>
-<li> 18:44 www.google.com</li>
-<li class='same'> 18:40 www.google.com</li>
-<li> 18:40 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 17:58 www.theguardian.com</li>
-<li class='same'> 17:57 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:11 theonion.com</li>
-<li> 17:07 www.google.com</li>
-<li> 17:06 www.theguardian.com</li>
-<li class='same'> 17:04 www.theguardian.com</li>
-<li class='same'> 17:01 www.theguardian.com</li>
-<li class='same'> 16:58 www.theguardian.com</li>
-<li> 16:53 www.reddit.com</li>
-<li class='same'> 16:52 www.reddit.com</li>
-<li class='same'> 16:51 www.reddit.com</li>
-<li> 16:51 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:11 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 16:09 my-charity-account.charitycommission.gov.uk</li>
-<li class='same'> 16:08 my-charity-account.charitycommission.gov.uk</li>
-<li> 16:07 mail.google.com</li>
-<li> 16:06 my-charity-account.charitycommission.gov.uk</li>
-<li> 16:06 mail.google.com</li>
-<li class='same'> 16:05 mail.google.com</li>
-<li> 16:05 my-charity-account.charitycommission.gov.uk</li>
-<li class='same'> 16:04 my-charity-account.charitycommission.gov.uk</li>
-<li> 16:04 mail.google.com</li>
-<li> 16:04 gmail.com</li>
-<li> 16:04 my-charity-account.charitycommission.gov.uk</li>
-<li> 16:04 www.gov.uk</li>
-<li> 16:04 www.google.com</li>
-<li> 16:00 mail.google.com</li>
-<li class='same'> 15:59 mail.google.com</li>
-<li> 15:59 gmail.com</li>
-<li> 15:59 admin.google.com</li>
-<li> 15:59 workspace.google.com</li>
-<li> 15:59 www.google.com</li>
-<li> 15:57 docs.google.com</li>
-<li> 15:57 drive.google.com</li>
-<li> 15:56 x.com</li>
-<li> 15:56 twitter.com</li>
-<li> 15:56 www.google.com</li>
 </ul>
