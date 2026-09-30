@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (5032)</li>
 <li>outlook.office365.com (4408)</li>
 <li>duckduckgo.com (3966)</li>
-<li>outlook.office.com (3885)</li>
+<li>outlook.office.com (3882)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2915)</li>
 <li>www.linkedin.com (2372)</li>
@@ -124524,9 +124524,4 @@ With number of accesses/minutes in parentheses
 <li> 12:01 teams.microsoft.com</li>
 <li> 12:01 mail.google.com</li>
 <li class='same'> 11:52 mail.google.com</li>
-<li> 11:52 outlook.office.com</li>
-<li> 11:47 whitewaterwriters.com</li>
-<li> 11:45 <a href="https://joereddington.com/Comics/">2022-05-01 | Joe’s Comics</a></li>
-<li> 11:44 outlook.office.com</li>
-<li class='same'> 11:43 outlook.office.com</li>
 </ul>
