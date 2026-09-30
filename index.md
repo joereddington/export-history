@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5455)</li>
-<li>mail.google.com (5324)</li>
-<li>www.google.com (5033)</li>
-<li>outlook.office365.com (4412)</li>
-<li>duckduckgo.com (3964)</li>
-<li>outlook.office.com (3890)</li>
+<ol><li>www.reddit.com (5474)</li>
+<li>mail.google.com (5321)</li>
+<li>www.google.com (5032)</li>
+<li>outlook.office365.com (4408)</li>
+<li>duckduckgo.com (3966)</li>
+<li>outlook.office.com (3886)</li>
 <li>docs.google.com (3285)</li>
 <li>chatgpt.com (2912)</li>
-<li>www.linkedin.com (2374)</li>
+<li>www.linkedin.com (2372)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1782)</li>
+<li>moodle.royalholloway.ac.uk (1784)</li>
 <li>www.facebook.com (1728)</li>
 <li>calendar.google.com (1571)</li>
-<li>login.microsoftonline.com (1426)</li>
-<li>chat.openai.com (1343)</li>
+<li>login.microsoftonline.com (1427)</li>
+<li>chat.openai.com (1344)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1125)</li>
+<li>gmail.com (1123)</li>
 <li>web.whatsapp.com (1120)</li>
-<li>mail.rhul.ac.uk (957)</li>
+<li>mail.rhul.ac.uk (956)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (838)</li>
+<li>feedly.com (839)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (753)</li>
 <li>rhul.sharepoint.com (615)</li>
@@ -104,11 +104,88 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 30/09/26</H3>
+
+<br>
+
+<ul><li> 06:51 www.xjavascript.com</li>
+<li> 06:51 duckduckgo.com</li>
+<li> 06:50 login.microsoftonline.com</li>
+<li> 06:50 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 06:50 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 06:50 device.login.microsoftonline.com</li>
+<li> 06:50 login.microsoftonline.com</li>
+<li> 06:50 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 06:43 feedly.com</li>
+<li> 06:43 fast.com</li>
+<li> 06:43 192.168.178.1</li>
+</ul>
+
 <H3>Tuesday, 29/09/26</H3>
 
 <br>
 
-<ul><li> 16:52 www.linkedin.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:17 www.reddit.com</li>
+<li class='same'> 21:13 www.reddit.com</li>
+<li class='same'> 21:11 www.reddit.com</li>
+<li class='same'> 21:10 www.reddit.com</li>
+<li class='same'> 21:09 www.reddit.com</li>
+<li class='same'> 21:08 www.reddit.com</li>
+<li class='same'> 21:06 www.reddit.com</li>
+<li> 21:06 forums.giantitp.com</li>
+<li> 21:06 www.reddit.com</li>
+<li> 21:06 forums.giantitp.com</li>
+<li> 21:03 oots.fandom.com</li>
+<li> 21:03 www.google.com</li>
+<li> 21:01 <a href="https://www.bbc.co.uk/news/articles/cr209vl2z9jqo">Five takeaways from Andy Burnham&#x27;s Labour conference speech - BBC News</a></li>
+<li> 21:00 <a href="https://www.bbc.co.uk/news/articles/cqvgyjl3p5jro">Northumberland doctor goes from triathlon novice to Team GB racer - BBC News</a></li>
+<li> 20:59 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:59 www.google.com</li>
+<li> 20:59 richburlew.gumroad.com</li>
+<li> 20:58 www.giantitp.com</li>
+<li> 20:56 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:48 www.google.com</li>
+<li> 18:47 mail.google.com</li>
+<li class='same'> 18:46 mail.google.com</li>
+<li class='same'> 18:45 mail.google.com</li>
+<li> 18:45 accounts.google.com</li>
+<li class='same'> 18:44 accounts.google.com</li>
+<li> 18:44 workspace.google.com</li>
+<li> 18:44 mail.google.com</li>
+<li> 18:44 gmail.com</li>
+<li> 18:18 www.reddit.com</li>
+<li class='same'> 18:16 www.reddit.com</li>
+<li class='same'> 18:14 www.reddit.com</li>
+<li class='same'> 18:13 www.reddit.com</li>
+<li class='same'> 18:10 www.reddit.com</li>
+<li class='same'> 18:09 www.reddit.com</li>
+<li> 18:04 <a href="https://www.bbc.co.uk/news/articles/c86xj5z7x61o">Two Reform officials step down after undercover report on party donations - BBC News</a></li>
+<li> 18:03 www.reddit.com</li>
+<li class='same'> 18:01 www.reddit.com</li>
+<li class='same'> 17:59 www.reddit.com</li>
+<li class='same'> 17:58 www.reddit.com</li>
+<li class='same'> 17:57 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:10 chatgpt.com</li>
+<li> 17:10 chat.openai.com</li>
+<li> 17:09 robi-pedersen.com</li>
+<li> 17:08 duckduckgo.com</li>
+<li> 17:08 moodle.royalholloway.ac.uk</li>
+<li> 17:01 www.linkedin.com</li>
+<li> 17:01 moodle.royalholloway.ac.uk</li>
+<li> 17:01 rhul.hosted.panopto.com</li>
+<li> 16:52 www.linkedin.com</li>
 <li class='same'> 16:51 www.linkedin.com</li>
 <li> 16:51 rhul.hosted.panopto.com</li>
 <li> 16:51 dashboards.rhul.ac.uk</li>
@@ -642,13 +719,13 @@ With number of accesses/minutes in parentheses
 <li> 14:37 www.giantitp.com</li>
 <li> 14:32 mayamagal.co.uk</li>
 <li> 14:32 <a href="https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
-<li> 14:32 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 14:32 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
 
 <ul><li> 13:31 <a href="https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
-<li> 13:30 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 13:30 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
@@ -1897,7 +1974,7 @@ With number of accesses/minutes in parentheses
 <li> 15:02 <a href="https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/john-fetterman-braddock-pennsylvania">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:02 <a href="https://www.theguardian.com/uk">‘I want to go’: Lewis Hamilton hopes F1 is able to end season in Middle East | Formula One 2026 | The Guardian</a></li>
 <li> 14:59 <a href="https://www.bbc.co.uk/mediacentre/2026/strictly-2026-celebrity-professional-dancer-pairings/">BBC - Home</a></li>
-<li> 14:59 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 14:59 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 14:58 www.google.com</li>
 </ul>
 
@@ -9026,7 +9103,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:28 www.linkedin.com</li>
-<li> 18:27 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 18:27 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:26 <a href="https://www.bbc.co.uk/news/articles/ckg4we9g58do">Who&#x27;s in Andy Burnham&#x27;s new Labour cabinet? - BBC News</a></li>
 <li> 18:26 www.google.co.uk</li>
 <li> 18:26 duckduckgo.com</li>
@@ -9283,11 +9360,11 @@ With number of accesses/minutes in parentheses
 <li> 07:16 m.youtube.com</li>
 <li> 07:05 www.google.com</li>
 <li class='same'> 06:42 www.google.com</li>
-<li> 06:41 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 06:41 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:40 <a href="https://www.bbc.co.uk/news/articles/c5y08z25q8eo">BBC - Home</a></li>
-<li> 06:40 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 06:40 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:39 <a href="https://www.bbc.co.uk/news/articles/cwymly9yd33o">BBC - Home</a></li>
-<li> 06:39 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 06:39 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:39 www.google.com</li>
 <li class='same'> 06:37 www.google.com</li>
 <li> 06:36 screenrant.com</li>
@@ -12123,7 +12200,6 @@ With number of accesses/minutes in parentheses
 <li> 13:06 fyp.cs.rhul.ac.uk</li>
 <li> 13:04 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 13:04 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 13:04 login.microsoftonline.com</li>
 <li> 13:04 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:49 experience.elluciancloud.ie</li>
 <li> 12:49 login.microsoftonline.com</li>
@@ -12139,7 +12215,6 @@ With number of accesses/minutes in parentheses
 <li> 12:20 casper.cs.rhul.ac.uk</li>
 <li class='same'> 12:19 casper.cs.rhul.ac.uk</li>
 <li> 12:13 v5.mui.com</li>
-<li> 12:13 eur03.safelinks.protection.outlook.com</li>
 <li> 12:10 casper.cs.rhul.ac.uk</li>
 <li class='same'> 12:09 casper.cs.rhul.ac.uk</li>
 <li class='same'> 12:07 casper.cs.rhul.ac.uk</li>
@@ -12168,12 +12243,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 09:54 mail.google.com</li>
-<li> 09:54 doc-0s-04-docstext.googleusercontent.com</li>
 <li> 09:54 docs.google.com</li>
 <li class='same'> 09:52 docs.google.com</li>
 <li class='same'> 09:51 docs.google.com</li>
 <li> 09:51 www.ons.gov.uk</li>
-<li> 09:51 www.google.com</li>
 <li> 09:50 docs.google.com</li>
 <li> 09:50 www.bankofengland.co.uk</li>
 <li> 09:50 duckduckgo.com</li>
@@ -13292,7 +13365,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 19:09 <a href="https://www.bbc.co.uk/sport/football/articles/cze9wp8r6lno">World Cup 2026: Donald Trump to attend World Cup final and present winner - BBC Sport</a></li>
-<li> 19:08 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
@@ -19776,7 +19849,7 @@ With number of accesses/minutes in parentheses
 <li> 15:49 duckduckgo.com</li>
 <li> 15:44 docs.google.com</li>
 <li> 15:26 <a href="https://www.bbc.co.uk/sport/articles/cj0p1p67v56o">Enhanced Games: &#x27;Steroid Olympics&#x27; force sport to confront tough questions - BBC Sport</a></li>
-<li> 15:25 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 15:25 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 15:22 www.yodel.co.uk</li>
 <li> 15:22 www.google.com</li>
 <li> 15:10 www.tandfonline.com</li>
@@ -20037,19 +20110,19 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:57 <a href="https://www.bbc.co.uk/iplayer/episode/b0074rc0/the-thick-of-it-series-1-episode-1">The Thick of It - Series 1: Episode 1 - BBC iPlayer</a></li>
 <li> 19:57 <a href="https://www.bbc.co.uk/iplayer/episode/b0074rc0">BBC - Home</a></li>
-<li> 19:56 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:56 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 19:54 <a href="https://www.bbc.co.uk/news/articles/c5y91dg75ejo">BBC - Home</a></li>
-<li> 19:54 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:54 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 19:52 <a href="https://www.bbc.co.uk/news/articles/c5yejzmvy56o">BBC - Home</a></li>
-<li> 19:52 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 19:51 <a href="https://www.bbc.co.uk/sport/football/articles/cwy2pnpqjl7o">BBC - Home</a></li>
-<li> 19:50 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:50 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
 
 <ul><li> 19:14 <a href="https://www.bbc.co.uk/news/articles/c62xv7n4xwdo">BBC - Home</a></li>
-<li> 19:14 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:14 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:46 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 18:21 outlook.cloud.microsoft</li>
 <li> 18:20 intranet.royalholloway.ac.uk</li>
@@ -20742,7 +20815,7 @@ With number of accesses/minutes in parentheses
 <li> 23:02 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 22:57 www.google.com</li>
 <li> 22:56 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
-<li> 22:56 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 22:56 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 22:56 www.google.com</li>
 <li> 22:56 tvtropes.org</li>
 <li class='same'> 22:55 tvtropes.org</li>
@@ -20756,18 +20829,18 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:53 www.etymonline.com</li>
 <li> 18:52 www.google.com</li>
-<li> 18:34 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 18:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:32 <a href="https://www.bbc.co.uk/news/articles/ce9p0kkeer8o">Home - BBC News</a></li>
 <li> 18:32 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 18:31 <a href="https://www.bbc.co.uk/news/articles/cd7pyrj0vx7o">Home - BBC News</a></li>
 <li> 18:31 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 18:30 <a href="https://www.bbc.co.uk/news/articles/c052e26mq7vo">Home - BBC News</a></li>
 <li> 18:29 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
-<li> 18:29 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 18:29 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:28 <a href="https://www.bbc.co.uk/weather/articles/cvgzn11v421o">BBC - Home</a></li>
-<li> 18:27 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 18:27 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:26 <a href="https://www.bbc.co.uk/news/live/cwy21gpr1kzt">BBC - Home</a></li>
-<li> 18:26 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 18:26 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:26 www.google.com</li>
 <li> 18:00 www.amazon.co.uk</li>
 <li> 17:58 www.vinted.co.uk</li>
@@ -21287,7 +21360,7 @@ With number of accesses/minutes in parentheses
 <li> 13:08 calendar.google.com</li>
 <li class='same'> 13:06 calendar.google.com</li>
 <li> 13:04 <a href="https://www.bbc.co.uk/news/articles/cy02wdzrg6jo">BBC - Home</a></li>
-<li> 13:04 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 13:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
@@ -25220,7 +25293,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:04 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 10:04 <a href="https://www.bbc.co.uk/news/articles/cp3lnld4lpzo">BBC - Home</a></li>
-<li> 10:04 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 10:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 10:04 <a href="https://www.bbc.co.uk/news/articles/cp3lnld4lpzo">BBC - Home</a></li>
 </ul>
 
@@ -25232,7 +25305,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 08:40 <a href="https://www.bbc.co.uk/news/articles/cp3lnld4lpzo">BBC - Home</a></li>
-<li> 08:39 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 08:39 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 08:39 <a href="https://www.bbc.co.uk/news/articles/crr1q4kjvn2o">Trump seeks massive $1.5tn for defence alongside cuts in domestic spending - BBC News</a></li>
 </ul>
 
@@ -25629,7 +25702,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:11 chatgpt.com</li>
 <li> 12:11 rhul.sharepoint.com</li>
 <li> 12:07 web.whatsapp.com</li>
-<li> 11:51 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 11:51 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 11:48 chatgpt.com</li>
 <li class='same'> 11:45 chatgpt.com</li>
 <li> 11:44 dashboards.rhul.ac.uk</li>
@@ -25670,7 +25743,7 @@ With number of accesses/minutes in parentheses
 <li> 09:30 www.amazon.co.uk</li>
 <li class='same'> 09:29 www.amazon.co.uk</li>
 <li class='same'> 09:15 www.amazon.co.uk</li>
-<li> 08:59 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 08:59 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
@@ -25835,9 +25908,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 16:54 <a href="https://www.bbc.co.uk/news/articles/cd9vlj9kl19o">Sophie Turner injury halts filming on Tomb Raider TV show - BBC News</a></li>
-<li> 16:54 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 16:54 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 16:53 <a href="https://www.bbc.co.uk/news/articles/cd6wp6xenv0o">BBC - Home</a></li>
-<li> 16:52 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 16:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 16:51 <a href="https://www.bbc.co.uk/news/articles/ckge1yn50y8o?utm_source=firefox-newtab-en-gb">Scott Mills sacked from BBC Radio 2 after allegations over &#x27;historic relationship&#x27; - BBC News</a></li>
 <li> 16:49 x.com</li>
 <li class='same'> 16:48 x.com</li>
@@ -27350,7 +27423,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:10 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<ul><li> 15:10 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 15:08 <a href="https://www.bbc.co.uk/news/articles/c624330lg1ko">Home - BBC News</a></li>
 <li> 15:08 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 15:08 www.thingiverse.com</li>
@@ -27698,9 +27771,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 19:39 <a href="https://www.bbc.co.uk/news/articles/cp8r3y0xdy1o">Jeremy Clarkson joins row over imported chicken in Welsh schools - BBC News</a></li>
-<li> 19:39 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:39 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 19:38 <a href="https://www.bbc.co.uk/sport/football/articles/c80j82de93zo">BBC - Home</a></li>
-<li> 19:38 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 19:29 <a href="https://www.theguardian.com/film/2026/mar/17/secret-lives-of-six-body-doubles">The secret lives of six body doubles: ‘They wanted Julia Roberts to have curvier legs’ | Film | The Guardian</a></li>
 </ul>
 
@@ -28982,7 +29055,7 @@ With number of accesses/minutes in parentheses
 <li> 16:52 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 16:52 <a href="https://www.bbc.co.uk/sport/articles/c9wn01jd12wo">Home - BBC News</a></li>
 <li> 16:50 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
-<li> 16:50 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 16:50 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 16:50 www.google.com</li>
 </ul>
 
@@ -30388,11 +30461,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:12 <a href="https://www.theguardian.com/world/2026/feb/28/israel-launches-attack-on-iran-as-explosions-heard-in-tehran">Latest news, sport and opinion from the Guardian</a></li>
 <li> 09:09 <a href="https://www.bbc.co.uk/news/articles/cx2l1zxekp3o">BBC - Home</a></li>
-<li> 09:08 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 09:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 09:08 <a href="https://www.bbc.co.uk/news/articles/cy8grn7evm2o">BBC - Home</a></li>
-<li> 09:07 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 09:07 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 09:07 <a href="https://www.bbc.co.uk/sport/boxing/articles/c5yqpj9ppkgo">BBC - Home</a></li>
-<li> 08:39 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 08:39 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 08:38 www.google.com</li>
 <li> 08:37 <a href="https://www.bbc.co.uk/news/articles/cq570d12y9do">Jack Dorsey&#x27;s Block cuts thousands of roles as it embraces AI - BBC News</a></li>
 <li> 08:29 www.reddit.com</li>
@@ -30710,7 +30783,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:56 www.google.com</li>
 <li> 06:46 web.whatsapp.com</li>
 <li> 06:41 <a href="https://www.bbc.co.uk/news/articles/cy9gd52r4gro">BBC - Home</a></li>
-<li> 06:41 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 06:41 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:38 www.reddit.com</li>
 <li> 06:36 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 06:35 webtimetables.royalholloway.ac.uk</li>
@@ -30922,11 +30995,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:52 <a href="https://www.bbc.co.uk/bitesize/articles/zr2dg2p">BBC - Home</a></li>
-<li> 19:52 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 19:52 <a href="https://www.bbc.co.uk/programmes/p0n2qh10">BBC - Home</a></li>
-<li> 19:52 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 19:51 <a href="https://www.bbc.co.uk/news/articles/cqlgzrqqxpzo">BBC - Home</a></li>
-<li> 19:51 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 19:51 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 19:35 www.politico.com</li>
 </ul>
 
@@ -35276,11 +35349,11 @@ With number of accesses/minutes in parentheses
 <li> 02:58 <a href="https://www.bbc.co.uk/news/articles/c24gyz3j6e1o">Home - BBC News</a></li>
 <li> 02:57 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 02:57 <a href="https://www.bbc.co.uk/news/articles/c0eryxnqyyvo">BBC - Home</a></li>
-<li> 02:56 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 02:56 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 02:55 <a href="https://www.bbc.co.uk/programmes/articles/1QH6tQXdkHtTJ9CRV4cdvsv/eight-things-we-learned-from-kemi-badenoch-s-desert-island-discs">BBC - Home</a></li>
-<li> 02:54 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 02:54 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 02:53 <a href="https://www.bbc.co.uk/news/articles/cp87l604nx8o">BBC - Home</a></li>
-<li> 02:52 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 02:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 02:51 <a href="https://www.bbc.co.uk/news/articles/c0eryxnqyyvo">BBC - Home</a></li>
 <li> 02:51 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 02:39 www.nytimes.com</li>
@@ -35455,7 +35528,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:15 <a href="https://www.bbc.co.uk/news/articles/cx2gdrvy9gjo">China executes 11 members of Myanmar scam mafia - BBC News</a></li>
-<li> 08:15 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 08:15 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 08:06 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 08:06 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 08:06 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -35469,14 +35542,14 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:13 time.is</li>
 <li> 07:13 duckduckgo.com</li>
-<li> 06:53 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 06:53 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 06:16 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<ul><li class='same'> 06:16 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:12 <a href="https://www.bbc.co.uk/sport/football/articles/cy0520ey7jjo">BBC - Home</a></li>
-<li> 06:11 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 06:11 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:09 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 06:08 www.google.com</li>
 </ul>
@@ -36129,7 +36202,7 @@ With number of accesses/minutes in parentheses
 <li> 10:20 www.google.com</li>
 <li> 10:07 www.parkrun.org.uk</li>
 <li> 10:01 <a href="https://www.bbc.co.uk/news/articles/cm2yr95md71o">BBC - Home</a></li>
-<li> 09:54 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 09:54 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 09:54 theguardian.com</li>
 <li> 09:54 www.parkrun.org.uk</li>
 <li class='same'> 09:53 www.parkrun.org.uk</li>
@@ -36327,9 +36400,9 @@ With number of accesses/minutes in parentheses
 <li> 07:44 adfs.herts.ac.uk</li>
 <li> 07:44 herts.instructure.com</li>
 <li> 07:25 <a href="https://www.bbc.co.uk/news/articles/c338plx3pdlo">Steve Pemberton gives Weakest Link prize to Chorley hospice - BBC News</a></li>
-<li> 07:24 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 07:24 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 07:23 <a href="https://www.bbc.co.uk/news/articles/cr7jej2elyyo">BBC - Home</a></li>
-<li> 07:23 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 07:23 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 07:23 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 07:20 www.standard.co.uk</li>
 <li> 07:18 newsthump.com</li>
@@ -44301,7 +44374,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:04 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">The itest project | Joe Reddington</a></li>
 <li> 16:04 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
-<li> 16:04 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 16:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
@@ -45299,7 +45372,7 @@ With number of accesses/minutes in parentheses
 <li> 11:42 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li class='same'> 11:32 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 11:21 <a href="https://www.bbc.co.uk/news/articles/cgjn2y4eed5o">BBC - Home</a></li>
-<li> 11:21 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 11:21 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 11:17 whatsupbeds.com</li>
 <li> 11:17 www.google.com</li>
 <li> 11:10 www.highbet.co.uk</li>
@@ -45313,10 +45386,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:38 <a href="https://www.bbc.co.uk/news/articles/cx272dj04rno">Home - BBC News</a></li>
 <li> 10:38 <a href="https://www.bbc.co.uk/news">I&#x27;m Not A Monster Presents... - Where Is Austin Tice? - 1. &quot;We Believe He’s Alive&quot; - BBC Sounds</a></li>
 <li> 10:35 <a href="https://www.bbc.co.uk/news/articles/c7vm5d42r8mo">BBC - Home</a></li>
-<li> 10:34 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 10:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 10:34 <a href="https://www.bbc.co.uk/news/articles/cdxweyy157go">BBC - Home</a></li>
 <li> 10:34 www.google.com</li>
-<li> 10:34 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 10:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 10:28 accounts.intuit.com</li>
 <li> 10:28 qbo.intuit.com</li>
 <li> 10:28 accounts.intuit.com</li>
@@ -46206,7 +46279,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:37 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<ul><li> 09:37 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 09:37 forms.cloud.microsoft</li>
 </ul>
 
@@ -46621,7 +46694,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:34 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<ul><li> 16:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
@@ -60054,7 +60127,7 @@ With number of accesses/minutes in parentheses
 <li> 20:20 duckduckgo.com</li>
 <li> 20:11 mail.google.com</li>
 <li> 20:11 forms.office.com</li>
-<li> 20:08 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 20:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 20:05 ev.turnitinuk.com</li>
 <li> 20:04 api.turnitinuk.com</li>
 <li> 20:04 herts.instructure.com</li>
@@ -60080,9 +60153,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:49 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<ul><li> 18:49 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:47 <a href="https://www.bbc.co.uk/news/articles/c62z8k14kxxo">Teenagers charged over Transport for London cyber attack - BBC News</a></li>
-<li> 18:47 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 18:47 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:43 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/18/trump-v-the-truth-review-channel-4">Trump v the Truth review – no other broadcaster would attempt TV so daring (and mind-numbing) | Television &amp; radio | The Guardian</a></li>
 </ul>
 
@@ -66011,12 +66084,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:30 <a href="https://www.bbc.co.uk/iplayer/episode/m002f1s5/rylan-how-to-be-how-to-be-in-love-12-mel-robbins">Rylan: How to Be... - How to Be in Love: 12. Mel Robbins - BBC iPlayer</a></li>
 <li> 20:30 <a href="https://www.bbc.co.uk/iplayer/episode/m002f1s5">BBC - Home</a></li>
-<li> 20:29 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 20:29 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 20:28 <a href="https://www.bbc.co.uk/news/articles/cp37znd8vx1o">Campaigners lodge legal action over gender rules for schools and prisons - BBC News</a></li>
-<li> 20:28 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 20:28 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 20:27 <a href="https://www.bbc.co.uk/news/articles/crm4ln2ekg1o">Putin agreed to &#x27;robust&#x27; security guarantees for Ukraine, says US envoy - BBC News</a></li>
-<li> 20:26 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
-<li class='same'> 20:15 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 20:26 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li class='same'> 20:15 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
@@ -67096,7 +67169,7 @@ With number of accesses/minutes in parentheses
 <li> 15:39 <a href="https://www.bbc.co.uk/news/articles/cp941z3nnnxo">Zara ads banned for featuring &#x27;unhealthily thin&#x27; models - BBC News</a></li>
 <li> 15:39 <a href="https://www.bbc.co.uk/news/articles/cn92vw9gl74o">MasterChef: BBC cooking show returns with sacked hosts Gregg Wallace and John Torode - BBC News</a></li>
 <li> 15:39 <a href="https://www.bbc.co.uk/news/articles/c1dxr1g4y7yo">Trump hits India with extra 25% tariff for buying Russian oil - BBC News</a></li>
-<li> 15:38 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 15:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 15:38 session.bbc.co.uk</li>
 <li> 15:37 ce0997li.webitrent.com</li>
 <li> 15:37 login.microsoftonline.com</li>
@@ -76319,7 +76392,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:12 www.reddit.com</li>
 <li> 11:09 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers&#x27; appeals - BBC News</a></li>
 <li> 11:09 www.manchestereveningnews.co.uk</li>
-<li> 11:09 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 11:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 11:09 www.google.com</li>
 <li> 11:09 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
 <li> 11:09 <a href="https://www.theguardian.com/tv-and-radio/article/2024/aug/14/the-life-and-tragic-death-of-john-balson-how-a-true-producer-documented-his-own-rising-horror">The life and tragic death of John Balson: how a true crime producer documented his own rising horror | Television &amp; radio | The Guardian</a></li>
@@ -78814,7 +78887,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:41 tvtropes.org</li>
 <li class='same'> 06:40 tvtropes.org</li>
 <li> 06:40 www.kaggle.com</li>
-<li> 06:38 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 06:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:38 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
 <li> 06:37 <a href="https://www.theguardian.com/australia-news/2025/jun/11/fury-over-year-9-students-in-south-australia-being-asked-to-debate-whether-the-tradwife-movement-is-good-for-women">Fury over year 9 students in South Australia being asked to debate whether the tradwife movement is good for women | South Australia | The Guardian</a></li>
 <li> 06:27 www.google.com</li>
@@ -84899,11 +84972,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:17 www.reddit.com</li>
 <li> 12:17 www.google.com</li>
 <li> 12:05 <a href="https://www.bbc.co.uk/news/articles/c8rexgzp54vo">Sussex man who owns 85p Sicily home besieged with advice requests - BBC News</a></li>
-<li> 12:04 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 12:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 12:04 <a href="https://www.bbc.co.uk/news/articles/c39xkex84k2o">Life or death decisions as politicians weigh up assisted dying vote - BBC News</a></li>
-<li> 12:04 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 12:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 12:03 <a href="https://www.bbc.co.uk/news/articles/cewd14jvgewo">Cryptosporidium: Boy, 4, hospitalised after visit to farm in Cowbridge - BBC News</a></li>
-<li> 12:03 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 12:03 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 11:56 www.thingiverse.com</li>
 <li class='same'> 11:55 www.thingiverse.com</li>
 <li class='same'> 11:54 www.thingiverse.com</li>
@@ -91014,7 +91087,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:06 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
 <li> 21:05 <a href="https://www.bbc.co.uk/news/articles/cgenjl79v89o">Man shot dead by police at Milton Keynes railway station named - BBC News</a></li>
-<li> 21:05 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 21:05 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 21:05 www.theguardian.com</li>
 <li class='same'> 20:44 www.theguardian.com</li>
 <li class='same'> 20:43 www.theguardian.com</li>
@@ -92310,18 +92383,18 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:20 drive.google.com</li>
 <li> 08:20 www.pizzaexpress.com</li>
 <li> 08:11 www.google.com</li>
-<li> 08:09 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 08:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 08:09 <a href="https://www.bbc.co.uk/news/articles/cvgp23z9er5o">As music streaming subscriptions stall, are price rises inevitable? - BBC News</a></li>
-<li> 08:08 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 08:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 08:08 <a href="https://www.bbc.co.uk/news/articles/c9q4e0e783po">Bournemouth beach murder: How criminology student was caught - BBC News</a></li>
-<li> 08:08 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<li> 08:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 08:08 <a href="https://www.bbc.co.uk/iplayer/episode/p0kyy502/6-music-festival-2025-ezra-collective-god-gave-me-feet-for-dancing-feat-kinetika-bloco-maia-avery">6 Music Festival - 2025: Ezra Collective - God Gave Me Feet For Dancing (feat. Kinetika Bloco (Maia Avery)) - BBC iPlayer</a></li>
 <li> 08:08 <a href="https://www.bbc.co.uk/iplayer/episode/p0kyy502">BBC - Home</a></li>
 </ul>
 
 <br>
 
-<ul><li> 07:31 <a href="https://www.bbc.co.uk/">Manchester City charges: Legal fight could spiral out of control, says former executive - BBC Sport</a></li>
+<ul><li> 07:31 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 07:31 theopenvoicefactory.org</li>
 <li> 07:12 www.theguardian.com</li>
 <li class='same'> 07:09 www.theguardian.com</li>
@@ -124452,49 +124525,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:41 royalholloway.akarisoftware.com</li>
 <li> 11:41 outlook.office.com</li>
 <li> 11:41 mail.google.com</li>
-<li> 11:41 gmail.com</li>
-<li> 11:41 mail.google.com</li>
-<li> 11:41 gmail.com</li>
-<li> 11:38 www.linkedin.com</li>
-<li> 11:38 outlook.office365.com</li>
-<li class='same'> 11:37 outlook.office365.com</li>
-<li> 11:37 discord.com</li>
-<li class='same'> 11:36 discord.com</li>
-<li class='same'> 11:35 discord.com</li>
-<li> 11:31 www.linkedin.com</li>
-<li class='same'> 11:30 www.linkedin.com</li>
-<li> 11:30 www.google.com</li>
-<li> 11:30 fullymerched.com</li>
-<li> 11:30 www.google.com</li>
-<li> 11:24 teams.microsoft.com</li>
-<li> 11:24 www.su.rhul.ac.uk</li>
-<li> 11:24 www.google.com</li>
-<li> 11:22 discord.com</li>
-<li> 11:21 outlook.office365.com</li>
-<li class='same'> 11:20 outlook.office365.com</li>
-<li> 11:20 mail.rhul.ac.uk</li>
-<li> 11:20 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:20 outlook.office.com</li>
-<li> 10:19 mail.google.com</li>
-<li class='same'> 10:18 mail.google.com</li>
-<li> 10:18 pay.ebay.co.uk</li>
-<li> 10:18 www.paypal.com</li>
-<li> 10:18 pay.ebay.co.uk</li>
-<li> 10:17 mail.google.com</li>
-<li class='same'> 10:16 mail.google.com</li>
-<li> 10:15 www.ebay.co.uk</li>
-<li> 10:14 admin.google.com</li>
-<li> 10:14 outlook.office.com</li>
-<li> 10:14 mail.google.com</li>
-<li class='same'> 10:13 mail.google.com</li>
-<li> 10:13 gmail.com</li>
-<li> 10:13 outlook.office.com</li>
-<li class='same'> 10:12 outlook.office.com</li>
-<li> 10:11 admin.google.com</li>
-<li class='same'> 10:10 admin.google.com</li>
-<li> 10:09 chatgpt.com</li>
 </ul>
