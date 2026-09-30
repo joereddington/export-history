@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5484)</li>
+<ol><li>www.reddit.com (5485)</li>
 <li>mail.google.com (5271)</li>
-<li>www.google.com (4995)</li>
-<li>outlook.office365.com (4395)</li>
-<li>duckduckgo.com (3970)</li>
+<li>www.google.com (4994)</li>
+<li>outlook.office365.com (4389)</li>
+<li>duckduckgo.com (3971)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3270)</li>
 <li>chatgpt.com (2916)</li>
@@ -81,11 +81,11 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1781)</li>
 <li>www.facebook.com (1710)</li>
 <li>calendar.google.com (1562)</li>
-<li>login.microsoftonline.com (1428)</li>
+<li>login.microsoftonline.com (1431)</li>
 <li>chat.openai.com (1347)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1113)</li>
+<li>web.whatsapp.com (1112)</li>
 <li>gmail.com (1111)</li>
 <li>mail.rhul.ac.uk (954)</li>
 <li>tvtropes.org (880)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 30/09/26</H3>
+
+<br>
+
+<ul><li> 16:28 www.reddit.com</li>
+<li> 16:25 forms.cloud.microsoft</li>
+<li class='same'> 16:14 forms.cloud.microsoft</li>
+<li> 16:14 login.microsoftonline.com</li>
+<li> 16:14 device.login.microsoftonline.com</li>
+<li> 16:14 login.microsoftonline.com</li>
+<li> 16:14 forms.cloud.microsoft</li>
+<li> 16:13 outlook.office365.com</li>
+<li> 16:13 login.microsoftonline.com</li>
+<li> 16:13 device.login.microsoftonline.com</li>
+<li> 16:13 outlook.office365.com</li>
+<li> 16:13 mail.rhul.ac.uk</li>
+<li> 16:01 scholar.google.com</li>
+<li> 16:01 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -124181,15 +124199,4 @@ With number of accesses/minutes in parentheses
 <li> 09:20 moodle.royalholloway.ac.uk</li>
 <li> 09:19 Local file</li>
 <li> 09:19 moodle.royalholloway.ac.uk</li>
-<li> 09:19 www.google.com</li>
-<li> 09:18 outlook.office365.com</li>
-<li class='same'> 09:17 outlook.office365.com</li>
-<li> 09:16 web.whatsapp.com</li>
-<li> 09:16 outlook.office365.com</li>
-<li class='same'> 09:15 outlook.office365.com</li>
-<li class='same'> 09:14 outlook.office365.com</li>
-<li class='same'> 09:13 outlook.office365.com</li>
-<li class='same'> 09:12 outlook.office365.com</li>
-<li class='same'> 09:11 outlook.office365.com</li>
-<li> 09:11 mail.rhul.ac.uk</li>
 </ul>
