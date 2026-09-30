@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5474)</li>
-<li>mail.google.com (5321)</li>
+<li>mail.google.com (5320)</li>
 <li>www.google.com (5032)</li>
 <li>outlook.office365.com (4408)</li>
 <li>duckduckgo.com (3966)</li>
-<li>outlook.office.com (3886)</li>
+<li>outlook.office.com (3885)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2912)</li>
+<li>chatgpt.com (2913)</li>
 <li>www.linkedin.com (2372)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1784)</li>
 <li>www.facebook.com (1728)</li>
 <li>calendar.google.com (1571)</li>
 <li>login.microsoftonline.com (1427)</li>
-<li>chat.openai.com (1344)</li>
+<li>chat.openai.com (1345)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1123)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:51 www.xjavascript.com</li>
+<ul><li> 07:21 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 07:21 rhul.hosted.panopto.com</li>
+<li class='same'> 07:20 rhul.hosted.panopto.com</li>
+<li> 07:13 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 07:08 chatgpt.com</li>
+<li> 07:08 chat.openai.com</li>
+<li> 07:04 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 06:51 www.xjavascript.com</li>
 <li> 06:51 duckduckgo.com</li>
 <li> 06:50 login.microsoftonline.com</li>
 <li> 06:50 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -124520,9 +124527,4 @@ With number of accesses/minutes in parentheses
 <li> 11:45 <a href="https://joereddington.com/Comics/">2022-05-01 | Joe’s Comics</a></li>
 <li> 11:44 outlook.office.com</li>
 <li class='same'> 11:43 outlook.office.com</li>
-<li> 11:43 royalholloway.akarisoftware.com</li>
-<li class='same'> 11:42 royalholloway.akarisoftware.com</li>
-<li class='same'> 11:41 royalholloway.akarisoftware.com</li>
-<li> 11:41 outlook.office.com</li>
-<li> 11:41 mail.google.com</li>
 </ul>
