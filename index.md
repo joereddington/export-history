@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5474)</li>
-<li>mail.google.com (5317)</li>
-<li>www.google.com (5028)</li>
-<li>outlook.office365.com (4402)</li>
+<li>mail.google.com (5307)</li>
+<li>www.google.com (5022)</li>
+<li>outlook.office365.com (4395)</li>
 <li>duckduckgo.com (3966)</li>
-<li>outlook.office.com (3882)</li>
-<li>docs.google.com (3285)</li>
+<li>outlook.office.com (3879)</li>
+<li>docs.google.com (3281)</li>
 <li>chatgpt.com (2916)</li>
-<li>www.linkedin.com (2372)</li>
+<li>www.linkedin.com (2370)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
-<li>www.facebook.com (1728)</li>
-<li>calendar.google.com (1571)</li>
+<li>www.facebook.com (1726)</li>
+<li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1427)</li>
 <li>chat.openai.com (1346)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1123)</li>
-<li>web.whatsapp.com (1120)</li>
-<li>mail.rhul.ac.uk (956)</li>
+<li>gmail.com (1122)</li>
+<li>web.whatsapp.com (1119)</li>
+<li>mail.rhul.ac.uk (954)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (839)</li>
-<li>rhul-my.sharepoint.com (820)</li>
-<li>forms.office.com (753)</li>
+<li>rhul-my.sharepoint.com (819)</li>
+<li>forms.office.com (752)</li>
 <li>rhul.sharepoint.com (615)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
-<li>www.theguardian.com (504)</li>
+<li>www.theguardian.com (501)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (467)</li>
+<li>drive.google.com (466)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:25 chatgpt.com</li>
+<ul><li> 10:32 Local file</li>
+<li> 10:25 chatgpt.com</li>
 <li> 10:25 chat.openai.com</li>
 <li> 10:25 web.whatsapp.com</li>
 <li> 10:10 ads.google.com</li>
@@ -124427,89 +124428,4 @@ With number of accesses/minutes in parentheses
 <li> 16:26 kdp.amazon.com</li>
 <li class='same'> 16:25 kdp.amazon.com</li>
 <li> 16:24 mail.google.com</li>
-<li class='same'> 16:23 mail.google.com</li>
-<li> 16:23 gmail.com</li>
-<li> 16:23 www.google.com</li>
-<li> 16:21 calendar.google.com</li>
-<li> 16:18 docs.google.com</li>
-<li class='same'> 16:17 docs.google.com</li>
-<li class='same'> 16:16 docs.google.com</li>
-<li> 16:16 drive.google.com</li>
-<li> 16:16 rhul-my.sharepoint.com</li>
-<li> 16:15 mail.google.com</li>
-<li class='same'> 16:14 mail.google.com</li>
-<li> 16:13 www.google.com</li>
-<li> 16:13 www.nhs.uk</li>
-<li> 16:13 www.google.com</li>
-<li> 16:12 calendar.google.com</li>
-<li class='same'> 16:11 calendar.google.com</li>
-<li> 16:07 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
-<li> 16:06 www.sharesub.com</li>
-<li> 16:06 blog.duolingo.com</li>
-<li> 16:06 community.spotify.com</li>
-<li> 16:06 www.google.com</li>
-<li> 16:05 mail.google.com</li>
-<li> 16:04 calendar.google.com</li>
-<li> 16:03 mail.google.com</li>
-<li> 16:02 outlook.office.com</li>
-<li> 16:02 calendar.google.com</li>
-<li> 16:02 accounts.intuit.com</li>
-<li> 16:01 qbo.intuit.com</li>
-<li> 16:01 app.qbo.intuit.com</li>
-<li> 16:01 accounts.intuit.com</li>
-<li> 16:01 c14.qbo.intuit.com</li>
-<li> 15:58 forms.office.com</li>
-<li> 15:58 mail.google.com</li>
-<li> 15:57 web.whatsapp.com</li>
-<li> 15:57 docs.google.com</li>
-<li> 15:56 kdp.amazon.com</li>
-<li> 15:56 kdpreports.amazon.com</li>
-<li class='same'> 15:55 kdpreports.amazon.com</li>
-<li> 15:55 www.amazon.com</li>
-<li> 15:55 kdpreports.amazon.com</li>
-<li> 15:55 kdp.amazon.com</li>
-<li> 15:54 mail.google.com</li>
-<li> 15:54 outlook.office.com</li>
-<li class='same'> 15:53 outlook.office.com</li>
-<li> 15:53 mail.google.com</li>
-<li class='same'> 15:52 mail.google.com</li>
-<li> 15:46 www.theguardian.com</li>
-<li class='same'> 15:45 www.theguardian.com</li>
-<li> 15:44 x.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:05 www.facebook.com</li>
-<li> 14:05 www.linkedin.com</li>
-<li class='same'> 14:04 www.linkedin.com</li>
-<li> 14:04 outlook.office365.com</li>
-<li> 14:04 www.theguardian.com</li>
-<li> 14:03 www.facebook.com</li>
-<li> 14:03 www.su.rhul.ac.uk</li>
-<li> 14:02 outlook.office365.com</li>
-<li> 14:02 mail.rhul.ac.uk</li>
-<li> 13:37 www.google.com</li>
-<li> 13:30 outlook.office365.com</li>
-<li class='same'> 13:28 outlook.office365.com</li>
-<li> 13:28 mail.rhul.ac.uk</li>
-<li> 13:20 outlook.office365.com</li>
-<li class='same'> 13:17 outlook.office365.com</li>
-<li> 12:59 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&amp;curid=44249235&amp;diff=1252923263&amp;oldid=1252793705">Outline of computer security: Difference between revisions - Wikipedia</a></li>
-<li> 12:58 <a href="https://en.wikipedia.org/w/index.php?title=The_Lego_Movie_2:_The_Second_Part&amp;curid=42026670&amp;diff=1255307187&amp;oldid=1255104745">The Lego Movie 2: The Second Part: Difference between revisions - Wikipedia</a></li>
-<li> 12:56 <a href="https://en.wikipedia.org/w/index.php?title=Margaret_Mitchell_(scientist)&amp;curid=66831679&amp;diff=1254931434&amp;oldid=1236626293">Margaret Mitchell (scientist): Difference between revisions - Wikipedia</a></li>
-<li> 12:56 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
-<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:55 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 12:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 12:55 <a href="https://en.wikipedia.org/"></a></li>
-<li> 12:53 teams.microsoft.com</li>
-<li> 12:47 outlook.office365.com</li>
-<li> 12:47 www.su.rhul.ac.uk</li>
-<li> 12:46 intranet.royalholloway.ac.uk</li>
-<li> 12:46 www.google.com</li>
-<li> 12:46 mail.google.com</li>
-<li> 12:45 royalholloway.akarisoftware.com</li>
-<li class='same'> 12:44 royalholloway.akarisoftware.com</li>
 </ul>
