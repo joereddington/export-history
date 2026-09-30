@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5474)</li>
-<li>mail.google.com (5320)</li>
-<li>www.google.com (5032)</li>
-<li>outlook.office365.com (4408)</li>
+<li>mail.google.com (5317)</li>
+<li>www.google.com (5028)</li>
+<li>outlook.office365.com (4402)</li>
 <li>duckduckgo.com (3966)</li>
 <li>outlook.office.com (3882)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2915)</li>
+<li>chatgpt.com (2916)</li>
 <li>www.linkedin.com (2372)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1784)</li>
+<li>moodle.royalholloway.ac.uk (1781)</li>
 <li>www.facebook.com (1728)</li>
 <li>calendar.google.com (1571)</li>
 <li>login.microsoftonline.com (1427)</li>
-<li>chat.openai.com (1345)</li>
+<li>chat.openai.com (1346)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1123)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 30/09/26</H3>
+
+<br>
+
+<ul><li> 10:25 chatgpt.com</li>
+<li> 10:25 chat.openai.com</li>
+<li> 10:25 web.whatsapp.com</li>
+<li> 10:10 ads.google.com</li>
+<li class='same'> 10:09 ads.google.com</li>
+</ul>
 
 <br>
 
@@ -124503,30 +124512,4 @@ With number of accesses/minutes in parentheses
 <li> 12:46 mail.google.com</li>
 <li> 12:45 royalholloway.akarisoftware.com</li>
 <li class='same'> 12:44 royalholloway.akarisoftware.com</li>
-<li> 12:44 eur03.safelinks.protection.outlook.com</li>
-<li> 12:44 outlook.office365.com</li>
-<li> 12:41 dashboards.rhul.ac.uk</li>
-<li> 12:38 moodle.royalholloway.ac.uk</li>
-<li> 12:38 projects.cs.rhul.ac.uk</li>
-<li> 12:38 outlook.office365.com</li>
-<li class='same'> 12:27 outlook.office365.com</li>
-<li> 12:26 www.google.com</li>
-<li> 12:24 scholar.google.com</li>
-<li> 12:24 www.google.com</li>
-<li> 12:24 scholar.google.com</li>
-<li> 12:23 www.twingate.com</li>
-<li> 12:22 www.google.com</li>
-<li> 12:22 outlook.office365.com</li>
-<li> 12:18 web.whatsapp.com</li>
-<li> 12:17 www.hayesconnor.co.uk</li>
-<li> 12:17 www.google.com</li>
-<li> 12:17 www.infosecurity-magazine.com</li>
-<li> 12:17 outlook.office365.com</li>
-<li> 12:06 mail.google.com</li>
-<li> 12:05 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:04 moodle.royalholloway.ac.uk</li>
-<li> 12:04 outlook.office365.com</li>
-<li> 12:01 teams.microsoft.com</li>
-<li> 12:01 mail.google.com</li>
-<li class='same'> 11:52 mail.google.com</li>
 </ul>
