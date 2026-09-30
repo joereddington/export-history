@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5485)</li>
+<ol><li>www.reddit.com (5488)</li>
 <li>mail.google.com (5283)</li>
-<li>www.google.com (5027)</li>
+<li>www.google.com (5015)</li>
 <li>outlook.office365.com (4395)</li>
-<li>duckduckgo.com (3968)</li>
+<li>duckduckgo.com (3970)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3272)</li>
-<li>chatgpt.com (2912)</li>
+<li>chatgpt.com (2915)</li>
 <li>www.linkedin.com (2369)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
 <li>www.facebook.com (1710)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1428)</li>
-<li>chat.openai.com (1346)</li>
+<li>chat.openai.com (1347)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1117)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (839)</li>
 <li>rhul-my.sharepoint.com (821)</li>
 <li>forms.office.com (752)</li>
-<li>rhul.sharepoint.com (615)</li>
+<li>rhul.sharepoint.com (616)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>www.theguardian.com (501)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:28 ieeexplore.ieee.org</li>
+<ul><li> 13:53 accounts.google.com</li>
+<li> 13:53 ads.google.com</li>
+<li> 13:52 chatgpt.com</li>
+<li> 13:46 duckduckgo.com</li>
+<li> 13:46 chatgpt.com</li>
+<li> 13:45 duckduckgo.com</li>
+<li> 13:42 rhul.sharepoint.com</li>
+<li> 13:42 accounts.google.com</li>
+<li> 13:42 ads.google.com</li>
+<li> 13:42 accounts.google.com</li>
+<li class='same'> 13:41 accounts.google.com</li>
+<li> 13:41 ads.google.com</li>
+<li> 13:41 accounts.google.com</li>
+<li> 13:41 ads.google.com</li>
+<li> 13:41 accounts.google.com</li>
+<li> 13:41 ads.google.com</li>
+<li class='same'> 13:40 ads.google.com</li>
+<li> 13:40 www.reddit.com</li>
+<li class='same'> 13:39 www.reddit.com</li>
+<li class='same'> 13:38 www.reddit.com</li>
+<li> 13:38 chatgpt.com</li>
+<li> 13:38 chat.openai.com</li>
+<li> 13:38 ads.google.com</li>
+<li class='same'> 13:36 ads.google.com</li>
+<li> 13:34 www.firefox.com</li>
+<li> 13:34 accounts.google.com</li>
+<li> 13:34 ads.google.com</li>
+<li> 13:34 accounts.google.com</li>
+<li> 13:34 ads.google.com</li>
+<li> 13:34 accounts.google.com</li>
+<li class='same'> 13:33 accounts.google.com</li>
+<li class='same'> 13:32 accounts.google.com</li>
+<li> 13:32 ads.google.com</li>
+<li> 13:32 accounts.google.com</li>
+<li> 13:32 ads.google.com</li>
+<li> 13:32 accounts.google.com</li>
+<li> 13:28 ieeexplore.ieee.org</li>
 <li class='same'> 13:27 ieeexplore.ieee.org</li>
 <li> 13:22 dashboards.rhul.ac.uk</li>
 <li> 13:22 www.reddit.com</li>
@@ -124331,124 +124367,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:05 www.google.com</li>
-</ul>
-
-<H3>Friday, 18/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 19:13 www.google.com</li>
-</ul>
-
-<H3>Tuesday, 15/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 14:39 www.google.com</li>
-</ul>
-
-<H3>Monday, 14/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 12:17 www.google.com</li>
-</ul>
-
-<H3>Thursday, 10/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 12:53 www.google.com</li>
-</ul>
-
-<H3>Monday, 07/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 14:25 www.google.com</li>
-</ul>
-
-<H3>Thursday, 03/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 10:34 www.google.com</li>
-</ul>
-
-<H3>Wednesday, 02/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 13:36 www.google.com</li>
-</ul>
-
-<H3>Monday, 30/09/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 16:13 www.google.com</li>
-</ul>
-
-<H3>Wednesday, 25/09/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 15:11 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 06:29 www.google.com</li>
-</ul>
-
-<H3>Monday, 23/09/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 12:09 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 09:10 www.google.com</li>
 </ul>
