@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5498)</li>
 <li>mail.google.com (5271)</li>
-<li>www.google.com (4993)</li>
-<li>outlook.office365.com (4372)</li>
+<li>www.google.com (4991)</li>
+<li>outlook.office365.com (4366)</li>
 <li>duckduckgo.com (3972)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3270)</li>
-<li>chatgpt.com (2919)</li>
+<li>chatgpt.com (2920)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1783)</li>
 <li>www.facebook.com (1708)</li>
 <li>calendar.google.com (1557)</li>
 <li>login.microsoftonline.com (1434)</li>
-<li>chat.openai.com (1347)</li>
+<li>chat.openai.com (1348)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1112)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:58 learningonscreen.ac.uk</li>
+<ul><li> 19:11 learningonscreen.ac.uk</li>
+<li> 19:11 192.168.178.1</li>
+<li class='same'> 19:10 192.168.178.1</li>
+<li> 19:01 chatgpt.com</li>
+<li> 19:01 chat.openai.com</li>
+<li> 19:00 www.giantitp.com</li>
+<li> 19:00 learningonscreen.ac.uk</li>
+<li class='same'> 18:58 learningonscreen.ac.uk</li>
 <li> 18:58 login.learningonscreen.ac.uk</li>
 <li> 18:58 learningonscreen.ac.uk</li>
 <li> 18:58 connect.openathens.net</li>
@@ -124203,15 +124210,4 @@ With number of accesses/minutes in parentheses
 <li> 11:53 archive.org</li>
 <li> 11:53 ia800602.us.archive.org</li>
 <li> 11:53 archive.org</li>
-<li> 11:52 ia800602.us.archive.org</li>
-<li> 11:51 outlook.office365.com</li>
-<li> 11:50 scholar.google.com</li>
-<li> 11:50 www.google.com</li>
-<li> 11:50 outlook.office365.com</li>
-<li class='same'> 11:49 outlook.office365.com</li>
-<li class='same'> 11:47 outlook.office365.com</li>
-<li> 11:45 www.google.com</li>
-<li> 11:45 www.infosecurity-magazine.com</li>
-<li> 11:45 outlook.office365.com</li>
-<li class='same'> 11:44 outlook.office365.com</li>
 </ul>
