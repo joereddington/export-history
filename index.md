@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5490)</li>
+<ol><li>www.reddit.com (5496)</li>
 <li>mail.google.com (5271)</li>
-<li>www.google.com (4994)</li>
-<li>outlook.office365.com (4389)</li>
+<li>www.google.com (4993)</li>
+<li>outlook.office365.com (4382)</li>
 <li>duckduckgo.com (3972)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3270)</li>
-<li>chatgpt.com (2916)</li>
+<li>chatgpt.com (2915)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2009)</li>
-<li>moodle.royalholloway.ac.uk (1778)</li>
+<li>moodle.royalholloway.ac.uk (1776)</li>
 <li>www.facebook.com (1710)</li>
-<li>calendar.google.com (1561)</li>
-<li>login.microsoftonline.com (1431)</li>
-<li>chat.openai.com (1347)</li>
+<li>calendar.google.com (1559)</li>
+<li>login.microsoftonline.com (1432)</li>
+<li>chat.openai.com (1346)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1112)</li>
 <li>gmail.com (1111)</li>
-<li>mail.rhul.ac.uk (954)</li>
+<li>mail.rhul.ac.uk (953)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (839)</li>
 <li>rhul-my.sharepoint.com (821)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:40 www.linkedin.com</li>
+<ul><li> 17:20 learningonscreen.ac.uk</li>
+<li class='same'> 17:19 learningonscreen.ac.uk</li>
+<li> 17:19 login.learningonscreen.ac.uk</li>
+<li> 17:19 learningonscreen.ac.uk</li>
+<li> 17:19 connect.openathens.net</li>
+<li> 17:19 login.openathens.net</li>
+<li> 17:19 login.microsoftonline.com</li>
+<li> 17:19 device.login.microsoftonline.com</li>
+<li> 17:19 login.openathens.net</li>
+<li> 17:19 login.learningonscreen.ac.uk</li>
+<li> 17:19 connect.openathens.net</li>
+<li> 17:19 login.learningonscreen.ac.uk</li>
+<li class='same'> 17:18 login.learningonscreen.ac.uk</li>
+<li> 17:18 learningonscreen.ac.uk</li>
+<li> 17:10 www.reddit.com</li>
+<li class='same'> 17:08 www.reddit.com</li>
+<li class='same'> 17:06 www.reddit.com</li>
+<li class='same'> 17:04 www.reddit.com</li>
+<li class='same'> 17:03 www.reddit.com</li>
+<li class='same'> 17:02 www.reddit.com</li>
+<li> 16:40 www.linkedin.com</li>
 <li class='same'> 16:39 www.linkedin.com</li>
 <li> 16:38 www.reddit.com</li>
 <li class='same'> 16:35 www.reddit.com</li>
@@ -124168,38 +124188,4 @@ With number of accesses/minutes in parentheses
 <li> 11:10 calendar.google.com</li>
 <li> 11:09 www.facebook.com</li>
 <li class='same'> 11:08 www.facebook.com</li>
-<li> 11:08 calendar.google.com</li>
-<li class='same'> 11:07 calendar.google.com</li>
-<li> 11:07 51.148.131.133:8000</li>
-<li class='same'> 10:44 51.148.131.133:8000</li>
-<li class='same'> 10:32 51.148.131.133:8000</li>
-<li class='same'> 10:25 51.148.131.133:8000</li>
-<li> 10:21 foss-notes.blog.nomagic.uk</li>
-<li> 10:21 fullcalendar.io</li>
-<li> 10:20 <a href="https://stackoverflow.com/questions/300849/html-viewer-for-ics-ical-files">icalendar - HTML viewer for ics (iCal) files - Stack Overflow</a></li>
-<li> 10:20 www.google.com</li>
-<li> 10:15 github.com</li>
-<li> 10:09 chatgpt.com</li>
-<li> 10:09 chat.openai.com</li>
-<li> 10:07 51.148.131.133:8000</li>
-<li> 10:04 outlook.office365.com</li>
-<li class='same'> 10:02 outlook.office365.com</li>
-<li> 10:01 51.148.131.133:8000</li>
-<li> 09:54 dashboards.rhul.ac.uk</li>
-<li> 09:53 outlook.office365.com</li>
-<li> 09:52 dashboards.rhul.ac.uk</li>
-<li> 09:49 outlook.office365.com</li>
-<li> 09:49 mail.rhul.ac.uk</li>
-<li> 09:46 qbo.intuit.com</li>
-<li> 09:46 accounts.intuit.com</li>
-<li> 09:46 qbo.intuit.com</li>
-<li> 09:46 app.qbo.intuit.com</li>
-<li> 09:45 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:44 moodle.royalholloway.ac.uk</li>
-<li> 09:40 outlook.office365.com</li>
-<li class='same'> 09:39 outlook.office365.com</li>
-<li class='same'> 09:38 outlook.office365.com</li>
-<li> 09:36 moodle2324.royalholloway.ac.uk</li>
-<li class='same'> 09:34 moodle2324.royalholloway.ac.uk</li>
-<li class='same'> 09:33 moodle2324.royalholloway.ac.uk</li>
 </ul>
