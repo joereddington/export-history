@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5488)</li>
 <li>mail.google.com (5283)</li>
-<li>www.google.com (5015)</li>
+<li>www.google.com (5011)</li>
 <li>outlook.office365.com (4395)</li>
 <li>duckduckgo.com (3970)</li>
 <li>outlook.office.com (3879)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:53 accounts.google.com</li>
+<ul><li> 14:02 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 14:01 fyp.cs.rhul.ac.uk</li>
+<li> 13:54 accounts.google.com</li>
+<li class='same'> 13:53 accounts.google.com</li>
 <li> 13:53 ads.google.com</li>
 <li> 13:52 chatgpt.com</li>
 <li> 13:46 duckduckgo.com</li>
@@ -124328,43 +124331,4 @@ With number of accesses/minutes in parentheses
 <li> 15:48 apply.unity.co.uk</li>
 <li class='same'> 15:47 apply.unity.co.uk</li>
 <li> 15:42 www.linkedin.com</li>
-<li> 15:42 generalssb-prod.ec.royalholloway.ac.uk</li>
-</ul>
-
-<H3>Friday, 01/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 17:32 www.google.com</li>
-</ul>
-
-<H3>Wednesday, 30/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 13:55 www.google.com</li>
-</ul>
-
-<H3>Tuesday, 29/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 21:51 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:05 www.google.com</li>
 </ul>
