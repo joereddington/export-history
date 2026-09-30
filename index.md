@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5474)</li>
-<li>mail.google.com (5306)</li>
-<li>www.google.com (5018)</li>
+<li>mail.google.com (5302)</li>
+<li>www.google.com (5015)</li>
 <li>outlook.office365.com (4395)</li>
 <li>duckduckgo.com (3966)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3280)</li>
-<li>chatgpt.com (2916)</li>
+<li>chatgpt.com (2918)</li>
 <li>www.linkedin.com (2371)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
 <li>www.facebook.com (1725)</li>
-<li>calendar.google.com (1566)</li>
+<li>calendar.google.com (1567)</li>
 <li>login.microsoftonline.com (1428)</li>
 <li>chat.openai.com (1346)</li>
 <li>www.amazon.co.uk (1315)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:19 teams.microsoft.com</li>
+<ul><li> 11:48 webtimetables.royalholloway.ac.uk</li>
+<li> 11:48 calendar.google.com</li>
+<li> 11:41 <a href="https://joereddington.com/2026/03/13/meeting-hack.html">Getting students to book meetings more tightly | Joe Reddington</a></li>
+<li> 11:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:34 chatgpt.com</li>
+<li class='same'> 11:33 chatgpt.com</li>
+<li> 11:19 teams.microsoft.com</li>
 <li> 11:15 rhul-my.sharepoint.com</li>
 <li> 11:15 login.microsoftonline.com</li>
 <li> 11:15 device.login.microsoftonline.com</li>
@@ -124393,25 +124400,4 @@ With number of accesses/minutes in parentheses
 <li> 07:21 mail.google.com</li>
 <li> 07:21 www.imdb.com</li>
 <li> 07:20 mail.google.com</li>
-</ul>
-
-<H3>Monday, 04/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 18:06 www.google.com</li>
-<li> 18:01 <a href="https://security.stackexchange.com/questions/155214/how-long-does-rsa-encryption-decryption-generally-take">How long does RSA encryption/decryption generally take? - Information Security Stack Exchange</a></li>
-<li> 18:01 www.google.com</li>
-<li> 18:01 theonion.com</li>
-<li> 17:37 accounts.intuit.com</li>
-<li> 17:17 www.computerweekly.com</li>
-<li> 17:16 www.google.com</li>
-<li> 17:14 mail.google.com</li>
-<li class='same'> 17:11 mail.google.com</li>
-<li class='same'> 17:02 mail.google.com</li>
-<li class='same'> 17:01 mail.google.com</li>
 </ul>
