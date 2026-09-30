@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5474)</li>
-<li>mail.google.com (5307)</li>
-<li>www.google.com (5022)</li>
+<li>mail.google.com (5306)</li>
+<li>www.google.com (5018)</li>
 <li>outlook.office365.com (4395)</li>
 <li>duckduckgo.com (3966)</li>
 <li>outlook.office.com (3879)</li>
-<li>docs.google.com (3281)</li>
+<li>docs.google.com (3280)</li>
 <li>chatgpt.com (2916)</li>
-<li>www.linkedin.com (2370)</li>
+<li>www.linkedin.com (2371)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
-<li>www.facebook.com (1726)</li>
+<li>www.facebook.com (1725)</li>
 <li>calendar.google.com (1566)</li>
-<li>login.microsoftonline.com (1427)</li>
+<li>login.microsoftonline.com (1428)</li>
 <li>chat.openai.com (1346)</li>
-<li>www.amazon.co.uk (1316)</li>
+<li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1122)</li>
+<li>gmail.com (1121)</li>
 <li>web.whatsapp.com (1119)</li>
 <li>mail.rhul.ac.uk (954)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (839)</li>
-<li>rhul-my.sharepoint.com (819)</li>
+<li>feedly.com (840)</li>
+<li>rhul-my.sharepoint.com (821)</li>
 <li>forms.office.com (752)</li>
 <li>rhul.sharepoint.com (615)</li>
 <li>fritz.box (590)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 30/09/26</H3>
+
+<br>
+
+<ul><li> 11:19 teams.microsoft.com</li>
+<li> 11:15 rhul-my.sharepoint.com</li>
+<li> 11:15 login.microsoftonline.com</li>
+<li> 11:15 device.login.microsoftonline.com</li>
+<li> 11:15 rhul-my.sharepoint.com</li>
+<li> 11:15 feedly.com</li>
+<li> 11:15 www.linkedin.com</li>
+</ul>
 
 <br>
 
@@ -124403,29 +124414,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:11 mail.google.com</li>
 <li class='same'> 17:02 mail.google.com</li>
 <li class='same'> 17:01 mail.google.com</li>
-<li> 17:01 gmail.com</li>
-<li> 16:55 www.amazon.co.uk</li>
-<li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
-<li> 16:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 16:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 16:47 docs.google.com</li>
-<li> 16:47 www.google.com</li>
-<li> 16:46 docs.arduino.cc</li>
-<li> 16:46 www.google.com</li>
-<li class='same'> 16:45 www.google.com</li>
-<li> 16:45 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 16:44 www.facebook.com</li>
-<li> 16:36 qbo.intuit.com</li>
-<li> 16:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:Peer_review/Jenna_Ortega/archive1">Wikipedia:Peer review/Jenna Ortega/archive1 - Wikipedia</a></li>
-<li> 16:32 kdp.amazon.com</li>
-<li> 16:31 qbo.intuit.com</li>
-<li> 16:30 kdp.amazon.com</li>
-<li> 16:28 <a href="https://en.wikipedia.org/wiki/Wikipedia:Peer_review">Wikipedia:Peer review - Wikipedia</a></li>
-<li> 16:28 <a href="https://en.wikipedia.org/wiki/Peer_review">Peer review - Wikipedia</a></li>
-<li> 16:28 www.google.com</li>
-<li> 16:28 kdp.amazon.com</li>
-<li> 16:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 16:26 kdp.amazon.com</li>
-<li class='same'> 16:25 kdp.amazon.com</li>
-<li> 16:24 mail.google.com</li>
 </ul>
