@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3966)</li>
 <li>outlook.office.com (3885)</li>
 <li>docs.google.com (3285)</li>
-<li>chatgpt.com (2913)</li>
+<li>chatgpt.com (2915)</li>
 <li>www.linkedin.com (2372)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1784)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<ul><li> 07:30 chatgpt.com</li>
+<li class='same'> 07:29 chatgpt.com</li>
+<li> 07:21 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 07:21 rhul.hosted.panopto.com</li>
 <li class='same'> 07:20 rhul.hosted.panopto.com</li>
 <li> 07:13 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
