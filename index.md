@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5474)</li>
-<li>mail.google.com (5302)</li>
-<li>www.google.com (5015)</li>
+<ol><li>www.reddit.com (5477)</li>
+<li>mail.google.com (5295)</li>
+<li>www.google.com (5017)</li>
 <li>outlook.office365.com (4395)</li>
-<li>duckduckgo.com (3966)</li>
+<li>duckduckgo.com (3968)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3280)</li>
 <li>chatgpt.com (2918)</li>
 <li>www.linkedin.com (2371)</li>
-<li>bsky.app (2016)</li>
+<li>bsky.app (2013)</li>
 <li>moodle.royalholloway.ac.uk (1781)</li>
-<li>www.facebook.com (1725)</li>
-<li>calendar.google.com (1567)</li>
+<li>www.facebook.com (1718)</li>
+<li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1428)</li>
 <li>chat.openai.com (1346)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1121)</li>
-<li>web.whatsapp.com (1119)</li>
+<li>gmail.com (1120)</li>
+<li>web.whatsapp.com (1118)</li>
 <li>mail.rhul.ac.uk (954)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (840)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:48 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 12:18 www.reddit.com</li>
+<li class='same'> 12:17 www.reddit.com</li>
+<li class='same'> 12:15 www.reddit.com</li>
+<li class='same'> 12:14 www.reddit.com</li>
+<li> 12:14 reddit.com</li>
+<li> 12:14 libbyapp.com</li>
+<li> 12:14 reddit.com</li>
+<li> 12:11 www.google.com</li>
+<li class='same'> 12:10 www.google.com</li>
+<li> 12:10 maps.google.com</li>
+<li> 12:10 duckduckgo.com</li>
+<li class='same'> 12:09 duckduckgo.com</li>
+<li> 11:48 webtimetables.royalholloway.ac.uk</li>
 <li> 11:48 calendar.google.com</li>
 <li> 11:41 <a href="https://joereddington.com/2026/03/13/meeting-hack.html">Getting students to book meetings more tightly | Joe Reddington</a></li>
 <li> 11:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -124371,33 +124383,4 @@ With number of accesses/minutes in parentheses
 <li> 09:43 www.linkedin.com</li>
 <li> 09:38 www.facebook.com</li>
 <li class='same'> 09:37 www.facebook.com</li>
-<li> 09:34 bsky.app</li>
-<li class='same'> 09:31 bsky.app</li>
-<li class='same'> 09:30 bsky.app</li>
-<li> 09:28 www.facebook.com</li>
-<li class='same'> 09:27 www.facebook.com</li>
-<li> 09:27 calendar.google.com</li>
-<li> 09:27 www.facebook.com</li>
-<li class='same'> 09:26 www.facebook.com</li>
-<li> 09:25 calendar.google.com</li>
-<li class='same'> 09:24 calendar.google.com</li>
-<li> 09:24 www.facebook.com</li>
-<li class='same'> 09:23 www.facebook.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:10 www.reddit.com</li>
-<li> 08:08 www.facebook.com</li>
-<li> 07:45 web.whatsapp.com</li>
-<li> 07:24 mail.google.com</li>
-<li class='same'> 07:23 mail.google.com</li>
-<li class='same'> 07:22 mail.google.com</li>
-<li> 07:22 www.giantitp.com</li>
-<li> 07:22 mail.google.com</li>
-<li class='same'> 07:21 mail.google.com</li>
-<li> 07:21 gmail.com</li>
-<li> 07:21 mail.google.com</li>
-<li> 07:21 www.imdb.com</li>
-<li> 07:20 mail.google.com</li>
 </ul>
