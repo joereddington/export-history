@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5519)</li>
 <li>mail.google.com (5267)</li>
 <li>www.google.com (4960)</li>
-<li>outlook.office365.com (4305)</li>
+<li>outlook.office365.com (4297)</li>
 <li>duckduckgo.com (3975)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
-<li>chatgpt.com (2927)</li>
+<li>chatgpt.com (2925)</li>
 <li>www.linkedin.com (2370)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1692)</li>
 <li>calendar.google.com (1555)</li>
-<li>login.microsoftonline.com (1451)</li>
-<li>chat.openai.com (1352)</li>
+<li>login.microsoftonline.com (1454)</li>
+<li>chat.openai.com (1351)</li>
 <li>www.amazon.co.uk (1310)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1109)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:50 www.reddit.com</li>
+<ul><li> 15:05 dashboards.rhul.ac.uk</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 15:03 forms.cloud.microsoft</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 15:03 device.login.microsoftonline.com</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 15:03 forms.cloud.microsoft</li>
+<li> 14:50 www.reddit.com</li>
 <li> 14:49 www.linkedin.com</li>
 <li> 14:49 www.reddit.com</li>
 <li class='same'> 14:47 www.reddit.com</li>
@@ -123946,20 +123953,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:23 www.facebook.com</li>
 <li class='same'> 11:22 www.facebook.com</li>
 <li> 11:22 outlook.office365.com</li>
-<li class='same'> 11:21 outlook.office365.com</li>
-<li class='same'> 11:19 outlook.office365.com</li>
-<li class='same'> 11:18 outlook.office365.com</li>
-<li class='same'> 11:14 outlook.office365.com</li>
-<li> 11:14 adventofcode.com</li>
-<li> 11:13 outlook.office365.com</li>
-<li class='same'> 11:12 outlook.office365.com</li>
-<li class='same'> 11:11 outlook.office365.com</li>
-<li class='same'> 11:09 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:00 chatgpt.com</li>
-<li class='same'> 07:59 chatgpt.com</li>
-<li> 07:59 chat.openai.com</li>
 </ul>
