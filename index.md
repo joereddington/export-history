@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5512)</li>
+<ol><li>www.reddit.com (5513)</li>
 <li>mail.google.com (5268)</li>
-<li>www.google.com (4972)</li>
-<li>outlook.office365.com (4344)</li>
+<li>www.google.com (4971)</li>
+<li>outlook.office365.com (4334)</li>
 <li>duckduckgo.com (3975)</li>
 <li>outlook.office.com (3877)</li>
 <li>docs.google.com (3266)</li>
-<li>chatgpt.com (2925)</li>
-<li>www.linkedin.com (2371)</li>
+<li>chatgpt.com (2927)</li>
+<li>www.linkedin.com (2368)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1777)</li>
 <li>www.facebook.com (1702)</li>
 <li>calendar.google.com (1555)</li>
-<li>login.microsoftonline.com (1447)</li>
-<li>chat.openai.com (1351)</li>
+<li>login.microsoftonline.com (1449)</li>
+<li>chat.openai.com (1352)</li>
 <li>www.amazon.co.uk (1310)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1111)</li>
 <li>gmail.com (1110)</li>
-<li>mail.rhul.ac.uk (947)</li>
+<li>mail.rhul.ac.uk (945)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (844)</li>
 <li>rhul-my.sharepoint.com (824)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:42 www.reddit.com</li>
+<ul><li> 11:21 chatgpt.com</li>
+<li class='same'> 11:20 chatgpt.com</li>
+<li> 11:20 chat.openai.com</li>
+<li> 11:08 localhost:8443</li>
+<li> 11:07 forms.cloud.microsoft</li>
+<li> 11:07 login.microsoftonline.com</li>
+<li> 11:07 forms.cloud.microsoft</li>
+<li> 11:07 device.login.microsoftonline.com</li>
+<li> 11:07 login.microsoftonline.com</li>
+<li> 11:07 forms.cloud.microsoft</li>
+<li> 11:06 www.reddit.com</li>
+<li class='same'> 10:42 www.reddit.com</li>
 <li class='same'> 10:39 www.reddit.com</li>
 <li> 10:39 click.redditmail.com</li>
 <li> 10:30 duckduckgo.com</li>
@@ -124025,36 +124036,4 @@ With number of accesses/minutes in parentheses
 <li> 12:53 outlook.office365.com</li>
 <li class='same'> 12:47 outlook.office365.com</li>
 <li class='same'> 12:46 outlook.office365.com</li>
-<li> 12:39 51.148.131.133:8000</li>
-<li> 12:35 outlook.office365.com</li>
-<li> 12:35 www.linkedin.com</li>
-<li> 12:34 outlook.office365.com</li>
-<li class='same'> 12:29 outlook.office365.com</li>
-<li class='same'> 12:27 outlook.office365.com</li>
-<li class='same'> 12:26 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 11:55 outlook.office365.com</li>
-<li class='same'> 11:53 outlook.office365.com</li>
-<li> 11:53 mail.rhul.ac.uk</li>
-<li> 11:52 www.lboro.ac.uk</li>
-<li> 11:52 www.gre.ac.uk</li>
-<li> 11:51 www.nottingham.ac.uk</li>
-<li> 11:51 wonkhe.com</li>
-<li> 11:51 www.membershipresources.qaa.ac.uk</li>
-<li> 11:50 www.hepi.ac.uk</li>
-<li> 11:50 www.varsity.co.uk</li>
-<li class='same'> 11:49 www.varsity.co.uk</li>
-<li> 11:49 www.google.com</li>
-<li> 11:43 www.linkedin.com</li>
-<li class='same'> 11:42 www.linkedin.com</li>
-<li> 11:42 outlook.office365.com</li>
-<li> 11:42 mail.rhul.ac.uk</li>
-<li> 11:35 <a href="https://en.wikipedia.org/wiki/Starship_Troopers_(film)">Starship Troopers (film) - Wikipedia</a></li>
-<li> 11:35 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 11:35 <a href="https://en.wikipedia.org/"></a></li>
-<li> 11:35 outlook.office365.com</li>
-<li class='same'> 11:23 outlook.office365.com</li>
 </ul>
