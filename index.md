@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5498)</li>
+<ol><li>www.reddit.com (5499)</li>
 <li>mail.google.com (5271)</li>
-<li>www.google.com (4991)</li>
-<li>outlook.office365.com (4366)</li>
+<li>www.google.com (4981)</li>
+<li>outlook.office365.com (4347)</li>
 <li>duckduckgo.com (3972)</li>
 <li>outlook.office.com (3879)</li>
 <li>docs.google.com (3270)</li>
-<li>chatgpt.com (2920)</li>
-<li>www.linkedin.com (2366)</li>
+<li>chatgpt.com (2924)</li>
+<li>www.linkedin.com (2371)</li>
 <li>bsky.app (2009)</li>
-<li>moodle.royalholloway.ac.uk (1783)</li>
+<li>moodle.royalholloway.ac.uk (1774)</li>
 <li>www.facebook.com (1708)</li>
 <li>calendar.google.com (1557)</li>
-<li>login.microsoftonline.com (1434)</li>
-<li>chat.openai.com (1348)</li>
+<li>login.microsoftonline.com (1437)</li>
+<li>chat.openai.com (1350)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1112)</li>
 <li>gmail.com (1111)</li>
-<li>mail.rhul.ac.uk (951)</li>
+<li>mail.rhul.ac.uk (948)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (844)</li>
-<li>rhul-my.sharepoint.com (821)</li>
+<li>feedly.com (845)</li>
+<li>rhul-my.sharepoint.com (824)</li>
 <li>forms.office.com (752)</li>
 <li>rhul.sharepoint.com (617)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
-<li>ev.turnitinuk.com (500)</li>
-<li>www.theguardian.com (472)</li>
+<li>ev.turnitinuk.com (494)</li>
+<li>www.theguardian.com (471)</li>
 <li>drive.google.com (462)</li>
 
 
@@ -104,7 +104,61 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 01/10/26</H3>
+
+<br>
+
+<ul><li> 06:58 www.reddit.com</li>
+<li> 06:53 localhost:8443</li>
+<li class='same'> 06:52 localhost:8443</li>
+<li class='same'> 06:51 localhost:8443</li>
+<li> 06:50 www.linkedin.com</li>
+<li> 06:49 chatgpt.com</li>
+<li> 06:49 chat.openai.com</li>
+<li> 06:48 www.linkedin.com</li>
+<li> 06:46 localhost:8443</li>
+<li class='same'> 06:45 localhost:8443</li>
+<li> 06:33 www.linkedin.com</li>
+<li class='same'> 06:26 www.linkedin.com</li>
+<li class='same'> 06:25 www.linkedin.com</li>
+<li> 06:22 careersportal.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Wednesday, 30/09/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:31 forms.cloud.microsoft</li>
+<li> 21:24 feedly.com</li>
+<li> 21:23 chatgpt.com</li>
+<li> 21:23 chat.openai.com</li>
+<li> 21:23 forms.cloud.microsoft</li>
+<li class='same'> 21:22 forms.cloud.microsoft</li>
+<li class='same'> 21:21 forms.cloud.microsoft</li>
+<li> 21:21 192.168.178.1</li>
+<li> 21:20 forms.cloud.microsoft</li>
+<li class='same'> 21:19 forms.cloud.microsoft</li>
+<li> 21:09 chatgpt.com</li>
+<li class='same'> 21:08 chatgpt.com</li>
+<li> 21:05 rhul-my.sharepoint.com</li>
+<li> 21:05 login.microsoftonline.com</li>
+<li> 21:05 device.login.microsoftonline.com</li>
+<li> 21:05 rhul-my.sharepoint.com</li>
+<li class='same'> 21:03 rhul-my.sharepoint.com</li>
+<li> 20:58 forms.cloud.microsoft</li>
+<li class='same'> 20:54 forms.cloud.microsoft</li>
+<li class='same'> 20:53 forms.cloud.microsoft</li>
+<li> 20:53 login.microsoftonline.com</li>
+<li> 20:53 forms.cloud.microsoft</li>
+<li> 20:53 device.login.microsoftonline.com</li>
+<li> 20:53 login.microsoftonline.com</li>
+<li> 20:53 forms.cloud.microsoft</li>
+<li> 20:51 192.168.178.1</li>
+</ul>
 
 <br>
 
@@ -12113,7 +12167,6 @@ With number of accesses/minutes in parentheses
 <li> 21:12 cybersecurityforme.com</li>
 <li> 21:12 duckduckgo.com</li>
 <li> 21:10 www.google.co.uk</li>
-<li> 21:10 books.google.co.uk</li>
 <li> 21:09 link.springer.com</li>
 <li> 21:09 scholar.google.co.uk</li>
 <li> 21:09 link.springer.com</li>
@@ -12142,18 +12195,15 @@ With number of accesses/minutes in parentheses
 <li> 20:57 scholar.google.co.uk</li>
 <li class='same'> 20:56 scholar.google.co.uk</li>
 <li> 20:56 ieeexplore.ieee.org</li>
-<li> 20:56 cs.lewisu.edu</li>
 <li> 20:56 scholar.google.co.uk</li>
 <li class='same'> 20:55 scholar.google.co.uk</li>
 <li> 20:55 duckduckgo.com</li>
 <li> 20:55 pmc.ncbi.nlm.nih.gov</li>
 <li class='same'> 20:54 pmc.ncbi.nlm.nih.gov</li>
-<li> 20:54 cs.lewisu.edu</li>
 <li> 20:53 <a href="https://en.wikipedia.org/wiki/CIA_triad#cite_note-:1-22">CIA triad - Wikipedia</a></li>
 <li> 20:52 <a href="https://en.wikipedia.org/wiki/CIA_triad#The_Triad">CIA triad - Wikipedia</a></li>
 <li> 20:47 <a href="https://en.wikipedia.org/w/index.php?title=CIA_triad&amp;action=edit&amp;section=1">CIA triad - Wikipedia</a></li>
 <li> 20:47 <a href="https://en.wikipedia.org/wiki/CIA_triad">CIA triad - Wikipedia</a></li>
-<li> 20:47 nvlpubs.nist.gov</li>
 <li> 20:46 chatgpt.com</li>
 <li> 20:46 chat.openai.com</li>
 <li> 20:45 <a href="https://en.wikipedia.org/wiki/Talk:CIA_triad">Starting new topic on Talk:CIA triad - Wikipedia</a></li>
@@ -12163,7 +12213,6 @@ With number of accesses/minutes in parentheses
 <li> 20:44 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 20:44 www.etymonline.com</li>
 <li> 20:44 duckduckgo.com</li>
-<li> 20:43 dl.acm.org</li>
 </ul>
 
 <br>
@@ -12186,7 +12235,6 @@ With number of accesses/minutes in parentheses
 <li> 12:33 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 12:33 <a href="https://www.theguardian.com/uk">‘I want to go’: Lewis Hamilton hopes F1 is able to end season in Middle East | Formula One 2026 | The Guardian</a></li>
 <li> 12:21 webtimetables.royalholloway.ac.uk</li>
-<li> 12:21 eur03.safelinks.protection.outlook.com</li>
 <li> 12:20 dl.acm.org</li>
 <li class='same'> 12:19 dl.acm.org</li>
 <li> 12:19 doi.org</li>
@@ -12219,10 +12267,7 @@ With number of accesses/minutes in parentheses
 <li> 12:09 ism3.com</li>
 <li> 12:09 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 12:08 librarysearch.royalholloway.ac.uk</li>
-<li> 12:08 login.openathens.net</li>
-<li> 12:08 librarysearch.royalholloway.ac.uk</li>
 <li> 12:08 www.google.co.uk</li>
-<li> 12:08 books.google.com</li>
 <li> 12:08 books.google.co.uk</li>
 <li> 12:08 duckduckgo.com</li>
 <li class='same'> 12:07 duckduckgo.com</li>
@@ -12264,17 +12309,13 @@ With number of accesses/minutes in parentheses
 <li> 11:44 duckduckgo.com</li>
 <li> 11:44 www.academia.edu</li>
 <li> 11:42 <a href="https://en.wikipedia.org/wiki/CIA_triad">CIA triad - Wikipedia</a></li>
-<li> 11:42 www.google.com</li>
-<li class='same'> 11:41 www.google.com</li>
+<li> 11:41 www.google.com</li>
 <li> 11:41 books.google.com</li>
 <li> 11:41 duckduckgo.com</li>
 <li> 11:40 scholar.google.co.uk</li>
 <li class='same'> 11:39 scholar.google.co.uk</li>
-<li> 11:38 repository.tudelft.nl</li>
-<li> 11:38 scholar.google.co.uk</li>
-<li> 11:37 www.academia.edu</li>
-<li> 11:37 d1wqtxts1xzle7.cloudfront.net</li>
-<li> 11:36 scholar.google.co.uk</li>
+<li class='same'> 11:38 scholar.google.co.uk</li>
+<li class='same'> 11:36 scholar.google.co.uk</li>
 <li> 11:36 duckduckgo.com</li>
 <li> 11:35 mail.google.com</li>
 <li class='same'> 11:32 mail.google.com</li>
@@ -12288,8 +12329,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:00 www.proso.com</li>
-<li> 07:00 scholar.google.com</li>
+<ul><li> 07:00 scholar.google.com</li>
 <li class='same'> 06:59 scholar.google.com</li>
 <li> 06:59 web.archive.org</li>
 <li> 06:54 dl.acm.org</li>
@@ -12323,7 +12363,6 @@ With number of accesses/minutes in parentheses
 <li> 06:46 <a href="https://en.wikipedia.org/wiki/Information_security?venotify=saved">Information security - Wikipedia</a></li>
 <li> 06:46 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
 <li> 06:45 <a href="https://en.wikipedia.org/wiki/Wikipedia:Splitting">Wikipedia:Splitting - Wikipedia</a></li>
-<li> 06:45 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Wikipedia%3ASplitting&amp;wprov=acrw1_0"></a></li>
 <li> 06:44 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 06:44 <a href="https://en.wikipedia.org/"></a></li>
 <li> 06:41 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;section=4&amp;action=edit">Editing Information security - Wikipedia</a></li>
@@ -12356,7 +12395,6 @@ With number of accesses/minutes in parentheses
 <li> 06:33 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
 <li> 06:33 <a href="https://en.wikipedia.org/wiki/Information_security#CIA_triad">Information security - Wikipedia</a></li>
 <li> 06:33 <a href="https://en.wikipedia.org/wiki/CIA_triad">CIA triad - Wikipedia</a></li>
-<li> 06:33 <a href="https://en.wikipedia.org/w/index.php?search=cia+triad&amp;title=Special%3ASearch&amp;wprov=acrw1_-1"></a></li>
 <li> 06:33 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 06:33 <a href="https://en.wikipedia.org/"></a></li>
 <li> 06:32 chatgpt.com</li>
@@ -124126,88 +124164,4 @@ With number of accesses/minutes in parentheses
 <li> 17:56 51.148.131.133:8000</li>
 <li> 17:51 outlook.office365.com</li>
 <li class='same'> 17:50 outlook.office365.com</li>
-<li class='same'> 17:49 outlook.office365.com</li>
-<li> 17:38 m.youtube.com</li>
-<li> 17:38 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:15 outlook.office365.com</li>
-<li> 16:15 info.iukbc.org.uk</li>
-<li> 16:15 outlook.office365.com</li>
-<li class='same'> 16:14 outlook.office365.com</li>
-<li> 16:14 mail.rhul.ac.uk</li>
-<li> 15:58 www.giantitp.com</li>
-<li> 15:58 outlook.office365.com</li>
-<li> 15:54 ev.turnitinuk.com</li>
-<li> 15:53 moodle.royalholloway.ac.uk</li>
-<li> 15:53 outlook.office365.com</li>
-<li> 15:52 moodle.royalholloway.ac.uk</li>
-<li> 15:37 ev.turnitinuk.com</li>
-<li class='same'> 15:31 ev.turnitinuk.com</li>
-<li class='same'> 15:25 ev.turnitinuk.com</li>
-<li> 15:23 www.google.com</li>
-<li> 15:10 ev.turnitinuk.com</li>
-<li class='same'> 15:08 ev.turnitinuk.com</li>
-<li> 15:07 moodle.royalholloway.ac.uk</li>
-<li class='same'> 15:04 moodle.royalholloway.ac.uk</li>
-<li> 15:04 Local file</li>
-<li> 15:04 moodle.royalholloway.ac.uk</li>
-<li class='same'> 15:03 moodle.royalholloway.ac.uk</li>
-<li> 15:03 Local file</li>
-<li> 15:03 moodle.royalholloway.ac.uk</li>
-<li> 15:02 51.148.131.133:8000</li>
-<li> 15:01 outlook.office365.com</li>
-<li class='same'> 15:00 outlook.office365.com</li>
-<li class='same'> 14:59 outlook.office365.com</li>
-<li> 14:59 scholar.google.com</li>
-<li class='same'> 14:58 scholar.google.com</li>
-<li> 14:57 outlook.office365.com</li>
-<li> 14:57 adblockplus.org</li>
-<li> 14:57 outlook.office365.com</li>
-<li> 14:57 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 13:33 www.google.com</li>
-<li> 13:28 micklefieldjudoclub.com</li>
-<li> 13:28 www.google.com</li>
-<li> 13:28 micklefieldjudoclub.com</li>
-<li> 13:28 www.google.com</li>
-<li> 13:02 51.148.131.133:8000</li>
-<li> 13:00 outlook.office365.com</li>
-<li> 12:59 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:58 moodle.royalholloway.ac.uk</li>
-<li> 12:58 outlook.office365.com</li>
-<li> 12:58 mail.rhul.ac.uk</li>
-<li> 12:57 www.ebay.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 12:15 www.theguardian.com</li>
-<li> 12:11 51.148.131.133:8000</li>
-<li> 12:11 outlook.office365.com</li>
-<li> 12:10 www.tesco.com</li>
-<li> 12:10 www.google.com</li>
-<li> 12:10 outlook.office365.com</li>
-<li class='same'> 12:09 outlook.office365.com</li>
-<li class='same'> 12:08 outlook.office365.com</li>
-<li class='same'> 12:07 outlook.office365.com</li>
-<li> 12:06 www.twingate.com</li>
-<li> 12:06 www.google.com</li>
-<li> 12:06 outlook.office365.com</li>
-<li> 12:03 <a href="https://en.wikipedia.org/wiki/Wikipedia:PSTS">Wikipedia:No original research - Wikipedia</a></li>
-<li> 12:03 <a href="https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources">Wikipedia:No original research - Wikipedia</a></li>
-<li> 12:03 <a href="https://en.wikipedia.org/wiki/Wikipedia:Primary_Secondary_and_Tertiary_Sources">Wikipedia:Primary Secondary and Tertiary Sources - Wikipedia</a></li>
-<li> 12:03 www.google.com</li>
-<li> 11:54 <a href="https://en.wikipedia.org/wiki/Nazi_human_experimentation#Modern_ethical_issues">Nazi human experimentation - Wikipedia</a></li>
-<li> 11:54 <a href="https://en.wikipedia.org/wiki/Nazi_human_experimentation">Nazi human experimentation - Wikipedia</a></li>
-<li> 11:54 www.google.com</li>
-<li> 11:53 ia800602.us.archive.org</li>
-<li> 11:53 archive.org</li>
-<li> 11:53 ia800602.us.archive.org</li>
-<li> 11:53 archive.org</li>
 </ul>
