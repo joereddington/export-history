@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5510)</li>
 <li>mail.google.com (5268)</li>
-<li>www.google.com (4975)</li>
+<li>www.google.com (4972)</li>
 <li>outlook.office365.com (4344)</li>
 <li>duckduckgo.com (3974)</li>
 <li>outlook.office.com (3877)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1777)</li>
 <li>www.facebook.com (1702)</li>
 <li>calendar.google.com (1555)</li>
-<li>login.microsoftonline.com (1445)</li>
+<li>login.microsoftonline.com (1447)</li>
 <li>chat.openai.com (1351)</li>
 <li>www.amazon.co.uk (1310)</li>
 <li>herts.instructure.com (1231)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:42 www.reddit.com</li>
+<ul><li> 10:09 localhost:8443</li>
+<li> 10:08 forms.cloud.microsoft</li>
+<li> 10:07 localhost:8443</li>
+<li class='same'> 10:06 localhost:8443</li>
+<li> 10:02 forms.cloud.microsoft</li>
+<li class='same'> 10:01 forms.cloud.microsoft</li>
+<li> 10:01 login.microsoftonline.com</li>
+<li> 10:01 device.login.microsoftonline.com</li>
+<li> 10:01 login.microsoftonline.com</li>
+<li> 10:01 forms.cloud.microsoft</li>
+<li> 09:42 www.reddit.com</li>
 <li> 09:36 equalitytime.github.io</li>
 <li> 09:20 webtimetables.royalholloway.ac.uk</li>
 <li> 09:11 localhost:8443</li>
@@ -124064,40 +124074,4 @@ With number of accesses/minutes in parentheses
 <li> 10:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_assurance&amp;action=edit">Editing Information assurance - Wikipedia</a></li>
 <li> 10:51 <a href="https://en.wikipedia.org/wiki/IT_risk#Standards_Organizations_and_Standards">IT risk - Wikipedia</a></li>
 <li> 10:51 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
-<li> 10:50 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
-<li> 10:50 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 10:50 <a href="https://en.wikipedia.org/wiki/Talk:Information_security#Merger_discussion">Talk:Information security - Wikipedia</a></li>
-<li> 10:49 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
-<li> 10:49 <a href="https://en.wikipedia.org/wiki/Talk:Information_assurance">Talk:Information assurance - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Proposed_mergers/Merger_banners">Wikipedia:Proposed article mergers/Merger banners - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Proposed_article_mergers/Merger_banners">Wikipedia:Proposed article mergers/Merger banners - Wikipedia</a></li>
-<li> 10:47 <a href="https://en.wikipedia.org/wiki/Wikipedia:Proposed_article_mergers">Wikipedia:Proposed article mergers - Wikipedia</a></li>
-<li> 10:47 www.google.com</li>
-<li> 10:46 <a href="https://en.wikipedia.org/w/index.php?title=Information_assurance&amp;action=info">Information for &quot;Information assurance&quot; - Wikipedia</a></li>
-<li> 10:46 <a href="https://en.wikipedia.org/wiki/Special:SpecialPages">Special pages - Wikipedia</a></li>
-<li> 10:46 <a href="https://en.wikipedia.org/w/index.php?title=Information_assurance&amp;action=history">Information assurance: Revision history - Wikipedia</a></li>
-<li> 10:46 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
-<li> 10:46 www.google.com</li>
-<li> 10:45 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 10:45 www.google.com</li>
-<li> 10:44 web.archive.org</li>
-<li> 10:43 <a href="https://en.wikipedia.org/w/index.php?title=Defense_in_depth_(computing)&amp;oldid=668114106">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:43 <a href="https://en.wikipedia.org/w/index.php?title=Defense_in_depth_(computing)&amp;action=history&amp;offset=&amp;limit=100">Defense in depth (computing): Revision history - Wikipedia</a></li>
-<li> 10:43 <a href="https://en.wikipedia.org/w/index.php?title=Defense_in_depth_(computing)&amp;action=history">Defense in depth (computing): Revision history - Wikipedia</a></li>
-<li> 10:42 www.google.co.uk</li>
-<li> 10:42 books.google.co.uk</li>
-<li> 10:42 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)#cite_note-14">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:42 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)#See_also">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:42 <a href="https://en.wikipedia.org/w/index.php?title=Defense_in_depth_(computing)&amp;action=edit&amp;section=10">Editing Defense in depth (computing) (section) - Wikipedia</a></li>
-<li> 10:42 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:41 <a href="https://en.wikipedia.org/w/index.php?title=Defense_in_depth_(computing)&amp;action=edit&amp;section=10">Editing Defense in depth (computing) (section) - Wikipedia</a></li>
-<li> 10:41 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:41 <a href="https://en.wikipedia.org/w/index.php?title=Defense_in_depth_(computing)&amp;action=edit">Editing Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:41 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:41 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 10:40 <a href="https://en.wikipedia.org/wiki/Onion_model#See_also">Onion model - Wikipedia</a></li>
-<li> 10:40 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 10:40 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:40 <a href="https://en.wikipedia.org/w/index.php?title=Onion_model&amp;action=edit&amp;section=3">Editing Onion model (section) - Wikipedia</a></li>
 </ul>
