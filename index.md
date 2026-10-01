@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5509)</li>
 <li>mail.google.com (5268)</li>
-<li>www.google.com (4976)</li>
+<li>www.google.com (4975)</li>
 <li>outlook.office365.com (4344)</li>
 <li>duckduckgo.com (3974)</li>
 <li>outlook.office.com (3877)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:36 forms.cloud.microsoft</li>
+<ul><li> 09:20 webtimetables.royalholloway.ac.uk</li>
+<li> 09:11 localhost:8443</li>
+<li class='same'> 09:10 localhost:8443</li>
+<li> 09:08 forms.cloud.microsoft</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:36 forms.cloud.microsoft</li>
 <li class='same'> 08:35 forms.cloud.microsoft</li>
 <li class='same'> 08:34 forms.cloud.microsoft</li>
 <li> 08:34 login.microsoftonline.com</li>
@@ -124112,30 +124120,4 @@ With number of accesses/minutes in parentheses
 <li> 10:33 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 10:32 claude.ai</li>
 <li> 10:32 <a href="https://en.wikipedia.org/wiki/Onion_model">Onion model - Wikipedia</a></li>
-<li> 10:32 www.google.com</li>
-<li> 10:31 <a href="https://en.wikipedia.org/wiki/Information_security?action=edit&amp;section=15&amp;veswitched=1#Classification">Editing Information security (section) - Wikipedia</a></li>
-<li> 10:31 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=16">Information security - Wikipedia</a></li>
-<li> 10:31 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=15">Editing Information security (section) - Wikipedia</a></li>
-<li> 10:31 www.schneier.com</li>
-<li> 10:30 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:30 <a href="https://en.wikipedia.org/wiki/Information_security#Classification">Information security - Wikipedia</a></li>
-<li> 10:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=2">Editing Information security (section) - Wikipedia</a></li>
-<li> 10:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=16">Information security - Wikipedia</a></li>
-<li> 10:29 <a href="https://en.wikipedia.org/wiki/Information_security#Defense_in_depth">Information security - Wikipedia</a></li>
-<li> 10:28 <a href="https://en.wikipedia.org/wiki/Information_security#Information_Security_Standards">Information security - Wikipedia</a></li>
-<li> 10:25 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
-<li> 10:24 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
-<li> 10:24 <a href="https://en.wikipedia.org/wiki/ISO/IEC_27002">ISO/IEC 27002 - Wikipedia</a></li>
-<li> 10:24 <a href="https://en.wikipedia.org/wiki/Information_security#Security_controls">Information security - Wikipedia</a></li>
-<li> 10:24 <a href="https://en.wikipedia.org/wiki/Information_security#Risk_management">Information security - Wikipedia</a></li>
-<li> 10:23 <a href="https://en.wikipedia.org/wiki/Information_security#The_CIA_triad">Information security - Wikipedia</a></li>
-<li> 10:23 <a href="https://en.wikipedia.org/wiki/Information_security#Other_Models">Information security - Wikipedia</a></li>
-<li> 10:22 <a href="https://en.wikipedia.org/wiki/Information_security#Information_Security_Standards">Information security - Wikipedia</a></li>
-<li> 10:22 <a href="https://en.wikipedia.org/wiki/Information_security#Overview">Information security - Wikipedia</a></li>
-<li> 10:21 <a href="https://en.wikipedia.org/wiki/Information_security#cite_note-27">Information security - Wikipedia</a></li>
-<li> 10:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=2">Editing Information security (section) - Wikipedia</a></li>
-<li> 10:21 <a href="https://en.wikipedia.org/wiki/Information_security#cite_ref-27">Information security - Wikipedia</a></li>
-<li> 10:21 knowledge.bsigroup.com</li>
-<li> 10:21 linkresolver.bsigroup.com</li>
-<li> 10:21 knowledge.bsigroup.com</li>
 </ul>
