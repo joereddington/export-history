@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5509)</li>
+<ol><li>www.reddit.com (5510)</li>
 <li>mail.google.com (5268)</li>
 <li>www.google.com (4975)</li>
 <li>outlook.office365.com (4344)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:20 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 09:42 www.reddit.com</li>
+<li> 09:36 equalitytime.github.io</li>
+<li> 09:20 webtimetables.royalholloway.ac.uk</li>
 <li> 09:11 localhost:8443</li>
 <li class='same'> 09:10 localhost:8443</li>
 <li> 09:08 forms.cloud.microsoft</li>
@@ -124098,26 +124100,4 @@ With number of accesses/minutes in parentheses
 <li> 10:40 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
 <li> 10:40 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
 <li> 10:40 <a href="https://en.wikipedia.org/w/index.php?title=Onion_model&amp;action=edit&amp;section=3">Editing Onion model (section) - Wikipedia</a></li>
-<li> 10:40 <a href="https://en.wikipedia.org/wiki/Defense_in_depth">Defence in depth - Wikipedia</a></li>
-<li> 10:40 <a href="https://en.wikipedia.org/wiki/Defence_in_depth">Defence in depth - Wikipedia</a></li>
-<li> 10:39 <a href="https://en.wikipedia.org/wiki/Onion_model#See_also">Onion model - Wikipedia</a></li>
-<li> 10:39 <a href="https://en.wikipedia.org/wiki/Defence_in_depth">Defence in depth - Wikipedia</a></li>
-<li> 10:39 <a href="https://en.wikipedia.org/wiki/Defense_in_depth">Defence in depth - Wikipedia</a></li>
-<li> 10:39 <a href="https://en.wikipedia.org/w/index.php?title=Onion_model&amp;action=edit&amp;section=3">Editing Onion model (section) - Wikipedia</a></li>
-<li> 10:39 <a href="https://en.wikipedia.org/wiki/Onion_model">Onion model - Wikipedia</a></li>
-<li> 10:39 <a href="https://en.wikipedia.org/wiki/Information_security#Defense_in_depth">Information security - Wikipedia</a></li>
-<li> 10:37 <a href="https://en.wikipedia.org/w/index.php?title=Defense_in_depth_(computing)&amp;action=edit&amp;section=1">Editing Defense in depth (computing) (section) - Wikipedia</a></li>
-<li> 10:37 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:35 www.schneier.com</li>
-<li> 10:35 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:35 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=15">Editing Information security (section) - Wikipedia</a></li>
-<li> 10:35 <a href="https://en.wikipedia.org/wiki/Information_security#Defense_in_depth">Information security - Wikipedia</a></li>
-<li> 10:35 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 10:34 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)#Background">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:33 <a href="https://en.wikipedia.org/w/index.php?title=Defense_in_depth_(computing)&amp;action=edit&amp;section=1">Editing Defense in depth (computing) (section) - Wikipedia</a></li>
-<li> 10:33 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 10:33 <a href="https://en.wikipedia.org/wiki/Information_security#Defense_in_depth">Information security - Wikipedia</a></li>
-<li> 10:33 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 10:32 claude.ai</li>
-<li> 10:32 <a href="https://en.wikipedia.org/wiki/Onion_model">Onion model - Wikipedia</a></li>
 </ul>
