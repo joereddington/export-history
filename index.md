@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5499)</li>
-<li>mail.google.com (5271)</li>
-<li>www.google.com (4981)</li>
-<li>outlook.office365.com (4347)</li>
+<ol><li>www.reddit.com (5502)</li>
+<li>mail.google.com (5268)</li>
+<li>www.google.com (4978)</li>
+<li>outlook.office365.com (4344)</li>
 <li>duckduckgo.com (3972)</li>
 <li>outlook.office.com (3879)</li>
-<li>docs.google.com (3270)</li>
-<li>chatgpt.com (2924)</li>
+<li>docs.google.com (3269)</li>
+<li>chatgpt.com (2925)</li>
 <li>www.linkedin.com (2371)</li>
 <li>bsky.app (2009)</li>
-<li>moodle.royalholloway.ac.uk (1774)</li>
-<li>www.facebook.com (1708)</li>
-<li>calendar.google.com (1557)</li>
-<li>login.microsoftonline.com (1437)</li>
-<li>chat.openai.com (1350)</li>
-<li>www.amazon.co.uk (1315)</li>
+<li>moodle.royalholloway.ac.uk (1777)</li>
+<li>www.facebook.com (1707)</li>
+<li>calendar.google.com (1558)</li>
+<li>login.microsoftonline.com (1440)</li>
+<li>chat.openai.com (1351)</li>
+<li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1112)</li>
-<li>gmail.com (1111)</li>
+<li>gmail.com (1110)</li>
 <li>mail.rhul.ac.uk (948)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (845)</li>
 <li>rhul-my.sharepoint.com (824)</li>
 <li>forms.office.com (752)</li>
-<li>rhul.sharepoint.com (617)</li>
+<li>rhul.sharepoint.com (619)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:58 www.reddit.com</li>
+<ul><li> 07:25 www.reddit.com</li>
+<li> 07:23 chatgpt.com</li>
+<li> 07:23 chat.openai.com</li>
+<li> 07:19 www.reddit.com</li>
+<li> 07:18 calendar.google.com</li>
+<li> 07:15 rhul.sharepoint.com</li>
+<li> 07:15 device.login.microsoftonline.com</li>
+<li> 07:15 login.microsoftonline.com</li>
+<li> 07:14 rhul.sharepoint.com</li>
+<li> 07:12 moodle.royalholloway.ac.uk</li>
+<li> 07:12 login.microsoftonline.com</li>
+<li> 07:12 device.login.microsoftonline.com</li>
+<li> 07:12 moodle.royalholloway.ac.uk</li>
+<li> 07:12 login.microsoftonline.com</li>
+<li> 07:12 moodle.royalholloway.ac.uk</li>
+<li> 07:08 www.reddit.com</li>
+<li class='same'> 06:58 www.reddit.com</li>
 <li> 06:53 localhost:8443</li>
 <li class='same'> 06:52 localhost:8443</li>
 <li class='same'> 06:51 localhost:8443</li>
@@ -124134,34 +124150,4 @@ With number of accesses/minutes in parentheses
 <li> 07:15 www.amazon.co.uk</li>
 <li> 07:15 www.google.com</li>
 <li> 07:00 feedly.com</li>
-<li> 06:55 www.facebook.com</li>
-<li> 06:54 adblockplus.org</li>
-<li> 06:48 www.amazon.co.uk</li>
-<li> 06:48 www.google.com</li>
-<li> 06:47 docs.google.com</li>
-<li> 06:47 www.google.com</li>
-</ul>
-
-<H3>Wednesday, 06/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 18:36 m.youtube.com</li>
-<li> 18:28 51.148.131.133:8000</li>
-<li> 18:27 mail.google.com</li>
-<li> 18:26 www.google.com</li>
-<li> 18:02 www.ebay.co.uk</li>
-<li class='same'> 18:01 www.ebay.co.uk</li>
-<li> 18:01 offer.ebay.co.uk</li>
-<li> 18:01 mail.google.com</li>
-<li class='same'> 18:00 mail.google.com</li>
-<li> 18:00 gmail.com</li>
-<li> 18:00 outlook.office365.com</li>
-<li> 17:56 51.148.131.133:8000</li>
-<li> 17:51 outlook.office365.com</li>
-<li class='same'> 17:50 outlook.office365.com</li>
 </ul>
