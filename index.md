@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5510)</li>
+<ol><li>www.reddit.com (5512)</li>
 <li>mail.google.com (5268)</li>
 <li>www.google.com (4972)</li>
 <li>outlook.office365.com (4344)</li>
-<li>duckduckgo.com (3974)</li>
+<li>duckduckgo.com (3975)</li>
 <li>outlook.office.com (3877)</li>
 <li>docs.google.com (3266)</li>
 <li>chatgpt.com (2925)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1111)</li>
 <li>gmail.com (1110)</li>
-<li>mail.rhul.ac.uk (948)</li>
+<li>mail.rhul.ac.uk (947)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (844)</li>
 <li>rhul-my.sharepoint.com (824)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:09 localhost:8443</li>
+<ul><li> 10:42 www.reddit.com</li>
+<li class='same'> 10:39 www.reddit.com</li>
+<li> 10:39 click.redditmail.com</li>
+<li> 10:30 duckduckgo.com</li>
+<li> 10:09 localhost:8443</li>
 <li> 10:08 forms.cloud.microsoft</li>
 <li> 10:07 localhost:8443</li>
 <li class='same'> 10:06 localhost:8443</li>
@@ -124053,25 +124057,4 @@ With number of accesses/minutes in parentheses
 <li> 11:35 <a href="https://en.wikipedia.org/"></a></li>
 <li> 11:35 outlook.office365.com</li>
 <li class='same'> 11:23 outlook.office365.com</li>
-<li> 11:23 mail.rhul.ac.uk</li>
-<li> 11:07 <a href="https://en.wikipedia.org/wiki/Security_controls">Security controls - Wikipedia</a></li>
-<li> 11:00 rhul.hosted.panopto.com</li>
-<li class='same'> 10:59 rhul.hosted.panopto.com</li>
-<li> 10:56 <a href="https://en.wikipedia.org/wiki/ISO/IEC_27001">ISO/IEC 27001 - Wikipedia</a></li>
-<li> 10:55 <a href="https://en.wikipedia.org/wiki/Factor_analysis_of_information_risk">Factor analysis of information risk - Wikipedia</a></li>
-<li> 10:55 <a href="https://en.wikipedia.org/wiki/Factor_Analysis_of_Information_Risk">Factor analysis of information risk - Wikipedia</a></li>
-<li> 10:54 <a href="https://en.wikipedia.org/wiki/Confidentiality">Confidentiality - Wikipedia</a></li>
-<li> 10:54 <a href="https://en.wikipedia.org/wiki/Non-repudiation">Non-repudiation - Wikipedia</a></li>
-<li> 10:54 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
-<li> 10:54 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;redirect=no#Professionalism">Information security - Wikipedia</a></li>
-<li> 10:54 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject">Wikipedia:WikiProject - Wikipedia</a></li>
-<li> 10:54 <a href="https://en.wikipedia.org/wiki/Talk:Information_security#Merger_discussion-DoesNotExist-DiscussionToolsHack">Talk:Information security - Wikipedia</a></li>
-<li> 10:54 <a href="https://en.wikipedia.org/wiki/Talk:Information_security#Merger_discussion">Talk:Information security - Wikipedia</a></li>
-<li> 10:53 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
-<li> 10:52 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Information_security&amp;action=history">Talk:Information security: Revision history - Wikipedia</a></li>
-<li> 10:52 <a href="https://en.wikipedia.org/wiki/Talk:Information_security#Merger_discussion">Talk:Information security - Wikipedia</a></li>
-<li> 10:52 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
-<li> 10:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_assurance&amp;action=edit">Editing Information assurance - Wikipedia</a></li>
-<li> 10:51 <a href="https://en.wikipedia.org/wiki/IT_risk#Standards_Organizations_and_Standards">IT risk - Wikipedia</a></li>
-<li> 10:51 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
 </ul>
