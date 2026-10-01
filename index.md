@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5507)</li>
+<ol><li>www.reddit.com (5509)</li>
 <li>mail.google.com (5268)</li>
-<li>www.google.com (4976)</li>
+<li>www.google.com (4977)</li>
 <li>outlook.office365.com (4344)</li>
-<li>duckduckgo.com (3973)</li>
+<li>duckduckgo.com (3974)</li>
 <li>outlook.office.com (3877)</li>
-<li>docs.google.com (3268)</li>
+<li>docs.google.com (3267)</li>
 <li>chatgpt.com (2925)</li>
 <li>www.linkedin.com (2371)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1777)</li>
 <li>www.facebook.com (1707)</li>
 <li>calendar.google.com (1555)</li>
-<li>login.microsoftonline.com (1440)</li>
+<li>login.microsoftonline.com (1441)</li>
 <li>chat.openai.com (1351)</li>
-<li>www.amazon.co.uk (1311)</li>
+<li>www.amazon.co.uk (1310)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1111)</li>
 <li>gmail.com (1110)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:21 login.microsoftonline.com</li>
+<li> 08:21 forms.cloud.microsoft</li>
+<li> 08:15 x.com</li>
+<li> 08:15 www.google.com</li>
+<li class='same'> 08:14 www.google.com</li>
+<li> 08:14 duckduckgo.com</li>
+<li> 08:14 www.reddit.com</li>
+<li class='same'> 08:13 www.reddit.com</li>
+<li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 07:47 www.linkedin.com</li>
 <li> 07:44 www.su.rhul.ac.uk</li>
@@ -124138,7 +124146,4 @@ With number of accesses/minutes in parentheses
 <li> 09:41 <a href="https://joereddington.com/eoirgje">Joe Reddington | Things I make.</a></li>
 <li> 09:37 www.google.com</li>
 <li> 09:31 docs.google.com</li>
-<li> 09:28 www.amazon.co.uk</li>
-<li> 09:28 www.google.com</li>
-<li> 09:27 docs.google.com</li>
 </ul>
