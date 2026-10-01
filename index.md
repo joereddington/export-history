@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5511)</li>
+<ol><li>www.reddit.com (5512)</li>
 <li>mail.google.com (5267)</li>
-<li>www.google.com (4962)</li>
-<li>outlook.office365.com (4312)</li>
+<li>www.google.com (4960)</li>
+<li>outlook.office365.com (4308)</li>
 <li>duckduckgo.com (3975)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
 <li>chatgpt.com (2927)</li>
 <li>www.linkedin.com (2369)</li>
 <li>bsky.app (2009)</li>
-<li>moodle.royalholloway.ac.uk (1777)</li>
+<li>moodle.royalholloway.ac.uk (1776)</li>
 <li>www.facebook.com (1692)</li>
 <li>calendar.google.com (1555)</li>
 <li>login.microsoftonline.com (1451)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:44 www.reddit.com</li>
+<ul><li> 14:00 www.reddit.com</li>
+<li class='same'> 13:44 www.reddit.com</li>
 <li> 13:18 localhost:8443</li>
 <li> 13:14 forms.cloud.microsoft</li>
 <li> 13:13 login.microsoftonline.com</li>
@@ -123971,15 +123972,4 @@ With number of accesses/minutes in parentheses
 <li> 16:01 outlook.office365.com</li>
 <li> 15:58 moodle.royalholloway.ac.uk</li>
 <li> 15:58 Local file</li>
-<li> 15:58 outlook.office365.com</li>
-<li class='same'> 15:57 outlook.office365.com</li>
-<li> 15:57 security.ticketmaster.ie</li>
-<li> 15:53 www.google.com</li>
-<li> 15:52 ico.org.uk</li>
-<li> 15:52 therecord.media</li>
-<li> 15:52 www.google.com</li>
-<li> 15:51 outlook.office365.com</li>
-<li> 15:51 www.eventbrite.com</li>
-<li> 15:50 outlook.office365.com</li>
-<li> 15:46 moodle.royalholloway.ac.uk</li>
 </ul>
