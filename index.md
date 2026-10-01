@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5512)</li>
+<ol><li>www.reddit.com (5519)</li>
 <li>mail.google.com (5267)</li>
 <li>www.google.com (4960)</li>
-<li>outlook.office365.com (4308)</li>
+<li>outlook.office365.com (4305)</li>
 <li>duckduckgo.com (3975)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
 <li>chatgpt.com (2927)</li>
-<li>www.linkedin.com (2369)</li>
+<li>www.linkedin.com (2370)</li>
 <li>bsky.app (2009)</li>
-<li>moodle.royalholloway.ac.uk (1776)</li>
+<li>moodle.royalholloway.ac.uk (1775)</li>
 <li>www.facebook.com (1692)</li>
 <li>calendar.google.com (1555)</li>
 <li>login.microsoftonline.com (1451)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1109)</li>
 <li>gmail.com (1109)</li>
-<li>mail.rhul.ac.uk (944)</li>
+<li>mail.rhul.ac.uk (943)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (844)</li>
 <li>rhul-my.sharepoint.com (824)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:00 www.reddit.com</li>
+<ul><li> 14:50 www.reddit.com</li>
+<li> 14:49 www.linkedin.com</li>
+<li> 14:49 www.reddit.com</li>
+<li class='same'> 14:47 www.reddit.com</li>
+<li class='same'> 14:46 www.reddit.com</li>
+<li class='same'> 14:44 www.reddit.com</li>
+<li class='same'> 14:42 www.reddit.com</li>
+<li class='same'> 14:26 www.reddit.com</li>
+<li class='same'> 14:00 www.reddit.com</li>
 <li class='same'> 13:44 www.reddit.com</li>
 <li> 13:18 localhost:8443</li>
 <li> 13:14 forms.cloud.microsoft</li>
@@ -123954,22 +123962,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:00 chatgpt.com</li>
 <li class='same'> 07:59 chatgpt.com</li>
 <li> 07:59 chat.openai.com</li>
-</ul>
-
-<H3>Thursday, 07/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 16:05 outlook.office365.com</li>
-<li> 16:05 mail.rhul.ac.uk</li>
-<li> 16:04 outlook.office365.com</li>
-<li> 16:02 discord.com</li>
-<li class='same'> 16:01 discord.com</li>
-<li> 16:01 outlook.office365.com</li>
-<li> 15:58 moodle.royalholloway.ac.uk</li>
-<li> 15:58 Local file</li>
 </ul>
