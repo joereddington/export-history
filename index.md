@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5522)</li>
+<ol><li>www.reddit.com (5524)</li>
 <li>mail.google.com (5259)</li>
 <li>www.google.com (4959)</li>
 <li>outlook.office365.com (4268)</li>
-<li>duckduckgo.com (3976)</li>
+<li>duckduckgo.com (3977)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
-<li>chatgpt.com (2923)</li>
-<li>www.linkedin.com (2372)</li>
+<li>chatgpt.com (2925)</li>
+<li>www.linkedin.com (2375)</li>
 <li>bsky.app (2009)</li>
-<li>moodle.royalholloway.ac.uk (1772)</li>
+<li>moodle.royalholloway.ac.uk (1776)</li>
 <li>www.facebook.com (1676)</li>
 <li>calendar.google.com (1554)</li>
-<li>login.microsoftonline.com (1456)</li>
-<li>chat.openai.com (1350)</li>
-<li>www.amazon.co.uk (1310)</li>
+<li>login.microsoftonline.com (1457)</li>
+<li>chat.openai.com (1351)</li>
+<li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1108)</li>
 <li>web.whatsapp.com (1108)</li>
@@ -104,11 +104,58 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 02/10/26</H3>
+
+<br>
+
+<ul><li> 06:21 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 06:20 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 06:19 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 06:18 webtimetables.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Thursday, 01/10/26</H3>
 
 <br>
 
-<ul><li> 18:56 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 22:04 www.linkedin.com</li>
+<li> 21:59 moodle.royalholloway.ac.uk</li>
+<li> 21:59 eur03.safelinks.protection.outlook.com</li>
+<li> 21:58 moodle.royalholloway.ac.uk</li>
+<li class='same'> 21:57 moodle.royalholloway.ac.uk</li>
+<li> 21:57 login.microsoftonline.com</li>
+<li> 21:57 device.login.microsoftonline.com</li>
+<li> 21:57 moodle.royalholloway.ac.uk</li>
+<li> 21:54 dashboards.rhul.ac.uk</li>
+<li> 21:49 duckduckgo.com</li>
+<li> 21:26 www.amazon.co.uk</li>
+<li class='same'> 21:23 www.amazon.co.uk</li>
+<li class='same'> 21:22 www.amazon.co.uk</li>
+<li class='same'> 21:20 www.amazon.co.uk</li>
+<li class='same'> 21:19 www.amazon.co.uk</li>
+<li> 21:19 chatgpt.com</li>
+<li class='same'> 21:18 chatgpt.com</li>
+<li> 21:18 chat.openai.com</li>
+<li> 21:01 www.amazon.co.uk</li>
+<li class='same'> 21:00 www.amazon.co.uk</li>
+<li class='same'> 20:59 www.amazon.co.uk</li>
+<li> 20:59 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:23 www.linkedin.com</li>
+<li> 20:18 www.reddit.com</li>
+<li class='same'> 20:15 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:56 www.reddit.com</li>
 <li> 18:56 www.linkedin.com</li>
 <li> 18:55 www.reddit.com</li>
 <li class='same'> 18:54 www.reddit.com</li>
