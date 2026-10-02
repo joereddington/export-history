@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:18 www.reddit.com</li>
+<ul><li> 08:45 localhost:8443</li>
+<li> 08:43 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 08:42 webtimetables.royalholloway.ac.uk</li>
+<li> 08:18 www.reddit.com</li>
 <li class='same'> 08:17 www.reddit.com</li>
 <li class='same'> 08:16 www.reddit.com</li>
 <li class='same'> 08:15 www.reddit.com</li>
