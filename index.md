@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5545)</li>
-<li>mail.google.com (5259)</li>
-<li>www.google.com (4959)</li>
+<ol><li>www.reddit.com (5546)</li>
+<li>mail.google.com (5258)</li>
+<li>www.google.com (4957)</li>
 <li>outlook.office365.com (4268)</li>
-<li>duckduckgo.com (3978)</li>
+<li>duckduckgo.com (3980)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
 <li>chatgpt.com (2930)</li>
-<li>www.linkedin.com (2383)</li>
+<li>www.linkedin.com (2385)</li>
 <li>bsky.app (2009)</li>
-<li>moodle.royalholloway.ac.uk (1779)</li>
+<li>moodle.royalholloway.ac.uk (1780)</li>
 <li>www.facebook.com (1676)</li>
 <li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1466)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:55 dashboards.rhul.ac.uk</li>
+<ul><li> 17:23 www.reddit.com</li>
+<li> 17:22 www.linkedin.com</li>
+<li> 17:22 moodle.royalholloway.ac.uk</li>
+<li> 17:22 eur03.safelinks.protection.outlook.com</li>
+<li> 17:19 duckduckgo.com</li>
+<li> 17:18 www.linkedin.com</li>
+<li> 17:14 dashboards.rhul.ac.uk</li>
+<li> 17:13 mydigitalpublication.com</li>
+<li> 17:12 scholar.google.com</li>
+<li> 17:12 duckduckgo.com</li>
+<li> 16:56 dashboards.rhul.ac.uk</li>
+<li class='same'> 16:55 dashboards.rhul.ac.uk</li>
 <li> 16:44 casper.cs.rhul.ac.uk</li>
 <li> 16:35 chatgpt.com</li>
 <li> 16:35 chat.openai.com</li>
@@ -124007,7 +124018,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:31 calendar.google.com</li>
 <li> 16:31 mail.google.com</li>
 <li> 16:30 www.google.co.uk</li>
-<li> 16:30 www.google.com</li>
-<li class='same'> 16:29 www.google.com</li>
-<li> 16:28 mail.google.com</li>
 </ul>
