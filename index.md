@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5544)</li>
+<ol><li>www.reddit.com (5545)</li>
 <li>mail.google.com (5259)</li>
 <li>www.google.com (4959)</li>
 <li>outlook.office365.com (4268)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1779)</li>
 <li>www.facebook.com (1676)</li>
 <li>calendar.google.com (1554)</li>
-<li>login.microsoftonline.com (1465)</li>
+<li>login.microsoftonline.com (1466)</li>
 <li>chat.openai.com (1355)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (844)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (747)</li>
-<li>rhul.sharepoint.com (618)</li>
+<li>rhul.sharepoint.com (617)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 02/10/26</H3>
+
+<br>
+
+<ul><li> 16:23 dashboards.rhul.ac.uk</li>
+<li> 16:20 localhost:8443</li>
+<li class='same'> 16:19 localhost:8443</li>
+<li> 16:19 forms.cloud.microsoft</li>
+<li> 16:19 login.microsoftonline.com</li>
+<li> 16:19 forms.cloud.microsoft</li>
+<li> 16:19 device.login.microsoftonline.com</li>
+<li> 16:19 login.microsoftonline.com</li>
+<li> 16:19 forms.cloud.microsoft</li>
+<li> 16:16 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -12342,10 +12356,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:31 rhul.sharepoint.com</li>
 <li class='same'> 19:30 rhul.sharepoint.com</li>
 <li class='same'> 19:27 rhul.sharepoint.com</li>
-<li class='same'> 19:26 rhul.sharepoint.com</li>
 <li class='same'> 19:17 rhul.sharepoint.com</li>
-<li> 19:17 login.microsoftonline.com</li>
-<li> 19:16 rhul.sharepoint.com</li>
+<li class='same'> 19:16 rhul.sharepoint.com</li>
 <li> 19:16 login.microsoftonline.com</li>
 <li> 19:16 forms.cloud.microsoft</li>
 <li> 19:16 eur03.safelinks.protection.outlook.com</li>
@@ -12384,7 +12396,6 @@ With number of accesses/minutes in parentheses
 <li> 18:32 <a href="https://en.wikipedia.org/w/index.php?title=List_of_cyberattacks&amp;action=history">List of cyberattacks: Revision history - Wikipedia</a></li>
 <li> 18:32 <a href="https://en.wikipedia.org/wiki/List_of_cyberattacks">List of cyberattacks - Wikipedia</a></li>
 <li> 18:32 <a href="https://en.wikipedia.org/w/index.php?diff=1362382597">List of cyberattacks: Difference between revisions - Wikipedia</a></li>
-<li> 18:32 <a href="https://en.wikipedia.org/wiki/Special:Diff/1362382597"></a></li>
 <li> 18:32 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 18:32 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 18:32 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
@@ -124013,10 +124024,4 @@ With number of accesses/minutes in parentheses
 <li> 16:24 <a href="https://www.youtube.com/shorts/FQ7NxLB8QJg">(82) YouTube</a></li>
 <li> 16:24 <a href="https://www.youtube.com/shorts/DRt0NLQAceU">(79) Sickle vs Banana #fyp #knife #knifesharpening #ray #knifesharpener #rui #knives #japaneseknives - YouTube</a></li>
 <li> 16:24 <a href="https://www.youtube.com/shorts/3oSJ8ES6PWw">(79) It’s not the right size-lron man 3 - YouTube</a></li>
-<li> 16:24 <a href="https://www.youtube.com/shorts/TKv5fv66IKs">(79) Louis #suits - YouTube</a></li>
-<li> 16:23 <a href="https://www.youtube.com/shorts/jfpLdanw_f0">(79) Because of her psychological problems,she only trusts Dr.House #movie #shorts #video - YouTube</a></li>
-<li> 16:23 <a href="https://www.youtube.com/shorts/0M40vQDJS9g">(82) YouTube</a></li>
-<li> 16:22 <a href="https://www.youtube.com/shorts/I3t7w-Wi6Ds">(79) Uk New Build Snagging Inspection #110 - YouTube</a></li>
-<li> 16:21 <a href="https://www.youtube.com/shorts/FSIAKryA4vc">(79) Richard Hammond talks about his Rolex watch during crash #topgear #richardhammond #rimaccrash - YouTube</a></li>
-<li> 16:21 <a href="https://www.youtube.com/shorts/30inEzHTl0c">(79) Irish Lad at the US Embassy #shorts - YouTube</a></li>
 </ul>
