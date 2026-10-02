@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3977)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
-<li>chatgpt.com (2926)</li>
+<li>chatgpt.com (2927)</li>
 <li>www.linkedin.com (2379)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1776)</li>
 <li>www.facebook.com (1676)</li>
 <li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1459)</li>
-<li>chat.openai.com (1352)</li>
+<li>chat.openai.com (1353)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1108)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (844)</li>
-<li>rhul-my.sharepoint.com (819)</li>
+<li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (747)</li>
 <li>rhul.sharepoint.com (618)</li>
 <li>fritz.box (590)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:22 localhost:8443</li>
+<ul><li> 09:44 chatgpt.com</li>
+<li> 09:44 chat.openai.com</li>
+<li> 09:41 localhost:8443</li>
+<li> 09:35 rhul-my.sharepoint.com</li>
+<li> 09:22 localhost:8443</li>
 <li class='same'> 09:21 localhost:8443</li>
 <li> 09:21 forms.cloud.microsoft</li>
 <li> 09:21 login.microsoftonline.com</li>
