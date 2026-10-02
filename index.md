@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
 <li>chatgpt.com (2930)</li>
-<li>www.linkedin.com (2385)</li>
+<li>www.linkedin.com (2386)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1780)</li>
 <li>www.facebook.com (1676)</li>
-<li>calendar.google.com (1553)</li>
-<li>login.microsoftonline.com (1466)</li>
+<li>calendar.google.com (1552)</li>
+<li>login.microsoftonline.com (1468)</li>
 <li>chat.openai.com (1356)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:40 localhost:8443</li>
+<ul><li> 18:26 www.linkedin.com</li>
+<li> 18:14 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:07 login.microsoftonline.com</li>
+<li> 18:07 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:07 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 18:07 device.login.microsoftonline.com</li>
+<li> 18:07 login.microsoftonline.com</li>
+<li> 18:07 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:40 localhost:8443</li>
 <li> 17:36 www.reddit.com</li>
 <li class='same'> 17:35 www.reddit.com</li>
 <li class='same'> 17:34 www.reddit.com</li>
@@ -124021,5 +124029,4 @@ With number of accesses/minutes in parentheses
 <li> 16:35 rhul.hosted.panopto.com</li>
 <li class='same'> 16:34 rhul.hosted.panopto.com</li>
 <li> 16:34 mail.google.com</li>
-<li> 16:32 calendar.google.com</li>
 </ul>
