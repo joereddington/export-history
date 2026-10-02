@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3978)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
-<li>chatgpt.com (2929)</li>
+<li>chatgpt.com (2930)</li>
 <li>www.linkedin.com (2383)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1779)</li>
 <li>www.facebook.com (1676)</li>
 <li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1466)</li>
-<li>chat.openai.com (1355)</li>
+<li>chat.openai.com (1356)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1108)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:23 dashboards.rhul.ac.uk</li>
+<ul><li> 16:55 dashboards.rhul.ac.uk</li>
+<li> 16:44 casper.cs.rhul.ac.uk</li>
+<li> 16:35 chatgpt.com</li>
+<li> 16:35 chat.openai.com</li>
+<li> 16:23 dashboards.rhul.ac.uk</li>
 <li> 16:20 localhost:8443</li>
 <li class='same'> 16:19 localhost:8443</li>
 <li> 16:19 forms.cloud.microsoft</li>
@@ -124006,22 +124010,4 @@ With number of accesses/minutes in parentheses
 <li> 16:30 www.google.com</li>
 <li class='same'> 16:29 www.google.com</li>
 <li> 16:28 mail.google.com</li>
-<li> 16:28 <a href="https://www.youtube.com/shorts/nC4EeH7zB4U">(79) He made a fool of him🤪#mentalist - YouTube</a></li>
-<li> 16:28 <a href="https://www.youtube.com/shorts/XBzPyWun6OM">(79) YouTube</a></li>
-<li> 16:28 <a href="https://www.youtube.com/shorts/6ABvfP7Ffic">(79) You’re already ready @Minute.Matters #pushharder #motivator #winnersmindset #mindsetmatters - YouTube</a></li>
-<li> 16:28 <a href="https://www.youtube.com/shorts/C0DLmWfdLGQ">(79) The Binary Zipper Funnel - YouTube</a></li>
-<li> 16:28 <a href="https://www.youtube.com/shorts/FQ7NxLB8QJg">(82) YouTube</a></li>
-<li> 16:28 <a href="https://www.youtube.com/shorts/7poUQoB059E">(79) Whatcha working on, Fred? #business #snacks - YouTube</a></li>
-<li> 16:27 <a href="https://www.youtube.com/shorts/LlMcniQj_b4">(79) Dr.House has always had the oddest patients #movie #shorts #video - YouTube</a></li>
-<li> 16:27 <a href="https://www.youtube.com/shorts/lZ7wJIa8veA">(79) Life is now #chill #lake - YouTube</a></li>
-<li> 16:26 <a href="https://www.youtube.com/shorts/QRrbAjyiJyc">(79) I Will Use It For Bowling || Venom: Let There Be Carnage #venom2 - YouTube</a></li>
-<li> 16:26 <a href="https://www.youtube.com/shorts/OrHk6qn5vAo">(79) YouTube</a></li>
-<li> 16:26 <a href="https://www.youtube.com/shorts/n0FfjBHWPXE">(79) Why did the traffic police’s attitude change clearly after seeing the badge?#swat #shorts #crime #tv - YouTube</a></li>
-<li> 16:26 <a href="https://www.youtube.com/shorts/frC1UaP6EwY">(79) ELECTRIFYING 🍀🍀🍀#highlyelevated369 #conormcgregor #mcgregor #ufc #mma #danawhite #josealdo #mmaworld - YouTube</a></li>
-<li> 16:25 <a href="https://www.youtube.com/shorts/4ppGbmAdO6c">(79) Jewelry deception! Reid&#x27;s keen eye catches a fake (Criminal Minds S8E13) #CriminalMinds #CourtScene - YouTube</a></li>
-<li> 16:25 <a href="https://www.youtube.com/shorts/w4jGA-LrFj4">(79) Respect the man who invented this monster. #movie #shorts #viral - YouTube</a></li>
-<li> 16:25 <a href="https://www.youtube.com/shorts/Dis_6jBXQok">(79) How I Met Your Mother || Marshall: There&#x27;s No Way He Could Do What These Guys Do.. #shorts #himym - YouTube</a></li>
-<li> 16:24 <a href="https://www.youtube.com/shorts/FQ7NxLB8QJg">(82) YouTube</a></li>
-<li> 16:24 <a href="https://www.youtube.com/shorts/DRt0NLQAceU">(79) Sickle vs Banana #fyp #knife #knifesharpening #ray #knifesharpener #rui #knives #japaneseknives - YouTube</a></li>
-<li> 16:24 <a href="https://www.youtube.com/shorts/3oSJ8ES6PWw">(79) It’s not the right size-lron man 3 - YouTube</a></li>
 </ul>
