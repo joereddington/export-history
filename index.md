@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5552)</li>
-<li>mail.google.com (5257)</li>
+<li>mail.google.com (5256)</li>
 <li>www.google.com (4957)</li>
 <li>outlook.office365.com (4268)</li>
 <li>duckduckgo.com (3980)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (844)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (747)</li>
-<li>rhul.sharepoint.com (617)</li>
+<li>rhul.sharepoint.com (616)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -124024,9 +124024,4 @@ With number of accesses/minutes in parentheses
 <li> 16:37 gmail.com</li>
 <li> 16:37 outlook.office365.com</li>
 <li class='same'> 16:36 outlook.office365.com</li>
-<li> 16:36 rhul.hosted.panopto.com</li>
-<li> 16:35 rhul.sharepoint.com</li>
-<li> 16:35 rhul.hosted.panopto.com</li>
-<li class='same'> 16:34 rhul.hosted.panopto.com</li>
-<li> 16:34 mail.google.com</li>
 </ul>
