@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5259)</li>
 <li>www.google.com (4959)</li>
 <li>outlook.office365.com (4268)</li>
-<li>duckduckgo.com (3977)</li>
+<li>duckduckgo.com (3978)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
 <li>chatgpt.com (2928)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 02/10/26</H3>
+
+<br>
+
+<ul><li> 14:30 duckduckgo.com</li>
+<li> 14:03 localhost:8443</li>
+</ul>
 
 <br>
 
