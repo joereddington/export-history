@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5527)</li>
+<ol><li>www.reddit.com (5532)</li>
 <li>mail.google.com (5259)</li>
 <li>www.google.com (4959)</li>
 <li>outlook.office365.com (4268)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
 <li>chatgpt.com (2925)</li>
-<li>www.linkedin.com (2377)</li>
+<li>www.linkedin.com (2379)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1776)</li>
 <li>www.facebook.com (1676)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:42 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 08:18 www.reddit.com</li>
+<li class='same'> 08:17 www.reddit.com</li>
+<li class='same'> 08:16 www.reddit.com</li>
+<li class='same'> 08:15 www.reddit.com</li>
+<li> 08:14 hasc.washington.edu</li>
+<li> 08:13 www.shrm.org</li>
+<li> 08:06 www.reddit.com</li>
+<li> 08:02 www.linkedin.com</li>
+<li class='same'> 08:01 www.linkedin.com</li>
+<li> 07:42 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 07:41 webtimetables.royalholloway.ac.uk</li>
 <li> 07:40 www.reddit.com</li>
 <li class='same'> 07:38 www.reddit.com</li>
