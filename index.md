@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5546)</li>
-<li>mail.google.com (5258)</li>
+<ol><li>www.reddit.com (5552)</li>
+<li>mail.google.com (5257)</li>
 <li>www.google.com (4957)</li>
 <li>outlook.office365.com (4268)</li>
 <li>duckduckgo.com (3980)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1780)</li>
 <li>www.facebook.com (1676)</li>
-<li>calendar.google.com (1554)</li>
+<li>calendar.google.com (1553)</li>
 <li>login.microsoftonline.com (1466)</li>
 <li>chat.openai.com (1356)</li>
 <li>www.amazon.co.uk (1318)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:23 www.reddit.com</li>
+<ul><li> 17:40 localhost:8443</li>
+<li> 17:36 www.reddit.com</li>
+<li class='same'> 17:35 www.reddit.com</li>
+<li class='same'> 17:34 www.reddit.com</li>
+<li class='same'> 17:33 www.reddit.com</li>
+<li class='same'> 17:31 www.reddit.com</li>
+<li class='same'> 17:24 www.reddit.com</li>
+<li class='same'> 17:23 www.reddit.com</li>
 <li> 17:22 www.linkedin.com</li>
 <li> 17:22 moodle.royalholloway.ac.uk</li>
 <li> 17:22 eur03.safelinks.protection.outlook.com</li>
@@ -124015,7 +124022,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:34 rhul.hosted.panopto.com</li>
 <li> 16:34 mail.google.com</li>
 <li> 16:32 calendar.google.com</li>
-<li class='same'> 16:31 calendar.google.com</li>
-<li> 16:31 mail.google.com</li>
-<li> 16:30 www.google.co.uk</li>
 </ul>
