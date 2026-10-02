@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3977)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
-<li>chatgpt.com (2927)</li>
+<li>chatgpt.com (2928)</li>
 <li>www.linkedin.com (2381)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1776)</li>
 <li>www.facebook.com (1676)</li>
 <li>calendar.google.com (1554)</li>
-<li>login.microsoftonline.com (1459)</li>
-<li>chat.openai.com (1353)</li>
+<li>login.microsoftonline.com (1462)</li>
+<li>chat.openai.com (1354)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1108)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:50 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 11:25 chatgpt.com</li>
+<li> 11:25 chat.openai.com</li>
+<li> 11:17 localhost:8443</li>
+<li> 11:16 forms.cloud.microsoft</li>
+<li class='same'> 11:15 forms.cloud.microsoft</li>
+<li> 11:15 login.microsoftonline.com</li>
+<li> 11:15 forms.cloud.microsoft</li>
+<li> 11:15 device.login.microsoftonline.com</li>
+<li> 11:15 login.microsoftonline.com</li>
+<li class='same'> 11:14 login.microsoftonline.com</li>
+<li> 11:14 forms.cloud.microsoft</li>
+<li> 10:50 webtimetables.royalholloway.ac.uk</li>
 <li> 10:27 www.linkedin.com</li>
 <li class='same'> 10:26 www.linkedin.com</li>
 <li> 10:11 localhost:8443</li>
