@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5607)</li>
+<ol><li>www.reddit.com (5611)</li>
 <li>mail.google.com (5246)</li>
 <li>www.google.com (4968)</li>
 <li>outlook.office365.com (4262)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 03/10/26</H3>
+
+<br>
+
+<ul><li> 19:03 vimeo.com</li>
+<li class='same'> 19:02 vimeo.com</li>
+<li> 19:02 www.patreon.com</li>
+<li> 19:02 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 18:19 www.reddit.com</li>
+<li> 18:19 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+</ul>
 
 <br>
 
@@ -146,7 +160,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:39 www.google.co.uk</li>
+<ul><li> 14:47 www.reddit.com</li>
+<li class='same'> 14:46 www.reddit.com</li>
+<li class='same'> 14:44 www.reddit.com</li>
+<li> 14:39 www.google.co.uk</li>
 <li class='same'> 14:38 www.google.co.uk</li>
 <li> 14:38 calendar.google.com</li>
 <li> 14:37 mail.google.com</li>
@@ -183,7 +200,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:43 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<ul><li> 12:51 <a href="https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo">What we know about the Cornell University frat house rape investigation - BBC News</a></li>
+<li> 12:51 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 12:51 <a href="https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo">What we know about the Cornell University frat house rape investigation - BBC News</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:45 <a href="https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo">What we know about the Cornell University frat house rape investigation - BBC News</a></li>
+<li> 11:43 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
