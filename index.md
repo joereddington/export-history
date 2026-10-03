@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5607)</li>
-<li>mail.google.com (5258)</li>
-<li>www.google.com (4980)</li>
-<li>outlook.office365.com (4266)</li>
+<li>mail.google.com (5256)</li>
+<li>www.google.com (4971)</li>
+<li>outlook.office365.com (4265)</li>
 <li>duckduckgo.com (3980)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
-<li>chatgpt.com (2931)</li>
+<li>chatgpt.com (2933)</li>
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1780)</li>
-<li>www.facebook.com (1676)</li>
+<li>www.facebook.com (1675)</li>
 <li>calendar.google.com (1553)</li>
 <li>login.microsoftonline.com (1469)</li>
-<li>chat.openai.com (1357)</li>
+<li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1108)</li>
 <li>gmail.com (1108)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (844)</li>
+<li>feedly.com (845)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (747)</li>
 <li>rhul.sharepoint.com (616)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:18 localhost:8443</li>
+<ul><li> 15:53 localhost:8443</li>
+<li class='same'> 15:45 localhost:8443</li>
+<li> 15:42 chatgpt.com</li>
+<li class='same'> 15:41 chatgpt.com</li>
+<li> 15:41 chat.openai.com</li>
+<li> 15:33 www.giantitp.com</li>
+<li class='same'> 15:32 www.giantitp.com</li>
+<li> 15:30 feedly.com</li>
+<li> 15:18 localhost:8443</li>
 </ul>
 
 <br>
@@ -12508,7 +12516,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:24 www.google.co.uk</li>
 <li class='same'> 11:23 www.google.co.uk</li>
 <li class='same'> 11:22 www.google.co.uk</li>
-<li class='same'> 11:21 www.google.co.uk</li>
 <li class='same'> 11:20 www.google.co.uk</li>
 <li> 11:20 maps.google.co.uk</li>
 <li> 11:20 duckduckgo.com</li>
@@ -124159,101 +124166,4 @@ With number of accesses/minutes in parentheses
 <li> 16:46 mail.google.com</li>
 <li> 16:44 web.whatsapp.com</li>
 <li> 16:44 mail.google.com</li>
-<li class='same'> 16:43 mail.google.com</li>
-<li> 16:42 outlook.office365.com</li>
-<li> 16:42 mail.google.com</li>
-<li> 16:39 www.facebook.com</li>
-</ul>
-
-<H3>Friday, 01/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 17:32 www.google.com</li>
-</ul>
-
-<H3>Wednesday, 30/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 13:55 www.google.com</li>
-</ul>
-
-<H3>Tuesday, 29/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 21:51 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:05 www.google.com</li>
-</ul>
-
-<H3>Friday, 18/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 19:13 www.google.com</li>
-</ul>
-
-<H3>Tuesday, 15/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 14:39 www.google.com</li>
-</ul>
-
-<H3>Monday, 14/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 12:17 www.google.com</li>
-</ul>
-
-<H3>Thursday, 10/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 12:53 www.google.com</li>
-</ul>
-
-<H3>Monday, 07/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 14:25 www.google.com</li>
 </ul>
