@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5577)</li>
-<li>mail.google.com (5253)</li>
-<li>www.google.com (4963)</li>
+<ol><li>www.reddit.com (5607)</li>
+<li>mail.google.com (5258)</li>
+<li>www.google.com (4980)</li>
 <li>outlook.office365.com (4266)</li>
 <li>duckduckgo.com (3980)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
-<li>chatgpt.com (2930)</li>
-<li>www.linkedin.com (2386)</li>
+<li>chatgpt.com (2931)</li>
+<li>www.linkedin.com (2387)</li>
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1780)</li>
 <li>www.facebook.com (1676)</li>
-<li>calendar.google.com (1552)</li>
-<li>login.microsoftonline.com (1468)</li>
-<li>chat.openai.com (1356)</li>
+<li>calendar.google.com (1553)</li>
+<li>login.microsoftonline.com (1469)</li>
+<li>chat.openai.com (1357)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1108)</li>
-<li>gmail.com (1107)</li>
+<li>gmail.com (1108)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (844)</li>
@@ -104,14 +104,117 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 03/10/26</H3>
+
+<br>
+
+<ul><li> 15:18 localhost:8443</li>
+</ul>
+
+<br>
+
+<ul><li> 14:39 www.google.co.uk</li>
+<li class='same'> 14:38 www.google.co.uk</li>
+<li> 14:38 calendar.google.com</li>
+<li> 14:37 mail.google.com</li>
+<li> 14:37 www.google.com</li>
+<li> 14:33 www.reddit.com</li>
+<li> 14:29 login.microsoftonline.com</li>
+<li> 14:29 login.learningonscreen.ac.uk</li>
+<li> 14:29 learningonscreen.ac.uk</li>
+<li> 14:28 <a href="https://en.wikipedia.org/wiki/John_Horton_Conway">John Horton Conway - Wikipedia</a></li>
+<li> 14:28 mail.google.com</li>
+<li class='same'> 14:27 mail.google.com</li>
+<li> 14:27 www.linkedin.com</li>
+<li> 14:27 www.google.com</li>
+<li> 14:27 mail.google.com</li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Polyomino#Free,_one-sided,_and_fixed_polyominoes">Polyomino - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Free_polyomino">Polyomino - Wikipedia</a></li>
+<li> 14:23 <a href="https://en.wikipedia.org/wiki/Pentomino">Pentomino - Wikipedia</a></li>
+<li> 14:23 www.google.com</li>
+<li> 14:18 chatgpt.com</li>
+<li> 14:18 chat.openai.com</li>
+<li> 14:16 mail.google.com</li>
+<li> 14:16 gmail.com</li>
+<li> 14:15 www.reddit.com</li>
+<li class='same'> 14:11 www.reddit.com</li>
+<li class='same'> 14:07 www.reddit.com</li>
+<li> 14:05 <a href="https://www.theguardian.com/artanddesign/gallery/2026/oct/03/comedy-wildlife-photography-awards-2026-in-pictures">Comedy wildlife photography award finalists 2026 – in pictures | Photography | The Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
+<li> 14:03 <a href="https://en.wikipedia.org/wiki/Giant&#x27;s_Causeway">Giant&#x27;s Causeway - Wikipedia</a></li>
+<li> 13:59 <a href="https://en.wikipedia.org/wiki/Polygon">Polygon - Wikipedia</a></li>
+<li> 13:59 www.google.com</li>
+<li> 13:59 www.firefox.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:43 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+</ul>
+
+<br>
+
+<ul><li> 11:12 www.natesilver.net</li>
+<li class='same'> 11:11 www.natesilver.net</li>
+<li class='same'> 11:09 www.natesilver.net</li>
+<li class='same'> 11:08 www.natesilver.net</li>
+<li> 11:08 www.google.com</li>
+<li> 11:07 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:06 www.microsoftcasualgames.bing.com</li>
+<li> 10:52 www.crowdfunder.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 09:49 www.parkrun.org.uk</li>
+<li class='same'> 09:48 www.parkrun.org.uk</li>
+<li> 09:47 www.parkrun.com</li>
+<li class='same'> 09:46 www.parkrun.com</li>
+<li> 09:46 www.google.com</li>
+</ul>
+
 <H3>Friday, 02/10/26</H3>
 
 <br>
 
-<ul><li> 21:29 fast.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 22:13 www.reddit.com</li>
+<li class='same'> 22:11 www.reddit.com</li>
+<li class='same'> 22:10 www.reddit.com</li>
+<li class='same'> 22:08 www.reddit.com</li>
+<li class='same'> 22:07 www.reddit.com</li>
+<li class='same'> 22:06 www.reddit.com</li>
+<li class='same'> 22:05 www.reddit.com</li>
+<li class='same'> 22:04 www.reddit.com</li>
+<li class='same'> 22:03 www.reddit.com</li>
+<li class='same'> 22:02 www.reddit.com</li>
+<li class='same'> 22:01 www.reddit.com</li>
+<li class='same'> 21:59 www.reddit.com</li>
+<li class='same'> 21:56 www.reddit.com</li>
+<li class='same'> 21:55 www.reddit.com</li>
+<li class='same'> 21:54 www.reddit.com</li>
+<li class='same'> 21:51 www.reddit.com</li>
+<li class='same'> 21:48 www.reddit.com</li>
+<li class='same'> 21:43 www.reddit.com</li>
+<li class='same'> 21:41 www.reddit.com</li>
+<li> 21:29 fast.com</li>
 <li> 21:29 192.168.178.1</li>
 <li class='same'> 21:28 192.168.178.1</li>
-<li> 21:17 www.google.com</li>
+<li> 21:27 www.reddit.com</li>
+<li class='same'> 21:26 www.reddit.com</li>
+<li class='same'> 21:24 www.reddit.com</li>
+<li class='same'> 21:22 www.reddit.com</li>
+<li class='same'> 21:21 www.reddit.com</li>
+<li class='same'> 21:20 www.reddit.com</li>
+<li class='same'> 21:19 www.reddit.com</li>
+<li> 21:19 www.google.com</li>
+<li> 21:18 x.com</li>
+<li> 21:18 www.google.com</li>
+<li class='same'> 21:17 www.google.com</li>
 <li class='same'> 21:16 www.google.com</li>
 <li> 21:16 www.herts.police.uk</li>
 <li> 21:16 www.google.com</li>
@@ -124060,4 +124163,97 @@ With number of accesses/minutes in parentheses
 <li> 16:42 outlook.office365.com</li>
 <li> 16:42 mail.google.com</li>
 <li> 16:39 www.facebook.com</li>
+</ul>
+
+<H3>Friday, 01/11/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:32 www.google.com</li>
+</ul>
+
+<H3>Wednesday, 30/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 13:55 www.google.com</li>
+</ul>
+
+<H3>Tuesday, 29/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:51 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:05 www.google.com</li>
+</ul>
+
+<H3>Friday, 18/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:13 www.google.com</li>
+</ul>
+
+<H3>Tuesday, 15/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 14:39 www.google.com</li>
+</ul>
+
+<H3>Monday, 14/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:17 www.google.com</li>
+</ul>
+
+<H3>Thursday, 10/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:53 www.google.com</li>
+</ul>
+
+<H3>Monday, 07/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 14:25 www.google.com</li>
 </ul>
