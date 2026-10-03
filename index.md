@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5607)</li>
-<li>mail.google.com (5256)</li>
+<li>mail.google.com (5251)</li>
 <li>www.google.com (4971)</li>
 <li>outlook.office365.com (4265)</li>
 <li>duckduckgo.com (3980)</li>
@@ -85,12 +85,12 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1108)</li>
 <li>gmail.com (1108)</li>
+<li>web.whatsapp.com (1107)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (845)</li>
-<li>rhul-my.sharepoint.com (820)</li>
+<li>rhul-my.sharepoint.com (821)</li>
 <li>forms.office.com (747)</li>
 <li>rhul.sharepoint.com (616)</li>
 <li>fritz.box (590)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:53 localhost:8443</li>
+<ul><li> 16:26 rhul-my.sharepoint.com</li>
+<li> 16:25 webtimetables.royalholloway.ac.uk</li>
+<li> 16:22 localhost:8443</li>
+<li class='same'> 16:21 localhost:8443</li>
+<li class='same'> 16:13 localhost:8443</li>
+<li class='same'> 16:05 localhost:8443</li>
+<li> 16:00 www.linkedin.com</li>
+<li class='same'> 15:59 www.linkedin.com</li>
+<li> 15:53 localhost:8443</li>
 <li class='same'> 15:45 localhost:8443</li>
 <li> 15:42 chatgpt.com</li>
 <li class='same'> 15:41 chatgpt.com</li>
@@ -124157,13 +124165,4 @@ With number of accesses/minutes in parentheses
 <li> 16:53 mail.google.com</li>
 <li class='same'> 16:52 mail.google.com</li>
 <li class='same'> 16:51 mail.google.com</li>
-<li> 16:51 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
-<li> 16:51 mail.google.com</li>
-<li class='same'> 16:50 mail.google.com</li>
-<li class='same'> 16:47 mail.google.com</li>
-<li> 16:47 www.linkedin.com</li>
-<li class='same'> 16:46 www.linkedin.com</li>
-<li> 16:46 mail.google.com</li>
-<li> 16:44 web.whatsapp.com</li>
-<li> 16:44 mail.google.com</li>
 </ul>
