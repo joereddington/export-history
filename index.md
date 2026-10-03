@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5607)</li>
-<li>mail.google.com (5251)</li>
-<li>www.google.com (4971)</li>
-<li>outlook.office365.com (4265)</li>
+<li>mail.google.com (5246)</li>
+<li>www.google.com (4968)</li>
+<li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3980)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
@@ -80,8 +80,8 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2009)</li>
 <li>moodle.royalholloway.ac.uk (1780)</li>
 <li>www.facebook.com (1675)</li>
-<li>calendar.google.com (1553)</li>
-<li>login.microsoftonline.com (1469)</li>
+<li>calendar.google.com (1552)</li>
+<li>login.microsoftonline.com (1471)</li>
 <li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:26 rhul-my.sharepoint.com</li>
+<ul><li> 16:56 learningonscreen.ac.uk</li>
+<li class='same'> 16:55 learningonscreen.ac.uk</li>
+<li> 16:55 login.learningonscreen.ac.uk</li>
+<li> 16:55 learningonscreen.ac.uk</li>
+<li> 16:55 login.openathens.net</li>
+<li> 16:55 login.microsoftonline.com</li>
+<li> 16:55 device.login.microsoftonline.com</li>
+<li> 16:55 connect.openathens.net</li>
+<li> 16:55 login.openathens.net</li>
+<li> 16:55 login.microsoftonline.com</li>
+<li> 16:55 connect.openathens.net</li>
+<li> 16:55 login.learningonscreen.ac.uk</li>
+<li> 16:55 connect.openathens.net</li>
+<li> 16:55 login.learningonscreen.ac.uk</li>
+<li> 16:55 learningonscreen.ac.uk</li>
+<li> 16:26 www.royalholloway.ac.uk</li>
+<li> 16:26 rhul.ac.uk</li>
+<li> 16:26 rhul-my.sharepoint.com</li>
 <li> 16:25 webtimetables.royalholloway.ac.uk</li>
 <li> 16:22 localhost:8443</li>
 <li class='same'> 16:21 localhost:8443</li>
@@ -12518,11 +12535,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:25 www.google.co.uk</li>
-<li> 11:25 duckduckgo.com</li>
-<li> 11:25 www.google.co.uk</li>
-<li class='same'> 11:24 www.google.co.uk</li>
-<li class='same'> 11:23 www.google.co.uk</li>
+<ul><li> 11:25 duckduckgo.com</li>
+<li> 11:23 www.google.co.uk</li>
 <li class='same'> 11:22 www.google.co.uk</li>
 <li class='same'> 11:20 www.google.co.uk</li>
 <li> 11:20 maps.google.co.uk</li>
@@ -124130,39 +124144,4 @@ With number of accesses/minutes in parentheses
 <li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Co-op_activism5.svg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
 <li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(sitting)_in_2012.jpg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
 <li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Co-op_activism5.svg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(12957386475).jpg">Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(sitting)_in_2012.jpg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)">Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 www.google.com</li>
-<li> 18:36 <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol?wprov=srpw1_0">Hyper Text Coffee Pot Control Protocol - Wikipedia</a></li>
-<li> 18:36 <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">Hyper Text Coffee Pot Control Protocol - Wikipedia</a></li>
-<li> 18:36 <a href="https://en.wikipedia.org/w/index.php?search=error+418&amp;title=Special%3ASearch&amp;ns0=1&amp;searchToken=1bic247u5m5n8wunpwixvb4ni">error 418 - Search results - Wikipedia</a></li>
-<li> 18:36 <a href="https://en.wikipedia.org/w/index.php?search=error+418&amp;title=Special%3ASearch&amp;ns0=1">error 418 - Search results - Wikipedia</a></li>
-<li> 18:34 <a href="https://en.wikipedia.org/wiki/Box">Box - Wikipedia</a></li>
-<li> 18:34 <a href="https://en.wikipedia.org/wiki/box"></a></li>
-<li> 18:34 <a href="https://en.wikipedia.org/wiki/Jacob%27s_Ladder">Jacob&#x27;s Ladder - Wikipedia</a></li>
-<li> 18:33 www.google.com</li>
-<li> 18:14 outlook.office365.com</li>
-<li> 18:12 jobs.royalholloway.ac.uk</li>
-<li class='same'> 18:11 jobs.royalholloway.ac.uk</li>
-<li class='same'> 18:10 jobs.royalholloway.ac.uk</li>
-<li> 18:10 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:31 rhul.hosted.panopto.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:58 mail.google.com</li>
-<li> 16:58 outlook.office365.com</li>
-<li class='same'> 16:57 outlook.office365.com</li>
-<li> 16:57 calendar.google.com</li>
-<li> 16:57 mail.google.com</li>
-<li> 16:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 16:53 mail.google.com</li>
-<li class='same'> 16:52 mail.google.com</li>
-<li class='same'> 16:51 mail.google.com</li>
 </ul>
