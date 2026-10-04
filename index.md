@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5611)</li>
+<ol><li>www.reddit.com (5614)</li>
 <li>mail.google.com (5246)</li>
-<li>www.google.com (4968)</li>
+<li>www.google.com (4971)</li>
 <li>outlook.office365.com (4262)</li>
-<li>duckduckgo.com (3980)</li>
+<li>duckduckgo.com (3981)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
 <li>chatgpt.com (2933)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (1107)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (845)</li>
+<li>feedly.com (847)</li>
 <li>rhul-my.sharepoint.com (821)</li>
 <li>forms.office.com (747)</li>
 <li>rhul.sharepoint.com (616)</li>
@@ -108,15 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:03 vimeo.com</li>
-<li class='same'> 19:02 vimeo.com</li>
-<li> 19:02 www.patreon.com</li>
-<li> 19:02 192.168.178.1</li>
+<ul><li> 21:23 www.rottentomatoes.com</li>
+<li class='same'> 21:21 www.rottentomatoes.com</li>
+<li class='same'> 21:20 www.rottentomatoes.com</li>
+<li class='same'> 21:19 www.rottentomatoes.com</li>
+<li class='same'> 21:18 www.rottentomatoes.com</li>
+<li class='same'> 21:16 www.rottentomatoes.com</li>
+<li class='same'> 21:15 www.rottentomatoes.com</li>
+<li> 21:15 duckduckgo.com</li>
+<li> 21:14 feedly.com</li>
+<li class='same'> 21:13 feedly.com</li>
+<li> 21:13 192.168.178.1</li>
+<li class='same'> 21:12 192.168.178.1</li>
 </ul>
 
 <br>
 
-<ul><li> 18:19 www.reddit.com</li>
+<ul><li> 20:38 learningonscreen.ac.uk</li>
+<li class='same'> 20:37 learningonscreen.ac.uk</li>
+<li> 20:37 login.learningonscreen.ac.uk</li>
+<li> 20:37 connect.openathens.net</li>
+<li> 20:37 login.openathens.net</li>
+<li> 20:37 connect.openathens.net</li>
+<li> 20:37 login.learningonscreen.ac.uk</li>
+<li> 20:37 connect.openathens.net</li>
+<li> 20:37 login.learningonscreen.ac.uk</li>
+<li> 20:37 learningonscreen.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 19:32 www.reddit.com</li>
+<li class='same'> 19:31 www.reddit.com</li>
+<li class='same'> 19:30 www.reddit.com</li>
+<li> 19:30 www.google.com</li>
+<li> 19:03 vimeo.com</li>
+<li class='same'> 19:02 vimeo.com</li>
+<li> 19:02 www.patreon.com</li>
+<li> 19:02 192.168.178.1</li>
+<li> 18:37 www.google.com</li>
+<li class='same'> 18:36 www.google.com</li>
+<li> 18:19 www.reddit.com</li>
 <li> 18:19 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
