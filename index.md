@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5614)</li>
+<ol><li>www.reddit.com (5633)</li>
 <li>mail.google.com (5246)</li>
 <li>www.google.com (4971)</li>
 <li>outlook.office365.com (4262)</li>
@@ -104,7 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 04/10/26</H3>
+
+<br>
+
+<ul><li> 09:30 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:09 www.reddit.com</li>
+<li class='same'> 07:58 www.reddit.com</li>
+<li class='same'> 07:57 www.reddit.com</li>
+<li class='same'> 07:56 www.reddit.com</li>
+<li class='same'> 07:55 www.reddit.com</li>
+<li class='same'> 07:54 www.reddit.com</li>
+<li class='same'> 07:51 www.reddit.com</li>
+<li class='same'> 07:50 www.reddit.com</li>
+<li class='same'> 07:29 www.reddit.com</li>
+<li class='same'> 07:28 www.reddit.com</li>
+<li class='same'> 07:27 www.reddit.com</li>
+<li class='same'> 07:26 www.reddit.com</li>
+<li class='same'> 07:25 www.reddit.com</li>
+<li> 07:25 www.samsung.com</li>
+<li> 07:07 www.reddit.com</li>
+<li class='same'> 07:06 www.reddit.com</li>
+<li class='same'> 07:04 www.reddit.com</li>
+</ul>
+
 <H3>Saturday, 03/10/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -138,7 +170,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:32 www.reddit.com</li>
+<ul><li> 19:34 www.reddit.com</li>
+<li class='same'> 19:33 www.reddit.com</li>
+<li class='same'> 19:32 www.reddit.com</li>
 <li class='same'> 19:31 www.reddit.com</li>
 <li class='same'> 19:30 www.reddit.com</li>
 <li> 19:30 www.google.com</li>
