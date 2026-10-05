@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5665)</li>
-<li>mail.google.com (5246)</li>
-<li>www.google.com (4969)</li>
+<li>mail.google.com (5243)</li>
+<li>www.google.com (4967)</li>
 <li>outlook.office365.com (4262)</li>
-<li>duckduckgo.com (3982)</li>
-<li>outlook.office.com (3876)</li>
-<li>docs.google.com (3267)</li>
+<li>duckduckgo.com (3983)</li>
+<li>outlook.office.com (3875)</li>
+<li>docs.google.com (3266)</li>
 <li>chatgpt.com (2933)</li>
 <li>www.linkedin.com (2387)</li>
-<li>bsky.app (2009)</li>
+<li>bsky.app (2007)</li>
 <li>moodle.royalholloway.ac.uk (1783)</li>
-<li>www.facebook.com (1674)</li>
-<li>calendar.google.com (1552)</li>
+<li>www.facebook.com (1671)</li>
+<li>calendar.google.com (1551)</li>
 <li>login.microsoftonline.com (1472)</li>
 <li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1108)</li>
+<li>gmail.com (1107)</li>
 <li>web.whatsapp.com (1106)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:10 moodle.royalholloway.ac.uk</li>
+<ul><li> 08:34 www.imdb.com</li>
+<li class='same'> 08:33 www.imdb.com</li>
+<li> 08:33 duckduckgo.com</li>
+<li> 08:10 moodle.royalholloway.ac.uk</li>
 <li class='same'> 08:09 moodle.royalholloway.ac.uk</li>
 <li> 08:09 login.microsoftonline.com</li>
 <li> 08:09 device.login.microsoftonline.com</li>
@@ -124269,29 +124272,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 21:19 www.google.com</li>
-<li> 21:19 www.britishjudo.org.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 15:07 mail.google.com</li>
-<li> 15:05 www.facebook.com</li>
-<li class='same'> 15:01 www.facebook.com</li>
-<li> 15:01 claude.ai</li>
-<li> 15:00 www.facebook.com</li>
-<li> 15:00 www.instagram.com</li>
-<li> 14:55 www.google.com</li>
-<li> 14:53 <a href="https://joereddington.com/2024/02/26/emotional-vampires.html">Emotional Vampires! | Joe Reddington</a></li>
-<li> 14:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 14:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 14:50 docs.google.com</li>
-<li> 14:50 www.instagram.com</li>
-<li> 14:48 bsky.app</li>
-<li class='same'> 14:47 bsky.app</li>
-<li> 14:46 www.google.com</li>
-<li> 14:45 mail.google.com</li>
-<li> 14:45 outlook.office.com</li>
-<li> 14:42 mail.google.com</li>
-<li> 14:42 gmail.com</li>
-<li> 14:42 calendar.google.com</li>
 </ul>
