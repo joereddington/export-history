@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2385)</li>
 <li>bsky.app (2001)</li>
 <li>moodle.royalholloway.ac.uk (1784)</li>
-<li>www.facebook.com (1671)</li>
+<li>www.facebook.com (1668)</li>
 <li>calendar.google.com (1551)</li>
 <li>login.microsoftonline.com (1476)</li>
 <li>chat.openai.com (1357)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (847)</li>
 <li>rhul-my.sharepoint.com (821)</li>
-<li>forms.office.com (748)</li>
+<li>forms.office.com (749)</li>
 <li>rhul.sharepoint.com (616)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:42 www.reddit.com</li>
+<ul><li> 10:14 dashboards.rhul.ac.uk</li>
+<li> 10:11 localhost:8443</li>
+<li class='same'> 10:09 localhost:8443</li>
+<li> 10:08 forms.cloud.microsoft</li>
+<li> 10:08 forms.office.com</li>
+<li> 10:08 forms.cloud.microsoft</li>
+<li> 09:42 www.reddit.com</li>
 <li class='same'> 09:40 www.reddit.com</li>
 <li> 09:39 www.linkedin.com</li>
 <li> 09:38 forms.cloud.microsoft</li>
@@ -124251,7 +124257,4 @@ With number of accesses/minutes in parentheses
 <li> 17:35 www.facebook.com</li>
 <li class='same'> 17:34 www.facebook.com</li>
 <li class='same'> 17:32 www.facebook.com</li>
-<li class='same'> 17:31 www.facebook.com</li>
-<li class='same'> 17:30 www.facebook.com</li>
-<li class='same'> 17:24 www.facebook.com</li>
 </ul>
