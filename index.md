@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5674)</li>
-<li>mail.google.com (5247)</li>
-<li>www.google.com (4952)</li>
+<ol><li>www.reddit.com (5676)</li>
+<li>mail.google.com (5246)</li>
+<li>www.google.com (4951)</li>
 <li>outlook.office365.com (4262)</li>
-<li>duckduckgo.com (3984)</li>
+<li>duckduckgo.com (3986)</li>
 <li>outlook.office.com (3871)</li>
 <li>docs.google.com (3265)</li>
 <li>chatgpt.com (2933)</li>
-<li>www.linkedin.com (2388)</li>
+<li>www.linkedin.com (2391)</li>
 <li>bsky.app (1997)</li>
 <li>moodle.royalholloway.ac.uk (1790)</li>
 <li>www.facebook.com (1661)</li>
-<li>calendar.google.com (1551)</li>
+<li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1478)</li>
 <li>chat.openai.com (1359)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1109)</li>
+<li>gmail.com (1108)</li>
 <li>web.whatsapp.com (1105)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:27 www.linkedin.com</li>
+<ul><li> 16:59 www.reddit.com</li>
+<li class='same'> 16:56 www.reddit.com</li>
+<li> 16:56 www.linkedin.com</li>
+<li> 16:49 webtimetables.royalholloway.ac.uk</li>
+<li> 16:43 www.linkedin.com</li>
+<li> 16:41 calendar.google.com</li>
+<li> 16:35 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 16:34 webtimetables.royalholloway.ac.uk</li>
+<li> 16:34 moodle.royalholloway.ac.uk</li>
+<li> 16:34 duckduckgo.com</li>
+<li class='same'> 16:33 duckduckgo.com</li>
+<li> 16:32 www.linkedin.com</li>
+<li> 16:31 dashboards.rhul.ac.uk</li>
+<li> 16:30 localhost:8443</li>
+<li> 16:27 www.linkedin.com</li>
 <li> 16:27 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 16:19 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 16:18 webtimetables.royalholloway.ac.uk</li>
@@ -124265,12 +124279,4 @@ With number of accesses/minutes in parentheses
 <li> 11:05 www.linkedin.com</li>
 <li class='same'> 11:03 www.linkedin.com</li>
 <li> 11:01 rhul.hosted.panopto.com</li>
-<li> 11:00 www.google.com</li>
-<li> 10:59 rhul.hosted.panopto.com</li>
-<li class='same'> 10:58 rhul.hosted.panopto.com</li>
-<li> 10:58 moodle.royalholloway.ac.uk</li>
-<li> 10:58 rhul.hosted.panopto.com</li>
-<li> 10:56 mail.google.com</li>
-<li> 10:56 gmail.com</li>
-<li> 10:54 kk.org</li>
 </ul>
