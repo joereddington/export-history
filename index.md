@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5668)</li>
-<li>mail.google.com (5242)</li>
-<li>www.google.com (4957)</li>
+<li>mail.google.com (5245)</li>
+<li>www.google.com (4956)</li>
 <li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3984)</li>
 <li>outlook.office.com (3875)</li>
 <li>docs.google.com (3266)</li>
-<li>chatgpt.com (2934)</li>
-<li>www.linkedin.com (2385)</li>
+<li>chatgpt.com (2935)</li>
+<li>www.linkedin.com (2386)</li>
 <li>bsky.app (1999)</li>
 <li>moodle.royalholloway.ac.uk (1790)</li>
 <li>www.facebook.com (1665)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1476)</li>
-<li>chat.openai.com (1359)</li>
+<li>chat.openai.com (1360)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1107)</li>
+<li>gmail.com (1108)</li>
 <li>web.whatsapp.com (1106)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 chatgpt.com</li>
+<ul><li> 12:52 www.linkedin.com</li>
+<li> 12:46 links.mail2.spopessentials2.com</li>
+<li> 12:46 intranet.royalholloway.ac.uk</li>
+<li> 12:46 eur03.safelinks.protection.outlook.com</li>
+<li> 12:46 links.mail2.spopessentials2.com</li>
+<li> 12:46 mail.google.com</li>
+<li class='same'> 12:45 mail.google.com</li>
+<li class='same'> 12:44 mail.google.com</li>
+<li class='same'> 12:37 mail.google.com</li>
+<li> 12:37 gmail.com</li>
+<li> 12:34 chatgpt.com</li>
+<li> 12:33 chat.openai.com</li>
+<li> 12:29 chatgpt.com</li>
 <li> 12:29 chat.openai.com</li>
 <li> 12:18 www.imdb.com</li>
 <li class='same'> 12:17 www.imdb.com</li>
@@ -124251,20 +124263,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:38 outlook.office.com</li>
 <li class='same'> 09:37 outlook.office.com</li>
 <li> 09:25 calendar.google.com</li>
-<li> 09:19 0.0.0.0:8000</li>
-<li> 09:02 mail.google.com</li>
-</ul>
-
-<H3>Sunday, 10/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 18:48 www.google.com</li>
-<li> 18:43 lwtheatres.co.uk</li>
-<li> 18:43 ticketing.lwtheatres.co.uk</li>
-<li class='same'> 18:42 ticketing.lwtheatres.co.uk</li>
 </ul>
