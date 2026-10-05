@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (847)</li>
 <li>rhul-my.sharepoint.com (819)</li>
 <li>forms.office.com (749)</li>
-<li>rhul.sharepoint.com (616)</li>
+<li>rhul.sharepoint.com (617)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:27 www.reddit.com</li>
+<ul><li> 15:36 localhost:8443</li>
+<li class='same'> 15:35 localhost:8443</li>
+<li> 15:33 teams.microsoft.com</li>
+<li> 15:33 eur03.safelinks.protection.outlook.com</li>
+<li> 15:32 rhul.sharepoint.com</li>
+<li> 15:31 www.jobs.ac.uk</li>
+<li> 15:27 www.reddit.com</li>
 <li class='same'> 15:26 www.reddit.com</li>
 <li> 15:19 localhost:8443</li>
 <li class='same'> 15:17 localhost:8443</li>
