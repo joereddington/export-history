@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5664)</li>
-<li>mail.google.com (5243)</li>
-<li>www.google.com (4962)</li>
+<ol><li>www.reddit.com (5668)</li>
+<li>mail.google.com (5242)</li>
+<li>www.google.com (4960)</li>
 <li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3984)</li>
 <li>outlook.office.com (3875)</li>
 <li>docs.google.com (3266)</li>
-<li>chatgpt.com (2933)</li>
-<li>www.linkedin.com (2387)</li>
-<li>bsky.app (2007)</li>
-<li>moodle.royalholloway.ac.uk (1783)</li>
+<li>chatgpt.com (2932)</li>
+<li>www.linkedin.com (2385)</li>
+<li>bsky.app (2001)</li>
+<li>moodle.royalholloway.ac.uk (1784)</li>
 <li>www.facebook.com (1671)</li>
 <li>calendar.google.com (1551)</li>
-<li>login.microsoftonline.com (1472)</li>
-<li>chat.openai.com (1358)</li>
+<li>login.microsoftonline.com (1476)</li>
+<li>chat.openai.com (1357)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1107)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (847)</li>
 <li>rhul-my.sharepoint.com (821)</li>
-<li>forms.office.com (747)</li>
+<li>forms.office.com (748)</li>
 <li>rhul.sharepoint.com (616)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:19 www.mi5.gov.uk</li>
+<ul><li> 09:42 www.reddit.com</li>
+<li class='same'> 09:40 www.reddit.com</li>
+<li> 09:39 www.linkedin.com</li>
+<li> 09:38 forms.cloud.microsoft</li>
+<li> 09:38 login.microsoftonline.com</li>
+<li> 09:38 device.login.microsoftonline.com</li>
+<li> 09:38 login.microsoftonline.com</li>
+<li> 09:38 forms.cloud.microsoft</li>
+<li> 09:38 www.reddit.com</li>
+<li> 09:38 forms.cloud.microsoft</li>
+<li class='same'> 09:37 forms.cloud.microsoft</li>
+<li class='same'> 09:35 forms.cloud.microsoft</li>
+<li class='same'> 09:34 forms.cloud.microsoft</li>
+<li class='same'> 09:33 forms.cloud.microsoft</li>
+<li> 09:33 login.microsoftonline.com</li>
+<li> 09:33 device.login.microsoftonline.com</li>
+<li> 09:33 login.microsoftonline.com</li>
+<li> 09:33 forms.cloud.microsoft</li>
+<li> 09:33 forms.office.com</li>
+<li> 09:33 forms.cloud.microsoft</li>
+<li> 09:33 forms.rhul.ac.uk</li>
+<li> 09:26 moodle.royalholloway.ac.uk</li>
+<li> 09:19 www.mi5.gov.uk</li>
 <li> 09:19 eur03.safelinks.protection.outlook.com</li>
 <li> 09:02 pure.royalholloway.ac.uk</li>
 <li> 09:02 duckduckgo.com</li>
@@ -128,11 +150,12 @@ With number of accesses/minutes in parentheses
 <li> 07:49 duckduckgo.com</li>
 <li> 07:35 dashboards.rhul.ac.uk</li>
 <li> 07:32 localhost:8443</li>
+<li> 07:16 www.reddit.com</li>
 </ul>
 
 <br>
 
-<ul><li> 05:39 www.reddit.com</li>
+<ul><li class='same'> 05:39 www.reddit.com</li>
 <li class='same'> 05:37 www.reddit.com</li>
 <li> 05:37 x.com</li>
 <li> 05:37 www.google.com</li>
@@ -124231,23 +124254,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:31 www.facebook.com</li>
 <li class='same'> 17:30 www.facebook.com</li>
 <li class='same'> 17:24 www.facebook.com</li>
-<li> 17:22 bsky.app</li>
-<li> 17:22 www.linkedin.com</li>
-<li> 17:12 chatgpt.com</li>
-<li> 17:12 chat.openai.com</li>
-<li> 17:12 www.linkedin.com</li>
-<li class='same'> 17:11 www.linkedin.com</li>
-<li> 17:10 www.google.com</li>
-<li> 17:10 bsky.app</li>
-<li class='same'> 17:09 bsky.app</li>
-<li class='same'> 17:07 bsky.app</li>
-<li> 17:04 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li> 17:03 bsky.app</li>
-<li class='same'> 17:00 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 13:43 mail.google.com</li>
-<li> 13:38 www.google.com</li>
 </ul>
