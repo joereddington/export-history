@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5668)</li>
 <li>mail.google.com (5242)</li>
-<li>www.google.com (4960)</li>
+<li>www.google.com (4959)</li>
 <li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3984)</li>
 <li>outlook.office.com (3875)</li>
 <li>docs.google.com (3266)</li>
 <li>chatgpt.com (2932)</li>
 <li>www.linkedin.com (2385)</li>
-<li>bsky.app (2001)</li>
+<li>bsky.app (1999)</li>
 <li>moodle.royalholloway.ac.uk (1784)</li>
-<li>www.facebook.com (1668)</li>
-<li>calendar.google.com (1551)</li>
+<li>www.facebook.com (1665)</li>
+<li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1476)</li>
 <li>chat.openai.com (1357)</li>
 <li>www.amazon.co.uk (1318)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (847)</li>
 <li>rhul-my.sharepoint.com (821)</li>
 <li>forms.office.com (749)</li>
-<li>rhul.sharepoint.com (616)</li>
+<li>rhul.sharepoint.com (617)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:36 dashboards.rhul.ac.uk</li>
+<ul><li> 11:25 rhul.sharepoint.com</li>
+<li> 11:16 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 11:15 webtimetables.royalholloway.ac.uk</li>
+<li> 11:13 www.royalholloway.ac.uk</li>
+<li> 11:13 calendar.google.com</li>
+<li> 11:03 localhost:8443</li>
+<li> 10:36 dashboards.rhul.ac.uk</li>
 <li class='same'> 10:31 dashboards.rhul.ac.uk</li>
 <li class='same'> 10:14 dashboards.rhul.ac.uk</li>
 <li> 10:11 localhost:8443</li>
@@ -124248,15 +124254,4 @@ With number of accesses/minutes in parentheses
 <li> 18:42 lwtheatres.co.uk</li>
 <li> 18:42 www.google.com</li>
 <li class='same'> 18:29 www.google.com</li>
-<li> 18:28 www.quora.com</li>
-<li> 18:27 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:39 bsky.app</li>
-<li class='same'> 17:35 bsky.app</li>
-<li> 17:35 www.facebook.com</li>
-<li class='same'> 17:34 www.facebook.com</li>
-<li class='same'> 17:32 www.facebook.com</li>
 </ul>
