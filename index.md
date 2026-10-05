@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5668)</li>
 <li>mail.google.com (5242)</li>
-<li>www.google.com (4959)</li>
+<li>www.google.com (4957)</li>
 <li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3984)</li>
 <li>outlook.office.com (3875)</li>
 <li>docs.google.com (3266)</li>
-<li>chatgpt.com (2932)</li>
+<li>chatgpt.com (2934)</li>
 <li>www.linkedin.com (2385)</li>
 <li>bsky.app (1999)</li>
 <li>moodle.royalholloway.ac.uk (1790)</li>
 <li>www.facebook.com (1665)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1476)</li>
-<li>chat.openai.com (1357)</li>
+<li>chat.openai.com (1359)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1107)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 05/10/26</H3>
+
+<br>
+
+<ul><li> 12:29 chatgpt.com</li>
+<li> 12:29 chat.openai.com</li>
+<li> 12:18 www.imdb.com</li>
+<li class='same'> 12:17 www.imdb.com</li>
+<li> 12:13 chatgpt.com</li>
+<li> 12:13 chat.openai.com</li>
+</ul>
 
 <br>
 
@@ -124257,7 +124267,4 @@ With number of accesses/minutes in parentheses
 <li> 18:43 lwtheatres.co.uk</li>
 <li> 18:43 ticketing.lwtheatres.co.uk</li>
 <li class='same'> 18:42 ticketing.lwtheatres.co.uk</li>
-<li> 18:42 lwtheatres.co.uk</li>
-<li> 18:42 www.google.com</li>
-<li class='same'> 18:29 www.google.com</li>
 </ul>
