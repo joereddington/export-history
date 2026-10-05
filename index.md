@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5665)</li>
 <li>mail.google.com (5246)</li>
-<li>www.google.com (4975)</li>
+<li>www.google.com (4969)</li>
 <li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3982)</li>
 <li>outlook.office.com (3876)</li>
@@ -78,15 +78,15 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2933)</li>
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (2009)</li>
-<li>moodle.royalholloway.ac.uk (1780)</li>
-<li>www.facebook.com (1675)</li>
+<li>moodle.royalholloway.ac.uk (1783)</li>
+<li>www.facebook.com (1674)</li>
 <li>calendar.google.com (1552)</li>
-<li>login.microsoftonline.com (1471)</li>
+<li>login.microsoftonline.com (1472)</li>
 <li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1108)</li>
-<li>web.whatsapp.com (1107)</li>
+<li>web.whatsapp.com (1106)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (847)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
 <li>www.theguardian.com (471)</li>
-<li>drive.google.com (462)</li>
+<li>drive.google.com (463)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:49 rl.talis.com</li>
+<ul><li> 08:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 08:09 moodle.royalholloway.ac.uk</li>
+<li> 08:09 login.microsoftonline.com</li>
+<li> 08:09 device.login.microsoftonline.com</li>
+<li> 08:09 moodle.royalholloway.ac.uk</li>
+<li> 08:09 fyp.cs.rhul.ac.uk</li>
+<li> 08:00 drive.google.com</li>
+<li> 07:49 rl.talis.com</li>
 <li> 07:49 rhul.rl.talis.com</li>
 <li> 07:49 duckduckgo.com</li>
 <li> 07:35 dashboards.rhul.ac.uk</li>
@@ -12537,10 +12544,8 @@ With number of accesses/minutes in parentheses
 <li> 12:32 <a href="https://en.wikipedia.org/wiki/CIA_triad">CIA triad - Wikipedia</a></li>
 <li> 12:30 www.researchgate.net</li>
 <li> 12:30 duckduckgo.com</li>
-<li> 12:28 grothoff.org</li>
 <li> 12:27 dl.acm.org</li>
 <li> 12:27 duckduckgo.com</li>
-<li> 12:26 www.proso.com</li>
 <li> 12:25 <a href="https://en.wikipedia.org/wiki/Parkerian_Hexad">Parkerian Hexad - Wikipedia</a></li>
 <li> 12:24 www.nist.gov</li>
 <li> 12:24 csrc.nist.gov</li>
@@ -12552,8 +12557,7 @@ With number of accesses/minutes in parentheses
 <li> 12:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:14 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 11:46 docs.google.com</li>
-<li> 11:45 www.google.co.uk</li>
-<li class='same'> 11:44 www.google.co.uk</li>
+<li> 11:44 www.google.co.uk</li>
 <li class='same'> 11:43 www.google.co.uk</li>
 <li> 11:42 www.onthemarket.com</li>
 <li> 11:40 docs.google.com</li>
@@ -124290,32 +124294,4 @@ With number of accesses/minutes in parentheses
 <li> 14:42 mail.google.com</li>
 <li> 14:42 gmail.com</li>
 <li> 14:42 calendar.google.com</li>
-<li> 14:37 www.google.com</li>
-<li> 14:28 web.whatsapp.com</li>
-<li> 14:28 www.facebook.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:11 www.britishjudo.org.uk</li>
-<li> 11:11 www.google.com</li>
-<li> 11:11 www.britishjudo.org.uk</li>
-<li> 11:11 www.google.com</li>
-<li> 11:10 www.britishjudo.org.uk</li>
-<li class='same'> 11:09 www.britishjudo.org.uk</li>
-<li> 11:09 www.google.com</li>
-<li> 11:09 www.britishjudo.org.uk</li>
-<li> 11:09 www.google.com</li>
-</ul>
-
-<H3>Friday, 08/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 20:07 www.google.com</li>
-<li> 20:07 m.youtube.com</li>
 </ul>
