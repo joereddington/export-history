@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5665)</li>
+<ol><li>www.reddit.com (5664)</li>
 <li>mail.google.com (5243)</li>
-<li>www.google.com (4967)</li>
+<li>www.google.com (4962)</li>
 <li>outlook.office365.com (4262)</li>
-<li>duckduckgo.com (3983)</li>
+<li>duckduckgo.com (3984)</li>
 <li>outlook.office.com (3875)</li>
 <li>docs.google.com (3266)</li>
 <li>chatgpt.com (2933)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
-<li>www.theguardian.com (471)</li>
+<li>www.theguardian.com (470)</li>
 <li>drive.google.com (463)</li>
 
 
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:34 www.imdb.com</li>
+<ul><li> 09:19 www.mi5.gov.uk</li>
+<li> 09:19 eur03.safelinks.protection.outlook.com</li>
+<li> 09:02 pure.royalholloway.ac.uk</li>
+<li> 09:02 duckduckgo.com</li>
+<li> 09:00 dashboards.rhul.ac.uk</li>
+<li> 08:34 www.imdb.com</li>
 <li class='same'> 08:33 www.imdb.com</li>
 <li> 08:33 duckduckgo.com</li>
 <li> 08:10 moodle.royalholloway.ac.uk</li>
@@ -124245,31 +124250,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:43 mail.google.com</li>
 <li> 13:38 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 08:40 www.google.com</li>
-<li> 08:27 www.autodraw.com</li>
-<li> 08:27 www.google.com</li>
-<li> 08:27 www.autodraw.com</li>
-<li> 08:27 www.google.com</li>
-<li> 08:27 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:24 www.reddit.com</li>
-<li> 07:24 www.google.com</li>
-</ul>
-
-<H3>Saturday, 09/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 21:19 www.google.com</li>
 </ul>
