@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5666)</li>
+<ol><li>www.reddit.com (5665)</li>
 <li>mail.google.com (5246)</li>
-<li>www.google.com (4978)</li>
+<li>www.google.com (4975)</li>
 <li>outlook.office365.com (4262)</li>
-<li>duckduckgo.com (3981)</li>
+<li>duckduckgo.com (3982)</li>
 <li>outlook.office.com (3876)</li>
 <li>docs.google.com (3267)</li>
 <li>chatgpt.com (2933)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 05/10/26</H3>
+
+<br>
+
+<ul><li> 07:49 rl.talis.com</li>
+<li> 07:49 rhul.rl.talis.com</li>
+<li> 07:49 duckduckgo.com</li>
+<li> 07:35 dashboards.rhul.ac.uk</li>
+<li> 07:32 localhost:8443</li>
+</ul>
 
 <br>
 
@@ -12638,7 +12647,6 @@ With number of accesses/minutes in parentheses
 <li> 10:24 <a href="https://en.wikipedia.org/"></a></li>
 <li> 10:23 www.airbnb.co.uk</li>
 <li class='same'> 10:17 www.airbnb.co.uk</li>
-<li class='same'> 10:16 www.airbnb.co.uk</li>
 <li class='same'> 10:15 www.airbnb.co.uk</li>
 <li class='same'> 10:14 www.airbnb.co.uk</li>
 <li class='same'> 10:13 www.airbnb.co.uk</li>
@@ -124310,72 +124318,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 20:07 www.google.com</li>
 <li> 20:07 m.youtube.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:50 www.reddit.com</li>
-<li> 18:50 www.google.com</li>
-<li class='same'> 18:46 www.google.com</li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(12957386475).jpg">Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(sitting)_in_2012.jpg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(12957386475).jpg">Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Co-op_activism5.svg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(sitting)_in_2012.jpg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
-<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Co-op_activism5.svg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
-</ul>
-
-<H3>Sunday, 27/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 11:03 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Sunday, 28/07/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 08:12 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Sunday, 30/06/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 17:03 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Thursday, 21/03/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 17:51 www.google.com</li>
-</ul>
-
-<H3>Monday, 25/12/23</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 17:50 www.parkrun.org.uk</li>
 </ul>
