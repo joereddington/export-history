@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5633)</li>
+<ol><li>www.reddit.com (5666)</li>
 <li>mail.google.com (5246)</li>
-<li>www.google.com (4972)</li>
+<li>www.google.com (4978)</li>
 <li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3981)</li>
 <li>outlook.office.com (3876)</li>
@@ -104,11 +104,85 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 05/10/26</H3>
+
+<br>
+
+<ul><li> 05:39 www.reddit.com</li>
+<li class='same'> 05:37 www.reddit.com</li>
+<li> 05:37 x.com</li>
+<li> 05:37 www.google.com</li>
+<li class='same'> 05:36 www.google.com</li>
+<li> 05:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
 <H3>Sunday, 04/10/26</H3>
 
 <br>
 
-<ul><li class='same'> 11:14 www.parkrun.org.uk</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:14 www.reddit.com</li>
+<li class='same'> 20:13 www.reddit.com</li>
+<li class='same'> 20:12 www.reddit.com</li>
+<li class='same'> 20:11 www.reddit.com</li>
+<li> 20:02 <a href="https://www.bbc.co.uk/news/articles/cw804032gvjno">Buckinghamshire New University&#x27;s student sponsor licence suspended - BBC News</a></li>
+<li> 20:01 www.reddit.com</li>
+<li class='same'> 20:00 www.reddit.com</li>
+<li class='same'> 19:59 www.reddit.com</li>
+<li class='same'> 19:57 www.reddit.com</li>
+<li class='same'> 19:56 www.reddit.com</li>
+<li class='same'> 19:55 www.reddit.com</li>
+<li class='same'> 19:54 www.reddit.com</li>
+<li class='same'> 19:53 www.reddit.com</li>
+<li class='same'> 19:52 www.reddit.com</li>
+<li class='same'> 19:51 www.reddit.com</li>
+<li class='same'> 19:50 www.reddit.com</li>
+<li class='same'> 19:49 www.reddit.com</li>
+<li class='same'> 19:48 www.reddit.com</li>
+<li class='same'> 19:47 www.reddit.com</li>
+<li class='same'> 19:45 www.reddit.com</li>
+<li> 19:33 www.businessinsider.com</li>
+<li> 19:33 www.reddit.com</li>
+<li class='same'> 19:32 www.reddit.com</li>
+<li class='same'> 19:31 www.reddit.com</li>
+<li class='same'> 19:30 www.reddit.com</li>
+<li class='same'> 19:29 www.reddit.com</li>
+<li class='same'> 19:28 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:35 www.reddit.com</li>
+<li class='same'> 18:34 www.reddit.com</li>
+<li class='same'> 18:33 www.reddit.com</li>
+<li> 18:33 <a href="https://www.bbc.co.uk/news/articles/cw804032gvjno">Buckinghamshire New University&#x27;s student sponsor licence suspended - BBC News</a></li>
+<li> 18:33 www.google.com</li>
+<li> 18:30 thepienews.com</li>
+<li> 18:30 www.google.com</li>
+<li> 18:29 <a href="https://en.wikipedia.org/wiki/Buckinghamshire_New_University">Buckinghamshire New University - Wikipedia</a></li>
+<li> 18:29 www.google.com</li>
+<li> 18:28 <a href="https://www.bbc.co.uk/news/articles/cw804032gvjno">Buckinghamshire New University&#x27;s student sponsor licence suspended - BBC News</a></li>
+<li> 18:28 www.reddit.com</li>
+<li class='same'> 18:27 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:37 www.reddit.com</li>
+<li> 17:36 www.ft.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:23 gregwilliams.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:14 www.parkrun.org.uk</li>
 </ul>
 
 <br>
@@ -124284,6 +124358,17 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 17:03 www.parkrun.org.uk</li>
 </ul>
 
+<H3>Thursday, 21/03/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:51 www.google.com</li>
+</ul>
+
 <H3>Monday, 25/12/23</H3>
 
 <br>
@@ -124292,5 +124377,5 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 17:50 www.parkrun.org.uk</li>
+<ul><li> 17:50 www.parkrun.org.uk</li>
 </ul>
