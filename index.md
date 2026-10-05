@@ -70,29 +70,29 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5670)</li>
 <li>mail.google.com (5245)</li>
-<li>www.google.com (4956)</li>
+<li>www.google.com (4952)</li>
 <li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3984)</li>
-<li>outlook.office.com (3875)</li>
-<li>docs.google.com (3266)</li>
-<li>chatgpt.com (2935)</li>
+<li>outlook.office.com (3871)</li>
+<li>docs.google.com (3265)</li>
+<li>chatgpt.com (2933)</li>
 <li>www.linkedin.com (2386)</li>
-<li>bsky.app (1999)</li>
+<li>bsky.app (1997)</li>
 <li>moodle.royalholloway.ac.uk (1790)</li>
-<li>www.facebook.com (1665)</li>
+<li>www.facebook.com (1661)</li>
 <li>calendar.google.com (1551)</li>
-<li>login.microsoftonline.com (1476)</li>
-<li>chat.openai.com (1360)</li>
-<li>www.amazon.co.uk (1318)</li>
+<li>login.microsoftonline.com (1478)</li>
+<li>chat.openai.com (1359)</li>
+<li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1108)</li>
-<li>web.whatsapp.com (1106)</li>
+<li>web.whatsapp.com (1105)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (847)</li>
-<li>rhul-my.sharepoint.com (821)</li>
+<li>rhul-my.sharepoint.com (819)</li>
 <li>forms.office.com (749)</li>
-<li>rhul.sharepoint.com (617)</li>
+<li>rhul.sharepoint.com (616)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:01 www.reddit.com</li>
+<ul><li> 13:09 forms.cloud.microsoft</li>
+<li> 13:09 login.microsoftonline.com</li>
+<li> 13:09 forms.cloud.microsoft</li>
+<li> 13:09 device.login.microsoftonline.com</li>
+<li> 13:01 www.reddit.com</li>
 <li class='same'> 12:57 www.reddit.com</li>
 <li> 12:52 www.linkedin.com</li>
 <li> 12:46 links.mail2.spopessentials2.com</li>
@@ -155,6 +159,12 @@ With number of accesses/minutes in parentheses
 <li> 09:42 www.reddit.com</li>
 <li class='same'> 09:40 www.reddit.com</li>
 <li> 09:39 www.linkedin.com</li>
+<li> 09:39 login.microsoftonline.com</li>
+<li> 09:39 forms.cloud.microsoft</li>
+<li> 09:39 device.login.microsoftonline.com</li>
+<li> 09:39 forms.cloud.microsoft</li>
+<li class='same'> 09:38 forms.cloud.microsoft</li>
+<li> 09:38 www.microsoft.com</li>
 <li> 09:38 forms.cloud.microsoft</li>
 <li> 09:38 login.microsoftonline.com</li>
 <li> 09:38 device.login.microsoftonline.com</li>
@@ -124233,35 +124243,4 @@ With number of accesses/minutes in parentheses
 <li> 10:56 mail.google.com</li>
 <li> 10:56 gmail.com</li>
 <li> 10:54 kk.org</li>
-<li> 10:52 www.google.com</li>
-<li> 10:46 www.eff.org</li>
-<li> 10:46 rhul-my.sharepoint.com</li>
-<li> 10:45 rhul.sharepoint.com</li>
-<li> 10:44 teams.microsoft.com</li>
-<li> 10:43 www.google.com</li>
-<li class='same'> 10:41 www.google.com</li>
-<li> 10:39 rhul-my.sharepoint.com</li>
-<li> 10:32 0.0.0.0:8080</li>
-<li> 10:29 www.facebook.com</li>
-<li class='same'> 10:28 www.facebook.com</li>
-<li class='same'> 10:27 www.facebook.com</li>
-<li class='same'> 10:26 www.facebook.com</li>
-<li> 10:23 pay.ebay.co.uk</li>
-<li> 10:22 www.ebay.co.uk</li>
-<li class='same'> 10:21 www.ebay.co.uk</li>
-<li> 10:16 0.0.0.0:8080</li>
-<li> 10:15 chatgpt.com</li>
-<li class='same'> 10:14 chatgpt.com</li>
-<li> 10:14 chat.openai.com</li>
-<li> 10:06 web.whatsapp.com</li>
-<li> 10:05 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 09:48 bsky.app</li>
-<li class='same'> 09:46 bsky.app</li>
-<li> 09:41 docs.google.com</li>
-<li> 09:41 www.amazon.co.uk</li>
-<li> 09:41 www.google.com</li>
-<li> 09:40 outlook.office.com</li>
-<li class='same'> 09:39 outlook.office.com</li>
-<li class='same'> 09:38 outlook.office.com</li>
-<li class='same'> 09:37 outlook.office.com</li>
 </ul>
