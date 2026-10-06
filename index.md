@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5701)</li>
-<li>mail.google.com (5245)</li>
-<li>www.google.com (4945)</li>
-<li>outlook.office365.com (4261)</li>
+<ol><li>www.reddit.com (5703)</li>
+<li>mail.google.com (5246)</li>
+<li>www.google.com (4943)</li>
+<li>outlook.office365.com (4258)</li>
 <li>duckduckgo.com (3987)</li>
 <li>outlook.office.com (3871)</li>
 <li>docs.google.com (3265)</li>
 <li>chatgpt.com (2932)</li>
-<li>www.linkedin.com (2384)</li>
-<li>bsky.app (1994)</li>
-<li>moodle.royalholloway.ac.uk (1788)</li>
+<li>www.linkedin.com (2383)</li>
+<li>bsky.app (1993)</li>
+<li>moodle.royalholloway.ac.uk (1792)</li>
 <li>www.facebook.com (1662)</li>
 <li>calendar.google.com (1554)</li>
-<li>login.microsoftonline.com (1478)</li>
+<li>login.microsoftonline.com (1479)</li>
 <li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1107)</li>
 <li>web.whatsapp.com (1105)</li>
-<li>mail.rhul.ac.uk (939)</li>
+<li>mail.rhul.ac.uk (938)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (848)</li>
 <li>rhul-my.sharepoint.com (817)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 06/10/26</H3>
+
+<br>
+
+<ul><li> 15:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:03 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:02 moodle.royalholloway.ac.uk</li>
+<li> 15:02 login.microsoftonline.com</li>
+<li> 15:02 device.login.microsoftonline.com</li>
+<li> 15:02 moodle.royalholloway.ac.uk</li>
+<li> 14:41 www.reddit.com</li>
+<li class='same'> 14:40 www.reddit.com</li>
+<li> 14:36 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:34 mail.google.com</li>
+<li> 14:15 www.google.com</li>
+</ul>
 
 <br>
 
@@ -124291,15 +124306,4 @@ With number of accesses/minutes in parentheses
 <li> 12:48 mail.rhul.ac.uk</li>
 <li> 12:48 bsky.app</li>
 <li class='same'> 12:47 bsky.app</li>
-<li> 12:47 www.linkedin.com</li>
-<li> 12:42 outlook.office365.com</li>
-<li> 12:41 thehackernews.com</li>
-<li> 12:41 www.google.com</li>
-<li> 12:41 <a href="https://en.wikipedia.org/wiki/Robinhood_Markets">Robinhood Markets - Wikipedia</a></li>
-<li> 12:41 www.google.com</li>
-<li> 12:41 outlook.office365.com</li>
-<li class='same'> 12:40 outlook.office365.com</li>
-<li> 12:40 mail.rhul.ac.uk</li>
-<li> 12:40 www.google.com</li>
-<li> 12:40 bsky.app</li>
 </ul>
