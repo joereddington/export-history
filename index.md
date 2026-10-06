@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5692)</li>
+<ol><li>www.reddit.com (5701)</li>
 <li>mail.google.com (5245)</li>
-<li>www.google.com (4945)</li>
-<li>outlook.office365.com (4262)</li>
+<li>www.google.com (4946)</li>
+<li>outlook.office365.com (4261)</li>
 <li>duckduckgo.com (3987)</li>
 <li>outlook.office.com (3871)</li>
 <li>docs.google.com (3265)</li>
-<li>chatgpt.com (2933)</li>
-<li>www.linkedin.com (2387)</li>
-<li>bsky.app (1997)</li>
+<li>chatgpt.com (2932)</li>
+<li>www.linkedin.com (2385)</li>
+<li>bsky.app (1995)</li>
 <li>moodle.royalholloway.ac.uk (1788)</li>
 <li>www.facebook.com (1662)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1478)</li>
-<li>chat.openai.com (1359)</li>
+<li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1107)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (939)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (848)</li>
-<li>rhul-my.sharepoint.com (818)</li>
+<li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (749)</li>
-<li>rhul.sharepoint.com (619)</li>
+<li>rhul.sharepoint.com (621)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 06/10/26</H3>
+
+<br>
+
+<ul><li> 12:19 swedencentral1-mediap.svc.ms</li>
+<li> 12:19 rhul.sharepoint.com</li>
+<li class='same'> 12:17 rhul.sharepoint.com</li>
+<li> 11:57 www.google.com</li>
+<li> 11:51 www.reddit.com</li>
+<li> 11:51 intranet.royalholloway.ac.uk</li>
+<li> 11:35 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 11:34 webtimetables.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -127,7 +139,15 @@ With number of accesses/minutes in parentheses
 <li> 20:42 fritz.box</li>
 <li> 20:42 firefox-portal-detection.com</li>
 <li> 20:42 192.168.178.1</li>
-<li> 20:16 www.reddit.com</li>
+<li> 20:26 www.reddit.com</li>
+<li class='same'> 20:25 www.reddit.com</li>
+<li class='same'> 20:24 www.reddit.com</li>
+<li class='same'> 20:22 www.reddit.com</li>
+<li class='same'> 20:20 www.reddit.com</li>
+<li class='same'> 20:19 www.reddit.com</li>
+<li class='same'> 20:18 www.reddit.com</li>
+<li class='same'> 20:17 www.reddit.com</li>
+<li class='same'> 20:16 www.reddit.com</li>
 <li class='same'> 20:15 www.reddit.com</li>
 <li class='same'> 20:14 www.reddit.com</li>
 <li class='same'> 20:13 www.reddit.com</li>
@@ -124285,12 +124305,4 @@ With number of accesses/minutes in parentheses
 <li> 12:34 www.google.com</li>
 <li> 12:34 www.linkedin.com</li>
 <li> 12:33 bsky.app</li>
-<li> 12:32 www.linkedin.com</li>
-<li> 12:32 bsky.app</li>
-<li class='same'> 12:31 bsky.app</li>
-<li> 12:29 chatgpt.com</li>
-<li> 12:29 chat.openai.com</li>
-<li> 12:23 www.linkedin.com</li>
-<li> 12:22 rhul-my.sharepoint.com</li>
-<li> 12:22 outlook.office365.com</li>
 </ul>
