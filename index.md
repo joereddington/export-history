@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3988)</li>
 <li>outlook.office.com (3866)</li>
 <li>docs.google.com (3262)</li>
-<li>chatgpt.com (2930)</li>
+<li>chatgpt.com (2931)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1951)</li>
 <li>moodle.royalholloway.ac.uk (1793)</li>
-<li>www.facebook.com (1651)</li>
+<li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1546)</li>
 <li>login.microsoftonline.com (1479)</li>
-<li>chat.openai.com (1357)</li>
+<li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1104)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (847)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (747)</li>
-<li>rhul.sharepoint.com (619)</li>
+<li>rhul.sharepoint.com (621)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:17 dashboards.rhul.ac.uk</li>
+<ul><li> 17:54 www.thepoke.com</li>
+<li> 17:54 tinyurl.com</li>
+<li> 17:54 l.facebook.com</li>
+<li> 17:54 www.facebook.com</li>
+<li class='same'> 17:53 www.facebook.com</li>
+<li class='same'> 17:52 www.facebook.com</li>
+<li class='same'> 17:50 www.facebook.com</li>
+<li> 17:49 facebook.com</li>
+<li> 17:41 dashboards.rhul.ac.uk</li>
+<li> 17:34 chatgpt.com</li>
+<li> 17:34 chat.openai.com</li>
+<li> 17:34 rhul.sharepoint.com</li>
+<li class='same'> 17:33 rhul.sharepoint.com</li>
+<li> 17:17 dashboards.rhul.ac.uk</li>
 <li> 17:11 duckduckgo.com</li>
 <li> 17:02 <a href="https://joereddington.com/2026/03/13/meeting-hack.html">Getting students to book meetings more tightly | Joe Reddington</a></li>
 <li> 16:58 moodle.royalholloway.ac.uk</li>
