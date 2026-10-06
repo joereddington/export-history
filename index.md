@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5703)</li>
-<li>mail.google.com (5245)</li>
-<li>www.google.com (4938)</li>
-<li>outlook.office365.com (4245)</li>
+<ol><li>www.reddit.com (5702)</li>
+<li>mail.google.com (5244)</li>
+<li>www.google.com (4933)</li>
+<li>outlook.office365.com (4234)</li>
 <li>duckduckgo.com (3987)</li>
-<li>outlook.office.com (3871)</li>
-<li>docs.google.com (3265)</li>
-<li>chatgpt.com (2932)</li>
-<li>www.linkedin.com (2378)</li>
-<li>bsky.app (1973)</li>
-<li>moodle.royalholloway.ac.uk (1791)</li>
-<li>www.facebook.com (1662)</li>
-<li>calendar.google.com (1554)</li>
+<li>outlook.office.com (3867)</li>
+<li>docs.google.com (3262)</li>
+<li>chatgpt.com (2930)</li>
+<li>www.linkedin.com (2367)</li>
+<li>bsky.app (1952)</li>
+<li>moodle.royalholloway.ac.uk (1793)</li>
+<li>www.facebook.com (1654)</li>
+<li>calendar.google.com (1547)</li>
 <li>login.microsoftonline.com (1479)</li>
-<li>chat.openai.com (1358)</li>
+<li>chat.openai.com (1357)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1106)</li>
-<li>web.whatsapp.com (1102)</li>
-<li>mail.rhul.ac.uk (934)</li>
+<li>gmail.com (1105)</li>
+<li>web.whatsapp.com (1100)</li>
+<li>mail.rhul.ac.uk (933)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (848)</li>
-<li>rhul-my.sharepoint.com (817)</li>
-<li>forms.office.com (748)</li>
+<li>feedly.com (847)</li>
+<li>rhul-my.sharepoint.com (815)</li>
+<li>forms.office.com (747)</li>
 <li>rhul.sharepoint.com (619)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
-<li>www.theguardian.com (469)</li>
-<li>drive.google.com (463)</li>
+<li>www.theguardian.com (468)</li>
+<li>drive.google.com (460)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:29 fyp.cs.rhul.ac.uk</li>
+<ul><li> 16:58 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:57 moodle.royalholloway.ac.uk</li>
+<li> 16:57 <a href="https://www.youtube.com/">(100) YouTube</a></li>
+<li> 16:29 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 16:28 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 16:27 fyp.cs.rhul.ac.uk</li>
 <li> 15:58 dashboards.rhul.ac.uk</li>
@@ -124099,148 +124102,4 @@ With number of accesses/minutes in parentheses
 <li> 11:59 x.com</li>
 <li class='same'> 11:58 x.com</li>
 <li> 11:58 www.google.com</li>
-<li> 11:57 bsky.app</li>
-<li> 11:56 outlook.office365.com</li>
-<li> 11:55 bsky.app</li>
-<li class='same'> 11:54 bsky.app</li>
-<li> 11:53 www.ukri.org</li>
-<li> 11:52 outlook.office365.com</li>
-<li class='same'> 11:51 outlook.office365.com</li>
-<li class='same'> 11:50 outlook.office365.com</li>
-<li> 11:50 calendar.google.com</li>
-<li> 11:50 www.linkedin.com</li>
-<li class='same'> 11:49 www.linkedin.com</li>
-<li> 11:48 www.facebook.com</li>
-<li> 11:48 mail.google.com</li>
-<li> 11:48 gmail.com</li>
-<li> 11:47 outlook.office365.com</li>
-<li> 11:47 outlook.office.com</li>
-<li> 11:46 outlook.office365.com</li>
-<li> 11:46 outlook.office.com</li>
-<li> 11:45 outlook.office365.com</li>
-<li> 11:43 bsky.app</li>
-<li> 11:42 outlook.office365.com</li>
-<li> 11:42 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 10:42 discussions.apple.com</li>
-<li class='same'> 10:18 discussions.apple.com</li>
-<li> 10:18 www.google.com</li>
-<li> 10:18 discussions.apple.com</li>
-<li> 10:18 www.google.com</li>
-<li> 10:18 fast.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:24 bsky.app</li>
-<li class='same'> 09:23 bsky.app</li>
-<li> 09:08 outlook.office365.com</li>
-<li> 09:07 www.facebook.com</li>
-<li class='same'> 09:06 www.facebook.com</li>
-<li class='same'> 09:04 www.facebook.com</li>
-<li> 09:04 www.linkedin.com</li>
-<li> 09:03 bsky.app</li>
-<li> 09:02 outlook.office365.com</li>
-<li> 09:02 mail.rhul.ac.uk</li>
-<li> 09:01 www.linkedin.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:03 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
-<li> 08:03 <a href="https://en.wikipedia.org/wiki/Talk:2014_Sony_Pictures_hack">Talk:2014 Sony Pictures hack - Wikipedia</a></li>
-<li> 08:03 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 08:03 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 08:03 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 08:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 08:02 <a href="https://en.wikipedia.org/"></a></li>
-<li> 07:53 www.facebook.com</li>
-<li> 07:51 www.linkedin.com</li>
-<li> 07:49 www.theguardian.com</li>
-<li> 07:48 bsky.app</li>
-<li> 07:41 docs.google.com</li>
-<li> 07:41 drive.google.com</li>
-<li> 07:13 fast.com</li>
-<li class='same'> 07:09 fast.com</li>
-</ul>
-
-<br>
-
-<ul><li> 00:00 calendar.google.com</li>
-</ul>
-
-<H3>Monday, 11/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 18:45 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
-<li> 18:45 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM&amp;themeRefresh=1">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
-<li> 18:45 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
-<li> 18:45 www.google.com</li>
-<li> 18:45 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM&amp;themeRefresh=1">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
-<li> 18:24 www.facebook.com</li>
-<li> 18:24 bsky.app</li>
-<li> 18:24 www.linkedin.com</li>
-<li class='same'> 18:23 www.linkedin.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:40 0.0.0.0:8080</li>
-<li> 17:38 www.linkedin.com</li>
-<li> 17:38 www.google.com</li>
-<li> 17:37 Local file</li>
-<li> 17:37 docs.google.com</li>
-<li> 17:35 www.facebook.com</li>
-<li> 17:33 www.linkedin.com</li>
-<li class='same'> 17:32 www.linkedin.com</li>
-<li> 17:28 docs.google.com</li>
-<li> 17:28 drive.google.com</li>
-<li class='same'> 17:27 drive.google.com</li>
-<li> 17:26 bsky.app</li>
-<li class='same'> 17:25 bsky.app</li>
-<li> 17:25 outlook.office.com</li>
-<li> 17:25 calendar.google.com</li>
-<li> 17:24 outlook.office.com</li>
-<li> 17:24 calendar.google.com</li>
-<li class='same'> 17:19 calendar.google.com</li>
-<li> 17:15 web.whatsapp.com</li>
-<li> 17:13 www.google.com</li>
-<li> 17:12 calendar.google.com</li>
-<li> 17:06 feedly.com</li>
-<li> 17:03 0.0.0.0:8080</li>
-<li> 17:02 www.linkedin.com</li>
-<li> 16:58 www.facebook.com</li>
-<li> 16:57 bsky.app</li>
-<li class='same'> 16:56 bsky.app</li>
-<li> 16:55 europeancyber.org</li>
-<li> 16:55 bsky.app</li>
-<li class='same'> 16:54 bsky.app</li>
-<li class='same'> 16:42 bsky.app</li>
-<li class='same'> 16:41 bsky.app</li>
-<li class='same'> 16:40 bsky.app</li>
-<li class='same'> 16:39 bsky.app</li>
-<li> 16:32 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 16:32 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 16:32 experience.elluciancloud.ie</li>
-<li> 16:32 rhul-my.sharepoint.com</li>
-<li> 16:25 bsky.app</li>
-<li> 16:24 web.whatsapp.com</li>
-<li> 16:21 forms.office.com</li>
-<li> 16:18 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 16:09 rhul-my.sharepoint.com</li>
-<li> 16:08 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 16:08 chatgpt.com</li>
-<li class='same'> 16:07 chatgpt.com</li>
-<li> 16:07 chat.openai.com</li>
-<li> 16:04 calendar.google.com</li>
-<li> 16:03 www.reddit.com</li>
-<li> 16:02 outlook.office365.com</li>
 </ul>
