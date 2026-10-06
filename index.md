@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5701)</li>
 <li>mail.google.com (5245)</li>
-<li>www.google.com (4946)</li>
+<li>www.google.com (4945)</li>
 <li>outlook.office365.com (4261)</li>
 <li>duckduckgo.com (3987)</li>
 <li>outlook.office.com (3871)</li>
 <li>docs.google.com (3265)</li>
 <li>chatgpt.com (2932)</li>
-<li>www.linkedin.com (2385)</li>
-<li>bsky.app (1995)</li>
+<li>www.linkedin.com (2384)</li>
+<li>bsky.app (1994)</li>
 <li>moodle.royalholloway.ac.uk (1788)</li>
 <li>www.facebook.com (1662)</li>
-<li>calendar.google.com (1552)</li>
+<li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1478)</li>
 <li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
-<li>www.theguardian.com (470)</li>
+<li>www.theguardian.com (469)</li>
 <li>drive.google.com (463)</li>
 
 
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:19 swedencentral1-mediap.svc.ms</li>
+<ul><li> 12:33 calendar.google.com</li>
+<li class='same'> 12:32 calendar.google.com</li>
+<li> 12:19 swedencentral1-mediap.svc.ms</li>
 <li> 12:19 rhul.sharepoint.com</li>
 <li class='same'> 12:17 rhul.sharepoint.com</li>
 <li> 11:57 www.google.com</li>
@@ -124300,9 +124302,4 @@ With number of accesses/minutes in parentheses
 <li> 12:40 mail.rhul.ac.uk</li>
 <li> 12:40 www.google.com</li>
 <li> 12:40 bsky.app</li>
-<li> 12:35 amp.theguardian.com</li>
-<li> 12:34 www.theguardian.com</li>
-<li> 12:34 www.google.com</li>
-<li> 12:34 www.linkedin.com</li>
-<li> 12:33 bsky.app</li>
 </ul>
