@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5702)</li>
 <li>mail.google.com (5243)</li>
-<li>www.google.com (4930)</li>
+<li>www.google.com (4929)</li>
 <li>outlook.office365.com (4230)</li>
 <li>duckduckgo.com (3988)</li>
 <li>outlook.office.com (3866)</li>
@@ -79,9 +79,9 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1951)</li>
 <li>moodle.royalholloway.ac.uk (1793)</li>
-<li>www.facebook.com (1655)</li>
+<li>www.facebook.com (1656)</li>
 <li>calendar.google.com (1546)</li>
-<li>login.microsoftonline.com (1479)</li>
+<li>login.microsoftonline.com (1480)</li>
 <li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (847)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (747)</li>
-<li>rhul.sharepoint.com (621)</li>
+<li>rhul.sharepoint.com (623)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:54 www.thepoke.com</li>
+<ul><li> 18:58 rhul.sharepoint.com</li>
+<li> 18:58 login.microsoftonline.com</li>
+<li> 18:58 device.login.microsoftonline.com</li>
+<li> 18:57 rhul.sharepoint.com</li>
+<li> 18:56 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 17:59 www.facebook.com</li>
+<li> 17:54 www.thepoke.com</li>
 <li> 17:54 tinyurl.com</li>
 <li> 17:54 l.facebook.com</li>
 <li> 17:54 www.facebook.com</li>
@@ -124099,5 +124109,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:20 www.google.com</li>
 <li class='same'> 12:19 www.google.com</li>
 <li class='same'> 12:18 www.google.com</li>
-<li class='same'> 12:17 www.google.com</li>
 </ul>
