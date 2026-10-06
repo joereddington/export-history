@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5676)</li>
-<li>mail.google.com (5246)</li>
-<li>www.google.com (4951)</li>
+<ol><li>www.reddit.com (5692)</li>
+<li>mail.google.com (5245)</li>
+<li>www.google.com (4946)</li>
 <li>outlook.office365.com (4262)</li>
 <li>duckduckgo.com (3986)</li>
 <li>outlook.office.com (3871)</li>
 <li>docs.google.com (3265)</li>
 <li>chatgpt.com (2933)</li>
-<li>www.linkedin.com (2391)</li>
+<li>www.linkedin.com (2388)</li>
 <li>bsky.app (1997)</li>
-<li>moodle.royalholloway.ac.uk (1790)</li>
-<li>www.facebook.com (1661)</li>
+<li>moodle.royalholloway.ac.uk (1788)</li>
+<li>www.facebook.com (1662)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1478)</li>
 <li>chat.openai.com (1359)</li>
 <li>www.amazon.co.uk (1317)</li>
-<li>herts.instructure.com (1231)</li>
-<li>gmail.com (1108)</li>
+<li>herts.instructure.com (1230)</li>
+<li>gmail.com (1107)</li>
 <li>web.whatsapp.com (1105)</li>
 <li>mail.rhul.ac.uk (940)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (847)</li>
+<li>feedly.com (848)</li>
 <li>rhul-my.sharepoint.com (819)</li>
 <li>forms.office.com (749)</li>
-<li>rhul.sharepoint.com (617)</li>
-<li>fritz.box (590)</li>
+<li>rhul.sharepoint.com (619)</li>
+<li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
 <li>www.theguardian.com (470)</li>
@@ -104,11 +104,53 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 06/10/26</H3>
+
+<br>
+
+<ul><li> 07:29 rhul.sharepoint.com</li>
+<li class='same'> 07:28 rhul.sharepoint.com</li>
+</ul>
+
 <H3>Monday, 05/10/26</H3>
 
 <br>
 
-<ul><li> 16:59 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:52 feedly.com</li>
+<li> 20:42 192.168.178.1</li>
+<li> 20:42 fritz.box</li>
+<li> 20:42 firefox-portal-detection.com</li>
+<li> 20:42 192.168.178.1</li>
+<li> 20:16 www.reddit.com</li>
+<li class='same'> 20:15 www.reddit.com</li>
+<li class='same'> 20:14 www.reddit.com</li>
+<li class='same'> 20:13 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:42 www.reddit.com</li>
+<li class='same'> 19:41 www.reddit.com</li>
+<li class='same'> 19:27 www.reddit.com</li>
+<li class='same'> 19:26 www.reddit.com</li>
+<li class='same'> 19:25 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:13 www.facebook.com</li>
+<li> 17:13 mail.google.com</li>
+<li> 17:12 www.reddit.com</li>
+<li class='same'> 17:11 www.reddit.com</li>
+<li class='same'> 17:09 www.reddit.com</li>
+<li class='same'> 17:03 www.reddit.com</li>
+<li class='same'> 17:02 www.reddit.com</li>
+<li class='same'> 17:00 www.reddit.com</li>
+<li class='same'> 16:59 www.reddit.com</li>
 <li class='same'> 16:56 www.reddit.com</li>
 <li> 16:56 www.linkedin.com</li>
 <li> 16:49 webtimetables.royalholloway.ac.uk</li>
@@ -152,7 +194,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:09 forms.cloud.microsoft</li>
+<ul><li> 13:14 www.reddit.com</li>
+<li> 13:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 13:09 forms.cloud.microsoft</li>
 <li> 13:09 login.microsoftonline.com</li>
 <li> 13:09 forms.cloud.microsoft</li>
 <li> 13:09 device.login.microsoftonline.com</li>
@@ -12404,7 +12448,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:08 herts.instructure.com</li>
 <li> 16:01 cdn.inst-fs-dub-prod.inscloudgate.net</li>
 <li> 16:01 inst-fs-dub-prod.inscloudgate.net</li>
-<li> 16:01 herts.instructure.com</li>
 <li> 16:01 a10775-13352100.cluster93.canvas-user-content.com</li>
 <li> 16:00 herts.instructure.com</li>
 <li class='same'> 15:59 herts.instructure.com</li>
@@ -12452,7 +12495,6 @@ With number of accesses/minutes in parentheses
 <li> 13:06 localhost:4001</li>
 <li> 12:57 login.microsoftonline.com</li>
 <li> 12:57 herts365.sharepoint.com</li>
-<li> 12:57 click.comms.herts.ac.uk</li>
 <li> 12:55 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
 <li> 12:55 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:55 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -124259,24 +124301,4 @@ With number of accesses/minutes in parentheses
 <li> 12:19 www.google.com</li>
 <li> 12:16 rhul-my.sharepoint.com</li>
 <li> 12:14 www.linkedin.com</li>
-<li> 12:00 www.google.com</li>
-<li> 12:00 ico.org.uk</li>
-<li> 12:00 www.google.com</li>
-<li class='same'> 11:59 www.google.com</li>
-<li> 11:34 www.linkedin.com</li>
-<li> 11:32 mail.google.com</li>
-<li> 11:32 gmail.com</li>
-<li> 11:30 ico.org.uk</li>
-<li> 11:30 www.google.com</li>
-<li> 11:29 privacyportal-de.onetrust.com</li>
-<li> 11:29 help.hollandandbarrett.com</li>
-<li> 11:29 www.google.com</li>
-<li> 11:25 rhul.hosted.panopto.com</li>
-<li> 11:16 moodle2324.royalholloway.ac.uk</li>
-<li> 11:16 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:15 moodle.royalholloway.ac.uk</li>
-<li> 11:08 mail.google.com</li>
-<li> 11:05 www.linkedin.com</li>
-<li class='same'> 11:03 www.linkedin.com</li>
-<li> 11:01 rhul.hosted.panopto.com</li>
 </ul>
