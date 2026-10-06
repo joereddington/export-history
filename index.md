@@ -75,13 +75,13 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3988)</li>
 <li>outlook.office.com (3866)</li>
 <li>docs.google.com (3262)</li>
-<li>chatgpt.com (2931)</li>
+<li>chatgpt.com (2935)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1951)</li>
-<li>moodle.royalholloway.ac.uk (1793)</li>
+<li>moodle.royalholloway.ac.uk (1794)</li>
 <li>www.facebook.com (1656)</li>
 <li>calendar.google.com (1546)</li>
-<li>login.microsoftonline.com (1480)</li>
+<li>login.microsoftonline.com (1483)</li>
 <li>chat.openai.com (1358)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (847)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (747)</li>
-<li>rhul.sharepoint.com (623)</li>
+<li>rhul.sharepoint.com (628)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:58 rhul.sharepoint.com</li>
+<ul><li> 19:29 rhul.hosted.panopto.com</li>
+<li class='same'> 19:28 rhul.hosted.panopto.com</li>
+<li> 19:28 moodle.royalholloway.ac.uk</li>
+<li> 19:28 rhul.hosted.panopto.com</li>
+<li> 19:25 login.microsoftonline.com</li>
+<li> 19:25 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 19:25 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 19:25 login.microsoftonline.com</li>
+<li> 19:25 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 19:25 device.login.microsoftonline.com</li>
+<li> 19:19 rhul.sharepoint.com</li>
+<li> 19:19 login.microsoftonline.com</li>
+<li> 19:19 device.login.microsoftonline.com</li>
+<li> 19:19 rhul.sharepoint.com</li>
+<li class='same'> 19:12 rhul.sharepoint.com</li>
+<li> 19:10 chatgpt.com</li>
+<li class='same'> 19:07 chatgpt.com</li>
+<li class='same'> 19:06 chatgpt.com</li>
+<li> 19:06 rhul.sharepoint.com</li>
+<li class='same'> 19:05 rhul.sharepoint.com</li>
+<li> 19:00 chatgpt.com</li>
+<li> 18:58 rhul.sharepoint.com</li>
 <li> 18:58 login.microsoftonline.com</li>
 <li> 18:58 device.login.microsoftonline.com</li>
 <li> 18:57 rhul.sharepoint.com</li>
