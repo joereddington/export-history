@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5692)</li>
 <li>mail.google.com (5245)</li>
-<li>www.google.com (4946)</li>
+<li>www.google.com (4945)</li>
 <li>outlook.office365.com (4262)</li>
-<li>duckduckgo.com (3986)</li>
+<li>duckduckgo.com (3987)</li>
 <li>outlook.office.com (3871)</li>
 <li>docs.google.com (3265)</li>
 <li>chatgpt.com (2933)</li>
-<li>www.linkedin.com (2388)</li>
+<li>www.linkedin.com (2387)</li>
 <li>bsky.app (1997)</li>
 <li>moodle.royalholloway.ac.uk (1788)</li>
 <li>www.facebook.com (1662)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1107)</li>
 <li>web.whatsapp.com (1105)</li>
-<li>mail.rhul.ac.uk (940)</li>
+<li>mail.rhul.ac.uk (939)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (848)</li>
-<li>rhul-my.sharepoint.com (819)</li>
+<li>rhul-my.sharepoint.com (818)</li>
 <li>forms.office.com (749)</li>
 <li>rhul.sharepoint.com (619)</li>
 <li>fritz.box (591)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:29 rhul.sharepoint.com</li>
+<ul><li> 07:34 www.poetryfoundation.org</li>
+<li> 07:34 duckduckgo.com</li>
+<li> 07:29 rhul.sharepoint.com</li>
 <li class='same'> 07:28 rhul.sharepoint.com</li>
 </ul>
 
@@ -12417,14 +12419,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:08 www.ebay.co.uk</li>
-<li class='same'> 19:07 www.ebay.co.uk</li>
-<li class='same'> 19:05 www.ebay.co.uk</li>
-<li> 19:04 chatgpt.com</li>
+<ul><li> 19:04 chatgpt.com</li>
 <li class='same'> 19:03 chatgpt.com</li>
 <li> 19:03 chat.openai.com</li>
-<li> 19:03 www.ebay.co.uk</li>
-<li class='same'> 19:02 www.ebay.co.uk</li>
+<li> 19:02 www.ebay.co.uk</li>
 </ul>
 
 <br>
@@ -12446,7 +12444,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:10 herts.instructure.com</li>
 <li class='same'> 16:09 herts.instructure.com</li>
 <li class='same'> 16:08 herts.instructure.com</li>
-<li> 16:01 cdn.inst-fs-dub-prod.inscloudgate.net</li>
 <li> 16:01 inst-fs-dub-prod.inscloudgate.net</li>
 <li> 16:01 a10775-13352100.cluster93.canvas-user-content.com</li>
 <li> 16:00 herts.instructure.com</li>
@@ -124296,9 +124293,4 @@ With number of accesses/minutes in parentheses
 <li> 12:23 www.linkedin.com</li>
 <li> 12:22 rhul-my.sharepoint.com</li>
 <li> 12:22 outlook.office365.com</li>
-<li> 12:22 mail.rhul.ac.uk</li>
-<li> 12:20 www.gov.uk</li>
-<li> 12:19 www.google.com</li>
-<li> 12:16 rhul-my.sharepoint.com</li>
-<li> 12:14 www.linkedin.com</li>
 </ul>
