@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3990)</li>
 <li>outlook.office.com (3866)</li>
 <li>docs.google.com (3262)</li>
-<li>chatgpt.com (2941)</li>
+<li>chatgpt.com (2943)</li>
 <li>www.linkedin.com (2369)</li>
 <li>bsky.app (1951)</li>
 <li>moodle.royalholloway.ac.uk (1807)</li>
 <li>www.facebook.com (1656)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1486)</li>
-<li>chat.openai.com (1362)</li>
+<li>chat.openai.com (1363)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1104)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (747)</li>
-<li>rhul.sharepoint.com (631)</li>
+<li>rhul.sharepoint.com (633)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 royalholloway.akarisoftware.com</li>
+<ul><li> 15:28 intranet.royalholloway.ac.uk</li>
+<li> 15:14 rhul.sharepoint.com</li>
+<li class='same'> 15:13 rhul.sharepoint.com</li>
+<li> 15:13 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:10 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:06 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:05 royalholloway.akarisoftware.com</li>
+<li> 15:05 chatgpt.com</li>
+<li class='same'> 15:04 chatgpt.com</li>
+<li> 15:04 chat.openai.com</li>
+<li> 15:02 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:01 royalholloway.akarisoftware.com</li>
+<li class='same'> 14:59 royalholloway.akarisoftware.com</li>
 <li> 14:59 login.microsoftonline.com</li>
 <li> 14:59 device.login.microsoftonline.com</li>
 <li> 14:59 royalholloway.akarisoftware.com</li>
