@@ -108,6 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:19 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:03 intranet.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 10:29 student-vpn.royalholloway.ac.uk</li>
 <li> 10:29 login.microsoftonline.com</li>
 <li> 10:29 student-vpn.royalholloway.ac.uk</li>
