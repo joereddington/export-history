@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5702)</li>
-<li>mail.google.com (5243)</li>
+<li>mail.google.com (5244)</li>
 <li>www.google.com (4928)</li>
 <li>outlook.office365.com (4230)</li>
 <li>duckduckgo.com (3988)</li>
 <li>outlook.office.com (3866)</li>
 <li>docs.google.com (3262)</li>
-<li>chatgpt.com (2938)</li>
+<li>chatgpt.com (2940)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1951)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>www.facebook.com (1656)</li>
-<li>calendar.google.com (1548)</li>
+<li>calendar.google.com (1549)</li>
 <li>login.microsoftonline.com (1482)</li>
-<li>chat.openai.com (1360)</li>
+<li>chat.openai.com (1362)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1104)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:38 chatgpt.com</li>
+<ul><li> 10:23 chat.openai.com</li>
+<li> 09:55 calendar.google.com</li>
+<li> 09:49 mail.google.com</li>
+<li> 09:45 <a href="https://joereddington.com/2026/03/13/meeting-hack.html">Getting students to book meetings more tightly | Joe Reddington</a></li>
+<li> 09:43 chatgpt.com</li>
+<li class='same'> 09:42 chatgpt.com</li>
+<li> 09:42 chat.openai.com</li>
+<li> 09:38 chatgpt.com</li>
 <li> 09:38 chat.openai.com</li>
 <li> 09:31 192.168.178.1</li>
 <li class='same'> 09:11 192.168.178.1</li>
