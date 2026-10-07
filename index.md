@@ -72,17 +72,17 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5244)</li>
 <li>www.google.com (4927)</li>
 <li>outlook.office365.com (4230)</li>
-<li>duckduckgo.com (3991)</li>
+<li>duckduckgo.com (3993)</li>
 <li>outlook.office.com (3866)</li>
 <li>docs.google.com (3262)</li>
-<li>chatgpt.com (2944)</li>
+<li>chatgpt.com (2945)</li>
 <li>www.linkedin.com (2369)</li>
 <li>bsky.app (1951)</li>
 <li>moodle.royalholloway.ac.uk (1809)</li>
 <li>www.facebook.com (1656)</li>
-<li>calendar.google.com (1552)</li>
+<li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1486)</li>
-<li>chat.openai.com (1364)</li>
+<li>chat.openai.com (1365)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1104)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
-<li>forms.office.com (747)</li>
+<li>forms.office.com (748)</li>
 <li>rhul.sharepoint.com (634)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:06 duckduckgo.com</li>
+<ul><li> 16:55 gitlab.cim.rhul.ac.uk</li>
+<li> 16:54 calendar.google.com</li>
+<li> 16:54 forms.cloud.microsoft</li>
+<li> 16:54 forms.office.com</li>
+<li> 16:54 eur03.safelinks.protection.outlook.com</li>
+<li> 16:54 www.su.rhul.ac.uk</li>
+<li> 16:54 duckduckgo.com</li>
+<li> 16:52 calendar.google.com</li>
+<li> 16:51 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 16:44 chatgpt.com</li>
+<li> 16:44 chat.openai.com</li>
+<li> 16:41 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:06 duckduckgo.com</li>
 <li> 16:05 chatgpt.com</li>
 <li> 16:05 chat.openai.com</li>
 <li> 15:58 royalholloway.akarisoftware.com</li>
