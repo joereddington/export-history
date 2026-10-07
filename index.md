@@ -104,11 +104,23 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 07/10/26</H3>
+
+<br>
+
+<ul><li> 09:10 192.168.178.1</li>
+<li class='same'> 09:09 192.168.178.1</li>
+</ul>
+
 <H3>Tuesday, 06/10/26</H3>
 
 <br>
 
-<ul><li> 20:48 192.168.178.1</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:48 192.168.178.1</li>
 <li> 20:47 feedly.com</li>
 <li class='same'> 20:46 feedly.com</li>
 <li> 20:46 libbyapp.com</li>
