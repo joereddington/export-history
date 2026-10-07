@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5702)</li>
 <li>mail.google.com (5244)</li>
-<li>www.google.com (4928)</li>
+<li>www.google.com (4927)</li>
 <li>outlook.office365.com (4230)</li>
 <li>duckduckgo.com (3990)</li>
 <li>outlook.office.com (3866)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2943)</li>
 <li>www.linkedin.com (2369)</li>
 <li>bsky.app (1951)</li>
-<li>moodle.royalholloway.ac.uk (1807)</li>
+<li>moodle.royalholloway.ac.uk (1809)</li>
 <li>www.facebook.com (1656)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1486)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (747)</li>
-<li>rhul.sharepoint.com (633)</li>
+<li>rhul.sharepoint.com (634)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:28 intranet.royalholloway.ac.uk</li>
+<ul><li> 15:58 royalholloway.akarisoftware.com</li>
+<li> 15:51 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:50 moodle.royalholloway.ac.uk</li>
+<li> 15:35 intranet.royalholloway.ac.uk</li>
+<li> 15:35 rhul.sharepoint.com</li>
+<li> 15:35 intranet.royalholloway.ac.uk</li>
+<li class='same'> 15:28 intranet.royalholloway.ac.uk</li>
 <li> 15:14 rhul.sharepoint.com</li>
 <li class='same'> 15:13 rhul.sharepoint.com</li>
 <li> 15:13 royalholloway.akarisoftware.com</li>
@@ -124245,5 +124251,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:23 cisse.info</li>
 <li> 12:22 www.google.com</li>
 <li class='same'> 12:21 www.google.com</li>
-<li class='same'> 12:20 www.google.com</li>
 </ul>
