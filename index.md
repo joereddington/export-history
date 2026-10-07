@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5702)</li>
 <li>mail.google.com (5243)</li>
-<li>www.google.com (4929)</li>
+<li>www.google.com (4928)</li>
 <li>outlook.office365.com (4230)</li>
 <li>duckduckgo.com (3988)</li>
 <li>outlook.office.com (3866)</li>
 <li>docs.google.com (3262)</li>
-<li>chatgpt.com (2935)</li>
+<li>chatgpt.com (2937)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1951)</li>
-<li>moodle.royalholloway.ac.uk (1794)</li>
+<li>moodle.royalholloway.ac.uk (1801)</li>
 <li>www.facebook.com (1656)</li>
-<li>calendar.google.com (1546)</li>
+<li>calendar.google.com (1548)</li>
 <li>login.microsoftonline.com (1483)</li>
-<li>chat.openai.com (1358)</li>
+<li>chat.openai.com (1359)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1104)</li>
 <li>web.whatsapp.com (1100)</li>
 <li>mail.rhul.ac.uk (933)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (847)</li>
+<li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (747)</li>
 <li>rhul.sharepoint.com (628)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:29 rhul.hosted.panopto.com</li>
+<ul><li> 20:48 192.168.178.1</li>
+<li> 20:47 feedly.com</li>
+<li class='same'> 20:46 feedly.com</li>
+<li> 20:46 libbyapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:15 chatgpt.com</li>
+<li class='same'> 20:14 chatgpt.com</li>
+<li> 20:14 chat.openai.com</li>
+<li> 20:14 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 19:40 moodle.royalholloway.ac.uk</li>
+<li> 19:39 calendar.google.com</li>
+<li class='same'> 19:38 calendar.google.com</li>
+<li> 19:38 uk.gomotionapp.com</li>
+<li> 19:37 www.giantitp.com</li>
+<li> 19:37 support.mozilla.org</li>
+<li> 19:35 moodle.royalholloway.ac.uk</li>
+<li> 19:35 webtimetables.royalholloway.ac.uk</li>
+<li> 19:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 19:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 19:32 moodle.royalholloway.ac.uk</li>
+<li class='same'> 19:31 moodle.royalholloway.ac.uk</li>
+<li class='same'> 19:30 moodle.royalholloway.ac.uk</li>
+<li> 19:30 rhul.hosted.panopto.com</li>
+<li class='same'> 19:29 rhul.hosted.panopto.com</li>
 <li class='same'> 19:28 rhul.hosted.panopto.com</li>
 <li> 19:28 moodle.royalholloway.ac.uk</li>
 <li> 19:28 rhul.hosted.panopto.com</li>
@@ -124129,5 +124159,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:21 www.google.com</li>
 <li class='same'> 12:20 www.google.com</li>
 <li class='same'> 12:19 www.google.com</li>
-<li class='same'> 12:18 www.google.com</li>
 </ul>
