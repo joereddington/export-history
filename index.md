@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3866)</li>
 <li>docs.google.com (3262)</li>
 <li>chatgpt.com (2941)</li>
-<li>www.linkedin.com (2368)</li>
+<li>www.linkedin.com (2369)</li>
 <li>bsky.app (1951)</li>
-<li>moodle.royalholloway.ac.uk (1801)</li>
+<li>moodle.royalholloway.ac.uk (1804)</li>
 <li>www.facebook.com (1656)</li>
 <li>calendar.google.com (1552)</li>
-<li>login.microsoftonline.com (1484)</li>
+<li>login.microsoftonline.com (1485)</li>
 <li>chat.openai.com (1362)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:23 pure.royalholloway.ac.uk</li>
+<ul><li> 12:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:48 moodle.royalholloway.ac.uk</li>
+<li> 12:48 login.microsoftonline.com</li>
+<li> 12:48 device.login.microsoftonline.com</li>
+<li> 12:48 moodle.royalholloway.ac.uk</li>
+<li> 12:32 www.linkedin.com</li>
+<li> 12:23 pure.royalholloway.ac.uk</li>
 <li> 12:22 calendar.google.com</li>
 <li> 12:08 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 12:07 webtimetables.royalholloway.ac.uk</li>
