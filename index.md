@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1951)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>www.facebook.com (1656)</li>
-<li>calendar.google.com (1551)</li>
+<li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1484)</li>
 <li>chat.openai.com (1362)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (747)</li>
-<li>rhul.sharepoint.com (628)</li>
+<li>rhul.sharepoint.com (631)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:53 www.linkedin.com</li>
+<ul><li> 12:23 pure.royalholloway.ac.uk</li>
+<li> 12:22 calendar.google.com</li>
+<li> 12:08 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 12:07 webtimetables.royalholloway.ac.uk</li>
+<li> 12:06 rhul.sharepoint.com</li>
+<li class='same'> 12:05 rhul.sharepoint.com</li>
+<li class='same'> 12:02 rhul.sharepoint.com</li>
+<li> 12:00 dashboards.rhul.ac.uk</li>
+<li> 11:53 www.linkedin.com</li>
 </ul>
 
 <br>
