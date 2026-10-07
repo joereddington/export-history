@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>www.facebook.com (1656)</li>
 <li>calendar.google.com (1548)</li>
-<li>login.microsoftonline.com (1483)</li>
+<li>login.microsoftonline.com (1482)</li>
 <li>chat.openai.com (1359)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -12416,7 +12416,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:28 outlook.office365.com</li>
-<li> 15:28 login.microsoftonline.com</li>
 <li> 15:28 device.login.microsoftonline.com</li>
 <li> 15:28 outlook.office365.com</li>
 <li> 15:27 www.linkedin.com</li>
@@ -12438,7 +12437,6 @@ With number of accesses/minutes in parentheses
 <li> 14:12 www.amazon.co.uk</li>
 <li class='same'> 14:11 www.amazon.co.uk</li>
 <li> 14:07 www.giantitp.com</li>
-<li> 14:06 cc.amazon.com</li>
 <li> 14:03 www.linkedin.com</li>
 <li> 14:03 chatgpt.com</li>
 <li> 14:03 chat.openai.com</li>
