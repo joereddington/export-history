@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5702)</li>
 <li>mail.google.com (5244)</li>
-<li>www.google.com (4926)</li>
-<li>outlook.office365.com (4230)</li>
+<li>www.google.com (4925)</li>
+<li>outlook.office365.com (4226)</li>
 <li>duckduckgo.com (3993)</li>
-<li>outlook.office.com (3866)</li>
-<li>docs.google.com (3262)</li>
-<li>chatgpt.com (2945)</li>
+<li>outlook.office.com (3865)</li>
+<li>docs.google.com (3263)</li>
+<li>chatgpt.com (2946)</li>
 <li>www.linkedin.com (2369)</li>
 <li>bsky.app (1951)</li>
-<li>moodle.royalholloway.ac.uk (1809)</li>
+<li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1656)</li>
 <li>calendar.google.com (1554)</li>
-<li>login.microsoftonline.com (1486)</li>
-<li>chat.openai.com (1365)</li>
+<li>login.microsoftonline.com (1487)</li>
+<li>chat.openai.com (1366)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1104)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (748)</li>
-<li>rhul.sharepoint.com (634)</li>
+<li>rhul.sharepoint.com (636)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -105,6 +105,43 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 07/10/26</H3>
+
+<br>
+
+<ul><li> 18:58 learningonscreen.ac.uk</li>
+<li class='same'> 18:57 learningonscreen.ac.uk</li>
+<li> 18:57 login.learningonscreen.ac.uk</li>
+<li> 18:57 learningonscreen.ac.uk</li>
+<li> 18:57 connect.openathens.net</li>
+<li> 18:57 login.openathens.net</li>
+<li> 18:57 login.microsoftonline.com</li>
+<li> 18:57 device.login.microsoftonline.com</li>
+<li> 18:57 login.openathens.net</li>
+<li> 18:57 login.learningonscreen.ac.uk</li>
+<li> 18:57 connect.openathens.net</li>
+<li> 18:57 login.learningonscreen.ac.uk</li>
+<li> 18:57 learningonscreen.ac.uk</li>
+<li> 18:56 moodle.royalholloway.ac.uk</li>
+<li> 18:55 rhul.sharepoint.com</li>
+<li> 18:55 learningonscreen.ac.uk</li>
+<li> 18:55 rhul.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:53 www.doxdirect.com</li>
+<li> 17:53 www.paypal.com</li>
+<li> 17:53 www.doxdirect.com</li>
+<li class='same'> 17:52 www.doxdirect.com</li>
+<li class='same'> 17:51 www.doxdirect.com</li>
+<li class='same'> 17:50 www.doxdirect.com</li>
+<li class='same'> 17:49 www.doxdirect.com</li>
+<li> 17:43 doc-10-04-docstext.googleusercontent.com</li>
+<li> 17:42 chatgpt.com</li>
+<li> 17:42 chat.openai.com</li>
+<li> 17:36 docs.google.com</li>
+<li> 17:34 moodle.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -124259,15 +124296,4 @@ With number of accesses/minutes in parentheses
 <li> 13:04 bsky.app</li>
 <li> 13:01 cisse.info</li>
 <li> 13:01 eur03.safelinks.protection.outlook.com</li>
-<li> 13:01 outlook.office365.com</li>
-<li class='same'> 13:00 outlook.office365.com</li>
-<li class='same'> 12:59 outlook.office365.com</li>
-<li class='same'> 12:57 outlook.office365.com</li>
-<li> 12:57 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:23 cisse.info</li>
-<li> 12:22 www.google.com</li>
 </ul>
