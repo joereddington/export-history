@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5702)</li>
 <li>mail.google.com (5244)</li>
-<li>www.google.com (4928)</li>
+<li>www.google.com (4929)</li>
 <li>outlook.office365.com (4230)</li>
 <li>duckduckgo.com (3988)</li>
 <li>outlook.office.com (3866)</li>
 <li>docs.google.com (3262)</li>
-<li>chatgpt.com (2940)</li>
+<li>chatgpt.com (2941)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1951)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>www.facebook.com (1656)</li>
-<li>calendar.google.com (1549)</li>
-<li>login.microsoftonline.com (1482)</li>
+<li>calendar.google.com (1551)</li>
+<li>login.microsoftonline.com (1484)</li>
 <li>chat.openai.com (1362)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:23 chat.openai.com</li>
+<ul><li> 10:29 student-vpn.royalholloway.ac.uk</li>
+<li> 10:29 login.microsoftonline.com</li>
+<li> 10:29 student-vpn.royalholloway.ac.uk</li>
+<li> 10:29 login.microsoftonline.com</li>
+<li> 10:28 intranet.royalholloway.ac.uk</li>
+<li> 10:28 www.google.com</li>
+<li> 10:28 calendar.google.com</li>
+<li class='same'> 10:25 calendar.google.com</li>
+<li> 10:23 chatgpt.com</li>
+<li> 10:23 chat.openai.com</li>
 <li> 09:55 calendar.google.com</li>
 <li> 09:49 mail.google.com</li>
 <li> 09:45 <a href="https://joereddington.com/2026/03/13/meeting-hack.html">Getting students to book meetings more tightly | Joe Reddington</a></li>
