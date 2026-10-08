@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5742)</li>
 <li>mail.google.com (5242)</li>
-<li>www.google.com (4926)</li>
+<li>www.google.com (4924)</li>
 <li>outlook.office365.com (4224)</li>
 <li>duckduckgo.com (3996)</li>
 <li>outlook.office.com (3865)</li>
-<li>docs.google.com (3257)</li>
-<li>chatgpt.com (2948)</li>
+<li>docs.google.com (3255)</li>
+<li>chatgpt.com (2950)</li>
 <li>www.linkedin.com (2378)</li>
 <li>bsky.app (1950)</li>
 <li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1657)</li>
 <li>calendar.google.com (1552)</li>
-<li>login.microsoftonline.com (1489)</li>
+<li>login.microsoftonline.com (1491)</li>
 <li>chat.openai.com (1368)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
-<li>forms.office.com (748)</li>
+<li>forms.office.com (749)</li>
 <li>rhul.sharepoint.com (639)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:48 www.linkedin.com</li>
+<ul><li> 09:25 localhost:8443</li>
+<li> 09:24 forms.cloud.microsoft</li>
+<li> 09:21 chatgpt.com</li>
+<li> 09:18 forms.cloud.microsoft</li>
+<li> 09:18 login.microsoftonline.com</li>
+<li> 09:18 forms.cloud.microsoft</li>
+<li> 09:18 device.login.microsoftonline.com</li>
+<li> 09:18 login.microsoftonline.com</li>
+<li> 09:18 forms.cloud.microsoft</li>
+<li> 09:18 forms.office.com</li>
+<li> 09:10 chatgpt.com</li>
+<li> 09:08 localhost:8443</li>
+<li> 08:48 www.linkedin.com</li>
 <li class='same'> 08:47 www.linkedin.com</li>
 <li> 08:45 localhost:8443</li>
 <li> 08:31 webtimetables.royalholloway.ac.uk</li>
@@ -124359,10 +124371,4 @@ With number of accesses/minutes in parentheses
 <li> 13:14 outlook.office365.com</li>
 <li> 13:12 bsky.app</li>
 <li> 13:11 docs.google.com</li>
-<li> 13:10 www.google.com</li>
-<li> 13:10 docs.google.com</li>
-<li> 13:10 bimtechnologies.co.uk</li>
-<li> 13:10 www.royalholloway.ac.uk</li>
-<li> 13:10 www.google.com</li>
-<li> 13:09 docs.google.com</li>
 </ul>
