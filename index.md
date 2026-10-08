@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5740)</li>
-<li>mail.google.com (5244)</li>
-<li>www.google.com (4924)</li>
+<ol><li>www.reddit.com (5741)</li>
+<li>mail.google.com (5242)</li>
+<li>www.google.com (4926)</li>
 <li>outlook.office365.com (4224)</li>
-<li>duckduckgo.com (3993)</li>
+<li>duckduckgo.com (3996)</li>
 <li>outlook.office.com (3865)</li>
-<li>docs.google.com (3263)</li>
-<li>chatgpt.com (2947)</li>
-<li>www.linkedin.com (2369)</li>
+<li>docs.google.com (3261)</li>
+<li>chatgpt.com (2948)</li>
+<li>www.linkedin.com (2374)</li>
 <li>bsky.app (1950)</li>
 <li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1656)</li>
 <li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1489)</li>
-<li>chat.openai.com (1367)</li>
+<li>chat.openai.com (1368)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1104)</li>
+<li>gmail.com (1103)</li>
 <li>web.whatsapp.com (1100)</li>
 <li>mail.rhul.ac.uk (933)</li>
 <li>tvtropes.org (880)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
 <li>www.theguardian.com (468)</li>
-<li>drive.google.com (457)</li>
+<li>drive.google.com (455)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:27 rhul.uk.qlikcloud.com</li>
+<ul><li> 07:58 www.reddit.com</li>
+<li> 07:55 duckduckgo.com</li>
+<li> 07:54 www.researchgate.net</li>
+<li> 07:54 pure.royalholloway.ac.uk</li>
+<li> 07:54 duckduckgo.com</li>
+<li> 07:52 dashboards.rhul.ac.uk</li>
+<li> 07:44 www.liveforfilm.com</li>
+<li> 07:44 www.google.com</li>
+<li> 07:42 www.linkedin.com</li>
+<li> 07:41 chatgpt.com</li>
+<li> 07:41 chat.openai.com</li>
+<li> 07:41 www.linkedin.com</li>
+<li class='same'> 07:40 www.linkedin.com</li>
+<li> 07:40 www.liveforfilm.com</li>
+<li> 07:39 www.linkedin.com</li>
+<li> 07:39 www.liveforfilm.com</li>
+<li> 07:39 duckduckgo.com</li>
+<li> 07:38 www.linkedin.com</li>
+<li> 07:37 www.liveforfilm.com</li>
+<li> 07:37 www.google.com</li>
+<li> 07:32 rhul.uk.qlikcloud.com</li>
+<li class='same'> 07:31 rhul.uk.qlikcloud.com</li>
+<li class='same'> 07:30 rhul.uk.qlikcloud.com</li>
+<li class='same'> 07:29 rhul.uk.qlikcloud.com</li>
+<li class='same'> 07:27 rhul.uk.qlikcloud.com</li>
 <li> 07:27 login.microsoftonline.com</li>
 <li> 07:27 fgua91pymbsao6b.uk.qlikcloud.com</li>
 <li> 07:27 device.login.microsoftonline.com</li>
@@ -124336,11 +124360,4 @@ With number of accesses/minutes in parentheses
 <li> 13:08 calendar.google.com</li>
 <li> 13:08 docs.google.com</li>
 <li class='same'> 13:07 docs.google.com</li>
-<li> 13:07 mail.google.com</li>
-<li class='same'> 13:06 mail.google.com</li>
-<li> 13:06 gmail.com</li>
-<li> 13:05 drive.google.com</li>
-<li> 13:05 docs.google.com</li>
-<li> 13:05 drive.google.com</li>
-<li> 13:05 docs.google.com</li>
 </ul>
