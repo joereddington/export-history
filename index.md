@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5750)</li>
+<ol><li>www.reddit.com (5752)</li>
 <li>mail.google.com (5240)</li>
-<li>www.google.com (4921)</li>
-<li>outlook.office365.com (4223)</li>
-<li>duckduckgo.com (3999)</li>
+<li>www.google.com (4917)</li>
+<li>outlook.office365.com (4220)</li>
+<li>duckduckgo.com (4000)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
 <li>chatgpt.com (2950)</li>
@@ -83,14 +83,14 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1493)</li>
 <li>chat.openai.com (1368)</li>
-<li>www.amazon.co.uk (1317)</li>
+<li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1102)</li>
 <li>web.whatsapp.com (1100)</li>
 <li>mail.rhul.ac.uk (933)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
-<li>rhul-my.sharepoint.com (815)</li>
+<li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (750)</li>
 <li>rhul.sharepoint.com (641)</li>
 <li>fritz.box (591)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 www.reddit.com</li>
+<ul><li> 13:59 duckduckgo.com</li>
+<li> 13:59 accurx.nhs.uk</li>
+<li> 13:59 florey.accurx.com</li>
+<li> 13:59 accurx.nhs.uk</li>
+<li> 13:58 www.woodlandavenuepractice.nhs.uk</li>
+<li> 13:58 www.amazon.co.uk</li>
+<li class='same'> 13:57 www.amazon.co.uk</li>
+<li class='same'> 13:56 www.amazon.co.uk</li>
+<li> 13:47 webtimetables.royalholloway.ac.uk</li>
+<li> 13:43 www.giantitp.com</li>
+<li> 13:42 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 13:41 webtimetables.royalholloway.ac.uk</li>
+<li> 13:38 rhul-my.sharepoint.com</li>
+<li class='same'> 13:37 rhul-my.sharepoint.com</li>
+<li> 13:31 www.reddit.com</li>
+<li class='same'> 13:30 www.reddit.com</li>
+<li class='same'> 13:29 www.reddit.com</li>
 <li class='same'> 13:28 www.reddit.com</li>
 <li> 13:22 rhul.sharepoint.com</li>
 <li> 13:19 <a href="https://www.theguardian.com/uk">Third of people no longer believe degree is worth the time or money, UK poll shows | Universities | The Guardian</a></li>
@@ -124377,20 +124393,4 @@ With number of accesses/minutes in parentheses
 <li> 14:12 media.isc2.org</li>
 <li> 14:11 bsky.app</li>
 <li> 14:10 media.isc2.org</li>
-<li> 14:10 www.isc2.org</li>
-<li> 13:56 outlook.office365.com</li>
-<li class='same'> 13:55 outlook.office365.com</li>
-<li class='same'> 13:54 outlook.office365.com</li>
-<li> 13:52 www.brighteducation.com.au</li>
-<li> 13:51 elearninginfographics.com</li>
-<li> 13:50 www.google.com</li>
-<li class='same'> 13:49 www.google.com</li>
-<li class='same'> 13:43 www.google.com</li>
-<li> 13:42 tenor.com</li>
-<li> 13:38 media.isc2.org</li>
-<li> 13:38 www.google.com</li>
-<li> 13:37 www.overleaf.com</li>
-<li> 13:36 www.isc2.org</li>
-<li> 13:36 media.isc2.org</li>
-<li> 13:36 library.cyentia.com</li>
 </ul>
