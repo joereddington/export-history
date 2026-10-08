@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5741)</li>
+<ol><li>www.reddit.com (5742)</li>
 <li>mail.google.com (5242)</li>
 <li>www.google.com (4926)</li>
 <li>outlook.office365.com (4224)</li>
 <li>duckduckgo.com (3996)</li>
 <li>outlook.office.com (3865)</li>
-<li>docs.google.com (3261)</li>
+<li>docs.google.com (3260)</li>
 <li>chatgpt.com (2948)</li>
-<li>www.linkedin.com (2374)</li>
+<li>www.linkedin.com (2376)</li>
 <li>bsky.app (1950)</li>
 <li>moodle.royalholloway.ac.uk (1811)</li>
-<li>www.facebook.com (1656)</li>
+<li>www.facebook.com (1657)</li>
 <li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1489)</li>
 <li>chat.openai.com (1368)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:58 www.reddit.com</li>
+<ul><li> 08:29 webtimetables.royalholloway.ac.uk</li>
+<li> 08:23 www.facebook.com</li>
+<li> 08:23 facebook.com</li>
+<li> 08:23 dashboards.rhul.ac.uk</li>
+<li> 08:14 www.linkedin.com</li>
+<li class='same'> 08:13 www.linkedin.com</li>
+<li> 07:59 www.reddit.com</li>
+<li class='same'> 07:58 www.reddit.com</li>
 <li> 07:55 duckduckgo.com</li>
 <li> 07:54 www.researchgate.net</li>
 <li> 07:54 pure.royalholloway.ac.uk</li>
@@ -124359,5 +124366,4 @@ With number of accesses/minutes in parentheses
 <li> 13:08 docs.google.com</li>
 <li> 13:08 calendar.google.com</li>
 <li> 13:08 docs.google.com</li>
-<li class='same'> 13:07 docs.google.com</li>
 </ul>
