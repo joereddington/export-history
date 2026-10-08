@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5742)</li>
+<ol><li>www.reddit.com (5745)</li>
 <li>mail.google.com (5242)</li>
-<li>www.google.com (4924)</li>
-<li>outlook.office365.com (4224)</li>
-<li>duckduckgo.com (3996)</li>
+<li>www.google.com (4923)</li>
+<li>outlook.office365.com (4223)</li>
+<li>duckduckgo.com (3997)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
 <li>chatgpt.com (2950)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (749)</li>
-<li>rhul.sharepoint.com (639)</li>
+<li>rhul.sharepoint.com (640)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:45 dashboards.rhul.ac.uk</li>
+<ul><li> 10:24 www.reddit.com</li>
+<li class='same'> 10:22 www.reddit.com</li>
+<li class='same'> 10:21 www.reddit.com</li>
+<li> 10:17 rhul.sharepoint.com</li>
+<li> 10:14 www.msn.com</li>
+<li> 10:14 duckduckgo.com</li>
+<li> 10:13 thetab.com</li>
+<li> 10:13 www.google.com</li>
+<li> 10:04 localhost:8443</li>
+<li> 10:03 forms.cloud.microsoft</li>
+<li class='same'> 09:57 forms.cloud.microsoft</li>
+<li> 09:45 dashboards.rhul.ac.uk</li>
 <li> 09:43 forms.cloud.microsoft</li>
 <li> 09:31 localhost:8443</li>
 <li class='same'> 09:30 localhost:8443</li>
@@ -124360,17 +124371,4 @@ With number of accesses/minutes in parentheses
 <li> 13:30 www.google.com</li>
 <li> 13:29 www.secureworld.io</li>
 <li> 13:29 delinea.com</li>
-<li class='same'> 13:28 delinea.com</li>
-<li> 13:28 www.thycotic.com</li>
-<li> 13:28 thycotic.com</li>
-<li> 13:28 digitalisationworld.com</li>
-<li> 13:28 www.google.com</li>
-<li> 13:28 thycotic.com</li>
-<li> 13:28 delinea.com</li>
-<li class='same'> 13:27 delinea.com</li>
-<li> 13:26 thycotic.com</li>
-<li> 13:26 delinea.com</li>
-<li> 13:26 thenextweb.com</li>
-<li> 13:26 www.google.com</li>
-<li> 13:14 outlook.office365.com</li>
 </ul>
