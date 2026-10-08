@@ -74,13 +74,13 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4224)</li>
 <li>duckduckgo.com (3996)</li>
 <li>outlook.office.com (3865)</li>
-<li>docs.google.com (3260)</li>
+<li>docs.google.com (3257)</li>
 <li>chatgpt.com (2948)</li>
-<li>www.linkedin.com (2376)</li>
+<li>www.linkedin.com (2378)</li>
 <li>bsky.app (1950)</li>
 <li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1657)</li>
-<li>calendar.google.com (1554)</li>
+<li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1489)</li>
 <li>chat.openai.com (1368)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:29 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 08:48 www.linkedin.com</li>
+<li class='same'> 08:47 www.linkedin.com</li>
+<li> 08:45 localhost:8443</li>
+<li> 08:31 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 08:29 webtimetables.royalholloway.ac.uk</li>
 <li> 08:23 www.facebook.com</li>
 <li> 08:23 facebook.com</li>
 <li> 08:23 dashboards.rhul.ac.uk</li>
@@ -124361,9 +124365,4 @@ With number of accesses/minutes in parentheses
 <li> 13:10 www.royalholloway.ac.uk</li>
 <li> 13:10 www.google.com</li>
 <li> 13:09 docs.google.com</li>
-<li class='same'> 13:08 docs.google.com</li>
-<li> 13:08 calendar.google.com</li>
-<li> 13:08 docs.google.com</li>
-<li> 13:08 calendar.google.com</li>
-<li> 13:08 docs.google.com</li>
 </ul>
