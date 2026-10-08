@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5242)</li>
 <li>www.google.com (4923)</li>
 <li>outlook.office365.com (4223)</li>
-<li>duckduckgo.com (3997)</li>
+<li>duckduckgo.com (3998)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
 <li>chatgpt.com (2950)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:47 localhost:8443</li>
+<ul><li> 11:17 duckduckgo.com</li>
+<li> 11:12 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 11:11 webtimetables.royalholloway.ac.uk</li>
+<li> 11:06 localhost:8443</li>
+<li class='same'> 10:47 localhost:8443</li>
 <li> 10:44 forms.cloud.microsoft</li>
 <li> 10:44 login.microsoftonline.com</li>
 <li> 10:44 device.login.microsoftonline.com</li>
