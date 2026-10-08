@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5752)</li>
-<li>mail.google.com (5240)</li>
-<li>www.google.com (4917)</li>
+<li>mail.google.com (5242)</li>
+<li>www.google.com (4913)</li>
 <li>outlook.office365.com (4220)</li>
 <li>duckduckgo.com (4000)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
 <li>chatgpt.com (2950)</li>
-<li>www.linkedin.com (2379)</li>
-<li>bsky.app (1949)</li>
+<li>www.linkedin.com (2377)</li>
+<li>bsky.app (1947)</li>
 <li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1657)</li>
 <li>calendar.google.com (1552)</li>
@@ -85,14 +85,14 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1368)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1102)</li>
+<li>gmail.com (1103)</li>
 <li>web.whatsapp.com (1100)</li>
 <li>mail.rhul.ac.uk (933)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (750)</li>
-<li>rhul.sharepoint.com (641)</li>
+<li>rhul.sharepoint.com (642)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 duckduckgo.com</li>
+<ul><li> 14:22 dashboards.rhul.ac.uk</li>
+<li> 14:12 mail.google.com</li>
+<li> 14:06 rhul.sharepoint.com</li>
+<li> 14:03 accurx.nhs.uk</li>
+<li> 14:03 mail.google.com</li>
+<li> 14:03 gmail.com</li>
+<li> 14:03 accurx.nhs.uk</li>
+<li> 13:59 duckduckgo.com</li>
 <li> 13:59 accurx.nhs.uk</li>
 <li> 13:59 florey.accurx.com</li>
 <li> 13:59 accurx.nhs.uk</li>
@@ -124376,21 +124383,4 @@ With number of accesses/minutes in parentheses
 <li> 14:24 <a href="https://en.wikipedia.org/wiki/Keffals">Keffals - Wikipedia</a></li>
 <li> 14:24 <a href="https://en.wikipedia.org/wiki/Greta_Thunberg#/media/File:Greta_Thunberg_in_Stockholm_(3x4_cropped).jpg">Greta Thunberg - Wikipedia</a></li>
 <li> 14:24 <a href="https://en.wikipedia.org/wiki/Greta_Thunberg">Greta Thunberg - Wikipedia</a></li>
-<li> 14:23 www.google.com</li>
-<li> 14:22 <a href="https://www.bbc.co.uk/news/blogs-trending-48871400">A web of abuse: How the far right disproportionately targets female politicians - BBC News</a></li>
-<li> 14:21 www.google.com</li>
-<li> 14:20 ieeexplore.ieee.org</li>
-<li> 14:20 scholar.google.com</li>
-<li class='same'> 14:18 scholar.google.com</li>
-<li> 14:18 scholar.dsu.edu</li>
-<li> 14:18 scholar.google.com</li>
-<li> 14:17 www.google.com</li>
-<li> 14:14 bsky.app</li>
-<li> 14:14 www.linkedin.com</li>
-<li class='same'> 14:13 www.linkedin.com</li>
-<li> 14:13 www.isc2.org</li>
-<li> 14:13 www.google.com</li>
-<li> 14:12 media.isc2.org</li>
-<li> 14:11 bsky.app</li>
-<li> 14:10 media.isc2.org</li>
 </ul>
