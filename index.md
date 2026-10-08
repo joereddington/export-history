@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5747)</li>
-<li>mail.google.com (5242)</li>
-<li>www.google.com (4923)</li>
+<li>mail.google.com (5240)</li>
+<li>www.google.com (4921)</li>
 <li>outlook.office365.com (4223)</li>
-<li>duckduckgo.com (3998)</li>
+<li>duckduckgo.com (3999)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
 <li>chatgpt.com (2950)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1368)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1103)</li>
+<li>gmail.com (1102)</li>
 <li>web.whatsapp.com (1100)</li>
 <li>mail.rhul.ac.uk (933)</li>
 <li>tvtropes.org (880)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:17 duckduckgo.com</li>
+<ul><li> 11:48 www.giantitp.com</li>
+<li> 11:47 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:17 duckduckgo.com</li>
 <li> 11:12 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 11:11 webtimetables.royalholloway.ac.uk</li>
 <li> 11:06 localhost:8443</li>
@@ -124373,18 +124379,4 @@ With number of accesses/minutes in parentheses
 <li> 13:36 www.isc2.org</li>
 <li> 13:36 media.isc2.org</li>
 <li> 13:36 library.cyentia.com</li>
-<li> 13:34 edge.sitecorecloud.io</li>
-<li> 13:34 www.isc2.org</li>
-<li class='same'> 13:33 www.isc2.org</li>
-<li> 13:33 www.google.com</li>
-<li> 13:33 cujo.com</li>
-<li class='same'> 13:32 cujo.com</li>
-<li> 13:31 Local file</li>
-<li> 13:31 mail.google.com</li>
-<li class='same'> 13:30 mail.google.com</li>
-<li> 13:30 gmail.com</li>
-<li> 13:30 cujo.com</li>
-<li> 13:30 www.google.com</li>
-<li> 13:29 www.secureworld.io</li>
-<li> 13:29 delinea.com</li>
 </ul>
