@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (750)</li>
-<li>rhul.sharepoint.com (642)</li>
+<li>rhul.sharepoint.com (643)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:54 rhul.rl.talis.com</li>
+<ul><li> 15:05 rhul.sharepoint.com</li>
+<li> 14:54 rhul.rl.talis.com</li>
 <li> 14:54 duckduckgo.com</li>
 <li class='same'> 14:53 duckduckgo.com</li>
 <li> 14:31 mail.google.com</li>
