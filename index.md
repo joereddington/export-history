@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5745)</li>
+<ol><li>www.reddit.com (5747)</li>
 <li>mail.google.com (5242)</li>
 <li>www.google.com (4923)</li>
 <li>outlook.office365.com (4223)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1657)</li>
 <li>calendar.google.com (1552)</li>
-<li>login.microsoftonline.com (1491)</li>
+<li>login.microsoftonline.com (1493)</li>
 <li>chat.openai.com (1368)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (815)</li>
-<li>forms.office.com (749)</li>
+<li>forms.office.com (750)</li>
 <li>rhul.sharepoint.com (640)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:24 www.reddit.com</li>
+<ul><li> 10:47 localhost:8443</li>
+<li> 10:44 forms.cloud.microsoft</li>
+<li> 10:44 login.microsoftonline.com</li>
+<li> 10:44 device.login.microsoftonline.com</li>
+<li> 10:44 login.microsoftonline.com</li>
+<li> 10:44 forms.cloud.microsoft</li>
+<li> 10:44 forms.office.com</li>
+<li> 10:44 forms.cloud.microsoft</li>
+<li> 10:40 dashboards.rhul.ac.uk</li>
+<li class='same'> 10:39 dashboards.rhul.ac.uk</li>
+<li> 10:37 www.reddit.com</li>
+<li class='same'> 10:25 www.reddit.com</li>
+<li class='same'> 10:24 www.reddit.com</li>
 <li class='same'> 10:22 www.reddit.com</li>
 <li class='same'> 10:21 www.reddit.com</li>
 <li> 10:17 rhul.sharepoint.com</li>
