@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5752)</li>
-<li>mail.google.com (5243)</li>
-<li>www.google.com (4913)</li>
-<li>outlook.office365.com (4220)</li>
+<ol><li>www.reddit.com (5753)</li>
+<li>mail.google.com (5245)</li>
+<li>www.google.com (4910)</li>
+<li>outlook.office365.com (4218)</li>
 <li>duckduckgo.com (4002)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
 <li>chatgpt.com (2950)</li>
 <li>www.linkedin.com (2377)</li>
-<li>bsky.app (1947)</li>
+<li>bsky.app (1946)</li>
 <li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1657)</li>
 <li>calendar.google.com (1552)</li>
@@ -108,10 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:47 <a href="https://www.theguardian.com/stage/2026/oct/08/brian-blessed-90-emma-thompson-adrian-lester-derek-jacobi-brian-may">Three sisters who drowned in Brighton took their own lives, inquest finds | Brighton | The Guardian</a></li>
+<li> 15:47 <a href="https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest">‘I feel perfectly safe’: white Lutonians on the town’s supposed no-go zones | Luton | The Guardian</a></li>
+<li> 15:37 mail.google.com</li>
+<li> 15:37 www.reddit.com</li>
+<li> 15:37 www.google.com</li>
+<li> 15:37 click.redditmail.com</li>
+<li> 15:37 mail.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:05 rhul.sharepoint.com</li>
 <li> 14:54 rhul.rl.talis.com</li>
 <li> 14:54 duckduckgo.com</li>
 <li class='same'> 14:53 duckduckgo.com</li>
+<li> 14:39 <a href="https://www.theguardian.com/uk-news/2026/oct/08/luton-white-people-feel-safe-in-supposed-no-go-zones">Three sisters who drowned in Brighton took their own lives, inquest finds | Brighton | The Guardian</a></li>
 <li> 14:31 mail.google.com</li>
 <li> 14:22 dashboards.rhul.ac.uk</li>
 <li> 14:12 mail.google.com</li>
@@ -139,6 +151,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:29 www.reddit.com</li>
 <li class='same'> 13:28 www.reddit.com</li>
 <li> 13:22 rhul.sharepoint.com</li>
+<li> 13:19 <a href="https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest">‘I feel perfectly safe’: white Lutonians on the town’s supposed no-go zones | Luton | The Guardian</a></li>
 <li> 13:19 <a href="https://www.theguardian.com/uk">Third of people no longer believe degree is worth the time or money, UK poll shows | Universities | The Guardian</a></li>
 <li> 13:19 <a href="https://www.theguardian.com/">Third of people no longer believe degree is worth the time or money, UK poll shows | Universities | The Guardian</a></li>
 <li> 13:13 www.cloudrx.co.uk</li>
@@ -124373,19 +124386,4 @@ With number of accesses/minutes in parentheses
 <li> 14:42 bsky.app</li>
 <li> 14:42 www.facebook.com</li>
 <li class='same'> 14:41 www.facebook.com</li>
-<li> 14:41 outlook.office365.com</li>
-<li> 14:39 <a href="https://en.wikipedia.org/wiki/Brexit_and_the_Irish_border">Brexit and the Irish border - Wikipedia</a></li>
-<li> 14:39 www.google.com</li>
-<li> 14:37 <a href="https://en.wikipedia.org/wiki/Economic_effects_of_Brexit">Economic effects of Brexit - Wikipedia</a></li>
-<li> 14:37 www.google.com</li>
-<li> 14:28 bsky.app</li>
-<li> 14:28 outlook.office365.com</li>
-<li> 14:26 scholar.google.com</li>
-<li class='same'> 14:25 scholar.google.com</li>
-<li> 14:25 www.google.com</li>
-<li> 14:24 scholar.google.co.uk</li>
-<li> 14:24 www.google.com</li>
-<li> 14:24 <a href="https://en.wikipedia.org/wiki/Keffals">Keffals - Wikipedia</a></li>
-<li> 14:24 <a href="https://en.wikipedia.org/wiki/Greta_Thunberg#/media/File:Greta_Thunberg_in_Stockholm_(3x4_cropped).jpg">Greta Thunberg - Wikipedia</a></li>
-<li> 14:24 <a href="https://en.wikipedia.org/wiki/Greta_Thunberg">Greta Thunberg - Wikipedia</a></li>
 </ul>
