@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (4008)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
-<li>chatgpt.com (2953)</li>
+<li>chatgpt.com (2955)</li>
 <li>www.linkedin.com (2378)</li>
 <li>bsky.app (1944)</li>
 <li>moodle.royalholloway.ac.uk (1819)</li>
 <li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1555)</li>
 <li>login.microsoftonline.com (1500)</li>
-<li>chat.openai.com (1371)</li>
+<li>chat.openai.com (1372)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1103)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 localhost:8443</li>
+<ul><li> 16:49 chatgpt.com</li>
+<li class='same'> 16:48 chatgpt.com</li>
+<li> 16:48 chat.openai.com</li>
+<li> 16:31 dashboards.rhul.ac.uk</li>
+<li> 16:30 localhost:8443</li>
+<li class='same'> 16:28 localhost:8443</li>
 <li class='same'> 16:22 localhost:8443</li>
 <li class='same'> 16:16 localhost:8443</li>
 <li class='same'> 16:15 localhost:8443</li>
@@ -124483,10 +124488,4 @@ With number of accesses/minutes in parentheses
 <li> 15:36 <a href="https://www.youtube.com/shorts/lG1GRZVySYE">(82) YouTube</a></li>
 <li> 15:35 <a href="https://www.youtube.com/shorts/3yERzHKJnX0">(82) This Simple Phrase Makes Restaurants Millions Of Dollars - YouTube</a></li>
 <li> 15:35 <a href="https://www.youtube.com/shorts/LrOQ5ZL_2fw">(82) How To Cut Socket Out Plasterboard #asmr #shorts #hacks - YouTube</a></li>
-<li> 15:35 <a href="https://www.youtube.com/shorts/amBfdnrEZjg">(82) Entrepreneur reveals SECRET product to SECURE the deal - YouTube</a></li>
-<li> 15:35 <a href="https://www.youtube.com/shorts/7OGpuZaBJ7A">(82) YouTube</a></li>
-<li> 15:34 <a href="https://www.youtube.com/shorts/jOh2ibipUnc">(82) There’s nothing to hold the doctor back #movie #shorts #fantasy #doctorwho - YouTube</a></li>
-<li> 15:34 <a href="https://www.youtube.com/shorts/RolWX2JTTfY">(82) The difference between power and endurance! 🤯 #shorts (@jeuxdeforce) - YouTube</a></li>
-<li> 15:34 <a href="https://www.youtube.com/shorts/-Xu-bc1TgNA">(82) YouTube</a></li>
-<li> 15:34 <a href="https://www.youtube.com/shorts/Y5Wchr0bWJM">(82) Technically we didn’t lie - YouTube</a></li>
 </ul>
