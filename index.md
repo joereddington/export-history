@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1816)</li>
 <li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1553)</li>
-<li>login.microsoftonline.com (1497)</li>
+<li>login.microsoftonline.com (1499)</li>
 <li>chat.openai.com (1371)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (817)</li>
-<li>forms.office.com (752)</li>
+<li>forms.office.com (753)</li>
 <li>rhul.sharepoint.com (645)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 09/10/26</H3>
+
+<br>
+
+<ul><li> 13:17 forms.cloud.microsoft</li>
+<li> 13:17 login.microsoftonline.com</li>
+<li> 13:17 device.login.microsoftonline.com</li>
+<li> 13:17 login.microsoftonline.com</li>
+<li> 13:17 forms.cloud.microsoft</li>
+<li> 13:17 forms.office.com</li>
+<li> 13:16 localhost:8443</li>
+</ul>
 
 <br>
 
