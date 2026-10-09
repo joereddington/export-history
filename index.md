@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5766)</li>
+<ol><li>www.reddit.com (5776)</li>
 <li>mail.google.com (5245)</li>
 <li>www.google.com (4915)</li>
 <li>outlook.office365.com (4217)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1552)</li>
-<li>login.microsoftonline.com (1495)</li>
+<li>login.microsoftonline.com (1494)</li>
 <li>chat.openai.com (1368)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -104,11 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 09/10/26</H3>
+
+<br>
+
+<ul><li> 08:13 localhost:8443</li>
+<li> 08:07 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 08:05 webtimetables.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:18 www.reddit.com</li>
+<li class='same'> 07:17 www.reddit.com</li>
+<li> 07:17 www.rottentomatoes.com</li>
+<li> 07:16 www.reddit.com</li>
+<li class='same'> 07:15 www.reddit.com</li>
+<li class='same'> 07:14 www.reddit.com</li>
+<li class='same'> 07:11 www.reddit.com</li>
+<li class='same'> 07:10 www.reddit.com</li>
+</ul>
+
 <H3>Thursday, 08/10/26</H3>
 
 <br>
 
-<ul><li> 21:19 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:27 www.reddit.com</li>
+<li class='same'> 21:26 www.reddit.com</li>
+<li class='same'> 21:23 www.reddit.com</li>
+<li class='same'> 21:19 www.reddit.com</li>
 <li class='same'> 21:18 www.reddit.com</li>
 <li class='same'> 21:17 www.reddit.com</li>
 <li> 21:17 www.google.com</li>
@@ -12390,7 +12418,6 @@ With number of accesses/minutes in parentheses
 <li> 17:24 www.linkedin.com</li>
 <li class='same'> 17:23 www.linkedin.com</li>
 <li> 17:21 www.joe.co.uk</li>
-<li> 17:21 l.facebook.com</li>
 <li> 17:21 www.facebook.com</li>
 <li> 17:20 duckduckgo.com</li>
 <li> 17:19 <a href="https://en.wikipedia.org/wiki/Count_Binface">Count Binface - Wikipedia</a></li>
@@ -12407,8 +12434,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:30 quote.octopusev.com</li>
 <li> 16:29 mail.google.com</li>
 <li> 16:29 gmail.com</li>
-<li> 16:25 quote.octopusev.com</li>
-<li class='same'> 16:24 quote.octopusev.com</li>
 <li> 16:24 chatgpt.com</li>
 <li> 16:23 quote.octopusev.com</li>
 <li class='same'> 16:22 quote.octopusev.com</li>
@@ -12430,7 +12455,6 @@ With number of accesses/minutes in parentheses
 <li> 15:38 www.sciencedirect.com</li>
 <li> 15:38 linkinghub.elsevier.com</li>
 <li> 15:38 pubmed.ncbi.nlm.nih.gov</li>
-<li> 15:21 arxiv.org</li>
 <li> 15:16 dl.acm.org</li>
 <li class='same'> 15:15 dl.acm.org</li>
 <li> 15:13 arxiv.org</li>
@@ -12527,7 +12551,6 @@ With number of accesses/minutes in parentheses
 <li> 09:05 outlook.office365.com</li>
 <li class='same'> 09:04 outlook.office365.com</li>
 <li class='same'> 09:00 outlook.office365.com</li>
-<li> 09:00 login.microsoftonline.com</li>
 <li> 09:00 device.login.microsoftonline.com</li>
 <li> 09:00 outlook.office365.com</li>
 </ul>
@@ -124391,34 +124414,4 @@ With number of accesses/minutes in parentheses
 <li> 15:24 <a href="https://www.youtube.com/shorts/-oSjklgf8dg">(82) Tina Fey and Steve Martin Get Existential Presenting Best Original Screenplay At The 81st #Oscars - YouTube</a></li>
 <li> 15:24 <a href="https://www.youtube.com/shorts/L-_i87TtAKg">(82) The Real One || Ant-Man And The Wasp: Quantumania #antman - YouTube</a></li>
 <li> 15:23 <a href="https://www.youtube.com/shorts/eXJIjFadBA4">(82) A task at the cost of life🤯#breakingbad - YouTube</a></li>
-<li> 15:23 <a href="https://www.youtube.com/shorts/OQmsPlbUrYI">(82) YouTube</a></li>
-<li> 15:23 <a href="https://www.youtube.com/shorts/7H1f2C-vuTo">(82) Eddie Hall DESTROYED by 9 Year Old in MMA! - YouTube</a></li>
-<li> 15:23 <a href="https://www.youtube.com/shorts/ii8tBQKuV9Q">(82) Want a THRIVING Digital Marketing Agency? Watch This Now - YouTube</a></li>
-<li> 15:23 <a href="https://www.youtube.com/shorts/wWTCQbq_vjk">(82) How to ride a penny-farthing! 😮🤩 - 🎥 shopniljourney - YouTube</a></li>
-<li> 15:23 <a href="https://www.youtube.com/shorts/FQ7NxLB8QJg">(82) YouTube</a></li>
-<li> 15:22 <a href="https://www.youtube.com/shorts/iX7-pdtfUFY">(82) Dr.House wants to save father and son, but the father won’t save the son #movie #shorts #video - YouTube</a></li>
-<li> 15:22 <a href="https://www.youtube.com/shorts/hy5lewu_9QY">(82) The Strength to Keep Going💯💪 #motivation #mindset #shortvideo #shorts #short #facts - YouTube</a></li>
-<li> 15:21 <a href="https://www.youtube.com/shorts/WfSIaXKs3FM">(82) Cooler Than Magic || Spider-Man: No Way Home #spiderman - YouTube</a></li>
-<li> 15:20 <a href="https://www.youtube.com/shorts/dB_W-VU4IiM">(82) It was obviously an inside job. #brooklyn99 #S07 #E05 #film #viral - YouTube</a></li>
-<li> 15:20 <a href="https://www.youtube.com/shorts/yohKpSDOCEM">(82) &quot;Celebrity teacher&quot; Greg Davies 😂 #leemack #gregdavies #wilty - YouTube</a></li>
-<li> 15:20 <a href="https://www.youtube.com/shorts/vSWSxHbkr-o">(82) Stormtrooper gets brave at MCM Comic Con London #mcmcomiccon #cosplay #starwars #comiccon #deadwood - YouTube</a></li>
-<li> 15:19 <a href="https://www.youtube.com/shorts/l2E-UGYxkI8">(82) Sheldon’s weakness #movie #shorts #happy #funny - YouTube</a></li>
-<li> 15:19 <a href="https://www.youtube.com/shorts/FQ7NxLB8QJg">(82) YouTube</a></li>
-<li> 15:18 <a href="https://www.youtube.com/shorts/nWJA_2v3dcg">(82) The Greatest Shot in Television History - YouTube</a></li>
-<li> 15:18 <a href="https://www.youtube.com/shorts/IqE_NfFQORU">(82) I&#x27;m Not Going Anywhere | Suits - YouTube</a></li>
-<li> 15:18 <a href="https://www.youtube.com/shorts/CRTjZTwIyI0">(82) Something weird grows from this liquid - YouTube</a></li>
-<li> 15:18 <a href="https://www.youtube.com/shorts/7OGpuZaBJ7A">(82) YouTube</a></li>
-<li> 15:18 <a href="https://www.youtube.com/shorts/ULAwSbzSLgM">(82) How fast is a Greatsword? - YouTube</a></li>
-<li> 15:17 <a href="https://www.youtube.com/shorts/SkUHELa5PSA">(82) Dr.House always had his way with lying patients #movie #shorts #video - YouTube</a></li>
-<li> 15:17 <a href="https://www.youtube.com/shorts/IzdQfzhNYNQ">(82) Making a Holly Stick #stickmaking #ireland #stick #holly #woodcraft #nature - YouTube</a></li>
-<li> 15:17 <a href="https://www.youtube.com/shorts/0M40vQDJS9g">(82) YouTube</a></li>
-<li> 15:16 <a href="https://www.youtube.com/shorts/sYJ-sy27TGQ">(82) Advanced Alternative Chops 🪓 - YouTube</a></li>
-<li> 15:16 <a href="https://www.youtube.com/shorts/5pQcJ2ejMjs">(82) Why People Prefer McDonald&#x27;s Order Screens More - YouTube</a></li>
-<li> 15:16 <a href="https://www.youtube.com/shorts/0FjUfmkBdVM">(82) #mnze #tools #hydraulictools - YouTube</a></li>
-<li> 15:16 <a href="https://www.youtube.com/shorts/bYh0sTsfRw8">(82) Hammond thought he had the coolest car…🛻😂 #car #topgear - YouTube</a></li>
-<li> 15:15 <a href="https://www.youtube.com/shorts/5pQcJ2ejMjs">(82) Why People Prefer McDonald&#x27;s Order Screens More - YouTube</a></li>
-<li> 15:15 <a href="https://www.youtube.com/shorts/bYh0sTsfRw8">(82) Hammond thought he had the coolest car…🛻😂 #car #topgear - YouTube</a></li>
-<li> 15:15 <a href="https://www.youtube.com/shorts/SvxWCC_1i4I">(82) Wide finger joint/Woodworking Tips #woodworking #woodmade #wood #diy #making #tools#tips - YouTube</a></li>
-<li> 15:14 <a href="https://www.youtube.com/shorts/AszxZeDIofE">(82) Jane&#x27;s new interrogation method😎#mentalist - YouTube</a></li>
-<li> 15:14 <a href="https://www.youtube.com/shorts/8xHcZXVJYH8">(82) Making an Ash Burl Bowl #ireland #woodwork #woodturning #burl #ash #craft #lathe - YouTube</a></li>
 </ul>
