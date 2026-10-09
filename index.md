@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5754)</li>
+<ol><li>www.reddit.com (5766)</li>
 <li>mail.google.com (5245)</li>
-<li>www.google.com (4910)</li>
-<li>outlook.office365.com (4218)</li>
+<li>www.google.com (4915)</li>
+<li>outlook.office365.com (4217)</li>
 <li>duckduckgo.com (4002)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
 <li>chatgpt.com (2950)</li>
 <li>www.linkedin.com (2378)</li>
-<li>bsky.app (1946)</li>
+<li>bsky.app (1944)</li>
 <li>moodle.royalholloway.ac.uk (1811)</li>
-<li>www.facebook.com (1657)</li>
+<li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1495)</li>
 <li>chat.openai.com (1368)</li>
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 08/10/26</H3>
+
+<br>
+
+<ul><li> 21:19 www.reddit.com</li>
+<li class='same'> 21:18 www.reddit.com</li>
+<li class='same'> 21:17 www.reddit.com</li>
+<li> 21:17 www.google.com</li>
+<li> 21:11 www.reddit.com</li>
+<li> 21:11 www.google.com</li>
+<li class='same'> 21:10 www.google.com</li>
+<li class='same'> 21:09 www.google.com</li>
+<li class='same'> 21:08 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:37 www.reddit.com</li>
+<li class='same'> 20:32 www.reddit.com</li>
+<li class='same'> 20:30 www.reddit.com</li>
+<li class='same'> 20:28 www.reddit.com</li>
+<li class='same'> 20:27 www.reddit.com</li>
+<li class='same'> 20:25 www.reddit.com</li>
+<li class='same'> 20:24 www.reddit.com</li>
+<li class='same'> 20:15 www.reddit.com</li>
+<li class='same'> 20:11 www.reddit.com</li>
+<li class='same'> 20:10 www.reddit.com</li>
+<li class='same'> 20:09 www.reddit.com</li>
+<li class='same'> 20:07 www.reddit.com</li>
+<li class='same'> 20:04 www.reddit.com</li>
+<li class='same'> 20:02 www.reddit.com</li>
+<li class='same'> 20:00 www.reddit.com</li>
+<li> 19:59 www.linkedin.com</li>
+</ul>
 
 <br>
 
@@ -124387,24 +124420,5 @@ With number of accesses/minutes in parentheses
 <li> 15:15 <a href="https://www.youtube.com/shorts/bYh0sTsfRw8">(82) Hammond thought he had the coolest car…🛻😂 #car #topgear - YouTube</a></li>
 <li> 15:15 <a href="https://www.youtube.com/shorts/SvxWCC_1i4I">(82) Wide finger joint/Woodworking Tips #woodworking #woodmade #wood #diy #making #tools#tips - YouTube</a></li>
 <li> 15:14 <a href="https://www.youtube.com/shorts/AszxZeDIofE">(82) Jane&#x27;s new interrogation method😎#mentalist - YouTube</a></li>
-<li> 15:14 <a href="https://www.youtube.com/shorts/OQmsPlbUrYI">(82) YouTube</a></li>
 <li> 15:14 <a href="https://www.youtube.com/shorts/8xHcZXVJYH8">(82) Making an Ash Burl Bowl #ireland #woodwork #woodturning #burl #ash #craft #lathe - YouTube</a></li>
-<li> 15:13 <a href="https://www.youtube.com/shorts/UBBhA4uW0K0">(82) The Big Bang Theory | Leonard: I Wouldn&#x27;t Even Know How To Design An.. #shorts #thebigbangtheory - YouTube</a></li>
-<li> 15:13 <a href="https://www.youtube.com/shorts/wTgiw5NWLVg">(82) The Big Bang Theory | Penny: Haillee Can&#x27;t Reach The Liquor Cabinet, Why.. #shorts #thebigbangtheory - YouTube</a></li>
-<li> 15:13 <a href="https://www.youtube.com/">(102) YouTube</a></li>
-<li> 15:10 <a href="https://www.youtube.com/watch?v=1pHDWnXmK7Y">(82) Captain America: Brave New World | Official Trailer - YouTube</a></li>
-<li> 15:10 <a href="https://www.youtube.com/">(102) YouTube</a></li>
-<li> 15:10 bsky.app</li>
-<li> 15:09 www.linkedin.com</li>
-<li> 15:09 outlook.office365.com</li>
-<li> 15:08 www.reddit.com</li>
-<li class='same'> 15:07 www.reddit.com</li>
-<li class='same'> 14:49 www.reddit.com</li>
-<li class='same'> 14:48 www.reddit.com</li>
-<li class='same'> 14:47 www.reddit.com</li>
-<li class='same'> 14:44 www.reddit.com</li>
-<li class='same'> 14:43 www.reddit.com</li>
-<li> 14:42 bsky.app</li>
-<li> 14:42 www.facebook.com</li>
-<li class='same'> 14:41 www.facebook.com</li>
 </ul>
