@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (4002)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
-<li>chatgpt.com (2950)</li>
+<li>chatgpt.com (2951)</li>
 <li>www.linkedin.com (2378)</li>
 <li>bsky.app (1944)</li>
-<li>moodle.royalholloway.ac.uk (1811)</li>
+<li>moodle.royalholloway.ac.uk (1813)</li>
 <li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1553)</li>
-<li>login.microsoftonline.com (1494)</li>
-<li>chat.openai.com (1368)</li>
+<li>login.microsoftonline.com (1495)</li>
+<li>chat.openai.com (1369)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1103)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:41 dashboards.rhul.ac.uk</li>
+<ul><li> 09:27 moodle.royalholloway.ac.uk</li>
+<li> 09:27 login.microsoftonline.com</li>
+<li> 09:27 device.login.microsoftonline.com</li>
+<li> 09:27 moodle.royalholloway.ac.uk</li>
+<li> 09:18 localhost:8443</li>
+<li> 09:07 chatgpt.com</li>
+<li> 09:07 chat.openai.com</li>
+<li> 09:04 webtimetables.royalholloway.ac.uk</li>
+<li> 08:41 dashboards.rhul.ac.uk</li>
 <li> 08:31 calendar.google.com</li>
 <li> 08:13 localhost:8443</li>
 <li> 08:07 webtimetables.royalholloway.ac.uk</li>
