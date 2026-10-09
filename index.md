@@ -78,10 +78,10 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2953)</li>
 <li>www.linkedin.com (2378)</li>
 <li>bsky.app (1944)</li>
-<li>moodle.royalholloway.ac.uk (1818)</li>
+<li>moodle.royalholloway.ac.uk (1819)</li>
 <li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1555)</li>
-<li>login.microsoftonline.com (1499)</li>
+<li>login.microsoftonline.com (1500)</li>
 <li>chat.openai.com (1371)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:22 calendar.google.com</li>
+<ul><li> 16:28 localhost:8443</li>
+<li class='same'> 16:22 localhost:8443</li>
+<li class='same'> 16:16 localhost:8443</li>
+<li class='same'> 16:15 localhost:8443</li>
+<li> 16:12 dashboards.rhul.ac.uk</li>
+<li> 16:09 localhost:8443</li>
+<li class='same'> 16:08 localhost:8443</li>
+<li> 16:08 forms.cloud.microsoft</li>
+<li> 16:08 webtimetables.royalholloway.ac.uk</li>
+<li> 16:07 forms.cloud.microsoft</li>
+<li class='same'> 16:06 forms.cloud.microsoft</li>
+<li> 16:06 login.microsoftonline.com</li>
+<li> 16:06 forms.cloud.microsoft</li>
+<li> 16:06 device.login.microsoftonline.com</li>
+<li> 16:06 forms.cloud.microsoft</li>
+</ul>
+
+<br>
+
+<ul><li> 15:34 moodle.royalholloway.ac.uk</li>
+<li> 15:22 calendar.google.com</li>
 <li class='same'> 15:21 calendar.google.com</li>
 <li> 15:20 moodle.royalholloway.ac.uk</li>
 </ul>
