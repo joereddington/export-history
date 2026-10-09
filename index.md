@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5776)</li>
+<ol><li>www.reddit.com (5782)</li>
 <li>mail.google.com (5245)</li>
 <li>www.google.com (4915)</li>
 <li>outlook.office365.com (4217)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:43 localhost:8443</li>
+<ul><li> 10:21 localhost:8443</li>
+<li class='same'> 10:19 localhost:8443</li>
+<li class='same'> 10:17 localhost:8443</li>
+<li> 10:14 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:43 www.reddit.com</li>
+<li> 09:43 localhost:8443</li>
 <li> 09:35 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:27 moodle.royalholloway.ac.uk</li>
 <li> 09:27 login.microsoftonline.com</li>
@@ -123,11 +132,11 @@ With number of accesses/minutes in parentheses
 <li> 08:13 localhost:8443</li>
 <li> 08:07 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 08:05 webtimetables.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 07:18 www.reddit.com</li>
+<li> 07:40 www.reddit.com</li>
+<li class='same'> 07:39 www.reddit.com</li>
+<li class='same'> 07:36 www.reddit.com</li>
+<li class='same'> 07:35 www.reddit.com</li>
+<li class='same'> 07:18 www.reddit.com</li>
 <li class='same'> 07:17 www.reddit.com</li>
 <li> 07:17 www.rottentomatoes.com</li>
 <li> 07:16 www.reddit.com</li>
