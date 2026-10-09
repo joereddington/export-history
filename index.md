@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1944)</li>
 <li>moodle.royalholloway.ac.uk (1811)</li>
 <li>www.facebook.com (1655)</li>
-<li>calendar.google.com (1552)</li>
+<li>calendar.google.com (1553)</li>
 <li>login.microsoftonline.com (1494)</li>
 <li>chat.openai.com (1368)</li>
 <li>www.amazon.co.uk (1320)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:13 localhost:8443</li>
+<ul><li> 08:41 dashboards.rhul.ac.uk</li>
+<li> 08:31 calendar.google.com</li>
+<li> 08:13 localhost:8443</li>
 <li> 08:07 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 08:05 webtimetables.royalholloway.ac.uk</li>
 </ul>
