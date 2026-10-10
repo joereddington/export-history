@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5811)</li>
 <li>mail.google.com (5245)</li>
-<li>www.google.com (4911)</li>
-<li>outlook.office365.com (4203)</li>
-<li>duckduckgo.com (4008)</li>
-<li>outlook.office.com (3865)</li>
+<li>www.google.com (4909)</li>
+<li>outlook.office365.com (4201)</li>
+<li>duckduckgo.com (4010)</li>
+<li>outlook.office.com (3863)</li>
 <li>docs.google.com (3254)</li>
 <li>chatgpt.com (2958)</li>
 <li>www.linkedin.com (2379)</li>
-<li>bsky.app (1943)</li>
-<li>moodle.royalholloway.ac.uk (1822)</li>
+<li>bsky.app (1942)</li>
+<li>moodle.royalholloway.ac.uk (1813)</li>
 <li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1505)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (644)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
-<li>ev.turnitinuk.com (494)</li>
+<li>ev.turnitinuk.com (490)</li>
 <li>www.theguardian.com (467)</li>
 <li>drive.google.com (455)</li>
 
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 learningonscreen.ac.uk</li>
+<ul><li> 13:08 duckduckgo.com</li>
+<li> 13:07 www.thecoolist.com</li>
+<li> 13:07 duckduckgo.com</li>
+<li> 13:05 learningonscreen.ac.uk</li>
+<li class='same'> 13:03 learningonscreen.ac.uk</li>
+<li class='same'> 13:02 learningonscreen.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:29 learningonscreen.ac.uk</li>
 <li class='same'> 12:28 learningonscreen.ac.uk</li>
 <li> 12:28 login.learningonscreen.ac.uk</li>
 <li> 12:28 learningonscreen.ac.uk</li>
@@ -124516,33 +124526,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:18 ev.turnitinuk.com</li>
 <li class='same'> 16:17 ev.turnitinuk.com</li>
 <li class='same'> 16:15 ev.turnitinuk.com</li>
-<li> 16:15 api.turnitinuk.com</li>
-<li> 16:13 ev.turnitinuk.com</li>
-<li> 16:13 api.turnitinuk.com</li>
-<li> 16:13 moodle.royalholloway.ac.uk</li>
-<li class='same'> 16:12 moodle.royalholloway.ac.uk</li>
-<li> 16:12 outlook.office365.com</li>
-<li> 16:10 ev.turnitinuk.com</li>
-<li> 16:10 moodle.royalholloway.ac.uk</li>
-<li class='same'> 16:09 moodle.royalholloway.ac.uk</li>
-<li> 16:09 ev.turnitinuk.com</li>
-<li class='same'> 16:08 ev.turnitinuk.com</li>
-<li> 16:08 moodle.royalholloway.ac.uk</li>
-<li> 16:07 www.google.com</li>
-<li> 16:07 moodle.royalholloway.ac.uk</li>
-<li class='same'> 16:06 moodle.royalholloway.ac.uk</li>
-<li> 16:06 outlook.office.com</li>
-<li class='same'> 16:05 outlook.office.com</li>
-<li> 16:05 moodle.royalholloway.ac.uk</li>
-<li> 16:05 www.google.com</li>
-<li> 16:03 <a href="https://www.youtube.com/watch?v=8Lyo1f9G4e4">(82) Marking with Turnitin - YouTube</a></li>
-<li> 16:03 <a href="https://www.youtube.com/results?search_query=marking+a+paper+on+turnitin">(82) marking a paper on turnitin - YouTube</a></li>
-<li> 16:03 <a href="https://www.youtube.com/">(102) YouTube</a></li>
-<li> 16:02 moodle.royalholloway.ac.uk</li>
-<li> 16:00 bsky.app</li>
-<li> 16:00 <a href="https://www.youtube.com/watch?v=o5sEKw5xHus&amp;list=PL03F59734DAB6D738&amp;index=5">(82) Creating a Turnitin Assignment - Instructor Training - YouTube</a></li>
-<li> 16:00 <a href="https://www.youtube.com/watch?v=agVq6VEwcuw&amp;list=PL03F59734DAB6D738">(82) Creating a Turnitin Account - Instructor Training - YouTube</a></li>
-<li> 16:00 <a href="https://www.youtube.com/results?search_query=how+to+use+turnitit+as+a+lecturer+">(82) how to use turnitit as a lecturer - YouTube</a></li>
-<li> 15:59 <a href="https://www.youtube.com/">(102) YouTube</a></li>
-<li> 15:59 outlook.office365.com</li>
 </ul>
