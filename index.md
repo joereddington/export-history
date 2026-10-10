@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5811)</li>
 <li>mail.google.com (5245)</li>
-<li>www.google.com (4913)</li>
-<li>outlook.office365.com (4206)</li>
+<li>www.google.com (4911)</li>
+<li>outlook.office365.com (4203)</li>
 <li>duckduckgo.com (4008)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
-<li>chatgpt.com (2959)</li>
+<li>chatgpt.com (2958)</li>
 <li>www.linkedin.com (2379)</li>
-<li>bsky.app (1944)</li>
-<li>moodle.royalholloway.ac.uk (1824)</li>
+<li>bsky.app (1943)</li>
+<li>moodle.royalholloway.ac.uk (1822)</li>
 <li>www.facebook.com (1655)</li>
-<li>calendar.google.com (1555)</li>
+<li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1505)</li>
-<li>chat.openai.com (1374)</li>
+<li>chat.openai.com (1373)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1103)</li>
@@ -92,11 +92,11 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (754)</li>
-<li>rhul.sharepoint.com (645)</li>
+<li>rhul.sharepoint.com (644)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (544)</li>
 <li>ev.turnitinuk.com (494)</li>
-<li>www.theguardian.com (468)</li>
+<li>www.theguardian.com (467)</li>
 <li>drive.google.com (455)</li>
 
 
@@ -124545,20 +124545,4 @@ With number of accesses/minutes in parentheses
 <li> 16:00 <a href="https://www.youtube.com/results?search_query=how+to+use+turnitit+as+a+lecturer+">(82) how to use turnitit as a lecturer - YouTube</a></li>
 <li> 15:59 <a href="https://www.youtube.com/">(102) YouTube</a></li>
 <li> 15:59 outlook.office365.com</li>
-<li class='same'> 15:58 outlook.office365.com</li>
-<li> 15:56 rhul.sharepoint.com</li>
-<li> 15:56 outlook.office365.com</li>
-<li> 15:55 calendar.google.com</li>
-<li> 15:55 moodle.royalholloway.ac.uk</li>
-<li> 15:54 outlook.office365.com</li>
-<li> 15:53 chatgpt.com</li>
-<li> 15:53 chat.openai.com</li>
-<li> 15:52 <a href="https://en.wikipedia.org/wiki/Data_breaches_in_India">Data breaches in India - Wikipedia</a></li>
-<li> 15:52 www.google.com</li>
-<li> 15:52 www.tribuneindia.com</li>
-<li> 15:52 www.theguardian.com</li>
-<li> 15:51 www.google.com</li>
-<li> 15:51 scholar.google.com</li>
-<li> 15:51 moodle.royalholloway.ac.uk</li>
-<li> 15:51 bsky.app</li>
 </ul>
