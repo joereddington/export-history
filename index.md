@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5806)</li>
+<ol><li>www.reddit.com (5811)</li>
 <li>mail.google.com (5245)</li>
-<li>www.google.com (4915)</li>
-<li>outlook.office365.com (4214)</li>
+<li>www.google.com (4913)</li>
+<li>outlook.office365.com (4206)</li>
 <li>duckduckgo.com (4008)</li>
 <li>outlook.office.com (3865)</li>
 <li>docs.google.com (3254)</li>
-<li>chatgpt.com (2958)</li>
-<li>www.linkedin.com (2380)</li>
+<li>chatgpt.com (2959)</li>
+<li>www.linkedin.com (2379)</li>
 <li>bsky.app (1944)</li>
-<li>moodle.royalholloway.ac.uk (1820)</li>
+<li>moodle.royalholloway.ac.uk (1824)</li>
 <li>www.facebook.com (1655)</li>
 <li>calendar.google.com (1555)</li>
-<li>login.microsoftonline.com (1504)</li>
+<li>login.microsoftonline.com (1505)</li>
 <li>chat.openai.com (1374)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -104,11 +104,68 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 10/10/26</H3>
+
+<br>
+
+<ul><li> 12:29 learningonscreen.ac.uk</li>
+<li class='same'> 12:28 learningonscreen.ac.uk</li>
+<li> 12:28 login.learningonscreen.ac.uk</li>
+<li> 12:28 learningonscreen.ac.uk</li>
+<li> 12:28 login.openathens.net</li>
+<li> 12:28 login.microsoftonline.com</li>
+<li> 12:28 connect.openathens.net</li>
+<li> 12:28 login.openathens.net</li>
+<li> 12:28 login.microsoftonline.com</li>
+<li> 12:28 device.login.microsoftonline.com</li>
+<li> 12:28 connect.openathens.net</li>
+<li> 12:28 login.learningonscreen.ac.uk</li>
+<li> 12:28 connect.openathens.net</li>
+<li> 12:28 login.learningonscreen.ac.uk</li>
+<li> 12:28 learningonscreen.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:47 www.google.com</li>
+</ul>
+
 <H3>Friday, 09/10/26</H3>
 
 <br>
 
-<ul><li> 18:28 chatgpt.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 22:00 support.theguardian.com</li>
+<li> 22:00 <a href="https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns">OpenAI’s release of mathematical findings draws concerns from experts | OpenAI | The Guardian</a></li>
+<li> 22:00 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:49 www.reddit.com</li>
+<li class='same'> 20:48 www.reddit.com</li>
+<li class='same'> 20:47 www.reddit.com</li>
+<li class='same'> 20:46 www.reddit.com</li>
+<li class='same'> 20:45 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:38 www.linkedin.com</li>
+<li> 18:38 chatgpt.com</li>
+<li> 18:37 www.linkedin.com</li>
+<li> 18:37 jobs.royalholloway.ac.uk</li>
+<li> 18:35 www.minervasearch.com</li>
+<li class='same'> 18:34 www.minervasearch.com</li>
+<li> 18:34 www.linkedin.com</li>
+<li> 18:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:32 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:31 moodle.royalholloway.ac.uk</li>
+<li> 18:28 chatgpt.com</li>
 <li class='same'> 18:27 chatgpt.com</li>
 <li> 18:27 chat.openai.com</li>
 <li> 18:27 www.linkedin.com</li>
@@ -12506,7 +12563,6 @@ With number of accesses/minutes in parentheses
 <li> 15:34 www.buzzfeed.com</li>
 <li> 15:28 www.independent.co.uk</li>
 <li> 15:28 trib.al</li>
-<li> 15:28 l.facebook.com</li>
 <li> 15:28 www.facebook.com</li>
 <li class='same'> 15:26 www.facebook.com</li>
 <li> 15:26 facebook.com</li>
@@ -12540,7 +12596,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:01 drive.google.com</li>
 <li> 11:01 outlook.office365.com</li>
 <li> 11:01 device.login.microsoftonline.com</li>
-<li> 11:01 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -124506,21 +124561,4 @@ With number of accesses/minutes in parentheses
 <li> 15:51 scholar.google.com</li>
 <li> 15:51 moodle.royalholloway.ac.uk</li>
 <li> 15:51 bsky.app</li>
-<li> 15:50 www.linkedin.com</li>
-<li> 15:50 scholar.google.com</li>
-<li> 15:50 www.google.com</li>
-<li> 15:50 outlook.office365.com</li>
-<li class='same'> 15:49 outlook.office365.com</li>
-<li> 15:49 www.linkedin.com</li>
-<li class='same'> 15:48 www.linkedin.com</li>
-<li> 15:47 www.google.com</li>
-<li> 15:46 outlook.office365.com</li>
-<li> 15:46 www.google.com</li>
-<li> 15:46 outlook.office365.com</li>
-<li class='same'> 15:45 outlook.office365.com</li>
-<li class='same'> 15:44 outlook.office365.com</li>
-<li> 15:44 www.linkedin.com</li>
-<li> 15:44 www.google.com</li>
-<li> 15:44 outlook.office365.com</li>
-<li class='same'> 15:43 outlook.office365.com</li>
 </ul>
