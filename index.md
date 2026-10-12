@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5893)</li>
-<li>mail.google.com (5251)</li>
-<li>www.google.com (4925)</li>
-<li>outlook.office365.com (4195)</li>
-<li>duckduckgo.com (4015)</li>
+<li>mail.google.com (5260)</li>
+<li>www.google.com (4924)</li>
+<li>outlook.office365.com (4193)</li>
+<li>duckduckgo.com (4016)</li>
 <li>outlook.office.com (3861)</li>
-<li>docs.google.com (3252)</li>
+<li>docs.google.com (3253)</li>
 <li>chatgpt.com (2962)</li>
-<li>www.linkedin.com (2381)</li>
+<li>www.linkedin.com (2383)</li>
 <li>bsky.app (1941)</li>
-<li>moodle.royalholloway.ac.uk (1833)</li>
+<li>moodle.royalholloway.ac.uk (1834)</li>
 <li>www.facebook.com (1654)</li>
 <li>calendar.google.com (1554)</li>
 <li>login.microsoftonline.com (1517)</li>
 <li>chat.openai.com (1376)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1102)</li>
+<li>gmail.com (1103)</li>
 <li>web.whatsapp.com (1100)</li>
 <li>mail.rhul.ac.uk (931)</li>
 <li>tvtropes.org (880)</li>
@@ -105,6 +105,57 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 12/10/26</H3>
+
+<br>
+
+<ul><li> 12:29 chatgpt.com</li>
+<li> 12:29 chat.openai.com</li>
+<li> 12:28 moodle.royalholloway.ac.uk</li>
+<li> 12:26 www.linkedin.com</li>
+<li class='same'> 12:25 www.linkedin.com</li>
+<li> 12:25 mail.google.com</li>
+<li> 12:25 ewf.companieshouse.gov.uk</li>
+<li class='same'> 12:24 ewf.companieshouse.gov.uk</li>
+<li> 12:24 identity.company-information.service.gov.uk</li>
+<li> 12:24 ewf.companieshouse.gov.uk</li>
+<li> 12:24 identity.company-information.service.gov.uk</li>
+<li> 12:24 ewf.companieshouse.gov.uk</li>
+<li> 12:24 signin.account.gov.uk</li>
+<li> 12:24 oidc.account.gov.uk</li>
+<li> 12:24 signin.account.gov.uk</li>
+<li> 12:24 oidc.account.gov.uk</li>
+<li> 12:24 identity.company-information.service.gov.uk</li>
+<li> 12:24 ewf.companieshouse.gov.uk</li>
+<li> 12:24 idam-ui.company-information.service.gov.uk</li>
+<li> 12:24 ewf.companieshouse.gov.uk</li>
+<li> 12:24 www.gov.uk</li>
+<li> 12:24 duckduckgo.com</li>
+<li> 12:23 find-and-update.company-information.service.gov.uk</li>
+<li> 12:23 www.gov.uk</li>
+<li> 12:23 www.google.com</li>
+<li> 12:23 mail.google.com</li>
+<li class='same'> 12:22 mail.google.com</li>
+<li> 12:22 calendar.google.com</li>
+<li> 12:22 www.google.com</li>
+<li> 12:22 calendar.google.com</li>
+<li> 12:22 ads.google.com</li>
+<li> 12:22 mail.google.com</li>
+<li class='same'> 12:21 mail.google.com</li>
+<li> 12:20 www.goodreads.com</li>
+<li> 12:20 goodreads.com</li>
+<li> 12:19 docs.google.com</li>
+<li> 12:19 mail.google.com</li>
+<li class='same'> 12:18 mail.google.com</li>
+<li class='same'> 12:17 mail.google.com</li>
+<li> 12:17 accurx.nhs.uk</li>
+<li class='same'> 12:16 accurx.nhs.uk</li>
+<li class='same'> 12:13 accurx.nhs.uk</li>
+<li> 12:13 florey.accurx.com</li>
+<li> 12:13 accurx.nhs.uk</li>
+<li> 12:13 www.woodlandavenuepractice.nhs.uk</li>
+<li> 12:10 mail.google.com</li>
+<li> 12:10 gmail.com</li>
+</ul>
 
 <br>
 
@@ -124775,44 +124826,4 @@ With number of accesses/minutes in parentheses
 <li> 11:37 www.google.com</li>
 <li> 11:33 calendar.google.com</li>
 <li> 11:17 web.whatsapp.com</li>
-<li> 11:15 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 11:09 0.0.0.0:8080</li>
-<li> 10:46 calendar.google.com</li>
-<li class='same'> 10:37 calendar.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:35 chatgpt.com</li>
-<li> 07:35 chat.openai.com</li>
-<li> 07:29 0.0.0.0:8000</li>
-</ul>
-
-<H3>Tuesday, 12/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:05 www.google.com</li>
-<li> 21:01 clubfinder.britishjudo.org.uk</li>
-<li> 21:01 www.britishjudo.org.uk</li>
-<li class='same'> 21:00 www.britishjudo.org.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 19:52 outlook.office365.com</li>
-<li class='same'> 19:50 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:13 www.britishjudo.org.uk</li>
-<li class='same'> 19:12 www.britishjudo.org.uk</li>
-<li class='same'> 19:11 www.britishjudo.org.uk</li>
-<li> 19:11 www.google.com</li>
-<li class='same'> 19:10 www.google.com</li>
 </ul>
