@@ -69,29 +69,29 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5893)</li>
-<li>mail.google.com (5260)</li>
-<li>www.google.com (4922)</li>
-<li>outlook.office365.com (4192)</li>
+<li>mail.google.com (5233)</li>
+<li>www.google.com (4915)</li>
+<li>outlook.office365.com (4185)</li>
 <li>duckduckgo.com (4016)</li>
-<li>outlook.office.com (3855)</li>
+<li>outlook.office.com (3851)</li>
 <li>docs.google.com (3253)</li>
-<li>chatgpt.com (2960)</li>
-<li>www.linkedin.com (2383)</li>
+<li>chatgpt.com (2959)</li>
+<li>www.linkedin.com (2384)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1834)</li>
 <li>www.facebook.com (1654)</li>
-<li>calendar.google.com (1553)</li>
+<li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1517)</li>
-<li>chat.openai.com (1375)</li>
+<li>chat.openai.com (1374)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1103)</li>
+<li>gmail.com (1099)</li>
 <li>web.whatsapp.com (1099)</li>
 <li>mail.rhul.ac.uk (931)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
-<li>rhul-my.sharepoint.com (822)</li>
-<li>forms.office.com (756)</li>
+<li>rhul-my.sharepoint.com (821)</li>
+<li>forms.office.com (749)</li>
 <li>rhul.sharepoint.com (643)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (552)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 12/10/26</H3>
+
+<br>
+
+<ul><li> 13:11 www.linkedin.com</li>
+</ul>
 
 <br>
 
@@ -124721,88 +124726,4 @@ With number of accesses/minutes in parentheses
 <li> 14:02 mail.rhul.ac.uk</li>
 <li> 14:01 drive.google.com</li>
 <li> 14:01 mail.google.com</li>
-<li> 13:59 events.zoom.us</li>
-<li> 13:59 mail.google.com</li>
-<li class='same'> 13:58 mail.google.com</li>
-<li> 13:58 gmail.com</li>
-<li> 13:58 mail.google.com</li>
-<li> 13:58 chatgpt.com</li>
-<li> 13:58 chat.openai.com</li>
-<li> 13:57 events.zoom.us</li>
-<li> 13:57 mail.google.com</li>
-<li class='same'> 13:56 mail.google.com</li>
-<li> 13:50 whitewaterwriters.com</li>
-<li> 13:49 www.gla.ac.uk</li>
-<li> 13:49 www.google.com</li>
-<li> 13:48 mail.google.com</li>
-<li> 13:48 forms.office.com</li>
-<li> 13:48 mail.google.com</li>
-<li class='same'> 13:47 mail.google.com</li>
-<li class='same'> 13:46 mail.google.com</li>
-<li> 13:45 forms.office.com</li>
-<li> 13:45 mail.google.com</li>
-<li> 13:45 outlook.office365.com</li>
-<li class='same'> 13:44 outlook.office365.com</li>
-<li class='same'> 13:32 outlook.office365.com</li>
-<li> 13:32 mail.google.com</li>
-<li> 13:32 goodcrm.us18.list-manage.com</li>
-<li> 13:32 mail.google.com</li>
-<li> 13:32 smo31.mjt.lu</li>
-<li> 13:32 mail.google.com</li>
-<li> 13:32 gmail.com</li>
-<li> 13:32 mail.google.com</li>
-<li> 13:32 gmail.com</li>
-<li> 13:31 outlook.office365.com</li>
-<li> 13:29 rhul-my.sharepoint.com</li>
-<li> 13:29 outlook.office365.com</li>
-<li> 13:26 www.doxdirect.com</li>
-<li class='same'> 13:25 www.doxdirect.com</li>
-<li> 13:25 Local file</li>
-<li> 13:25 mail.google.com</li>
-<li class='same'> 13:13 mail.google.com</li>
-<li> 13:12 outlook.office365.com</li>
-<li> 13:11 <a href="https://en.wikipedia.org/wiki/Tariff#Modern_tariff_practices">Tariff - Wikipedia</a></li>
-<li> 13:09 <a href="https://en.wikipedia.org/wiki/Tariff">Tariff - Wikipedia</a></li>
-<li> 13:09 <a href="https://en.wikipedia.org/wiki/List_of_tariffs_in_the_United_Kingdom">List of tariffs in the United Kingdom - Wikipedia</a></li>
-<li> 13:09 www.google.com</li>
-<li> 13:09 mail.google.com</li>
-<li> 13:08 www.google.com</li>
-<li class='same'> 13:02 www.google.com</li>
-<li> 13:01 events.zoom.us</li>
-<li class='same'> 13:00 events.zoom.us</li>
-<li> 13:00 mail.google.com</li>
-<li> 12:51 discord.com</li>
-<li class='same'> 12:50 discord.com</li>
-<li class='same'> 12:49 discord.com</li>
-<li class='same'> 12:48 discord.com</li>
-<li> 12:42 mail.google.com</li>
-<li class='same'> 12:41 mail.google.com</li>
-<li> 12:41 contacts.google.com</li>
-<li> 12:41 mail.google.com</li>
-<li> 12:41 outlook.office.com</li>
-<li> 12:37 <a href="https://joereddington.com/2024/11/07/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 12:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 12:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 12:37 mail.google.com</li>
-<li class='same'> 12:36 mail.google.com</li>
-<li> 12:36 calendar.google.com</li>
-<li> 12:36 mail.google.com</li>
-<li class='same'> 12:35 mail.google.com</li>
-<li class='same'> 12:33 mail.google.com</li>
-<li> 12:33 www.google.com</li>
-<li> 12:32 mail.google.com</li>
-<li> 12:32 gmail.com</li>
-<li> 12:32 forms.office.com</li>
-<li class='same'> 12:31 forms.office.com</li>
-<li> 12:31 outlook.office.com</li>
-<li> 12:28 royalhollowayucu.wordpress.com</li>
-<li> 12:28 www.google.com</li>
-<li> 12:26 outlook.office.com</li>
-<li class='same'> 12:25 outlook.office.com</li>
-<li> 12:08 forms.office.com</li>
-<li> 12:07 www.google.com</li>
-<li> 12:05 cisse.info</li>
-<li> 12:05 outlook.office365.com</li>
-<li> 11:53 forms.office.com</li>
-<li class='same'> 11:51 forms.office.com</li>
 </ul>
