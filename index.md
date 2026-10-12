@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5893)</li>
 <li>mail.google.com (5240)</li>
-<li>www.google.com (4924)</li>
+<li>www.google.com (4921)</li>
 <li>outlook.office365.com (4192)</li>
-<li>duckduckgo.com (4010)</li>
+<li>duckduckgo.com (4011)</li>
 <li>outlook.office.com (3861)</li>
 <li>docs.google.com (3252)</li>
-<li>chatgpt.com (2959)</li>
+<li>chatgpt.com (2961)</li>
 <li>www.linkedin.com (2378)</li>
 <li>bsky.app (1941)</li>
-<li>moodle.royalholloway.ac.uk (1816)</li>
+<li>moodle.royalholloway.ac.uk (1821)</li>
 <li>www.facebook.com (1654)</li>
 <li>calendar.google.com (1554)</li>
-<li>login.microsoftonline.com (1511)</li>
-<li>chat.openai.com (1374)</li>
+<li>login.microsoftonline.com (1512)</li>
+<li>chat.openai.com (1375)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1102)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (931)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
-<li>rhul-my.sharepoint.com (820)</li>
+<li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (756)</li>
 <li>rhul.sharepoint.com (643)</li>
 <li>fritz.box (595)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:57 forms.cloud.microsoft</li>
+<ul><li> 09:28 login.microsoftonline.com</li>
+<li> 09:28 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 09:28 device.login.microsoftonline.com</li>
+<li> 09:28 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 09:24 chatgpt.com</li>
+<li class='same'> 09:23 chatgpt.com</li>
+<li> 09:23 chat.openai.com</li>
+<li> 09:22 webtimetables.royalholloway.ac.uk</li>
+<li> 09:21 moodle.royalholloway.ac.uk</li>
+<li> 09:16 rhul-my.sharepoint.com</li>
+<li> 09:15 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:14 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:09 moodle.royalholloway.ac.uk</li>
+<li> 09:04 rhul-my.sharepoint.com</li>
+<li> 08:59 duckduckgo.com</li>
+<li> 08:57 forms.cloud.microsoft</li>
 <li class='same'> 08:56 forms.cloud.microsoft</li>
 <li class='same'> 08:55 forms.cloud.microsoft</li>
 <li class='same'> 08:54 forms.cloud.microsoft</li>
@@ -124708,13 +124724,4 @@ With number of accesses/minutes in parentheses
 <li> 19:08 www.britishjudo.org.uk</li>
 <li class='same'> 19:07 www.britishjudo.org.uk</li>
 <li class='same'> 19:04 www.britishjudo.org.uk</li>
-<li class='same'> 18:51 www.britishjudo.org.uk</li>
-<li class='same'> 18:50 www.britishjudo.org.uk</li>
-<li class='same'> 18:42 www.britishjudo.org.uk</li>
-<li> 18:42 www.google.com</li>
-<li class='same'> 18:41 www.google.com</li>
-<li class='same'> 18:35 www.google.com</li>
-<li> 18:35 www.bonappetit.com</li>
-<li class='same'> 18:34 www.bonappetit.com</li>
-<li> 18:29 www.washingtonpost.com</li>
 </ul>
