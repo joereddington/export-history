@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5893)</li>
+<ol><li>www.reddit.com (5895)</li>
 <li>mail.google.com (5232)</li>
 <li>www.google.com (4914)</li>
-<li>outlook.office365.com (4167)</li>
+<li>outlook.office365.com (4166)</li>
 <li>duckduckgo.com (4018)</li>
 <li>outlook.office.com (3851)</li>
 <li>docs.google.com (3253)</li>
 <li>chatgpt.com (2961)</li>
-<li>www.linkedin.com (2386)</li>
+<li>www.linkedin.com (2387)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1852)</li>
 <li>www.facebook.com (1654)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<ul><li> 15:25 www.reddit.com</li>
+<li> 15:22 staff.derbyshire.gov.uk</li>
+<li> 15:18 www.bsigroup.com</li>
+<li> 15:14 rhul.hosted.panopto.com</li>
+<li class='same'> 15:13 rhul.hosted.panopto.com</li>
+<li class='same'> 15:12 rhul.hosted.panopto.com</li>
+<li> 15:09 www.linkedin.com</li>
+<li> 15:05 <a href="https://www.bbc.co.uk/news/articles/cmlyk4yjx5qqo">University of Nottingham approves controversial savings plan - BBC News</a></li>
+<li> 15:02 www.reddit.com</li>
+<li> 15:02 www.contractsfinder.service.gov.uk</li>
+<li> 15:01 ico.org.uk</li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">User talk:Joereddington - Wikipedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">User talk:Joereddington - Wikipedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&amp;curid=51708172&amp;diff=1378764575&amp;oldid=1378648765">Yahoo data breaches: Difference between revisions - Wikipedia</a></li>
+<li> 14:59 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:59 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:59 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 14:45 <a href="https://en.wikipedia.org/wiki/University_of_the_West_of_England">University of the West of England - Wikipedia</a></li>
@@ -8921,7 +8938,7 @@ With number of accesses/minutes in parentheses
 <li> 07:36 fritz.box</li>
 <li> 07:36 detectportal.firefox.com</li>
 <li> 07:18 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">User talk:Joereddington - Wikipedia</a></li>
-<li> 07:18 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:18 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 </ul>
 
 <H3>Friday, 21/08/26</H3>
@@ -8933,13 +8950,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:59 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 22:59 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 22:59 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 22:59 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">User talk:Joereddington - Wikipedia</a></li>
-<li> 22:59 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 22:59 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 22:58 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 22:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 22:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 22:58 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">User talk:Joereddington - Wikipedia</a></li>
-<li> 22:57 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">Wikipedia:Good article reassessment/2023 Capita data breach/1 - Wikipedia</a></li>
+<li> 22:57 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">User talk:Joereddington - Wikipedia</a></li>
 <li> 22:57 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_reassessment/2023_Capita_data_breach/1">Wikipedia:Good article reassessment - Wikipedia</a></li>
 <li> 22:57 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_reassessment">Wikipedia:Good article reassessment/2023 Capita data breach/1 - Wikipedia</a></li>
 <li> 22:57 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_reassessment/2023_Capita_data_breach/1">Wikipedia:Good article reassessment - Wikipedia</a></li>
@@ -8948,9 +8965,9 @@ With number of accesses/minutes in parentheses
 <li> 22:55 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:Good_article_nominations#LLM_reviews_by_Metalicat">Wikipedia talk:Good article nominations - Wikipedia</a></li>
 <li> 22:55 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_reassessment/2023_Capita_data_breach/1">Wikipedia:Good article reassessment - Wikipedia</a></li>
 <li> 22:55 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">User talk:Joereddington - Wikipedia</a></li>
-<li> 22:53 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">Wikipedia:Good article reassessment/2023 Capita data breach/1 - Wikipedia</a></li>
+<li> 22:53 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">User talk:Joereddington - Wikipedia</a></li>
 <li> 22:53 outlook.office365.com</li>
-<li> 22:53 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">Wikipedia:Good article reassessment/2023 Capita data breach/1 - Wikipedia</a></li>
+<li> 22:53 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">User talk:Joereddington - Wikipedia</a></li>
 <li> 22:53 outlook.office365.com</li>
 </ul>
 
@@ -21306,7 +21323,7 @@ With number of accesses/minutes in parentheses
 <li> 15:34 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 15:34 <a href="https://en.wikipedia.org/wiki/2022_LastPass_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 15:34 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=info">Information for &quot;2023 Capita data breach&quot; - Wikipedia</a></li>
-<li> 15:34 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 15:34 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 15:34 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 15:34 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=info">Information for &quot;Grey hat&quot; - Wikipedia</a></li>
 <li> 15:34 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
@@ -31122,7 +31139,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:19 www.reddit.com</li>
 <li class='same'> 13:18 www.reddit.com</li>
 <li class='same'> 13:17 www.reddit.com</li>
-<li> 13:17 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 13:17 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 13:17 chatgpt.com</li>
 <li> 12:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -31130,7 +31147,7 @@ With number of accesses/minutes in parentheses
 <li> 12:49 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 12:43 chatgpt.com</li>
 <li> 12:43 chat.openai.com</li>
-<li> 12:43 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 12:43 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 12:42 <a href="https://en.wikipedia.org/w/index.php?title=User:Joereddington&amp;action=edit">Editing User:Joereddington - Wikipedia</a></li>
 <li> 12:42 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
@@ -31142,7 +31159,7 @@ With number of accesses/minutes in parentheses
 <li> 12:35 duckduckgo.com</li>
 <li> 12:34 calendar.google.com</li>
 <li> 12:31 libbyapp.com</li>
-<li> 12:31 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -31332,7 +31349,7 @@ With number of accesses/minutes in parentheses
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Regulatory_action">2023 Capita data breach - Wikipedia</a></li>
 <li> 10:24 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=4">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
-<li> 10:24 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 10:24 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 10:24 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 10:20 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2022_LastPass_data_breach/GA1&amp;action=edit">Editing Talk:2022 LastPass data breach/GA1 - Wikipedia</a></li>
 <li> 10:20 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach/GA1">Talk:2022 LastPass data breach/GA1 - Wikipedia</a></li>
@@ -31347,9 +31364,9 @@ With number of accesses/minutes in parentheses
 <li> 10:14 ico.org.uk</li>
 <li> 10:13 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;section=3&amp;oldid=1338291510&amp;action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 10:13 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=3">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
-<li> 10:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 10:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 10:11 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 10:11 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 10:11 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 10:11 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-Metalicat-20260311213000-Your_nomination_of_2023_Capita_data_breach_is_under_review">User talk:Joereddington - Wikipedia</a></li>
 <li> 10:11 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=345478990&amp;markasreadwiki=enwiki#c-Metalicat-20260311213000-Your_nomination_of_2023_Capita_data_breach_is_under_review">User talk:Joereddington - Wikipedia</a></li>
 <li> 10:11 libbyapp.com</li>
@@ -32936,7 +32953,7 @@ With number of accesses/minutes in parentheses
 <li> 08:02 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 08:02 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach">Talk:LastPass 2022 data breach - Wikipedia</a></li>
 <li> 08:02 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
-<li> 08:02 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 08:02 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 08:01 <a href="https://en.wikipedia.org/wiki/Template:Did_you_know_nominations/British_Airways_data_breach">Template:Did you know nominations/British Airways data breach - Wikipedia</a></li>
 <li> 08:00 <a href="https://en.wikipedia.org/w/index.php?title=Template:Did_you_know_nominations/British_Airways_data_breach&amp;action=edit">Editing Template:Did you know nominations/British Airways data breach - Wikipedia</a></li>
 <li> 07:59 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&amp;action=edit&amp;section=2">British Airways data breach - Wikipedia</a></li>
@@ -35045,7 +35062,7 @@ With number of accesses/minutes in parentheses
 <li> 07:36 <a href="https://en.wikipedia.org/wiki/Template_talk:Did_you_know#Instructions_for_nominators">Template talk:Did you know - Wikipedia</a></li>
 <li> 07:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:Did_you_know">Wikipedia:Did you know - Wikipedia</a></li>
 <li> 07:36 <a href="https://www.youtube.com/watch?v=bcyvZIoQp9A">(85) Tony Stark&#x27;s Workshop | Iron Man Music (One Hour) - YouTube</a></li>
-<li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:27 chatgpt.com</li>
 <li> 07:26 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#cite_note-Sandle2018-3">British Airways data breach - Wikipedia</a></li>
 <li> 07:26 chatgpt.com</li>
@@ -35276,9 +35293,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:00 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 09:00 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 09:00 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:00 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 09:00 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 09:00 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:00 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 09:00 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 09:00 <a href="https://en.wikipedia.org/wiki/Main_Page">Bart the Bear 2 - Wikipedia</a></li>
@@ -35314,7 +35331,7 @@ With number of accesses/minutes in parentheses
 <li> 07:16 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Regulatory_action">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:16 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=4">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 07:15 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 07:15 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:15 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:14 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach/GA1#Spot_check_table">Talk:LastPass 2022 data breach/GA1 - Wikipedia</a></li>
 <li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Talk:LastPass_2022_data_breach/GA1&amp;action=edit&amp;section=2">Editing Talk:LastPass 2022 data breach/GA1 (section) - Wikipedia</a></li>
 <li> 07:09 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Impact">LastPass 2022 data breach - Wikipedia</a></li>
@@ -35568,7 +35585,7 @@ With number of accesses/minutes in parentheses
 <li> 09:49 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 09:49 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Regulatory_action">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:48 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=4">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 09:48 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 09:48 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:48 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 09:47 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2023_Capita_data_breach&amp;action=edit">Editing Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 09:47 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_instructions">Wikipedia:Good article instructions - Wikipedia</a></li>
@@ -35582,13 +35599,13 @@ With number of accesses/minutes in parentheses
 <li> 09:45 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 09:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Regulatory_action">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:42 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=4">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 09:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 09:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:41 chatgpt.com</li>
 <li class='same'> 09:40 chatgpt.com</li>
 <li> 09:40 chat.openai.com</li>
 <li> 09:40 bmmagazine.co.uk</li>
 <li> 09:40 duckduckgo.com</li>
-<li> 09:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 09:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:38 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 09:34 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&amp;action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:34 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
@@ -43192,7 +43209,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:08 therecord.media</li>
 <li> 18:08 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
-<li> 18:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 18:08 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 18:08 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 18:07 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -44007,7 +44024,7 @@ With number of accesses/minutes in parentheses
 <li> 12:32 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&amp;action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 12:31 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 12:31 <a href="https://en.wikipedia.org/wiki/Jaguar_Land_Rover_cyberattack">Jaguar Land Rover cyberattack - Wikipedia</a></li>
-<li> 12:29 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 12:29 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
@@ -44096,16 +44113,16 @@ With number of accesses/minutes in parentheses
 <li> 07:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 07:43 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach">Talk:LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:42 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&amp;action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
-<li> 07:42 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:42 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:42 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
 <li> 07:42 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Investigation_and_regulatory_action">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:41 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=3">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
 <li> 07:41 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
-<li> 07:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:41 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;undoafter=1329475942&amp;undo=1329477807">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 07:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
 <li> 07:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
-<li> 07:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:36 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=3">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
 <li> 07:34 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;oldid=1329475942&amp;action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 07:34 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
@@ -44117,7 +44134,7 @@ With number of accesses/minutes in parentheses
 <li> 07:32 duckduckgo.com</li>
 <li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Timeline">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:29 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 07:27 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:27 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
 <li> 07:26 chatgpt.com</li>
@@ -44127,22 +44144,22 @@ With number of accesses/minutes in parentheses
 <li> 07:24 chatgpt.com</li>
 <li class='same'> 07:23 chatgpt.com</li>
 <li> 07:21 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
-<li> 07:21 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:11 chatgpt.com</li>
 <li> 07:10 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;oldid=1329473126&amp;action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 07:10 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#cite_ref-ICO-2025-MPN2_8-0">2023 Capita data breach - Wikipedia</a></li>
-<li> 07:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:05 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&amp;veswitched=1">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 07:04 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:04 ico.org.uk</li>
 <li> 06:59 scholar.google.co.uk</li>
 <li> 06:59 duckduckgo.com</li>
-<li> 06:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/wiki/Capita#2023_Cyberattack">Capita - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
-<li> 06:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2023_Capita_data_breach&amp;action=edit">Editing Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2023_Capita_data_breach&amp;action=edit&amp;redlink=1">Talk:2023 Capita data breach - Wikipedia</a></li>
@@ -44150,11 +44167,11 @@ With number of accesses/minutes in parentheses
 <li> 06:57 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach">Talk:LastPass 2022 data breach - Wikipedia</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:57 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;section=2&amp;oldid=1328081915&amp;action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 06:56 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Joereddington&amp;target=Joereddington&amp;offset=&amp;limit=500">User contributions for Joereddington - Wikipedia</a></li>
 <li> 06:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 06:55 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
@@ -48266,7 +48283,7 @@ With number of accesses/minutes in parentheses
 <li> 15:46 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?markasread=341620665&amp;markasreadwiki=enwiki">2023 Capita data breach - Wikipedia</a></li>
-<li> 15:46 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 15:46 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 15:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
 <li> 15:33 Local file</li>
 <li> 15:30 www.herts.ac.uk</li>
@@ -48794,7 +48811,7 @@ With number of accesses/minutes in parentheses
 <li> 17:39 <a href="https://en.wikipedia.org/w/index.php?search=talktalk+2015+&amp;title=Special%3ASearch&amp;ns0=1">talktalk 2015 - Search results - Wikipedia</a></li>
 <li> 17:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
 <li class='same'> 17:38 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
-<li> 17:38 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 17:38 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 17:38 <a href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Joereddington&amp;target=Joereddington&amp;offset=20251119080312">User contributions for Joereddington - Wikipedia</a></li>
 <li> 17:38 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 17:38 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
@@ -51347,7 +51364,7 @@ With number of accesses/minutes in parentheses
 <li> 04:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Background_and_security_risks">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:38 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 04:37 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 04:37 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:37 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
 <li> 04:37 <a href="https://en.wikipedia.org/w/index.php?search=Capita&amp;title=Special%3ASearch&amp;ns0=1"></a></li>
 <li> 04:37 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Capita&amp;wprov=acrw1_0"></a></li>
@@ -51355,7 +51372,7 @@ With number of accesses/minutes in parentheses
 <li> 04:36 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 04:36 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:36 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#cite_ref-:02_12-0">2023 Capita data breach - Wikipedia</a></li>
-<li> 04:36 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 04:36 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:29 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Investigation_and_regulatory_action">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 04:27 <a href="https://en.wikipedia.org/wiki/Elizabeth_Denham">Elizabeth Denham - Wikipedia</a></li>
 <li> 04:26 <a href="https://www.bbc.co.uk/news/business-37565367">TalkTalk fined £400,000 for theft of customer details - BBC News</a></li>
@@ -51372,14 +51389,14 @@ With number of accesses/minutes in parentheses
 <li> 04:22 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
 <li> 04:21 <a href="https://en.wikipedia.org/w/index.php?title=Capita&amp;action=history">Capita: Revision history - Wikipedia</a></li>
 <li> 04:21 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
-<li> 04:21 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 04:21 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:21 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
-<li> 04:20 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 04:20 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:20 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:20 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:19 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;section=2&amp;oldid=1322243135&amp;action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 04:19 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 04:18 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 04:18 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:16 <a href="https://en.wikipedia.org/wiki/Capita#Controversies">Capita - Wikipedia</a></li>
 <li> 04:16 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
 <li> 04:16 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Capita&amp;wprov=acrw1_0"></a></li>
@@ -51389,7 +51406,7 @@ With number of accesses/minutes in parentheses
 <li> 04:14 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&amp;veswitched=1">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 04:14 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:08 www.theregister.com</li>
-<li> 04:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 04:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:08 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 04:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;section=1&amp;oldid=1322241625&amp;action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
@@ -51435,7 +51452,7 @@ With number of accesses/minutes in parentheses
 <li> 03:46 duckduckgo.com</li>
 <li> 03:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Timeline">2023 Capita data breach - Wikipedia</a></li>
 <li> 03:44 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 03:44 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 03:44 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 03:44 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 03:44 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 03:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons#BLPCRIME">Wikipedia:Biographies of living persons - Wikipedia</a></li>
@@ -51714,7 +51731,7 @@ With number of accesses/minutes in parentheses
 <li> 15:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact">2023 Capita data breach - Wikipedia</a></li>
 <li> 15:45 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 15:45 <a href="https://en.wikipedia.org/wiki/Capita_2023_Data_Breach">2023 Capita data breach - Wikipedia</a></li>
-<li> 15:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 15:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 15:44 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:44 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:44 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -51930,7 +51947,7 @@ With number of accesses/minutes in parentheses
 <li> 06:52 news.google.com</li>
 <li> 06:51 baringslaw.com</li>
 <li> 06:51 duckduckgo.com</li>
-<li> 06:50 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:50 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:50 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:50 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:48 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;section=1&amp;oldid=1321894511&amp;action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
@@ -51950,14 +51967,14 @@ With number of accesses/minutes in parentheses
 <li> 06:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&amp;section=2&amp;veswitched=1">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;oldid=1321816798">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
-<li> 06:37 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:37 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 06:37 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 06:36 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -51984,12 +52001,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:12 <a href="https://en.wikipedia.org/wiki/Main_Page">Bart the Bear 2 - Wikipedia</a></li>
 <li> 21:12 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 21:12 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 21:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 21:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:12 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
-<li> 21:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 21:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/wiki/Capita_2023_Data_Breach">2023 Capita data breach - Wikipedia</a></li>
-<li> 21:11 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 21:11 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/w/index.php?title=Capita_2023_Data_Breach&amp;veswitched=1&amp;action=edit">Capita 2023 Data Breach - Wikipedia</a></li>
 <li> 20:59 <a href="https://en.wikipedia.org/w/index.php?title=Capita_2023_Data_Breach&amp;veswitched=1&amp;oldid=1321813951&amp;action=edit">Editing Capita 2023 Data Breach - Wikipedia</a></li>
 <li> 20:58 www.pensionsage.com</li>
@@ -124754,5 +124771,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:26 outlook.office365.com</li>
 <li class='same'> 14:25 outlook.office365.com</li>
 <li class='same'> 14:24 outlook.office365.com</li>
-<li class='same'> 14:23 outlook.office365.com</li>
 </ul>
