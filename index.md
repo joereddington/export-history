@@ -70,23 +70,23 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5893)</li>
 <li>mail.google.com (5260)</li>
-<li>www.google.com (4924)</li>
-<li>outlook.office365.com (4193)</li>
+<li>www.google.com (4922)</li>
+<li>outlook.office365.com (4192)</li>
 <li>duckduckgo.com (4016)</li>
-<li>outlook.office.com (3861)</li>
+<li>outlook.office.com (3855)</li>
 <li>docs.google.com (3253)</li>
-<li>chatgpt.com (2962)</li>
+<li>chatgpt.com (2960)</li>
 <li>www.linkedin.com (2383)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1834)</li>
 <li>www.facebook.com (1654)</li>
-<li>calendar.google.com (1554)</li>
+<li>calendar.google.com (1553)</li>
 <li>login.microsoftonline.com (1517)</li>
-<li>chat.openai.com (1376)</li>
+<li>chat.openai.com (1375)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1103)</li>
-<li>web.whatsapp.com (1100)</li>
+<li>web.whatsapp.com (1099)</li>
 <li>mail.rhul.ac.uk (931)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 chatgpt.com</li>
+<ul><li> 12:36 dashboards.rhul.ac.uk</li>
+<li> 12:29 chatgpt.com</li>
 <li> 12:29 chat.openai.com</li>
 <li> 12:28 moodle.royalholloway.ac.uk</li>
 <li> 12:26 www.linkedin.com</li>
@@ -124804,26 +124805,4 @@ With number of accesses/minutes in parentheses
 <li> 12:05 outlook.office365.com</li>
 <li> 11:53 forms.office.com</li>
 <li class='same'> 11:51 forms.office.com</li>
-<li> 11:50 chatgpt.com</li>
-<li class='same'> 11:49 chatgpt.com</li>
-<li> 11:49 chat.openai.com</li>
-<li> 11:47 outlook.office365.com</li>
-<li> 11:46 outlook.office.com</li>
-<li class='same'> 11:45 outlook.office.com</li>
-<li class='same'> 11:44 outlook.office.com</li>
-<li> 11:44 intranet.royalholloway.ac.uk</li>
-<li> 11:44 outlook.office.com</li>
-<li class='same'> 11:43 outlook.office.com</li>
-<li> 11:42 crossoverresearchllc.qualtrics.com</li>
-<li> 11:41 outlook.office.com</li>
-<li> 11:40 findarace.com</li>
-<li class='same'> 11:39 findarace.com</li>
-<li class='same'> 11:38 findarace.com</li>
-<li> 11:38 www.runthrough.co.uk</li>
-<li> 11:38 www.google.com</li>
-<li> 11:37 sites.google.com</li>
-<li> 11:37 pure.royalholloway.ac.uk</li>
-<li> 11:37 www.google.com</li>
-<li> 11:33 calendar.google.com</li>
-<li> 11:17 web.whatsapp.com</li>
 </ul>
