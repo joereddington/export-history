@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5895)</li>
+<ol><li>www.reddit.com (5896)</li>
 <li>mail.google.com (5232)</li>
 <li>www.google.com (4914)</li>
-<li>outlook.office365.com (4166)</li>
-<li>duckduckgo.com (4018)</li>
+<li>outlook.office365.com (4161)</li>
+<li>duckduckgo.com (4019)</li>
 <li>outlook.office.com (3851)</li>
 <li>docs.google.com (3253)</li>
-<li>chatgpt.com (2961)</li>
-<li>www.linkedin.com (2387)</li>
+<li>chatgpt.com (2962)</li>
+<li>www.linkedin.com (2386)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1852)</li>
 <li>www.facebook.com (1654)</li>
 <li>calendar.google.com (1554)</li>
-<li>login.microsoftonline.com (1519)</li>
-<li>chat.openai.com (1375)</li>
+<li>login.microsoftonline.com (1521)</li>
+<li>chat.openai.com (1376)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1099)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:25 www.reddit.com</li>
+<ul><li> 15:57 chatgpt.com</li>
+<li> 15:57 chat.openai.com</li>
+<li> 15:53 www.formula1.com</li>
+<li> 15:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:37 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:37 login.microsoftonline.com</li>
+<li> 15:37 device.login.microsoftonline.com</li>
+<li> 15:37 login.microsoftonline.com</li>
+<li> 15:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:32 www.google.com</li>
+<li> 15:32 duckduckgo.com</li>
+<li> 15:32 www.reddit.com</li>
+<li class='same'> 15:25 www.reddit.com</li>
 <li> 15:22 staff.derbyshire.gov.uk</li>
 <li> 15:18 www.bsigroup.com</li>
 <li> 15:14 rhul.hosted.panopto.com</li>
@@ -124762,13 +124774,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:33 outlook.office365.com</li>
 <li class='same'> 14:32 outlook.office365.com</li>
 <li> 14:30 researchprofiles.herts.ac.uk</li>
-<li> 14:29 www.linkedin.com</li>
-<li> 14:29 uk.linkedin.com</li>
-<li> 14:28 www.du9.org</li>
-<li> 14:28 www.google.com</li>
-<li> 14:28 outlook.office365.com</li>
-<li class='same'> 14:27 outlook.office365.com</li>
-<li class='same'> 14:26 outlook.office365.com</li>
-<li class='same'> 14:25 outlook.office365.com</li>
-<li class='same'> 14:24 outlook.office365.com</li>
 </ul>
