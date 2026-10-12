@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5847)</li>
-<li>mail.google.com (5243)</li>
-<li>www.google.com (4922)</li>
-<li>outlook.office365.com (4193)</li>
+<ol><li>www.reddit.com (5893)</li>
+<li>mail.google.com (5240)</li>
+<li>www.google.com (4924)</li>
+<li>outlook.office365.com (4192)</li>
 <li>duckduckgo.com (4010)</li>
 <li>outlook.office.com (3861)</li>
 <li>docs.google.com (3252)</li>
-<li>chatgpt.com (2958)</li>
-<li>www.linkedin.com (2377)</li>
+<li>chatgpt.com (2959)</li>
+<li>www.linkedin.com (2378)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1816)</li>
 <li>www.facebook.com (1654)</li>
 <li>calendar.google.com (1554)</li>
-<li>login.microsoftonline.com (1507)</li>
-<li>chat.openai.com (1373)</li>
+<li>login.microsoftonline.com (1511)</li>
+<li>chat.openai.com (1374)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1102)</li>
 <li>web.whatsapp.com (1100)</li>
-<li>mail.rhul.ac.uk (932)</li>
+<li>mail.rhul.ac.uk (931)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (820)</li>
-<li>forms.office.com (754)</li>
+<li>forms.office.com (756)</li>
 <li>rhul.sharepoint.com (643)</li>
-<li>fritz.box (593)</li>
-<li>m365.cloud.microsoft (544)</li>
+<li>fritz.box (595)</li>
+<li>m365.cloud.microsoft (546)</li>
 <li>ev.turnitinuk.com (474)</li>
 <li>www.theguardian.com (467)</li>
 <li>adfs.herts.ac.uk (455)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:28 www.linkedin.com</li>
+<ul><li> 08:57 forms.cloud.microsoft</li>
+<li class='same'> 08:56 forms.cloud.microsoft</li>
+<li class='same'> 08:55 forms.cloud.microsoft</li>
+<li class='same'> 08:54 forms.cloud.microsoft</li>
+<li class='same'> 08:53 forms.cloud.microsoft</li>
+<li> 08:53 login.microsoftonline.com</li>
+<li> 08:53 forms.cloud.microsoft</li>
+<li> 08:53 device.login.microsoftonline.com</li>
+<li> 08:53 login.microsoftonline.com</li>
+<li> 08:53 forms.office.com</li>
+<li> 08:53 forms.cloud.microsoft</li>
+<li> 08:53 m365.cloud.microsoft</li>
+<li> 08:53 login.microsoftonline.com</li>
+<li> 08:53 www.office.com</li>
+<li> 08:53 office.herts.ac.uk</li>
+<li> 08:53 office.com</li>
+<li> 08:53 m365.cloud.microsoft</li>
+<li> 08:53 login.microsoftonline.com</li>
+<li> 08:53 device.login.microsoftonline.com</li>
+<li> 08:52 192.168.178.1</li>
+<li> 08:52 fritz.box</li>
+<li> 08:52 firefox-portal-detection.com</li>
+<li> 08:52 forms.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:43 192.168.178.1</li>
+<li> 07:43 fritz.box</li>
+<li> 07:43 firefox-portal-detection.com</li>
+<li> 07:31 chatgpt.com</li>
+<li> 07:31 chat.openai.com</li>
+<li> 07:29 www.linkedin.com</li>
+<li class='same'> 07:28 www.linkedin.com</li>
 <li> 07:27 moodle.royalholloway.ac.uk</li>
 <li class='same'> 07:25 moodle.royalholloway.ac.uk</li>
 <li class='same'> 07:24 moodle.royalholloway.ac.uk</li>
@@ -142,7 +175,87 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:37 www.reddit.com</li>
+<ul><li> 21:05 <a href="https://en.wikipedia.org/wiki/Aidan_Quinn">Legends of the Fall - Wikipedia</a></li>
+<li> 21:04 www.google.com</li>
+<li> 21:04 <a href="https://en.wikipedia.org/wiki/Legends_of_the_Fall">Legends of the Fall - Wikipedia</a></li>
+<li> 21:04 www.google.com</li>
+<li> 21:04 <a href="https://en.wikipedia.org/wiki/Legends_of_the_Fall">Legends of the Fall - Wikipedia</a></li>
+<li> 21:04 <a href="https://en.wikipedia.org/wiki/Edward_Zwick">Legends of the Fall - Wikipedia</a></li>
+<li> 21:04 <a href="https://en.wikipedia.org/wiki/Legends_of_the_Fall">Legends of the Fall - Wikipedia</a></li>
+<li> 21:04 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:26 www.google.com</li>
+<li> 20:25 www.reddit.com</li>
+<li class='same'> 20:24 www.reddit.com</li>
+<li class='same'> 20:23 www.reddit.com</li>
+<li class='same'> 20:22 www.reddit.com</li>
+<li class='same'> 20:21 www.reddit.com</li>
+<li class='same'> 20:20 www.reddit.com</li>
+<li class='same'> 20:19 www.reddit.com</li>
+<li class='same'> 20:18 www.reddit.com</li>
+<li class='same'> 20:17 www.reddit.com</li>
+<li class='same'> 20:16 www.reddit.com</li>
+<li class='same'> 20:15 www.reddit.com</li>
+<li class='same'> 20:14 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:28 www.reddit.com</li>
+<li class='same'> 19:13 www.reddit.com</li>
+<li class='same'> 19:12 www.reddit.com</li>
+<li class='same'> 19:10 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:20 www.reddit.com</li>
+<li class='same'> 17:19 www.reddit.com</li>
+<li class='same'> 17:17 www.reddit.com</li>
+<li class='same'> 17:14 www.reddit.com</li>
+<li class='same'> 17:06 www.reddit.com</li>
+<li class='same'> 17:02 www.reddit.com</li>
+<li class='same'> 17:01 www.reddit.com</li>
+<li class='same'> 17:00 www.reddit.com</li>
+<li class='same'> 16:59 www.reddit.com</li>
+<li class='same'> 16:58 www.reddit.com</li>
+<li> 16:45 <a href="https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing?CMP=Share_AndroidApp_Other">The generation raised on sugar rations – and what their health reveals 70 years later | Sugar | The Guardian</a></li>
+<li> 16:45 www.reddit.com</li>
+<li class='same'> 16:44 www.reddit.com</li>
+<li class='same'> 16:42 www.reddit.com</li>
+<li class='same'> 16:39 www.reddit.com</li>
+<li class='same'> 16:38 www.reddit.com</li>
+<li class='same'> 16:37 www.reddit.com</li>
+<li class='same'> 16:27 www.reddit.com</li>
+<li class='same'> 16:26 www.reddit.com</li>
+<li class='same'> 16:25 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:54 www.reddit.com</li>
+<li class='same'> 12:35 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:31 www.reddit.com</li>
+<li class='same'> 11:30 www.reddit.com</li>
+<li class='same'> 11:25 www.reddit.com</li>
+<li class='same'> 11:20 www.reddit.com</li>
+<li class='same'> 11:18 www.reddit.com</li>
+<li class='same'> 11:17 www.reddit.com</li>
+<li class='same'> 11:16 www.reddit.com</li>
+<li class='same'> 11:15 www.reddit.com</li>
+<li class='same'> 11:14 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:37 www.reddit.com</li>
 <li> 10:32 www.google.com</li>
 <li> 10:30 www.reddit.com</li>
 <li> 10:30 www.yodel.co.uk</li>
@@ -124604,23 +124717,4 @@ With number of accesses/minutes in parentheses
 <li> 18:35 www.bonappetit.com</li>
 <li class='same'> 18:34 www.bonappetit.com</li>
 <li> 18:29 www.washingtonpost.com</li>
-<li> 18:29 www.google.com</li>
-<li> 18:29 discussions.apple.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:50 www.chronicle.com</li>
-<li> 17:49 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
-<li> 17:49 <a href="https://en.wikipedia.org/wiki/Flip_teaching">Flipped classroom - Wikipedia</a></li>
-<li> 17:49 www.slate.com</li>
-<li> 17:49 slate.com</li>
-<li> 17:47 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
-<li> 17:47 www.google.com</li>
-<li> 17:45 mail.google.com</li>
-<li class='same'> 17:44 mail.google.com</li>
-<li> 17:43 myaccount.microsoft.com</li>
-<li> 17:43 outlook.office365.com</li>
-<li> 17:43 mail.rhul.ac.uk</li>
-<li> 17:43 mail.google.com</li>
 </ul>
