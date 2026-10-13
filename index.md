@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5922)</li>
+<ol><li>www.reddit.com (5919)</li>
 <li>mail.google.com (5218)</li>
-<li>www.google.com (4910)</li>
-<li>outlook.office365.com (4142)</li>
+<li>www.google.com (4907)</li>
+<li>outlook.office365.com (4141)</li>
 <li>duckduckgo.com (4022)</li>
-<li>outlook.office.com (3848)</li>
+<li>outlook.office.com (3845)</li>
 <li>docs.google.com (3252)</li>
 <li>chatgpt.com (2960)</li>
 <li>www.linkedin.com (2387)</li>
@@ -83,11 +83,11 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1522)</li>
 <li>chat.openai.com (1373)</li>
-<li>www.amazon.co.uk (1321)</li>
+<li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1098)</li>
 <li>gmail.com (1094)</li>
-<li>mail.rhul.ac.uk (930)</li>
+<li>mail.rhul.ac.uk (929)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (821)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:52 github.com</li>
+<ul><li> 12:29 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:29 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 12:27 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 12:14 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:52 github.com</li>
 <li> 11:42 login.microsoftonline.com</li>
 <li> 11:42 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 11:42 eis-prod.ec.royalholloway.ac.uk</li>
@@ -124723,34 +124727,4 @@ With number of accesses/minutes in parentheses
 <li> 09:02 Local file</li>
 <li> 09:02 moodle.royalholloway.ac.uk</li>
 <li> 09:01 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:10 www.researchgate.net</li>
-<li class='same'> 08:09 www.researchgate.net</li>
-<li> 08:09 www.google.com</li>
-<li> 08:09 discussions.apple.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:32 outlook.office.com</li>
-<li class='same'> 07:31 outlook.office.com</li>
-<li> 07:31 outlook.office365.com</li>
-<li> 07:31 outlook.office.com</li>
-<li> 07:31 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 07:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 06:56 www.google.com</li>
-<li> 06:54 www.amazon.co.uk</li>
-<li> 06:53 www.reddit.com</li>
-<li> 06:53 www.google.com</li>
-<li> 06:53 www.reddit.com</li>
-<li class='same'> 06:52 www.reddit.com</li>
-<li> 06:52 community.cartalk.com</li>
-<li class='same'> 06:51 community.cartalk.com</li>
 </ul>
