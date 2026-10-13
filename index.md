@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5919)</li>
+<ol><li>www.reddit.com (5920)</li>
 <li>mail.google.com (5218)</li>
-<li>www.google.com (4903)</li>
-<li>outlook.office365.com (4142)</li>
-<li>duckduckgo.com (4022)</li>
-<li>outlook.office.com (3837)</li>
+<li>www.google.com (4895)</li>
+<li>outlook.office365.com (4140)</li>
+<li>duckduckgo.com (4024)</li>
+<li>outlook.office.com (3834)</li>
 <li>docs.google.com (3252)</li>
 <li>chatgpt.com (2958)</li>
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1856)</li>
 <li>www.facebook.com (1638)</li>
-<li>calendar.google.com (1552)</li>
+<li>calendar.google.com (1551)</li>
 <li>login.microsoftonline.com (1529)</li>
 <li>chat.openai.com (1372)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1098)</li>
 <li>gmail.com (1094)</li>
-<li>mail.rhul.ac.uk (931)</li>
+<li>mail.rhul.ac.uk (929)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
-<li>rhul-my.sharepoint.com (821)</li>
+<li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (754)</li>
-<li>rhul.sharepoint.com (641)</li>
+<li>rhul.sharepoint.com (642)</li>
 <li>fritz.box (591)</li>
 <li>m365.cloud.microsoft (552)</li>
 <li>ev.turnitinuk.com (474)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:25 moodle.royalholloway.ac.uk</li>
+<ul><li> 13:58 www.reddit.com</li>
+<li> 13:56 intranet.royalholloway.ac.uk</li>
+<li> 13:52 drive.google.com</li>
+<li> 13:52 rhul.sharepoint.com</li>
+<li> 13:52 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:51 intranet.royalholloway.ac.uk</li>
+<li> 13:51 pure.royalholloway.ac.uk</li>
+<li> 13:51 duckduckgo.com</li>
+<li> 13:51 www.advance-he.ac.uk</li>
+<li> 13:51 advance-he.ac.uk</li>
+<li> 13:50 duckduckgo.com</li>
+<li> 13:41 forms.cloud.microsoft</li>
+<li class='same'> 13:34 forms.cloud.microsoft</li>
+<li> 13:25 moodle.royalholloway.ac.uk</li>
 <li> 13:25 login.microsoftonline.com</li>
 <li> 13:25 device.login.microsoftonline.com</li>
 <li> 13:24 moodle.royalholloway.ac.uk</li>
@@ -124699,32 +124712,4 @@ With number of accesses/minutes in parentheses
 <li> 11:47 mail.rhul.ac.uk</li>
 <li> 11:44 outlook.office.com</li>
 <li class='same'> 11:42 outlook.office.com</li>
-<li class='same'> 11:41 outlook.office.com</li>
-<li class='same'> 11:40 outlook.office.com</li>
-<li> 11:40 outlook.office365.com</li>
-<li> 11:40 mail.rhul.ac.uk</li>
-<li> 11:40 rhul-my.sharepoint.com</li>
-<li> 11:30 www.tightrope.co.uk</li>
-<li class='same'> 11:29 www.tightrope.co.uk</li>
-<li> 11:26 outlook.office.com</li>
-<li> 11:26 outlook.office365.com</li>
-<li> 11:26 mail.rhul.ac.uk</li>
-<li> 11:05 www.glamourmagazine.co.uk</li>
-<li> 11:05 www.google.com</li>
-<li class='same'> 10:55 www.google.com</li>
-<li class='same'> 10:54 www.google.com</li>
-<li> 10:52 <a href="https://en.wikipedia.org/wiki/Clarence_House">Clarence House - Wikipedia</a></li>
-<li> 10:52 www.google.com</li>
-<li> 10:52 english.elpais.com</li>
-<li> 10:52 www.google.com</li>
-<li> 10:51 <a href="https://en.wikipedia.org/wiki/Ascot_tie">Ascot tie - Wikipedia</a></li>
-<li> 10:51 <a href="https://en.wikipedia.org/wiki/Ascot">Ascot - Wikipedia</a></li>
-<li> 10:51 www.google.com</li>
-<li> 10:48 cisse.info</li>
-<li class='same'> 10:47 cisse.info</li>
-<li> 10:47 calendar.google.com</li>
-<li> 10:44 imgflip.com</li>
-<li> 10:44 www.google.com</li>
-<li> 10:41 www.tightrope.co.uk</li>
-<li> 10:40 www.google.com</li>
 </ul>
