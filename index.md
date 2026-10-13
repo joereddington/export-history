@@ -74,15 +74,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4139)</li>
 <li>duckduckgo.com (4026)</li>
 <li>outlook.office.com (3830)</li>
-<li>docs.google.com (3251)</li>
-<li>chatgpt.com (2960)</li>
+<li>docs.google.com (3249)</li>
+<li>chatgpt.com (2962)</li>
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (1941)</li>
-<li>moodle.royalholloway.ac.uk (1856)</li>
+<li>moodle.royalholloway.ac.uk (1859)</li>
 <li>www.facebook.com (1638)</li>
-<li>calendar.google.com (1551)</li>
-<li>login.microsoftonline.com (1530)</li>
-<li>chat.openai.com (1373)</li>
+<li>calendar.google.com (1554)</li>
+<li>login.microsoftonline.com (1533)</li>
+<li>chat.openai.com (1374)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1098)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (928)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
-<li>rhul-my.sharepoint.com (820)</li>
+<li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (754)</li>
 <li>rhul.sharepoint.com (642)</li>
 <li>fritz.box (591)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 16:29 rhul-my.sharepoint.com</li>
+<li> 16:29 moodle.royalholloway.ac.uk</li>
+<li> 16:29 login.microsoftonline.com</li>
+<li> 16:29 device.login.microsoftonline.com</li>
+<li> 16:29 login.microsoftonline.com</li>
+<li> 16:29 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:28 moodle.royalholloway.ac.uk</li>
+<li> 16:15 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:15 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:15 login.microsoftonline.com</li>
+<li> 16:15 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:15 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:14 chatgpt.com</li>
+<li class='same'> 16:12 chatgpt.com</li>
+<li> 16:12 chat.openai.com</li>
+<li> 16:11 calendar.google.com</li>
+<li class='same'> 16:08 calendar.google.com</li>
+<li class='same'> 16:07 calendar.google.com</li>
+<li> 16:04 rhul-my.sharepoint.com</li>
+<li> 15:54 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 15:54 login.microsoftonline.com</li>
 <li> 15:54 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 15:54 device.login.microsoftonline.com</li>
@@ -124724,6 +124743,4 @@ With number of accesses/minutes in parentheses
 <li> 11:55 outlook.office.com</li>
 <li> 11:54 www.google.com</li>
 <li> 11:51 docs.google.com</li>
-<li class='same'> 11:50 docs.google.com</li>
-<li class='same'> 11:49 docs.google.com</li>
 </ul>
