@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5896)</li>
-<li>mail.google.com (5232)</li>
-<li>www.google.com (4913)</li>
+<li>mail.google.com (5231)</li>
+<li>www.google.com (4911)</li>
 <li>outlook.office365.com (4157)</li>
 <li>duckduckgo.com (4022)</li>
 <li>outlook.office.com (3851)</li>
@@ -80,10 +80,10 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1852)</li>
 <li>www.facebook.com (1654)</li>
-<li>calendar.google.com (1554)</li>
+<li>calendar.google.com (1555)</li>
 <li>login.microsoftonline.com (1521)</li>
 <li>chat.openai.com (1376)</li>
-<li>www.amazon.co.uk (1320)</li>
+<li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1099)</li>
 <li>web.whatsapp.com (1099)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 13/10/26</H3>
+
+<br>
+
+<ul><li> 09:24 calendar.google.com</li>
+</ul>
+
 <H3>Monday, 12/10/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -12747,11 +12758,8 @@ With number of accesses/minutes in parentheses
 <li> 15:22 login.microsoftonline.com</li>
 <li> 15:22 herts365.sharepoint.com</li>
 <li> 15:22 eu-west.azureauth.duosecurity.com</li>
-<li> 15:22 api-b6327e78.duosecurity.com</li>
-<li class='same'> 15:21 api-b6327e78.duosecurity.com</li>
+<li> 15:21 api-b6327e78.duosecurity.com</li>
 <li> 15:21 login.microsoftonline.com</li>
-<li> 15:21 herts365.sharepoint.com</li>
-<li> 15:21 hertshub.herts.ac.uk</li>
 <li> 15:21 herts365.sharepoint.com</li>
 <li> 15:21 www.herts.ac.uk</li>
 <li> 15:20 chatgpt.com</li>
@@ -12759,8 +12767,7 @@ With number of accesses/minutes in parentheses
 <li> 15:19 chatgpt.com</li>
 <li> 15:19 chat.openai.com</li>
 <li> 15:18 herts.onthehub.com</li>
-<li> 15:13 www.google.co.uk</li>
-<li class='same'> 15:12 www.google.co.uk</li>
+<li> 15:12 www.google.co.uk</li>
 <li> 15:11 www.dropbox.com</li>
 <li> 14:42 feedly.com</li>
 <li> 14:42 www.giantitp.com</li>
@@ -12795,7 +12802,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:42 chatgpt.com</li>
 <li> 13:42 chat.openai.com</li>
 <li> 13:37 duckduckgo.com</li>
-<li> 13:35 www.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -124778,11 +124784,4 @@ With number of accesses/minutes in parentheses
 <li> 15:26 outlook.office365.com</li>
 <li> 15:24 mail.google.com</li>
 <li> 15:23 outlook.office365.com</li>
-<li> 14:56 rise.articulate.com</li>
-<li> 14:55 academy.ijf.org</li>
-<li> 14:55 www.google.com</li>
-<li> 14:40 <a href="https://en.wikipedia.org/wiki/University_of_Tampa">University of Tampa - Wikipedia</a></li>
-<li> 14:40 www.google.com</li>
-<li> 14:39 mail.google.com</li>
-<li> 14:39 www.amazon.co.uk</li>
 </ul>
