@@ -74,15 +74,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4139)</li>
 <li>duckduckgo.com (4026)</li>
 <li>outlook.office.com (3830)</li>
-<li>docs.google.com (3252)</li>
-<li>chatgpt.com (2959)</li>
+<li>docs.google.com (3251)</li>
+<li>chatgpt.com (2960)</li>
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1856)</li>
 <li>www.facebook.com (1638)</li>
 <li>calendar.google.com (1551)</li>
 <li>login.microsoftonline.com (1529)</li>
-<li>chat.openai.com (1372)</li>
+<li>chat.openai.com (1373)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1098)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:22 chatgpt.com</li>
+<ul><li> 14:47 chatgpt.com</li>
+<li> 14:47 chat.openai.com</li>
+<li> 14:22 chatgpt.com</li>
 <li> 14:14 forms.cloud.microsoft</li>
 <li> 14:14 www.raise-network.com</li>
 <li> 14:14 eur03.safelinks.protection.outlook.com</li>
@@ -124712,5 +124714,4 @@ With number of accesses/minutes in parentheses
 <li> 11:51 docs.google.com</li>
 <li class='same'> 11:50 docs.google.com</li>
 <li class='same'> 11:49 docs.google.com</li>
-<li class='same'> 11:48 docs.google.com</li>
 </ul>
