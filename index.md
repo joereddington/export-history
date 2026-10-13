@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1856)</li>
 <li>www.facebook.com (1638)</li>
 <li>calendar.google.com (1551)</li>
-<li>login.microsoftonline.com (1529)</li>
+<li>login.microsoftonline.com (1530)</li>
 <li>chat.openai.com (1373)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 13/10/26</H3>
+
+<br>
+
+<ul><li> 15:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:54 login.microsoftonline.com</li>
+<li> 15:54 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:54 device.login.microsoftonline.com</li>
+<li> 15:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:40 oit.princeton.edu</li>
+<li> 15:34 staff.derbyshire.gov.uk</li>
+<li> 15:26 www.gov.uk</li>
+</ul>
 
 <br>
 
