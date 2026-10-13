@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5920)</li>
+<ol><li>www.reddit.com (5926)</li>
 <li>mail.google.com (5218)</li>
-<li>www.google.com (4895)</li>
-<li>outlook.office365.com (4140)</li>
-<li>duckduckgo.com (4024)</li>
-<li>outlook.office.com (3834)</li>
+<li>www.google.com (4894)</li>
+<li>outlook.office365.com (4139)</li>
+<li>duckduckgo.com (4026)</li>
+<li>outlook.office.com (3830)</li>
 <li>docs.google.com (3252)</li>
-<li>chatgpt.com (2958)</li>
+<li>chatgpt.com (2959)</li>
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1856)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1098)</li>
 <li>gmail.com (1094)</li>
-<li>mail.rhul.ac.uk (929)</li>
+<li>mail.rhul.ac.uk (928)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (820)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:58 www.reddit.com</li>
+<ul><li> 14:22 chatgpt.com</li>
+<li> 14:14 forms.cloud.microsoft</li>
+<li> 14:14 www.raise-network.com</li>
+<li> 14:14 eur03.safelinks.protection.outlook.com</li>
+<li> 14:12 www.theregister.com</li>
+<li class='same'> 14:11 www.theregister.com</li>
+<li> 14:11 duckduckgo.com</li>
+<li> 14:10 cybernews.com</li>
+<li> 14:09 duckduckgo.com</li>
+<li> 14:07 www.reddit.com</li>
+<li class='same'> 14:05 www.reddit.com</li>
+<li class='same'> 14:04 www.reddit.com</li>
+<li class='same'> 14:03 www.reddit.com</li>
+<li class='same'> 14:02 www.reddit.com</li>
+<li class='same'> 13:59 www.reddit.com</li>
+<li class='same'> 13:58 www.reddit.com</li>
 <li> 13:56 intranet.royalholloway.ac.uk</li>
 <li> 13:52 drive.google.com</li>
 <li> 13:52 rhul.sharepoint.com</li>
@@ -124692,24 +124707,10 @@ With number of accesses/minutes in parentheses
 <li> 11:58 gmail.com</li>
 <li> 11:55 docs.google.com</li>
 <li> 11:55 drive.google.com</li>
-<li> 11:55 eur03.safelinks.protection.outlook.com</li>
-<li> 11:55 drive.google.com</li>
 <li> 11:55 outlook.office.com</li>
 <li> 11:54 www.google.com</li>
 <li> 11:51 docs.google.com</li>
 <li class='same'> 11:50 docs.google.com</li>
 <li class='same'> 11:49 docs.google.com</li>
 <li class='same'> 11:48 docs.google.com</li>
-<li> 11:48 drive.google.com</li>
-<li> 11:48 www.google.com</li>
-<li> 11:47 cisse.info</li>
-<li> 11:47 eur03.safelinks.protection.outlook.com</li>
-<li> 11:47 drive.google.com</li>
-<li> 11:47 outlook.office.com</li>
-<li> 11:47 cisse.info</li>
-<li> 11:47 outlook.office.com</li>
-<li> 11:47 outlook.office365.com</li>
-<li> 11:47 mail.rhul.ac.uk</li>
-<li> 11:44 outlook.office.com</li>
-<li class='same'> 11:42 outlook.office.com</li>
 </ul>
