@@ -70,27 +70,27 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5919)</li>
 <li>mail.google.com (5218)</li>
-<li>www.google.com (4907)</li>
-<li>outlook.office365.com (4141)</li>
+<li>www.google.com (4906)</li>
+<li>outlook.office365.com (4142)</li>
 <li>duckduckgo.com (4022)</li>
-<li>outlook.office.com (3845)</li>
+<li>outlook.office.com (3838)</li>
 <li>docs.google.com (3252)</li>
-<li>chatgpt.com (2960)</li>
+<li>chatgpt.com (2958)</li>
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (1941)</li>
-<li>moodle.royalholloway.ac.uk (1855)</li>
+<li>moodle.royalholloway.ac.uk (1854)</li>
 <li>www.facebook.com (1638)</li>
 <li>calendar.google.com (1552)</li>
-<li>login.microsoftonline.com (1522)</li>
-<li>chat.openai.com (1373)</li>
+<li>login.microsoftonline.com (1525)</li>
+<li>chat.openai.com (1372)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1098)</li>
 <li>gmail.com (1094)</li>
-<li>mail.rhul.ac.uk (929)</li>
+<li>mail.rhul.ac.uk (931)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
-<li>rhul-my.sharepoint.com (821)</li>
+<li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (753)</li>
 <li>rhul.sharepoint.com (641)</li>
 <li>fritz.box (591)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 12:48 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 12:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:32 login.microsoftonline.com</li>
+<li> 12:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:32 outlook.office365.com</li>
+<li> 12:32 outlook.cloud.microsoft</li>
+<li> 12:32 mail.rhul.ac.uk</li>
+<li> 12:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:32 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 12:32 mail.rhul.ac.uk</li>
+<li> 12:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:31 fast.com</li>
+<li> 12:30 login.microsoftonline.com</li>
+<li> 12:30 device.login.microsoftonline.com</li>
+<li> 12:30 myview.rhul.zellis.com</li>
+<li> 12:30 login.microsoftonline.com</li>
+<li> 12:30 myview.rhul.zellis.com</li>
+<li> 12:30 moodle.royalholloway.ac.uk</li>
+<li> 12:29 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:29 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 12:27 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li class='same'> 12:14 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -37169,7 +37187,6 @@ With number of accesses/minutes in parentheses
 <li> 18:07 login.microsoftonline.com</li>
 <li> 18:07 eee-api-eu-west-1.10005.elluciancloud.ie</li>
 <li> 18:07 experience.elluciancloud.ie</li>
-<li> 18:07 campus-connect.royalholloway.ac.uk</li>
 <li> 18:07 intranet.royalholloway.ac.uk</li>
 <li> 18:04 dashboards.rhul.ac.uk</li>
 <li> 17:59 intranet.royalholloway.ac.uk</li>
@@ -124705,26 +124722,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:31 analytics.google.com</li>
 <li> 10:31 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 10:30 outlook.office.com</li>
-<li class='same'> 10:13 outlook.office.com</li>
-<li class='same'> 10:11 outlook.office.com</li>
-<li class='same'> 09:44 outlook.office.com</li>
-<li class='same'> 09:43 outlook.office.com</li>
-<li> 09:42 huawei.agorize.com</li>
-<li> 09:42 mailer6.zohoinsights1.eu</li>
-<li> 09:41 outlook.office.com</li>
-<li> 09:30 chatgpt.com</li>
-<li class='same'> 09:29 chatgpt.com</li>
-<li> 09:29 chat.openai.com</li>
-<li> 09:06 rhul-my.sharepoint.com</li>
-<li> 09:04 moodle.royalholloway.ac.uk</li>
-<li> 09:04 outlook.office.com</li>
-<li> 09:04 extensions.royalholloway.ac.uk</li>
-<li> 09:03 experience.elluciancloud.ie</li>
-<li> 09:03 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 09:03 campus-connect.royalholloway.ac.uk</li>
-<li> 09:03 intranet.royalholloway.ac.uk</li>
-<li> 09:03 www.google.com</li>
-<li> 09:02 Local file</li>
-<li> 09:02 moodle.royalholloway.ac.uk</li>
-<li> 09:01 outlook.office.com</li>
 </ul>
