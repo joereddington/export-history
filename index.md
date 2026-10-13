@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5923)</li>
-<li>mail.google.com (5227)</li>
+<li>mail.google.com (5222)</li>
 <li>www.google.com (4913)</li>
-<li>outlook.office365.com (4153)</li>
+<li>outlook.office365.com (4143)</li>
 <li>duckduckgo.com (4022)</li>
 <li>outlook.office.com (3848)</li>
 <li>docs.google.com (3252)</li>
-<li>chatgpt.com (2966)</li>
+<li>chatgpt.com (2964)</li>
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1855)</li>
 <li>www.facebook.com (1654)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1520)</li>
-<li>chat.openai.com (1377)</li>
+<li>chat.openai.com (1376)</li>
 <li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1099)</li>
-<li>gmail.com (1097)</li>
+<li>gmail.com (1096)</li>
 <li>mail.rhul.ac.uk (930)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
 <li>rhul-my.sharepoint.com (821)</li>
-<li>forms.office.com (750)</li>
-<li>rhul.sharepoint.com (643)</li>
+<li>forms.office.com (753)</li>
+<li>rhul.sharepoint.com (641)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (552)</li>
 <li>ev.turnitinuk.com (474)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 www.valueinhealthjournal.com</li>
+<ul><li> 10:53 forms.cloud.microsoft</li>
+<li> 10:53 forms.office.com</li>
+<li> 10:53 forms.cloud.microsoft</li>
+<li> 10:47 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 10:44 fyp.cs.rhul.ac.uk</li>
+<li> 10:37 forms.cloud.microsoft</li>
+<li class='same'> 10:36 forms.cloud.microsoft</li>
+<li> 10:36 forms.office.com</li>
+<li> 10:36 forms.cloud.microsoft</li>
+<li> 10:33 www.surveypractice.org</li>
+<li> 10:33 doi.org</li>
+<li> 10:33 journals.sagepub.com</li>
+<li> 10:33 doi.org</li>
+<li> 10:32 forms.office.com</li>
+<li> 10:32 forms.cloud.microsoft</li>
+<li> 10:30 www.pewresearch.org</li>
+<li> 10:28 www.valueinhealthjournal.com</li>
 <li> 10:28 secure.jbs.elsevierhealth.com</li>
 <li> 10:28 id.elsevier.com</li>
 <li> 10:28 www.valueinhealthjournal.com</li>
@@ -12769,7 +12785,6 @@ With number of accesses/minutes in parentheses
 <li> 17:13 www.linkedin.com</li>
 <li> 17:12 chatgpt.com</li>
 <li> 17:12 www.amazon.co.uk</li>
-<li> 17:12 www.google.co.uk</li>
 <li> 17:12 chatgpt.com</li>
 <li> 17:12 chat.openai.com</li>
 <li> 17:12 www.amazon.co.uk</li>
@@ -12780,16 +12795,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:07 bookings.glampmanager.com</li>
 <li> 16:06 www.thedailymash.co.uk</li>
-<li> 16:05 www.google.co.uk</li>
 <li> 16:04 outlook.office.com</li>
 <li> 16:04 mail.google.com</li>
 <li> 15:49 mydevelopment.herts.ac.uk</li>
 <li class='same'> 15:48 mydevelopment.herts.ac.uk</li>
 <li class='same'> 15:45 mydevelopment.herts.ac.uk</li>
 <li class='same'> 15:44 mydevelopment.herts.ac.uk</li>
-<li> 15:43 www.google.co.uk</li>
 <li> 15:42 www.linkedin.com</li>
-<li> 15:42 www.google.co.uk</li>
 <li> 15:40 www.glampsites.com</li>
 <li> 15:38 www.dropbox.com</li>
 <li> 15:37 bookings.glampmanager.com</li>
@@ -76461,7 +76473,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:56 royalholloway.akarisoftware.com</li>
 <li> 09:56 login.microsoftonline.com</li>
 <li> 09:56 royalholloway.akarisoftware.com</li>
-<li> 09:56 eur03.safelinks.protection.outlook.com</li>
 <li> 09:56 outlook.office365.com</li>
 <li class='same'> 09:55 outlook.office365.com</li>
 <li> 09:54 dashboards.rhul.ac.uk</li>
@@ -124801,41 +124812,4 @@ With number of accesses/minutes in parentheses
 <li> 16:20 gmail.com</li>
 <li> 16:19 www.linkedin.com</li>
 <li> 16:19 mail.google.com</li>
-<li class='same'> 16:14 mail.google.com</li>
-<li class='same'> 16:13 mail.google.com</li>
-<li class='same'> 16:12 mail.google.com</li>
-<li> 16:12 gmail.com</li>
-<li> 16:12 outlook.office365.com</li>
-<li class='same'> 16:11 outlook.office365.com</li>
-<li class='same'> 16:10 outlook.office365.com</li>
-<li class='same'> 16:09 outlook.office365.com</li>
-<li class='same'> 16:08 outlook.office365.com</li>
-<li class='same'> 16:03 outlook.office365.com</li>
-<li class='same'> 16:00 outlook.office365.com</li>
-<li> 15:58 royalholloway.akarisoftware.com</li>
-<li> 15:58 eur03.safelinks.protection.outlook.com</li>
-<li> 15:57 rhul.sharepoint.com</li>
-<li class='same'> 15:56 rhul.sharepoint.com</li>
-<li> 15:56 royalholloway.akarisoftware.com</li>
-<li class='same'> 15:55 royalholloway.akarisoftware.com</li>
-<li class='same'> 15:54 royalholloway.akarisoftware.com</li>
-<li class='same'> 15:53 royalholloway.akarisoftware.com</li>
-<li> 15:53 eur03.safelinks.protection.outlook.com</li>
-<li> 15:53 outlook.office365.com</li>
-<li class='same'> 15:52 outlook.office365.com</li>
-<li class='same'> 15:51 outlook.office365.com</li>
-<li> 15:50 chatgpt.com</li>
-<li> 15:49 drive.google.com</li>
-<li> 15:49 mail.google.com</li>
-<li> 15:48 analytics.google.com</li>
-<li class='same'> 15:47 analytics.google.com</li>
-<li> 15:47 accounts.google.co.uk</li>
-<li> 15:47 myaccount.google.com</li>
-<li> 15:47 accounts.google.com</li>
-<li> 15:47 analytics.google.com</li>
-<li> 15:47 accounts.google.com</li>
-<li> 15:47 mail.google.com</li>
-<li> 15:46 drive.google.com</li>
-<li> 15:46 chatgpt.com</li>
-<li> 15:46 chat.openai.com</li>
 </ul>
