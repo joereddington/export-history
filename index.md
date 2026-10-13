@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5923)</li>
-<li>mail.google.com (5222)</li>
-<li>www.google.com (4913)</li>
-<li>outlook.office365.com (4143)</li>
+<li>mail.google.com (5218)</li>
+<li>www.google.com (4911)</li>
+<li>outlook.office365.com (4142)</li>
 <li>duckduckgo.com (4022)</li>
 <li>outlook.office.com (3848)</li>
 <li>docs.google.com (3252)</li>
@@ -79,14 +79,14 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2387)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1855)</li>
-<li>www.facebook.com (1654)</li>
+<li>www.facebook.com (1644)</li>
 <li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1520)</li>
-<li>chat.openai.com (1376)</li>
-<li>www.amazon.co.uk (1319)</li>
+<li>chat.openai.com (1375)</li>
+<li>www.amazon.co.uk (1323)</li>
 <li>herts.instructure.com (1230)</li>
-<li>web.whatsapp.com (1099)</li>
-<li>gmail.com (1096)</li>
+<li>web.whatsapp.com (1098)</li>
+<li>gmail.com (1094)</li>
 <li>mail.rhul.ac.uk (930)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (849)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:53 forms.cloud.microsoft</li>
+<ul><li> 11:25 www.amazon.co.uk</li>
+<li class='same'> 11:24 www.amazon.co.uk</li>
+<li class='same'> 11:23 www.amazon.co.uk</li>
+<li class='same'> 11:22 www.amazon.co.uk</li>
+<li> 11:20 chatgpt.com</li>
+<li class='same'> 11:19 chatgpt.com</li>
+<li> 11:18 www.linkedin.com</li>
+<li class='same'> 11:11 www.linkedin.com</li>
+<li class='same'> 11:10 www.linkedin.com</li>
+<li> 11:10 forms.cloud.microsoft</li>
+<li class='same'> 11:09 forms.cloud.microsoft</li>
+<li class='same'> 10:53 forms.cloud.microsoft</li>
 <li> 10:53 forms.office.com</li>
 <li> 10:53 forms.cloud.microsoft</li>
 <li> 10:47 fyp.cs.rhul.ac.uk</li>
@@ -124778,38 +124789,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:07 www.facebook.com</li>
 <li class='same'> 17:06 www.facebook.com</li>
 <li class='same'> 17:05 www.facebook.com</li>
-<li class='same'> 17:04 www.facebook.com</li>
-<li class='same'> 17:03 www.facebook.com</li>
-<li class='same'> 17:02 www.facebook.com</li>
-<li class='same'> 17:01 www.facebook.com</li>
-<li class='same'> 17:00 www.facebook.com</li>
-<li class='same'> 16:58 www.facebook.com</li>
-<li class='same'> 16:55 www.facebook.com</li>
-<li class='same'> 16:53 www.facebook.com</li>
-<li> 16:52 chatgpt.com</li>
-<li> 16:49 www.facebook.com</li>
-<li> 16:47 <a href="https://joereddington.com/2024/11/13/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 16:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 16:47 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 16:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 16:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 16:46 www.facebook.com</li>
-<li> 16:45 web.whatsapp.com</li>
-<li> 16:32 www.google.com</li>
-<li> 16:28 chatgpt.com</li>
-<li> 16:28 chat.openai.com</li>
-<li> 16:26 mail.google.com</li>
-<li> 16:26 gmail.com</li>
-<li> 16:26 mail.google.com</li>
-<li> 16:25 www.ncl.ac.uk</li>
-<li> 16:25 www.google.com</li>
-<li> 16:24 outlook.office365.com</li>
-<li> 16:23 www.linkedin.com</li>
-<li> 16:22 www.ciisec.org</li>
-<li> 16:22 events.teams.microsoft.com</li>
-<li> 16:22 www.linkedin.com</li>
-<li> 16:20 mail.google.com</li>
-<li> 16:20 gmail.com</li>
-<li> 16:19 www.linkedin.com</li>
-<li> 16:19 mail.google.com</li>
 </ul>
