@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5967)</li>
 <li>mail.google.com (5185)</li>
-<li>www.google.com (4855)</li>
+<li>www.google.com (4853)</li>
 <li>outlook.office365.com (4112)</li>
-<li>duckduckgo.com (4034)</li>
+<li>duckduckgo.com (4035)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
-<li>chatgpt.com (2963)</li>
+<li>chatgpt.com (2964)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1902)</li>
-<li>moodle.royalholloway.ac.uk (1869)</li>
-<li>www.facebook.com (1603)</li>
-<li>login.microsoftonline.com (1549)</li>
-<li>calendar.google.com (1548)</li>
-<li>chat.openai.com (1372)</li>
+<li>moodle.royalholloway.ac.uk (1871)</li>
+<li>www.facebook.com (1604)</li>
+<li>login.microsoftonline.com (1551)</li>
+<li>calendar.google.com (1549)</li>
+<li>chat.openai.com (1373)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1094)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:46 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<ul><li> 17:44 learningonscreen.ac.uk</li>
+<li class='same'> 17:43 learningonscreen.ac.uk</li>
+<li> 17:43 login.learningonscreen.ac.uk</li>
+<li> 17:43 learningonscreen.ac.uk</li>
+<li> 17:43 connect.openathens.net</li>
+<li> 17:43 login.openathens.net</li>
+<li> 17:43 login.microsoftonline.com</li>
+<li> 17:43 device.login.microsoftonline.com</li>
+<li> 17:43 login.openathens.net</li>
+<li> 17:43 login.microsoftonline.com</li>
+<li> 17:43 connect.openathens.net</li>
+<li> 17:43 login.learningonscreen.ac.uk</li>
+<li> 17:43 connect.openathens.net</li>
+<li> 17:43 login.learningonscreen.ac.uk</li>
+<li> 17:43 learningonscreen.ac.uk</li>
+<li> 17:43 192.168.178.1</li>
+<li class='same'> 17:42 192.168.178.1</li>
+<li> 17:20 www.facebook.com</li>
+<li> 17:20 facebook.com</li>
+<li> 17:17 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(111) Super star destroyer crash and death star destroy - YouTube</a></li>
+<li> 17:13 calendar.google.com</li>
+<li> 17:13 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:11 moodle.royalholloway.ac.uk</li>
+<li> 17:07 dashboards.rhul.ac.uk</li>
+<li> 17:06 intranet.royalholloway.ac.uk</li>
+<li> 17:05 chatgpt.com</li>
+<li> 17:05 chat.openai.com</li>
+<li> 17:05 duckduckgo.com</li>
+<li> 16:48 <a href="https://joereddington.com/2026/03/26/wombat.html">WOMBAT | Joe Reddington</a></li>
+<li> 16:46 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
 <li> 16:46 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
@@ -13650,7 +13679,7 @@ With number of accesses/minutes in parentheses
 <li> 17:35 www.thedailymash.co.uk</li>
 <li> 17:35 www.giantitp.com</li>
 <li> 17:35 www.linkedin.com</li>
-<li> 17:32 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(218) Super star destroyer crash and death star destroy - YouTube</a></li>
+<li> 17:32 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(111) Super star destroyer crash and death star destroy - YouTube</a></li>
 <li> 17:32 chatgpt.com</li>
 <li class='same'> 17:31 chatgpt.com</li>
 <li> 17:24 www.linkedin.com</li>
@@ -17306,7 +17335,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:03 www.thedailymash.co.uk</li>
 <li> 17:02 www.linkedin.com</li>
 <li class='same'> 16:44 www.linkedin.com</li>
-<li> 16:32 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(218) Super star destroyer crash and death star destroy - YouTube</a></li>
+<li> 16:32 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(111) Super star destroyer crash and death star destroy - YouTube</a></li>
 <li> 16:32 <a href="https://www.youtube.com/results?search_query=concentrate+all+fire+on+that+super+star+destroyer+hd">(191) concentrate all fire on that super star destroyer hd - YouTube</a></li>
 <li> 16:32 <a href="https://www.youtube.com/results?search_query=concentrate+all+fire+on+that+super+star+destroyer">(191) concentrate all fire on that super star destroyer - YouTube</a></li>
 <li> 16:31 <a href="https://www.youtube.com/watch?v=ETFNSVNQqfE">(191) Super Star Destroyer Crash The Death Star II - YouTube</a></li>
@@ -124514,21 +124543,4 @@ With number of accesses/minutes in parentheses
 <li> 08:14 www.flightstats.com</li>
 <li class='same'> 08:13 www.flightstats.com</li>
 <li> 08:13 www.britishairways.com</li>
-<li> 08:11 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:28 www.google.com</li>
-</ul>
-
-<H3>Saturday, 16/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 22:16 clearsky.app</li>
 </ul>
