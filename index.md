@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5967)</li>
 <li>mail.google.com (5185)</li>
-<li>www.google.com (4863)</li>
-<li>outlook.office365.com (4113)</li>
-<li>duckduckgo.com (4031)</li>
+<li>www.google.com (4864)</li>
+<li>outlook.office365.com (4112)</li>
+<li>duckduckgo.com (4032)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2963)</li>
-<li>www.linkedin.com (2368)</li>
-<li>bsky.app (1918)</li>
+<li>www.linkedin.com (2367)</li>
+<li>bsky.app (1906)</li>
 <li>moodle.royalholloway.ac.uk (1860)</li>
 <li>www.facebook.com (1603)</li>
 <li>calendar.google.com (1549)</li>
@@ -87,11 +87,11 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1094)</li>
 <li>gmail.com (1086)</li>
-<li>mail.rhul.ac.uk (922)</li>
+<li>mail.rhul.ac.uk (921)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (846)</li>
-<li>rhul-my.sharepoint.com (826)</li>
-<li>forms.office.com (745)</li>
+<li>rhul-my.sharepoint.com (824)</li>
+<li>forms.office.com (744)</li>
 <li>rhul.sharepoint.com (653)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (554)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:48 duckduckgo.com</li>
+<ul><li> 13:07 x.com</li>
+<li> 13:07 www.google.com</li>
+<li class='same'> 13:06 www.google.com</li>
+<li> 13:04 www.itv.com</li>
+<li> 13:02 chatgpt.com</li>
+<li> 13:02 chat.openai.com</li>
+<li> 13:02 duckduckgo.com</li>
+<li class='same'> 12:48 duckduckgo.com</li>
 </ul>
 
 <br>
@@ -124559,38 +124566,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:12 www.happycow.net</li>
 <li> 18:12 www.google.com</li>
 <li> 18:11 www.instagram.com</li>
-<li> 18:11 www.su.rhul.ac.uk</li>
-<li> 18:10 www.google.com</li>
-<li> 17:58 outlook.office365.com</li>
-<li> 17:58 mail.rhul.ac.uk</li>
-<li> 17:57 bsky.app</li>
-<li class='same'> 17:56 bsky.app</li>
-<li class='same'> 17:55 bsky.app</li>
-<li> 17:54 <a href="https://joereddington.com/Comics/">2022-05-01 | Joe’s Comics</a></li>
-<li> 17:54 bsky.app</li>
-<li class='same'> 17:53 bsky.app</li>
-<li class='same'> 17:51 bsky.app</li>
-<li class='same'> 17:50 bsky.app</li>
-<li class='same'> 17:49 bsky.app</li>
-<li> 17:49 forms.office.com</li>
-<li> 17:49 rhul-my.sharepoint.com</li>
-<li> 17:47 discord.com</li>
-<li class='same'> 17:46 discord.com</li>
-<li> 17:45 rhul-my.sharepoint.com</li>
-<li> 17:44 bsky.app</li>
-<li> 17:42 www.linkedin.com</li>
-<li> 17:42 bsky.app</li>
-<li class='same'> 17:41 bsky.app</li>
-<li> 17:41 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 17:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 17:41 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
-<li> 17:34 bsky.app</li>
-<li> 17:34 chatgpt.com</li>
-<li> 17:34 chat.openai.com</li>
-<li> 17:33 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:33 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 17:33 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:33 experience.elluciancloud.ie</li>
-<li> 17:33 eee-api-eu-west-1.10005.elluciancloud.ie</li>
 </ul>
