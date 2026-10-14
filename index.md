@@ -69,34 +69,34 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5971)</li>
-<li>mail.google.com (5201)</li>
-<li>www.google.com (4876)</li>
-<li>outlook.office365.com (4124)</li>
+<li>mail.google.com (5192)</li>
+<li>www.google.com (4868)</li>
+<li>outlook.office365.com (4117)</li>
 <li>duckduckgo.com (4028)</li>
-<li>outlook.office.com (3815)</li>
+<li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
-<li>chatgpt.com (2969)</li>
-<li>www.linkedin.com (2377)</li>
-<li>bsky.app (1941)</li>
-<li>moodle.royalholloway.ac.uk (1862)</li>
+<li>chatgpt.com (2963)</li>
+<li>www.linkedin.com (2370)</li>
+<li>bsky.app (1926)</li>
+<li>moodle.royalholloway.ac.uk (1860)</li>
 <li>www.facebook.com (1622)</li>
 <li>calendar.google.com (1549)</li>
 <li>login.microsoftonline.com (1547)</li>
-<li>chat.openai.com (1376)</li>
+<li>chat.openai.com (1372)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1094)</li>
-<li>gmail.com (1088)</li>
-<li>mail.rhul.ac.uk (924)</li>
+<li>gmail.com (1086)</li>
+<li>mail.rhul.ac.uk (922)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (846)</li>
-<li>rhul-my.sharepoint.com (830)</li>
-<li>forms.office.com (757)</li>
+<li>rhul-my.sharepoint.com (826)</li>
+<li>forms.office.com (750)</li>
 <li>rhul.sharepoint.com (653)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (554)</li>
 <li>ev.turnitinuk.com (472)</li>
-<li>www.theguardian.com (467)</li>
+<li>www.theguardian.com (466)</li>
 <li>adfs.herts.ac.uk (455)</li>
 
 
@@ -124668,102 +124668,4 @@ With number of accesses/minutes in parentheses
 <li> 16:05 www.linkedin.com</li>
 <li> 16:05 outlook.office365.com</li>
 <li class='same'> 16:04 outlook.office365.com</li>
-<li> 16:04 mail.rhul.ac.uk</li>
-<li> 16:04 www.linkedin.com</li>
-<li> 16:03 bsky.app</li>
-<li class='same'> 16:02 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 15:28 chatgpt.com</li>
-<li> 15:28 chat.openai.com</li>
-<li> 15:22 www.google.com</li>
-<li> 15:17 rhul-my.sharepoint.com</li>
-<li> 15:16 bsky.app</li>
-<li class='same'> 15:14 bsky.app</li>
-<li> 15:14 www.linkedin.com</li>
-<li> 15:12 forms.office.com</li>
-<li class='same'> 15:10 forms.office.com</li>
-<li> 15:10 mail.google.com</li>
-<li> 15:09 outlook.office365.com</li>
-<li> 15:06 teams.microsoft.com</li>
-<li> 15:06 outlook.office365.com</li>
-<li> 15:06 mail.rhul.ac.uk</li>
-<li> 15:06 mail.google.com</li>
-<li class='same'> 15:05 mail.google.com</li>
-<li> 15:05 bsky.app</li>
-<li> 14:59 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:58 moodle.royalholloway.ac.uk</li>
-<li> 14:58 www.google.com</li>
-<li> 14:58 mail.google.com</li>
-<li> 14:33 privacyportal-de.onetrust.com</li>
-<li> 14:33 mail.google.com</li>
-<li class='same'> 14:32 mail.google.com</li>
-<li> 14:32 gmail.com</li>
-<li> 14:17 forms.office.com</li>
-<li class='same'> 14:16 forms.office.com</li>
-<li> 14:15 www.linkedin.com</li>
-<li> 14:15 bsky.app</li>
-<li class='same'> 14:14 bsky.app</li>
-<li> 14:13 chatgpt.com</li>
-<li> 13:59 www.dataprotection.ie</li>
-<li> 13:59 www.edps.europa.eu</li>
-<li> 13:59 www.google.com</li>
-<li> 13:49 chatgpt.com</li>
-<li> 13:49 chat.openai.com</li>
-<li> 13:46 bsky.app</li>
-<li class='same'> 13:45 bsky.app</li>
-<li> 13:45 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:01 forms.office.com</li>
-<li class='same'> 13:00 forms.office.com</li>
-<li class='same'> 12:59 forms.office.com</li>
-<li> 12:58 chatgpt.com</li>
-<li class='same'> 12:47 chatgpt.com</li>
-<li> 12:47 chat.openai.com</li>
-<li> 12:46 dashboards.rhul.ac.uk</li>
-<li> 12:46 rhul-my.sharepoint.com</li>
-<li> 12:46 outlook.office365.com</li>
-<li> 12:46 outlook.office.com</li>
-<li class='same'> 12:45 outlook.office.com</li>
-<li> 12:45 mail.google.com</li>
-<li> 12:45 accounts.google.co.uk</li>
-<li> 12:45 mail.google.com</li>
-<li> 12:45 accounts.youtube.com</li>
-<li> 12:45 accounts.google.com</li>
-<li> 12:45 mail.google.com</li>
-<li> 12:45 gmail.com</li>
-<li> 12:44 bsky.app</li>
-<li class='same'> 12:43 bsky.app</li>
-<li class='same'> 12:42 bsky.app</li>
-<li> 12:34 www.linkedin.com</li>
-<li class='same'> 12:33 www.linkedin.com</li>
-<li> 12:27 chatgpt.com</li>
-<li> 12:27 chat.openai.com</li>
-<li> 12:24 <a href="https://en.wikipedia.org/wiki/Ward_Cunningham#%22Cunningham&#x27;s_Law%22">Ward Cunningham - Wikipedia</a></li>
-<li> 12:23 <a href="https://en.wikipedia.org/wiki/Ward_Cunningham">Ward Cunningham - Wikipedia</a></li>
-<li> 12:23 www.google.com</li>
-<li> 12:20 www.linkedin.com</li>
-<li> 12:20 www.google.com</li>
-<li> 12:18 bsky.app</li>
-<li> 12:16 outlook.office365.com</li>
-<li class='same'> 12:14 outlook.office365.com</li>
-<li> 12:13 www.oii.ox.ac.uk</li>
-<li> 12:08 www.theguardian.com</li>
-<li> 12:08 www.google.com</li>
-<li> 12:08 outlook.office365.com</li>
-<li> 12:07 bsky.app</li>
-<li> 11:57 www.linkedin.com</li>
-<li> 11:56 bsky.app</li>
-<li> 11:55 outlook.office365.com</li>
-<li> 11:55 www.ncsc.gov.uk</li>
-<li> 11:54 www.google.com</li>
-<li> 11:52 gdpr.eu</li>
-<li> 11:52 www.google.com</li>
-<li> 11:39 rhul-my.sharepoint.com</li>
-<li class='same'> 11:38 rhul-my.sharepoint.com</li>
 </ul>
