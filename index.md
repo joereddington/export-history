@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5969)</li>
-<li>mail.google.com (5188)</li>
-<li>www.google.com (4864)</li>
+<ol><li>www.reddit.com (5967)</li>
+<li>mail.google.com (5185)</li>
+<li>www.google.com (4863)</li>
 <li>outlook.office365.com (4113)</li>
-<li>duckduckgo.com (4030)</li>
+<li>duckduckgo.com (4031)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2963)</li>
 <li>www.linkedin.com (2368)</li>
-<li>bsky.app (1919)</li>
+<li>bsky.app (1918)</li>
 <li>moodle.royalholloway.ac.uk (1860)</li>
 <li>www.facebook.com (1603)</li>
 <li>calendar.google.com (1549)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (826)</li>
-<li>forms.office.com (750)</li>
+<li>forms.office.com (745)</li>
 <li>rhul.sharepoint.com (653)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (554)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 14/10/26</H3>
+
+<br>
+
+<ul><li> 12:48 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -124588,39 +124593,4 @@ With number of accesses/minutes in parentheses
 <li> 17:33 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:33 experience.elluciancloud.ie</li>
 <li> 17:33 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 17:20 forms.office.com</li>
-<li class='same'> 17:19 forms.office.com</li>
-<li> 17:17 <a href="https://www.youtube.com/watch?v=S9aIiVfctMk">(84) 3 Levels of Tai Otoshi - YouTube</a></li>
-<li> 17:15 <a href="https://www.youtube.com/watch?v=LB2CWTcYeI8">(84) FUJI Pro Tip Tai Otoshi with Jimmy Pedro - YouTube</a></li>
-<li> 17:14 <a href="https://www.youtube.com/watch?v=fs1W60P4y3A&amp;t=25s">(84) One handed taiotoshi - YouTube</a></li>
-<li> 17:14 <a href="https://www.youtube.com/results?search_query=one+handed+tai+otoshi">(84) one handed tai otoshi - YouTube</a></li>
-<li> 17:12 <a href="https://www.youtube.com/watch?v=8oxA5l3o420">(84) Tai-otoshi - Follow up combinations - YouTube</a></li>
-<li> 17:12 <a href="https://www.youtube.com/watch?v=8oxA5l3o420&amp;feature=youtu.be">Tai-otoshi - Follow up combinations - YouTube</a></li>
-<li> 17:09 <a href="https://www.youtube.com/watch?v=lvKN5d2oYAg">(84) Tai-otoshi - Competitive variations - YouTube</a></li>
-<li> 17:09 <a href="https://www.youtube.com/watch?v=lvKN5d2oYAg&amp;feature=youtu.be">Tai-otoshi - Competitive variations - YouTube</a></li>
-<li> 17:07 <a href="https://www.youtube.com/watch?v=2ZghxCOec0Q">(84) Tai-otoshi - Set ups - YouTube</a></li>
-<li> 17:07 <a href="https://www.youtube.com/watch?v=2ZghxCOec0Q&amp;feature=youtu.be">Tai-otoshi - Set ups - YouTube</a></li>
-<li> 17:07 www.reddit.com</li>
-<li class='same'> 17:06 www.reddit.com</li>
-<li> 17:06 www.google.com</li>
-<li> 17:06 higashibrand.com</li>
-<li> 17:05 <a href="https://www.youtube.com/watch?v=FPEoJcK5tMI">(84) Judo Gripping Tactics That Nobody Tells You - YouTube</a></li>
-<li> 17:04 <a href="https://www.youtube.com/@Shigashi84/search?query=grip">(84) Shintaro Higashi - YouTube</a></li>
-<li> 17:03 <a href="https://www.youtube.com/@Shigashi84/videos">(84) Shintaro Higashi - YouTube</a></li>
-<li> 17:02 <a href="https://www.youtube.com/@Shigashi84">(84) Shintaro Higashi - YouTube</a></li>
-<li> 17:00 <a href="https://www.youtube.com/watch?v=Pw7kL8VG6k4">(84) Make the Cross Collar Grip your Go-To System - YouTube</a></li>
-<li> 16:57 <a href="https://en.wikipedia.org/wiki/John_Smyth_(barrister)">John Smyth (barrister) - Wikipedia</a></li>
-<li> 16:57 <a href="https://www.youtube.com/">(110) YouTube</a></li>
-<li> 16:57 <a href="https://en.wikipedia.org/wiki/Main_Page">Bart the Bear 2 - Wikipedia</a></li>
-<li> 16:57 <a href="https://en.wikipedia.org/"></a></li>
-<li> 16:57 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 16:57 <a href="https://www.youtube.com/">(110) YouTube</a></li>
-<li> 16:57 mail.google.com</li>
-<li> 16:57 forms.office.com</li>
-<li class='same'> 16:56 forms.office.com</li>
-<li> 16:50 mail.google.com</li>
-<li class='same'> 16:49 mail.google.com</li>
-<li> 16:49 bsky.app</li>
-<li> 16:48 clearsky.app</li>
-<li> 16:46 forms.office.com</li>
 </ul>
