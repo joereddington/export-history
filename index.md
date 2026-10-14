@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5950)</li>
+<ol><li>www.reddit.com (5959)</li>
 <li>mail.google.com (5204)</li>
-<li>www.google.com (4881)</li>
+<li>www.google.com (4880)</li>
 <li>outlook.office365.com (4136)</li>
 <li>duckduckgo.com (4027)</li>
 <li>outlook.office.com (3815)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:29 www.reddit.com</li>
+<ul><li> 07:49 www.reddit.com</li>
+<li class='same'> 07:48 www.reddit.com</li>
+<li class='same'> 07:46 www.reddit.com</li>
+<li> 07:43 i.ytimg.com</li>
+<li> 07:43 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li class='same'> 07:38 www.reddit.com</li>
+<li class='same'> 07:37 www.reddit.com</li>
+<li class='same'> 07:35 www.reddit.com</li>
+<li class='same'> 07:32 www.reddit.com</li>
+<li class='same'> 07:29 www.reddit.com</li>
 <li class='same'> 07:27 www.reddit.com</li>
 <li> 07:27 www.linkedin.com</li>
 <li> 07:14 forms.cloud.microsoft</li>
@@ -124732,6 +124742,4 @@ With number of accesses/minutes in parentheses
 <li> 15:07 mail.google.com</li>
 <li> 14:53 www.researchgate.net</li>
 <li class='same'> 14:52 www.researchgate.net</li>
-<li> 14:52 www.google.com</li>
-<li> 14:52 www.researchgate.net</li>
 </ul>
