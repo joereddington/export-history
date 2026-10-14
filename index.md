@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5971)</li>
+<ol><li>www.reddit.com (5969)</li>
 <li>mail.google.com (5188)</li>
-<li>www.google.com (4866)</li>
+<li>www.google.com (4864)</li>
 <li>outlook.office365.com (4113)</li>
 <li>duckduckgo.com (4030)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2963)</li>
-<li>www.linkedin.com (2369)</li>
-<li>bsky.app (1924)</li>
+<li>www.linkedin.com (2368)</li>
+<li>bsky.app (1919)</li>
 <li>moodle.royalholloway.ac.uk (1860)</li>
 <li>www.facebook.com (1603)</li>
 <li>calendar.google.com (1549)</li>
@@ -124623,18 +124623,4 @@ With number of accesses/minutes in parentheses
 <li> 16:49 bsky.app</li>
 <li> 16:48 clearsky.app</li>
 <li> 16:46 forms.office.com</li>
-<li> 16:46 www.linkedin.com</li>
-<li> 16:45 bsky.app</li>
-<li class='same'> 16:42 bsky.app</li>
-<li> 16:39 privacyportal-de.onetrust.com</li>
-<li> 16:38 bsky.app</li>
-<li> 16:34 clearsky.app</li>
-<li class='same'> 16:33 clearsky.app</li>
-<li> 16:33 www.reddit.com</li>
-<li> 16:33 www.google.com</li>
-<li> 16:33 clearsky.app</li>
-<li> 16:32 www.reddit.com</li>
-<li> 16:32 www.google.com</li>
-<li> 16:32 bsky.app</li>
-<li class='same'> 16:31 bsky.app</li>
 </ul>
