@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5967)</li>
 <li>mail.google.com (5185)</li>
-<li>www.google.com (4857)</li>
+<li>www.google.com (4855)</li>
 <li>outlook.office365.com (4112)</li>
-<li>duckduckgo.com (4033)</li>
+<li>duckduckgo.com (4034)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2963)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1902)</li>
-<li>moodle.royalholloway.ac.uk (1868)</li>
+<li>moodle.royalholloway.ac.uk (1869)</li>
 <li>www.facebook.com (1603)</li>
 <li>login.microsoftonline.com (1549)</li>
 <li>calendar.google.com (1548)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:34 fyp.cs.rhul.ac.uk</li>
+<ul><li> 16:02 moodle.royalholloway.ac.uk</li>
+<li> 16:01 fyp.cs.rhul.ac.uk</li>
+<li> 16:01 duckduckgo.com</li>
+<li> 15:34 fyp.cs.rhul.ac.uk</li>
 <li> 15:34 moodle.royalholloway.ac.uk</li>
 <li> 15:33 fyp.cs.rhul.ac.uk</li>
 <li> 15:29 scholar.google.com</li>
@@ -124521,14 +124524,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:16 clearsky.app</li>
-<li class='same'> 22:03 clearsky.app</li>
-<li class='same'> 22:02 clearsky.app</li>
-<li class='same'> 22:01 clearsky.app</li>
-<li class='same'> 22:00 clearsky.app</li>
-<li> 22:00 amp.theguardian.com</li>
-<li class='same'> 21:51 amp.theguardian.com</li>
-<li class='same'> 21:50 amp.theguardian.com</li>
-<li> 21:50 www.google.com</li>
-<li> 21:50 www.mirror.co.uk</li>
-<li> 21:50 www.google.com</li>
 </ul>
