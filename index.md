@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5971)</li>
-<li>mail.google.com (5192)</li>
-<li>www.google.com (4868)</li>
-<li>outlook.office365.com (4117)</li>
-<li>duckduckgo.com (4028)</li>
+<li>mail.google.com (5188)</li>
+<li>www.google.com (4866)</li>
+<li>outlook.office365.com (4113)</li>
+<li>duckduckgo.com (4030)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2963)</li>
-<li>www.linkedin.com (2370)</li>
-<li>bsky.app (1926)</li>
+<li>www.linkedin.com (2369)</li>
+<li>bsky.app (1924)</li>
 <li>moodle.royalholloway.ac.uk (1860)</li>
-<li>www.facebook.com (1622)</li>
+<li>www.facebook.com (1603)</li>
 <li>calendar.google.com (1549)</li>
 <li>login.microsoftonline.com (1547)</li>
 <li>chat.openai.com (1372)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (554)</li>
 <li>ev.turnitinuk.com (472)</li>
-<li>www.theguardian.com (466)</li>
+<li>www.theguardian.com (465)</li>
 <li>adfs.herts.ac.uk (455)</li>
 
 
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 14/10/26</H3>
+
+<br>
+
+<ul><li> 11:55 www.explainxkcd.com</li>
+<li> 11:55 duckduckgo.com</li>
+<li class='same'> 11:51 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -124630,42 +124637,4 @@ With number of accesses/minutes in parentheses
 <li> 16:32 www.google.com</li>
 <li> 16:32 bsky.app</li>
 <li class='same'> 16:31 bsky.app</li>
-<li> 16:31 mail.google.com</li>
-<li> 16:31 appliedcomicsetc.com</li>
-<li> 16:31 outlook.office365.com</li>
-<li> 16:30 mail.google.com</li>
-<li> 16:30 privacyportal-de.onetrust.com</li>
-<li> 16:30 help.hollandandbarrett.com</li>
-<li> 16:30 www.google.com</li>
-<li> 16:29 privacyportal-de.onetrust.com</li>
-<li> 16:29 mail.google.com</li>
-<li> 16:29 privacyportal-de.onetrust.com</li>
-<li> 16:29 mail.google.com</li>
-<li> 16:29 bsky.app</li>
-<li> 16:28 www.facebook.com</li>
-<li class='same'> 16:27 www.facebook.com</li>
-<li class='same'> 16:26 www.facebook.com</li>
-<li class='same'> 16:25 www.facebook.com</li>
-<li class='same'> 16:24 www.facebook.com</li>
-<li> 16:24 bsky.app</li>
-<li> 16:24 outlook.office365.com</li>
-<li> 16:23 www.facebook.com</li>
-<li class='same'> 16:22 www.facebook.com</li>
-<li class='same'> 16:21 www.facebook.com</li>
-<li class='same'> 16:20 www.facebook.com</li>
-<li class='same'> 16:19 www.facebook.com</li>
-<li class='same'> 16:18 www.facebook.com</li>
-<li class='same'> 16:17 www.facebook.com</li>
-<li class='same'> 16:15 www.facebook.com</li>
-<li class='same'> 16:14 www.facebook.com</li>
-<li class='same'> 16:13 www.facebook.com</li>
-<li class='same'> 16:12 www.facebook.com</li>
-<li class='same'> 16:11 www.facebook.com</li>
-<li> 16:08 www.theguardian.com</li>
-<li> 16:08 www.google.com</li>
-<li> 16:07 www.facebook.com</li>
-<li class='same'> 16:06 www.facebook.com</li>
-<li> 16:05 www.linkedin.com</li>
-<li> 16:05 outlook.office365.com</li>
-<li class='same'> 16:04 outlook.office365.com</li>
 </ul>
