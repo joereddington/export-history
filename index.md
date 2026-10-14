@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5967)</li>
 <li>mail.google.com (5185)</li>
-<li>www.google.com (4860)</li>
+<li>www.google.com (4857)</li>
 <li>outlook.office365.com (4112)</li>
 <li>duckduckgo.com (4032)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2963)</li>
 <li>www.linkedin.com (2367)</li>
-<li>bsky.app (1906)</li>
-<li>moodle.royalholloway.ac.uk (1865)</li>
+<li>bsky.app (1902)</li>
+<li>moodle.royalholloway.ac.uk (1866)</li>
 <li>www.facebook.com (1603)</li>
 <li>login.microsoftonline.com (1549)</li>
 <li>calendar.google.com (1548)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:11 moodle.royalholloway.ac.uk</li>
+<ul><li> 14:39 fyp.cs.rhul.ac.uk</li>
+<li> 14:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:11 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:09 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:06 moodle.royalholloway.ac.uk</li>
 <li> 14:06 login.microsoftonline.com</li>
@@ -124520,35 +124522,4 @@ With number of accesses/minutes in parentheses
 <li> 21:50 www.google.com</li>
 <li> 21:50 www.mirror.co.uk</li>
 <li> 21:50 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 17:58 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:17 bsky.app</li>
-<li class='same'> 11:16 bsky.app</li>
-<li class='same'> 11:13 bsky.app</li>
-<li> 11:12 www.sciencedirect.com</li>
-<li> 11:12 linkinghub.elsevier.com</li>
-<li> 11:12 dblp.org</li>
-<li> 11:12 www.google.com</li>
-<li> 11:11 equalitytime.github.io</li>
-<li> 11:11 theopenvoicefactory.org</li>
-<li> 11:11 bsky.app</li>
-<li> 11:10 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 11:10 <a href="https://en.wikipedia.org/wiki/Information_security?venotify=saved">Information security - Wikipedia</a></li>
-<li> 11:10 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 11:09 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;section=1&amp;oldid=1257467068&amp;action=edit">Editing Information security - Wikipedia</a></li>
-<li> 11:09 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=1">Editing Information security (section) - Wikipedia</a></li>
-<li> 11:09 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-</ul>
-
-<br>
-
-<ul><li> 08:27 www.giantitp.com</li>
-<li> 08:27 www.google.com</li>
 </ul>
