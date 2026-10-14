@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5185)</li>
 <li>www.google.com (4857)</li>
 <li>outlook.office365.com (4112)</li>
-<li>duckduckgo.com (4032)</li>
+<li>duckduckgo.com (4033)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2963)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1902)</li>
-<li>moodle.royalholloway.ac.uk (1866)</li>
+<li>moodle.royalholloway.ac.uk (1867)</li>
 <li>www.facebook.com (1603)</li>
 <li>login.microsoftonline.com (1549)</li>
 <li>calendar.google.com (1548)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:39 fyp.cs.rhul.ac.uk</li>
+<ul><li> 15:27 journals.sagepub.com</li>
+<li> 15:27 scholar.google.com</li>
+<li> 15:27 duckduckgo.com</li>
+<li> 15:17 fyp.cs.rhul.ac.uk</li>
+<li> 15:01 moodle.royalholloway.ac.uk</li>
+<li> 14:39 fyp.cs.rhul.ac.uk</li>
 <li> 14:34 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:11 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:09 moodle.royalholloway.ac.uk</li>
