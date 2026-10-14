@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5970)</li>
-<li>mail.google.com (5204)</li>
+<li>mail.google.com (5203)</li>
 <li>www.google.com (4880)</li>
 <li>outlook.office365.com (4136)</li>
-<li>duckduckgo.com (4027)</li>
+<li>duckduckgo.com (4028)</li>
 <li>outlook.office.com (3815)</li>
 <li>docs.google.com (3244)</li>
-<li>chatgpt.com (2966)</li>
+<li>chatgpt.com (2968)</li>
 <li>www.linkedin.com (2382)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1862)</li>
 <li>www.facebook.com (1622)</li>
 <li>calendar.google.com (1551)</li>
 <li>login.microsoftonline.com (1545)</li>
-<li>chat.openai.com (1375)</li>
+<li>chat.openai.com (1376)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1095)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (925)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (846)</li>
-<li>rhul-my.sharepoint.com (828)</li>
+<li>rhul-my.sharepoint.com (831)</li>
 <li>forms.office.com (757)</li>
 <li>rhul.sharepoint.com (653)</li>
 <li>fritz.box (592)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:06 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<ul><li> 09:20 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 09:19 gitlab.cim.rhul.ac.uk</li>
+<li> 09:19 duckduckgo.com</li>
+<li> 09:19 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 09:18 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 09:17 gitlab.cim.rhul.ac.uk</li>
+<li> 09:16 fyp.cs.rhul.ac.uk</li>
+<li> 09:15 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 09:14 gitlab.cim.rhul.ac.uk</li>
+<li> 09:13 rhul-my.sharepoint.com</li>
+<li> 09:12 fyp.cs.rhul.ac.uk</li>
+<li> 09:08 teams.microsoft.com</li>
+<li class='same'> 09:07 teams.microsoft.com</li>
+<li class='same'> 09:06 teams.microsoft.com</li>
+<li class='same'> 09:05 teams.microsoft.com</li>
+<li> 09:05 rhul-my.sharepoint.com</li>
+<li> 09:05 chatgpt.com</li>
+<li class='same'> 09:04 chatgpt.com</li>
+<li> 09:04 chat.openai.com</li>
+<li> 09:03 rhul-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:20 <a href="https://www.theguardian.com/tv-and-radio/2026/oct/14/visionquest-review-marvel-paul-bettany-wandavision-disney">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:06 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:06 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:02 localhost:8443</li>
 <li> 08:00 forms.cloud.microsoft</li>
@@ -124777,7 +124802,4 @@ With number of accesses/minutes in parentheses
 <li> 15:34 cisse.info</li>
 <li> 15:08 mail.google.com</li>
 <li> 15:07 www.linkedin.com</li>
-<li> 15:07 events.zoom.us</li>
-<li> 15:07 mail.google.com</li>
-<li> 14:53 www.researchgate.net</li>
 </ul>
