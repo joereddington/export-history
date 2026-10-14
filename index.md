@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5959)</li>
+<ol><li>www.reddit.com (5970)</li>
 <li>mail.google.com (5204)</li>
 <li>www.google.com (4880)</li>
 <li>outlook.office365.com (4136)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1862)</li>
 <li>www.facebook.com (1622)</li>
 <li>calendar.google.com (1551)</li>
-<li>login.microsoftonline.com (1543)</li>
+<li>login.microsoftonline.com (1545)</li>
 <li>chat.openai.com (1375)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -91,10 +91,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (828)</li>
-<li>forms.office.com (756)</li>
+<li>forms.office.com (757)</li>
 <li>rhul.sharepoint.com (653)</li>
 <li>fritz.box (592)</li>
-<li>m365.cloud.microsoft (552)</li>
+<li>m365.cloud.microsoft (554)</li>
 <li>ev.turnitinuk.com (472)</li>
 <li>www.theguardian.com (467)</li>
 <li>adfs.herts.ac.uk (455)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:49 www.reddit.com</li>
+<ul><li> 08:06 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 08:06 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 08:02 localhost:8443</li>
+<li> 08:00 forms.cloud.microsoft</li>
+<li> 08:00 forms.office.com</li>
+<li> 08:00 forms.cloud.microsoft</li>
+<li> 08:00 m365.cloud.microsoft</li>
+<li> 08:00 login.microsoftonline.com</li>
+<li> 08:00 device.login.microsoftonline.com</li>
+<li> 08:00 www.office.com</li>
+<li> 08:00 office.herts.ac.uk</li>
+<li> 08:00 office.com</li>
+<li> 08:00 m365.cloud.microsoft</li>
+<li> 08:00 login.microsoftonline.com</li>
+<li> 07:57 <a href="https://www.theguardian.com/world/2026/oct/14/landmines-ukraine-demining-drones-ai">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:56 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:56 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:49 www.reddit.com</li>
 <li class='same'> 07:48 www.reddit.com</li>
 <li class='same'> 07:46 www.reddit.com</li>
 <li> 07:43 i.ytimg.com</li>
@@ -131,7 +148,14 @@ With number of accesses/minutes in parentheses
 <li> 07:14 forms.office.com</li>
 <li> 07:14 forms.cloud.microsoft</li>
 <li> 07:10 localhost:8443</li>
-<li class='same'> 07:04 localhost:8443</li>
+<li> 07:08 <a href="https://www.theguardian.com/books/2026/oct/14/the-steps-by-sylvester-stallone-review-the-inside-story-of-rocky">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:07 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:07 <a href="https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:07 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:06 <a href="https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates#top-of-blog">Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live</a></li>
+<li> 07:06 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:06 <a href="https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates#top-of-blog">Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live</a></li>
+<li> 07:04 localhost:8443</li>
 <li class='same'> 06:56 localhost:8443</li>
 <li> 06:38 learn.microsoft.com</li>
 <li> 06:38 duckduckgo.com</li>
@@ -215,7 +239,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:45 www.reddit.com</li>
+<ul><li> 20:31 <a href="https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:31 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 20:31 <a href="https://www.theguardian.com/uk-news/2026/oct/13/man-killed-by-tiger-at-yorkshire-wildlife-park-named">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:30 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 20:26 www.reddit.com</li>
+<li class='same'> 20:24 www.reddit.com</li>
+<li class='same'> 20:23 www.reddit.com</li>
+<li class='same'> 20:22 www.reddit.com</li>
+<li class='same'> 20:21 www.reddit.com</li>
+<li class='same'> 20:19 www.reddit.com</li>
+<li class='same'> 20:18 www.reddit.com</li>
+<li class='same'> 20:17 www.reddit.com</li>
+<li class='same'> 20:16 www.reddit.com</li>
+<li class='same'> 19:47 www.reddit.com</li>
+<li class='same'> 19:46 www.reddit.com</li>
+<li class='same'> 19:45 www.reddit.com</li>
 <li class='same'> 19:39 www.reddit.com</li>
 <li class='same'> 19:37 www.reddit.com</li>
 <li class='same'> 19:36 www.reddit.com</li>
@@ -490,14 +529,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:21 www.reddit.com</li>
 <li class='same'> 18:15 www.reddit.com</li>
 <li> 18:14 www.google.com</li>
-<li> 17:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:53 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:53 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 17:53 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 17:51 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 17:51 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 17:31 <a href="https://www.theguardian.com/technology/2026/oct/12/wikipedia-deeply-biased-sandi-toksvig-backing-rival">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:30 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 17:01 <a href="https://www.theguardian.com/media/2026/oct/12/bbc-strictly-come-dancing-editing-out-trans-rights-slogan-bethany-antonia">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:01 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 16:48 u11498245.ct.sendgrid.net</li>
 <li> 16:40 <a href="https://www.youtube.com/watch?v=L_FTtfcMYU8">(110) Honest Trailers | Casino Royale - YouTube</a></li>
 <li> 16:33 <a href="https://www.youtube.com/watch?v=_-Kz67kea8Q">(110) Chicken Run: Dawn of the Nugget | Official Trailer | Netflix - YouTube</a></li>
@@ -974,8 +1013,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:02 www.google.com</li>
 <li> 18:02 <a href="https://en.wikipedia.org/wiki/Barry_Langford">Barry Langford - Wikipedia</a></li>
 <li> 18:02 www.google.com</li>
-<li> 18:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:01 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:01 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 18:01 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 18:01 <a href="https://www.theguardian.com/commentisfree/2026/jun/02/civil-war-british-right-rupert-lowe-nigel-farage-henry-nowak">A horrific murder – and a civil war threatening to tear apart the British right | Joe Mulhall | The Guardian</a></li>
 <li> 18:01 www.google.com</li>
 <li> 18:01 www.insidermedia.com</li>
@@ -1013,7 +1052,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:39 www.reddit.com</li>
 <li class='same'> 15:38 www.reddit.com</li>
 <li> 15:35 <a href="https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:35 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 15:33 www.parkrun.org.uk</li>
 <li> 15:32 www.reddit.com</li>
 <li class='same'> 15:31 www.reddit.com</li>
@@ -1381,8 +1420,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:28 www.reddit.com</li>
 <li> 13:22 rhul.sharepoint.com</li>
 <li> 13:19 <a href="https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest">‘I feel perfectly safe’: white Lutonians on the town’s supposed no-go zones | Luton | The Guardian</a></li>
-<li> 13:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:19 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:19 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 13:19 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 13:13 www.cloudrx.co.uk</li>
 <li> 13:07 www.linkedin.com</li>
 <li> 12:56 dashboards.rhul.ac.uk</li>
@@ -2031,7 +2070,7 @@ With number of accesses/minutes in parentheses
 <li> 05:37 x.com</li>
 <li> 05:37 www.google.com</li>
 <li class='same'> 05:36 www.google.com</li>
-<li> 05:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:35 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <H3>Sunday, 04/10/26</H3>
@@ -2262,8 +2301,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:11 www.reddit.com</li>
 <li class='same'> 14:07 www.reddit.com</li>
 <li> 14:05 <a href="https://www.theguardian.com/artanddesign/gallery/2026/oct/03/comedy-wildlife-photography-awards-2026-in-pictures">Comedy wildlife photography award finalists 2026 – in pictures | Photography | The Guardian</a></li>
-<li> 14:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 14:03 <a href="https://en.wikipedia.org/wiki/Giant&#x27;s_Causeway">Giant&#x27;s Causeway - Wikipedia</a></li>
 <li> 13:59 <a href="https://en.wikipedia.org/wiki/Polygon">Polygon - Wikipedia</a></li>
 <li> 13:59 www.google.com</li>
@@ -2711,8 +2750,8 @@ With number of accesses/minutes in parentheses
 <li> 08:14 duckduckgo.com</li>
 <li> 08:14 www.reddit.com</li>
 <li class='same'> 08:13 www.reddit.com</li>
-<li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:47 www.linkedin.com</li>
 <li> 07:44 www.su.rhul.ac.uk</li>
 <li> 07:41 duckduckgo.com</li>
@@ -4115,11 +4154,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:43 www.linkedin.com</li>
 <li> 07:43 mail.google.com</li>
 <li> 07:23 www.reddit.com</li>
-<li> 07:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:23 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/sport/2026/sep/23/lewis-hamilton-formula-one-end-season-middle-east-azerbaijan-qatar-abu-dhabi-grand-prix">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:19 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:16 <a href="https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:16 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <H3>Wednesday, 23/09/26</H3>
@@ -4249,7 +4288,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:18 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:15 m.youtube.com</li>
 <li> 08:15 www.google.com</li>
 <li> 08:12 <a href="https://www.bbc.co.uk/news">Manchester City: A statement win but does it carry weight in a season of limbo? - BBC Sport</a></li>
@@ -4561,7 +4600,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:33 www.reddit.com</li>
 <li class='same'> 18:32 www.reddit.com</li>
 <li> 18:30 <a href="https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:30 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 18:30 www.crowdfunder.co.uk</li>
 </ul>
 
@@ -4909,9 +4948,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 15:04 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 15:02 <a href="https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/john-fetterman-braddock-pennsylvania">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:02 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 14:59 <a href="https://www.bbc.co.uk/mediacentre/2026/strictly-2026-celebrity-professional-dancer-pairings/">BBC - Home</a></li>
 <li> 14:59 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 14:58 www.google.com</li>
@@ -8384,7 +8423,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:36 www.giantitp.com</li>
 <li> 18:36 www.natesilver.net</li>
 <li class='same'> 18:35 www.natesilver.net</li>
-<li> 18:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:34 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 18:24 m.youtube.com</li>
 <li class='same'> 18:19 m.youtube.com</li>
 <li> 18:19 www.google.com</li>
@@ -8407,7 +8446,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 14:29 <a href="https://www.theguardian.com/tv-and-radio/2026/sep/01/modern-family-mitch-cam-groundbreaking-love-jesse-tyler-ferguson-eric-stonestreet">‘We’re hunky in our own way’: Modern Family’s Mitch and Cam on their hilarious and groundbreaking love | Television | The Guardian</a></li>
-<li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 14:28 outlook.office365.com</li>
 <li class='same'> 14:27 outlook.office365.com</li>
 </ul>
@@ -8499,8 +8538,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:58 moodle.royalholloway.ac.uk</li>
 <li> 07:58 login.microsoftonline.com</li>
 <li> 07:58 device.login.microsoftonline.com</li>
-<li> 07:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:57 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:57 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:57 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:57 <a href="https://www.theguardian.com/culture/2026/aug/30/stewart-lee-comedian-interview-divorce-adoption-retelling-owl-and-the-pussycat">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 </ul>
 
@@ -8529,7 +8568,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:15 <a href="https://www.theguardian.com/culture/2026/aug/30/stewart-lee-comedian-interview-divorce-adoption-retelling-owl-and-the-pussycat">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 12:14 support.theguardian.com</li>
 <li> 12:14 <a href="https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:14 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 12:12 newsthump.com</li>
 <li> 12:11 www.parkrun.org.uk</li>
 </ul>
@@ -9223,7 +9262,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 21:05 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 21:04 feedly.com</li>
 <li> 21:04 royalholloway.akarisoftware.com</li>
 <li> 21:00 intranet.royalholloway.ac.uk</li>
@@ -9423,12 +9462,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 13:37 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 07:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 07:37 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:36 <a href="https://en.wikipedia.org/wiki/Ely_Cathedral">Ely Cathedral - Wikipedia</a></li>
 <li> 07:36 www.google.com</li>
 </ul>
@@ -9473,19 +9512,19 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 10:21 www.google.com</li>
-<li> 10:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:21 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 07:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 07:34 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/stage/2026/aug/20/magicians-and-margarine-10-of-the-funniest-jokes-from-the-edinburgh-fringe-2026">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:32 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:32 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:32 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:28 <a href="https://www.theguardian.com/world/2026/aug/20/oxfam-cant-guarantee-future-of-charity-shops-as-it-also-reviews-warehouse-business">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:27 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:26 <a href="https://www.theguardian.com/politics/2026/aug/20/working-in-keir-starmer-no-10-unbearable-says-sue-gray">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:25 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:22 www.sliceanddice.cafe</li>
 <li class='same'> 07:20 www.sliceanddice.cafe</li>
 </ul>
@@ -9540,9 +9579,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:41 www.explainxkcd.com</li>
 <li> 20:41 www.google.com</li>
 <li class='same'> 20:39 www.google.com</li>
-<li> 20:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:35 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:35 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 20:35 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 20:35 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 20:35 www.google.com</li>
 </ul>
 
@@ -9601,20 +9640,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:04 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:04 chatgpt.com</li>
-<li> 07:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:53 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:53 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:53 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:39 <a href="https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:39 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:39 <a href="https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:38 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:37 <a href="https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:37 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:36 <a href="https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:36 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:32 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
@@ -9899,7 +9938,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:37 <a href="https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates">Clacton byelection: Farage beats Count Binface but skips result announcement – UK politics live | Politics | The Guardian</a></li>
-<li> 09:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:37 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 09:37 intranet.royalholloway.ac.uk</li>
 <li class='same'> 09:09 intranet.royalholloway.ac.uk</li>
 <li> 09:09 outlook.office365.com</li>
@@ -9913,7 +9952,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:58 m.youtube.com</li>
 <li> 07:58 www.google.com</li>
 <li> 07:57 <a href="https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:56 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:56 newsthump.com</li>
 <li> 07:55 www.reddit.com</li>
 </ul>
@@ -10325,9 +10364,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 17:42 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 17:41 <a href="https://www.theguardian.com/football/picture/2026/aug/11/david-squires-masochistic-life-of-a-football-league-fan-cartoon">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:40 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 17:40 retractionwatch.com</li>
 </ul>
 
@@ -10413,11 +10452,11 @@ With number of accesses/minutes in parentheses
 <li> 06:46 <a href="https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia">Ukraine drone strike on oil refinery deep inside Russia kills at least 13 | Ukraine | The Guardian</a></li>
 <li> 06:46 www.travelbag.co.uk</li>
 <li> 06:45 <a href="https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia">Ukraine drone strike on oil refinery deep inside Russia kills at least 13 | Ukraine | The Guardian</a></li>
-<li> 06:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:38 <a href="https://www.theguardian.com/food/2026/aug/11/the-myth-of-anthony-bourdain-how-the-bad-boy-chef-became-a-hero-to-boozehounds-and-bullies">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:38 <a href="https://www.theguardian.com/books/2026/aug/10/barack-obama-launches-podcast-about-books-that-shaped-his-worldview">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:37 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:37 www.telegraph.co.uk</li>
 </ul>
 
@@ -11131,12 +11170,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 15:31 www.google.com</li>
-<li> 15:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 15:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:31 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li class='same'> 15:02 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 14:59 <a href="https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:58 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 14:58 <a href="https://www.theguardian.com/media/2026/aug/03/sunday-times-and-sun-columnist-journalist-rod-liddle-dies-aged-66">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:58 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 14:56 <a href="https://www.theguardian.com/politics/2026/aug/03/nigel-farage-admits-discussed-returning-reform-leader-months-earlier">Latest news, sport and opinion from the Guardian</a></li>
 <li> 14:46 www.instagram.com</li>
 <li> 14:46 www.linkedin.com</li>
@@ -11148,8 +11187,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:06 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 12:06 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 12:06 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
@@ -11176,7 +11215,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:14 fritz.box</li>
 <li> 09:14 detectportal.firefox.com</li>
 <li> 09:03 <a href="https://www.theguardian.com/world/2026/aug/03/hungary-president-poll-hide-the-pain-harold">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:02 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:36 deeplearningindaba.com</li>
 <li class='same'> 08:35 deeplearningindaba.com</li>
 <li> 08:35 www.google.com</li>
@@ -11353,8 +11392,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:37 mail.google.com</li>
 <li> 09:36 <a href="https://www.theguardian.com/environment/2026/jul/31/england-hosepipe-ban-drought-private-schools-golf-courses-green-grass">‘It’s alright for them’: private schools and golf courses stay green despite England’s hosepipe bans | Drought | The Guardian</a></li>
 <li> 09:36 <a href="https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps">Diane Abbott and Joani Reid readmitted as Labour MPs | Labour | The Guardian</a></li>
-<li> 09:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:35 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:35 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 09:35 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 09:35 mail.google.com</li>
 <li> 09:33 qbo.intuit.com</li>
 <li class='same'> 09:32 qbo.intuit.com</li>
@@ -11369,7 +11408,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:49 <a href="https://www.theguardian.com/politics/2026/jul/29/george-cottrell-transferred-2m-mother-beforer-reform-uk-donations">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:49 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:49 www.better.org.uk</li>
 <li> 08:33 www.amazon.co.uk</li>
 <li class='same'> 08:32 www.amazon.co.uk</li>
@@ -11637,9 +11676,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 18:39 www.google.com</li>
 <li> 18:37 <a href="https://www.theguardian.com/us-news/2026/jul/24/maga-influencer-laura-loomer-reverses-course-on-ukraine-after-kyiv-visit">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:37 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 18:36 <a href="https://www.theguardian.com/uk-news/2026/jul/24/most-people-arrested-during-henry-nowak-protests-had-been-reported-for-domestic-abuse">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:36 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 18:35 app.heyguest.ai</li>
 <li> 18:30 uk.gomotionapp.com</li>
 <li> 18:20 user.sportngin.com</li>
@@ -11750,8 +11789,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:20 tvtropes.org</li>
 <li class='same'> 14:15 tvtropes.org</li>
 <li class='same'> 13:57 tvtropes.org</li>
-<li> 13:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:57 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:57 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 13:57 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 13:56 <a href="https://www.theguardian.com/politics/2026/jul/23/anton-jager-groundbreaking-book-being-devoured-by-left">Meet the man whose groundbreaking book is being devoured by the left | Politics | The Guardian</a></li>
 </ul>
 
@@ -11774,7 +11813,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:45 <a href="https://www.theguardian.com/politics/2026/jul/23/anton-jager-groundbreaking-book-being-devoured-by-left">Meet the man whose groundbreaking book is being devoured by the left | Politics | The Guardian</a></li>
-<li> 11:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:44 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
@@ -11916,7 +11955,7 @@ With number of accesses/minutes in parentheses
 <li> 17:27 outlook.office365.com</li>
 <li> 17:25 www.google.com</li>
 <li> 17:25 <a href="https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb">Rebel Wilson wins defamation case brought by co-star after bitter dispute | Australia news | The Guardian</a></li>
-<li> 17:25 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:25 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 17:25 <a href="https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb">Rebel Wilson wins defamation case brought by co-star after bitter dispute | Australia news | The Guardian</a></li>
 <li> 17:08 www.facebook.com</li>
 <li class='same'> 17:07 www.facebook.com</li>
@@ -12015,7 +12054,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:24 <a href="https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb">Rebel Wilson wins defamation case brought by co-star after bitter dispute | Australia news | The Guardian</a></li>
-<li> 08:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:23 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:21 outlook.office365.com</li>
 <li class='same'> 08:20 outlook.office365.com</li>
 <li class='same'> 08:19 outlook.office365.com</li>
@@ -12403,16 +12442,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:28 www.buzzfeed.com</li>
-<li> 07:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 07:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:27 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li class='same'> 07:15 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:11 <a href="https://www.theguardian.com/culture/2026/jul/17/christopher-nolan-forces-all-rivals-to-flee-as-he-dominates-the-battle-of-the-blockbusters">O what a tangled web: unweaving the weirdest fan rumours surrounding Spider-Man: Brand New Day | Spider-Man | The Guardian</a></li>
 <li> 07:11 <a href="https://www.theguardian.com/film/2026/jun/26/spider-man-brand-new-day-fan-rumours-week-in-geek">The Guide #252: Christopher Nolan forces ​all rivals to flee as he dominates the battle of the blockbusters | Culture | The Guardian</a></li>
 <li> 07:10 <a href="https://www.theguardian.com/culture/2026/jul/17/christopher-nolan-forces-all-rivals-to-flee-as-he-dominates-the-battle-of-the-blockbusters">O what a tangled web: unweaving the weirdest fan rumours surrounding Spider-Man: Brand New Day | Spider-Man | The Guardian</a></li>
-<li> 07:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:10 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:08 <a href="https://www.theguardian.com/tv-and-radio/2026/jul/17/ann-droid-review-diane-morgan-sue-johnston-robot-comedy-bbc">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:07 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:05 <a href="https://www.theguardian.com/politics/2026/jul/18/nigel-farage-clash-times-editor-reform">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:05 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:04 app.heyguest.ai</li>
 </ul>
 
@@ -12559,14 +12598,14 @@ With number of accesses/minutes in parentheses
 <li> 06:24 www.google.com</li>
 <li class='same'> 06:23 www.google.com</li>
 <li> 06:20 <a href="https://www.theguardian.com/politics/2026/jul/16/liz-truss-london-cpac-event">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:19 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:13 <a href="https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:13 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:13 <a href="https://www.theguardian.com/politics/2026/jul/16/andy-burnham-keir-starmer-no-10-advisers">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:12 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:12 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:12 <a href="https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:05 tvtropes.org</li>
 </ul>
@@ -12586,10 +12625,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:36 tvtropes.org</li>
 <li class='same'> 19:33 tvtropes.org</li>
 <li> 19:33 www.google.com</li>
-<li> 19:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:30 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 19:29 <a href="https://www.theguardian.com/politics/2026/jul/16/burnhams-black-box-plans-for-cabinet-send-westminster-into-hysteria">Burnham’s ‘black box’ plans for cabinet send Westminster into hysteria | Andy Burnham | The Guardian</a></li>
 <li class='same'> 19:28 <a href="https://www.theguardian.com/politics/2026/jul/16/burnhams-black-box-plans-for-cabinet-send-westminster-into-hysteria">Burnham’s ‘black box’ plans for cabinet send Westminster into hysteria | Andy Burnham | The Guardian</a></li>
-<li> 19:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:27 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 19:22 www.google.com</li>
 <li class='same'> 19:21 www.google.com</li>
 <li> 19:21 subslikescript.com</li>
@@ -12665,7 +12704,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:42 <a href="https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:41 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 12:41 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
 </ul>
 
@@ -13163,8 +13202,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:52 <a href="https://www.theguardian.com/politics/2026/jul/13/andy-burnham-confirmed-labour-leader-landslide-support">Andy Burnham secures Labour leadership with landslide support of MPs | Andy Burnham | The Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 11:49 moodle.royalholloway.ac.uk</li>
 </ul>
 
@@ -14053,18 +14092,18 @@ With number of accesses/minutes in parentheses
 <li> 07:51 themeads.org.uk</li>
 <li> 07:51 www.google.com</li>
 <li> 07:38 <a href="https://www.theguardian.com/politics/2026/jul/08/nigel-farage-win-clacton-credibility-survive-reform">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:38 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:37 <a href="https://www.theguardian.com/politics/2026/jul/07/nigel-farage-fact-check-truth-five-resignation-statements-reform">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:37 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 06:13 www.natesilver.net</li>
 <li class='same'> 06:12 www.natesilver.net</li>
-<li> 06:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:10 <a href="https://www.theguardian.com/politics/2026/jul/07/nigel-farage-quits-as-mp-amid-scrunity-over-finances-clacton-reform">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:10 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:10 www.google.com</li>
 </ul>
 
@@ -14244,11 +14283,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 22:36 auth.wikimedia.org</li>
-<li> 22:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:36 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 22:33 <a href="https://www.theguardian.com/commentisfree/2026/jul/06/farage-on-brink-labour-cant-rest-easy-reform-funding-andy-burnham">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:33 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 22:30 <a href="https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:29 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 22:28 auth.wikimedia.org</li>
 <li> 22:28 <a href="https://en.wikipedia.org/w/index.php?experiments=we-1-8-account-creation-form-v2%3Aunsampled&amp;returnto=Main+Page&amp;title=Special%3AUserLogin&amp;centralAuthAutologinTried=1&amp;useformat=mobile&amp;centralAuthError=Not+centrally+logged+in">Wikipedia, the free encyclopedia</a></li>
 <li> 22:28 <a href="https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&amp;returnto=Main+Page&amp;experiments=we-1-8-account-creation-form-v2%3Aunsampled">Wikipedia, the free encyclopedia</a></li>
@@ -14766,16 +14805,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:51 <a href="https://www.theguardian.com/tv-and-radio/2026/jul/02/mps-uk-broadcast-russian-cartoon-masha-and-the-bear">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 12:34 <a href="https://www.theguardian.com/politics/2026/jul/02/its-a-stellar-idea-readers-on-andy-burnhams-no-10-north-plans">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 12:21 webtimetables.royalholloway.ac.uk</li>
 <li> 12:20 dl.acm.org</li>
 <li class='same'> 12:19 dl.acm.org</li>
@@ -14969,9 +15008,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 20:57 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 20:55 <a href="https://www.theguardian.com/football/2026/jul/01/england-dr-congo-world-cup-2026-last-32-match-report">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:54 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 20:28 Local file</li>
 </ul>
 
@@ -15584,9 +15623,9 @@ With number of accesses/minutes in parentheses
 <li> 19:16 <a href="https://www.bbc.co.uk/sport/football/world-cup/scores-fixtures/2026-06?filter=fixtures">FIFA World Cup - Scores &amp; Fixtures - Football - BBC Sport</a></li>
 <li> 19:16 <a href="https://www.bbc.co.uk/sport/football/world-cup/scores-fixtures/2026-06">FIFA World Cup - Scores &amp; Fixtures - Football - BBC Sport</a></li>
 <li> 19:16 www.google.com</li>
-<li> 19:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:13 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 19:12 <a href="https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:12 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 18:45 www.google.com</li>
 <li> 18:24 teamwear.swimzi.com</li>
 <li> 18:23 uk.gomotionapp.com</li>
@@ -16375,7 +16414,7 @@ With number of accesses/minutes in parentheses
 <li> 12:34 www.parkrun.org.uk</li>
 <li> 12:34 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:33 <a href="https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 12:32 www.natwest.com</li>
 <li> 12:16 chatgpt.com</li>
 <li class='same'> 12:04 chatgpt.com</li>
@@ -16508,9 +16547,9 @@ With number of accesses/minutes in parentheses
 <li> 16:58 www.lolas.co.uk</li>
 <li> 16:58 duckduckgo.com</li>
 <li> 16:32 <a href="https://www.theguardian.com/politics/2026/jun/21/defiance-to-acceptance-five-quotes-keir-starmer-downfall-burnham">From defiance to acceptance: five quotes that chart Starmer’s downfall | Keir Starmer | The Guardian</a></li>
-<li> 16:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:32 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 16:30 <a href="https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:30 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 16:28 www.lolas.co.uk</li>
 <li> 16:28 www.google.com</li>
 <li> 16:27 www.waitrose.com</li>
@@ -16558,9 +16597,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 11:22 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 11:22 <a href="https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:21 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
@@ -16577,7 +16616,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:37 <a href="https://www.theguardian.com/politics/2026/jun/20/stanley-chow-andy-burnham-illustration">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:36 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:36 www.nhs.uk</li>
 </ul>
 
@@ -16805,7 +16844,7 @@ With number of accesses/minutes in parentheses
 <li> 16:48 <a href="https://en.wikipedia.org/"></a></li>
 <li> 16:23 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 16:21 <a href="https://www.theguardian.com/politics/2026/jun/19/facts-and-figures-makerfield-byelection-result-numbers">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:21 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 16:20 www.google.com</li>
 <li class='same'> 16:19 www.google.com</li>
 <li> 16:19 m.youtube.com</li>
@@ -17015,9 +17054,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 06:26 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:24 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:24 www.activeluton.co.uk</li>
 </ul>
 
@@ -17492,14 +17531,14 @@ With number of accesses/minutes in parentheses
 <li> 16:26 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:26 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 16:12 <a href="https://www.theguardian.com/sport/2026/jun/16/serena-williams-wimbledon-doubles-wildcard-venus-tennis">Serena Williams back at Wimbledon after being granted doubles wildcard with Venus | Wimbledon | The Guardian</a></li>
-<li> 16:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:12 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 16:11 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/iran-peace-deal-us-washington-war-lebanon">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:10 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 16:10 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:10 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 16:10 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/brooklyn-beckham-family-doordash-ad">Brand Beckham always delivers with a PR opportunity. But Brooklyn’s turned up late, with the wrong order | Marina Hyde | The Guardian</a></li>
 <li class='same'> 16:08 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/brooklyn-beckham-family-doordash-ad">Brand Beckham always delivers with a PR opportunity. But Brooklyn’s turned up late, with the wrong order | Marina Hyde | The Guardian</a></li>
-<li> 16:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:05 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
@@ -18460,9 +18499,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:00 feedly.com</li>
 <li> 14:57 www.linkedin.com</li>
 <li> 14:30 <a href="https://www.theguardian.com/film/ng-interactive/2026/jun/10/the-best-films-of-2026-so-far">The best films of 2026 so far | Film | The Guardian</a></li>
-<li> 14:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:30 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 14:29 <a href="https://www.theguardian.com/football/2026/jun/10/david-sullivan-west-ham-football-association-safeguarding-investigation">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
@@ -19094,13 +19133,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:43 <a href="https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play">From God of War to Until Dawn – seven reveals from last night’s PlayStation event | Games | The Guardian</a></li>
-<li> 06:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:43 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/music/2026/jun/07/shania-twain-gig-turns-london-pub-into-saloon">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:41 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:40 <a href="https://www.theguardian.com/uk-news/2026/jun/07/home-office-china-report-honey-traps-compromise-attempts">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:36 <a href="https://www.theguardian.com/tv-and-radio/2026/jun/08/alice-and-steve-review-jemaine-clement-and-nicola-walkers-icky-comedy-is-dated-and-wrong">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <H3>Sunday, 07/06/26</H3>
@@ -19471,9 +19510,9 @@ With number of accesses/minutes in parentheses
 <li> 07:12 www.google.com</li>
 <li class='same'> 07:11 www.google.com</li>
 <li> 06:56 <a href="https://www.theguardian.com/sport/2026/jun/04/mirra-andreeva-marta-kostyuk-russia-ukraine-war-tennis-french-open">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:55 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:53 <a href="https://www.theguardian.com/music/2026/jun/05/lizzo-bitch-album-review">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 06:51 www.thedailymash.co.uk</li>
 <li class='same'> 06:50 www.thedailymash.co.uk</li>
 </ul>
@@ -19591,8 +19630,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:14 <a href="https://www.theguardian.com/film/2026/jun/04/disney-paris-theme-park-deficit">Disney racks up $4.2bn deficit on Paris parks | Walt Disney Company | The Guardian</a></li>
-<li> 14:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:14 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:14 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 14:14 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 14:07 dashboards.rhul.ac.uk</li>
 <li> 14:04 www.linkedin.com</li>
 <li> 14:04 mail.google.com</li>
@@ -19660,14 +19699,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:34 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:34 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 08:34 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 07:58 <a href="https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:57 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
@@ -19903,11 +19942,11 @@ With number of accesses/minutes in parentheses
 <li> 12:14 www.reddit.com</li>
 <li class='same'> 12:13 www.reddit.com</li>
 <li> 12:09 <a href="https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 12:03 www.eurostar.com</li>
 <li class='same'> 12:02 www.eurostar.com</li>
 <li> 12:00 chatgpt.com</li>
@@ -20058,7 +20097,7 @@ With number of accesses/minutes in parentheses
 <li> 09:10 chat.openai.com</li>
 <li> 09:09 teams.microsoft.com</li>
 <li> 09:08 www.ecer.org</li>
-<li> 08:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:54 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:53 auth.wikimedia.org</li>
 <li> 08:53 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&amp;title=Special:UserLogin&amp;centralAuthAutologinTried=1&amp;useformat=mobile&amp;centralAuthError=Not+centrally+logged+in">Wikipedia, the free encyclopedia</a></li>
 <li> 08:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page">Wikipedia, the free encyclopedia</a></li>
@@ -20067,14 +20106,14 @@ With number of accesses/minutes in parentheses
 <li> 08:48 www.yodel.co.uk</li>
 <li> 08:48 www.google.com</li>
 <li class='same'> 08:47 www.google.com</li>
-<li> 08:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:30 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 08:02 <a href="https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:59 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:59 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:59 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/politics/2026/jun/03/mandelson-messages-manual-dark-arts-power">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <H3>Tuesday, 02/06/26</H3>
@@ -20092,7 +20131,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:24 <a href="https://www.theguardian.com/world/2026/jun/02/my-father-german-refugee-who-fought-nazis-as-secret-listener">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:23 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 19:21 mayamagal.co.uk</li>
 <li class='same'> 19:17 mayamagal.co.uk</li>
 <li> 19:17 <a href="https://www.theguardian.com/commentisfree/2026/jun/02/civil-war-british-right-rupert-lowe-nigel-farage-henry-nowak">A horrific murder – and a civil war threatening to tear apart the British right | Joe Mulhall | The Guardian</a></li>
@@ -20117,7 +20156,7 @@ With number of accesses/minutes in parentheses
 <li> 17:47 www.linkedin.com</li>
 <li> 17:42 <a href="https://www.theguardian.com/commentisfree/2026/jun/02/civil-war-british-right-rupert-lowe-nigel-farage-henry-nowak">A horrific murder – and a civil war threatening to tear apart the British right | Joe Mulhall | The Guardian</a></li>
 <li> 17:40 <a href="https://www.theguardian.com/uk-news/2026/jun/02/maga-influencer-melissa-rein-lively-pleads-guilty-london-assault">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:39 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 <li> 17:30 www.linkedin.com</li>
 <li> 17:28 chatgpt.com</li>
 <li class='same'> 17:27 chatgpt.com</li>
@@ -20184,7 +20223,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:31 <a href="https://www.theguardian.com/education/2026/jun/02/shrinking-graduate-premium-sours-views-on-university-poll-shows">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:31 <a href="https://www.theguardian.com/uk">Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed? | Ukraine | The Guardian</a></li>
 </ul>
 
 <br>
@@ -124741,5 +124780,4 @@ With number of accesses/minutes in parentheses
 <li> 15:07 events.zoom.us</li>
 <li> 15:07 mail.google.com</li>
 <li> 14:53 www.researchgate.net</li>
-<li class='same'> 14:52 www.researchgate.net</li>
 </ul>
