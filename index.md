@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5948)</li>
+<ol><li>www.reddit.com (5950)</li>
 <li>mail.google.com (5204)</li>
-<li>www.google.com (4884)</li>
+<li>www.google.com (4881)</li>
 <li>outlook.office365.com (4136)</li>
 <li>duckduckgo.com (4027)</li>
 <li>outlook.office.com (3815)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2966)</li>
-<li>www.linkedin.com (2381)</li>
+<li>www.linkedin.com (2382)</li>
 <li>bsky.app (1941)</li>
 <li>moodle.royalholloway.ac.uk (1862)</li>
 <li>www.facebook.com (1622)</li>
 <li>calendar.google.com (1551)</li>
-<li>login.microsoftonline.com (1540)</li>
+<li>login.microsoftonline.com (1543)</li>
 <li>chat.openai.com (1375)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (828)</li>
-<li>forms.office.com (755)</li>
+<li>forms.office.com (756)</li>
 <li>rhul.sharepoint.com (653)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (552)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:56 localhost:8443</li>
+<ul><li> 07:29 www.reddit.com</li>
+<li class='same'> 07:27 www.reddit.com</li>
+<li> 07:27 www.linkedin.com</li>
+<li> 07:14 forms.cloud.microsoft</li>
+<li> 07:14 login.microsoftonline.com</li>
+<li> 07:14 forms.cloud.microsoft</li>
+<li> 07:14 login.microsoftonline.com</li>
+<li> 07:14 device.login.microsoftonline.com</li>
+<li> 07:14 login.microsoftonline.com</li>
+<li> 07:14 forms.cloud.microsoft</li>
+<li> 07:14 forms.office.com</li>
+<li> 07:14 forms.cloud.microsoft</li>
+<li> 07:10 localhost:8443</li>
+<li class='same'> 07:04 localhost:8443</li>
+<li class='same'> 06:56 localhost:8443</li>
 <li> 06:38 learn.microsoft.com</li>
 <li> 06:38 duckduckgo.com</li>
 <li> 06:31 fast.com</li>
@@ -124715,15 +124729,9 @@ With number of accesses/minutes in parentheses
 <li> 15:08 mail.google.com</li>
 <li> 15:07 www.linkedin.com</li>
 <li> 15:07 events.zoom.us</li>
-<li> 15:07 www.google.com</li>
-<li> 15:07 events.zoom.us</li>
 <li> 15:07 mail.google.com</li>
 <li> 14:53 www.researchgate.net</li>
 <li class='same'> 14:52 www.researchgate.net</li>
-<li> 14:52 www.google.com</li>
-<li> 14:52 www.researchgate.net</li>
-<li> 14:52 www.google.com</li>
-<li> 14:52 www.researchgate.net</li>
 <li> 14:52 www.google.com</li>
 <li> 14:52 www.researchgate.net</li>
 </ul>
