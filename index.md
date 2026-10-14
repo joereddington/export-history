@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5967)</li>
 <li>mail.google.com (5185)</li>
-<li>www.google.com (4864)</li>
+<li>www.google.com (4860)</li>
 <li>outlook.office365.com (4112)</li>
 <li>duckduckgo.com (4032)</li>
 <li>outlook.office.com (3812)</li>
@@ -78,10 +78,10 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2963)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1906)</li>
-<li>moodle.royalholloway.ac.uk (1860)</li>
+<li>moodle.royalholloway.ac.uk (1865)</li>
 <li>www.facebook.com (1603)</li>
-<li>calendar.google.com (1549)</li>
-<li>login.microsoftonline.com (1547)</li>
+<li>login.microsoftonline.com (1549)</li>
+<li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1372)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:50 rhul.sharepoint.com</li>
+<ul><li> 14:11 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:09 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:06 moodle.royalholloway.ac.uk</li>
+<li> 14:06 login.microsoftonline.com</li>
+<li> 14:06 device.login.microsoftonline.com</li>
+<li> 14:06 moodle.royalholloway.ac.uk</li>
+<li> 14:06 login.microsoftonline.com</li>
+<li> 14:06 moodle.royalholloway.ac.uk</li>
+<li> 14:04 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 14:03 fyp.cs.rhul.ac.uk</li>
+<li> 13:50 rhul.sharepoint.com</li>
 </ul>
 
 <br>
@@ -124541,33 +124551,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:27 www.giantitp.com</li>
 <li> 08:27 www.google.com</li>
-</ul>
-
-<H3>Friday, 15/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:09 www.rhsmith.umd.edu</li>
-<li class='same'> 20:08 www.rhsmith.umd.edu</li>
-<li> 20:08 www.google.com</li>
-<li> 20:03 securityboulevard.com</li>
-<li> 20:03 www.google.com</li>
-<li> 19:57 www.sciencedirect.com</li>
-<li> 19:57 www.google.com</li>
-<li> 19:57 www.happycow.net</li>
-</ul>
-
-<br>
-
-<ul><li> 18:57 calendar.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:12 www.happycow.net</li>
-<li> 18:12 www.google.com</li>
 </ul>
