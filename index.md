@@ -108,6 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 16:46 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 16:46 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
 <ul><li> 16:02 moodle.royalholloway.ac.uk</li>
 <li> 16:01 fyp.cs.rhul.ac.uk</li>
 <li> 16:01 duckduckgo.com</li>
