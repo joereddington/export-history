@@ -108,6 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:14 teams.microsoft.com</li>
+<li> 10:14 eur03.safelinks.protection.outlook.com</li>
+</ul>
+
+<br>
+
 <ul><li> 09:31 chatgpt.com</li>
 <li class='same'> 09:30 chatgpt.com</li>
 <li> 09:30 chat.openai.com</li>
