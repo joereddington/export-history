@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5183)</li>
-<li>www.google.com (4837)</li>
-<li>outlook.office365.com (4103)</li>
-<li>duckduckgo.com (4041)</li>
+<li>www.google.com (4824)</li>
+<li>outlook.office365.com (4102)</li>
+<li>duckduckgo.com (4042)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
-<li>chatgpt.com (2968)</li>
-<li>www.linkedin.com (2368)</li>
-<li>bsky.app (1897)</li>
+<li>chatgpt.com (2967)</li>
+<li>www.linkedin.com (2365)</li>
+<li>bsky.app (1889)</li>
 <li>moodle.royalholloway.ac.uk (1882)</li>
 <li>www.facebook.com (1624)</li>
 <li>login.microsoftonline.com (1553)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (876)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (823)</li>
-<li>forms.office.com (743)</li>
-<li>rhul.sharepoint.com (654)</li>
+<li>forms.office.com (740)</li>
+<li>rhul.sharepoint.com (656)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (554)</li>
 <li>ev.turnitinuk.com (472)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:55 calendar.google.com</li>
+<ul><li> 15:24 localhost:8443</li>
+<li> 15:17 chatgpt.com</li>
+<li> 15:17 chat.openai.com</li>
+<li> 15:11 rhul.sharepoint.com</li>
+<li> 15:09 www.imdb.com</li>
+<li> 15:09 duckduckgo.com</li>
+<li> 15:08 rhul.sharepoint.com</li>
+<li> 14:55 calendar.google.com</li>
 <li class='same'> 14:54 calendar.google.com</li>
 <li> 14:50 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
 <li> 14:50 <a href="https://joereddington.com/2026/09/18/grat.html">Gratitude | Joe Reddington</a></li>
@@ -124542,42 +124549,4 @@ With number of accesses/minutes in parentheses
 <li> 12:54 bsky.app</li>
 <li> 12:54 mail.rhul.ac.uk</li>
 <li> 12:49 outlook.office365.com</li>
-<li> 12:48 www.google.com</li>
-<li> 12:47 bsky.app</li>
-<li class='same'> 12:46 bsky.app</li>
-<li> 12:45 www.google.com</li>
-<li class='same'> 12:36 www.google.com</li>
-<li> 12:36 bsky.app</li>
-<li> 12:35 www.google.com</li>
-<li> 12:35 bsky.app</li>
-<li> 12:33 ico.org.uk</li>
-<li> 12:33 www.google.com</li>
-<li> 12:32 eprints.soton.ac.uk</li>
-<li> 12:32 ico.org.uk</li>
-<li> 12:31 www.google.com</li>
-<li> 12:31 ico.org.uk</li>
-<li> 12:30 www.privacycompany.eu</li>
-<li> 12:30 www.google.com</li>
-<li> 12:23 bsky.app</li>
-<li> 12:23 www.google.com</li>
-<li> 12:23 chatgpt.com</li>
-<li> 12:20 forms.office.com</li>
-<li> 12:18 www.dataprotection.ie</li>
-<li> 12:18 www.google.com</li>
-<li> 12:16 www.linkedin.com</li>
-<li> 12:12 gdpr-info.eu</li>
-<li> 12:12 www.google.com</li>
-<li> 12:10 forms.office.com</li>
-<li class='same'> 12:09 forms.office.com</li>
-<li> 12:09 www.linkedin.com</li>
-<li class='same'> 12:08 www.linkedin.com</li>
-<li> 12:08 bsky.app</li>
-<li> 12:05 www.google.com</li>
-<li> 12:00 outlook.office365.com</li>
-<li> 12:00 www.google.com</li>
-<li> 12:00 bsky.app</li>
-<li class='same'> 11:59 bsky.app</li>
-<li> 11:59 chatgpt.com</li>
-<li> 11:59 chat.openai.com</li>
-<li> 11:58 www.google.com</li>
 </ul>
