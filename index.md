@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5183)</li>
-<li>www.google.com (4823)</li>
-<li>outlook.office365.com (4089)</li>
+<li>www.google.com (4822)</li>
+<li>outlook.office365.com (4084)</li>
 <li>duckduckgo.com (4042)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
-<li>chatgpt.com (2968)</li>
-<li>www.linkedin.com (2365)</li>
-<li>bsky.app (1886)</li>
-<li>moodle.royalholloway.ac.uk (1877)</li>
+<li>chatgpt.com (2967)</li>
+<li>www.linkedin.com (2363)</li>
+<li>bsky.app (1883)</li>
+<li>moodle.royalholloway.ac.uk (1876)</li>
 <li>www.facebook.com (1624)</li>
-<li>login.microsoftonline.com (1553)</li>
+<li>login.microsoftonline.com (1555)</li>
 <li>calendar.google.com (1551)</li>
-<li>chat.openai.com (1375)</li>
+<li>chat.openai.com (1374)</li>
 <li>www.amazon.co.uk (1323)</li>
 <li>herts.instructure.com (1230)</li>
-<li>web.whatsapp.com (1094)</li>
+<li>web.whatsapp.com (1092)</li>
 <li>gmail.com (1086)</li>
-<li>mail.rhul.ac.uk (917)</li>
+<li>mail.rhul.ac.uk (916)</li>
 <li>tvtropes.org (876)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (822)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:55 chatgpt.com</li>
+<ul><li> 16:15 learningonscreen.ac.uk</li>
+<li> 16:15 login.learningonscreen.ac.uk</li>
+<li> 16:15 learningonscreen.ac.uk</li>
+<li> 16:15 connect.openathens.net</li>
+<li> 16:15 login.openathens.net</li>
+<li> 16:15 login.microsoftonline.com</li>
+<li> 16:15 device.login.microsoftonline.com</li>
+<li> 16:15 login.openathens.net</li>
+<li> 16:15 login.microsoftonline.com</li>
+<li> 16:15 connect.openathens.net</li>
+<li> 16:15 login.learningonscreen.ac.uk</li>
+<li> 16:15 connect.openathens.net</li>
+<li> 16:14 login.learningonscreen.ac.uk</li>
+<li> 16:14 learningonscreen.ac.uk</li>
+<li> 15:56 localhost:8443</li>
+<li> 15:55 chatgpt.com</li>
 <li> 15:55 chat.openai.com</li>
 <li> 15:54 www.amazon.co.uk</li>
 <li> 15:50 www.imdb.com</li>
@@ -124494,27 +124509,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:15 www.giantitp.com</li>
 <li> 15:15 www.google.com</li>
 <li> 15:15 www.facebook.com</li>
-<li> 15:14 web.whatsapp.com</li>
-<li> 15:13 outlook.office365.com</li>
-<li> 15:13 mail.rhul.ac.uk</li>
-<li> 15:13 www.linkedin.com</li>
-<li class='same'> 15:12 www.linkedin.com</li>
-<li> 15:12 bsky.app</li>
-<li class='same'> 15:10 bsky.app</li>
-<li class='same'> 15:08 bsky.app</li>
-<li> 15:07 developers.google.com</li>
-<li> 15:06 support.google.com</li>
-<li> 15:06 www.google.com</li>
-<li> 15:06 imap.gmail.com</li>
-<li> 15:05 www.tbdmarketing.co.uk</li>
-<li> 15:05 2bd.me</li>
-<li> 15:04 chatgpt.com</li>
-<li> 15:04 chat.openai.com</li>
-<li> 15:03 web.whatsapp.com</li>
-<li> 15:03 outlook.office365.com</li>
-<li class='same'> 14:59 outlook.office365.com</li>
-<li class='same'> 14:57 outlook.office365.com</li>
-<li> 14:53 moodle.royalholloway.ac.uk</li>
-<li> 14:53 Local file</li>
-<li> 14:52 outlook.office365.com</li>
 </ul>
