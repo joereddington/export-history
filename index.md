@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
-<li>mail.google.com (5185)</li>
-<li>www.google.com (4846)</li>
+<li>mail.google.com (5184)</li>
+<li>www.google.com (4844)</li>
 <li>outlook.office365.com (4112)</li>
 <li>duckduckgo.com (4041)</li>
 <li>outlook.office.com (3812)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1094)</li>
 <li>gmail.com (1086)</li>
-<li>mail.rhul.ac.uk (921)</li>
-<li>tvtropes.org (877)</li>
+<li>mail.rhul.ac.uk (920)</li>
+<li>tvtropes.org (876)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (824)</li>
 <li>forms.office.com (744)</li>
@@ -124597,19 +124597,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:54 outlook.office365.com</li>
 <li class='same'> 09:53 outlook.office365.com</li>
 <li class='same'> 09:52 outlook.office365.com</li>
-<li> 09:52 mail.rhul.ac.uk</li>
-<li> 09:52 mail.google.com</li>
-</ul>
-
-<H3>Sunday, 17/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 23:15 www.google.com</li>
-<li class='same'> 23:14 www.google.com</li>
-<li> 23:14 tvtropes.org</li>
 </ul>
