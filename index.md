@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5183)</li>
-<li>www.google.com (4842)</li>
+<li>www.google.com (4837)</li>
 <li>outlook.office365.com (4103)</li>
 <li>duckduckgo.com (4041)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2968)</li>
 <li>www.linkedin.com (2368)</li>
-<li>bsky.app (1899)</li>
+<li>bsky.app (1897)</li>
 <li>moodle.royalholloway.ac.uk (1882)</li>
 <li>www.facebook.com (1624)</li>
 <li>login.microsoftonline.com (1553)</li>
-<li>calendar.google.com (1550)</li>
+<li>calendar.google.com (1552)</li>
 <li>chat.openai.com (1374)</li>
 <li>www.amazon.co.uk (1322)</li>
 <li>herts.instructure.com (1230)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (876)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (823)</li>
-<li>forms.office.com (744)</li>
+<li>forms.office.com (743)</li>
 <li>rhul.sharepoint.com (654)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (554)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 15/10/26</H3>
+
+<br>
+
+<ul><li> 14:55 calendar.google.com</li>
+<li class='same'> 14:54 calendar.google.com</li>
+<li> 14:50 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 14:50 <a href="https://joereddington.com/2026/09/18/grat.html">Gratitude | Joe Reddington</a></li>
+<li> 14:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:48 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
+<li> 14:47 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
 
 <br>
 
@@ -124569,18 +124580,4 @@ With number of accesses/minutes in parentheses
 <li> 11:59 chatgpt.com</li>
 <li> 11:59 chat.openai.com</li>
 <li> 11:58 www.google.com</li>
-<li> 11:57 bsky.app</li>
-<li class='same'> 11:54 bsky.app</li>
-<li> 11:53 www.google.com</li>
-<li> 11:51 assets.publishing.service.gov.uk</li>
-<li> 11:51 www.gov.uk</li>
-<li class='same'> 11:50 www.gov.uk</li>
-<li> 11:50 www.scope.org.uk</li>
-<li> 11:50 www.google.com</li>
-<li> 11:45 news.cgtn.com</li>
-<li> 11:45 www.google.com</li>
-<li> 11:43 fun4thedisabled.com</li>
-<li> 11:43 www.google.com</li>
-<li class='same'> 11:36 www.google.com</li>
-<li> 11:30 forms.office.com</li>
 </ul>
