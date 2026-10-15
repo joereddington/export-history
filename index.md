@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5967)</li>
+<ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5185)</li>
 <li>www.google.com (4853)</li>
 <li>outlook.office365.com (4112)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1871)</li>
 <li>www.facebook.com (1604)</li>
 <li>login.microsoftonline.com (1551)</li>
-<li>calendar.google.com (1549)</li>
+<li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1373)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -104,7 +104,37 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 15/10/26</H3>
+
+<br>
+
+<ul><li> 07:21 teams.microsoft.com</li>
+<li> 07:21 eur03.safelinks.protection.outlook.com</li>
+<li> 07:19 192.168.178.1</li>
+<li> 07:18 eur03.safelinks.protection.outlook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 03:00 calendar.google.com</li>
+</ul>
+
 <H3>Wednesday, 14/10/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:39 localhost:8443</li>
+<li class='same'> 21:38 localhost:8443</li>
+<li> 21:33 192.168.178.1</li>
+<li> 21:11 www.reddit.com</li>
+<li class='same'> 21:08 www.reddit.com</li>
+<li class='same'> 21:07 www.reddit.com</li>
+<li class='same'> 21:06 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -193,7 +223,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:59 teams.microsoft.com</li>
-<li> 10:45 www.reddit.com</li>
+<li> 10:58 www.reddit.com</li>
+<li class='same'> 10:57 www.reddit.com</li>
+<li class='same'> 10:56 www.reddit.com</li>
+<li class='same'> 10:55 www.reddit.com</li>
+<li class='same'> 10:45 www.reddit.com</li>
 </ul>
 
 <br>
@@ -12880,7 +12914,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:32 dashboards.rhul.ac.uk</li>
 <li> 09:29 adfs.rhul.ac.uk</li>
-<li> 09:29 personaltutoring.royalholloway.ac.uk</li>
 <li> 09:19 dashboards.rhul.ac.uk</li>
 <li class='same'> 09:16 dashboards.rhul.ac.uk</li>
 <li class='same'> 09:14 dashboards.rhul.ac.uk</li>
@@ -124540,7 +124573,4 @@ With number of accesses/minutes in parentheses
 <li> 08:27 www.google.com</li>
 <li class='same'> 08:26 www.google.com</li>
 <li class='same'> 08:14 www.google.com</li>
-<li> 08:14 www.flightstats.com</li>
-<li class='same'> 08:13 www.flightstats.com</li>
-<li> 08:13 www.britishairways.com</li>
 </ul>
