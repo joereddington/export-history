@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5185)</li>
-<li>www.google.com (4853)</li>
+<li>www.google.com (4851)</li>
 <li>outlook.office365.com (4112)</li>
-<li>duckduckgo.com (4035)</li>
+<li>duckduckgo.com (4036)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2964)</li>
 <li>www.linkedin.com (2367)</li>
 <li>bsky.app (1902)</li>
-<li>moodle.royalholloway.ac.uk (1871)</li>
+<li>moodle.royalholloway.ac.uk (1877)</li>
 <li>www.facebook.com (1604)</li>
-<li>login.microsoftonline.com (1551)</li>
+<li>login.microsoftonline.com (1553)</li>
 <li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1373)</li>
 <li>www.amazon.co.uk (1320)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:47 venue.royalholloway.ac.uk</li>
+<ul><li> 09:27 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:26 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:25 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:24 moodle.royalholloway.ac.uk</li>
+<li> 09:24 login.microsoftonline.com</li>
+<li> 09:24 moodle.royalholloway.ac.uk</li>
+<li> 09:24 login.microsoftonline.com</li>
+<li> 09:24 device.login.microsoftonline.com</li>
+<li> 09:24 moodle.royalholloway.ac.uk</li>
+<li> 09:13 www.giantitp.com</li>
+<li> 09:13 fast.com</li>
+<li> 09:13 duckduckgo.com</li>
+<li> 09:12 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 07:49 www.gov.uk</li>
+<li> 07:47 venue.royalholloway.ac.uk</li>
 <li> 07:33 www.royalholloway.ac.uk</li>
 <li> 07:21 teams.microsoft.com</li>
 <li> 07:21 eur03.safelinks.protection.outlook.com</li>
@@ -124573,6 +124591,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 08:29 clearsky.app</li>
 <li> 08:27 www.google.com</li>
-<li class='same'> 08:26 www.google.com</li>
-<li class='same'> 08:14 www.google.com</li>
 </ul>
