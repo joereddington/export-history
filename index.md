@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5183)</li>
 <li>www.google.com (4821)</li>
-<li>outlook.office365.com (4084)</li>
+<li>outlook.office365.com (4082)</li>
 <li>duckduckgo.com (4043)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2968)</li>
 <li>www.linkedin.com (2363)</li>
-<li>bsky.app (1883)</li>
+<li>bsky.app (1881)</li>
 <li>moodle.royalholloway.ac.uk (1876)</li>
 <li>www.facebook.com (1623)</li>
 <li>login.microsoftonline.com (1555)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1092)</li>
 <li>gmail.com (1086)</li>
-<li>mail.rhul.ac.uk (916)</li>
+<li>mail.rhul.ac.uk (915)</li>
 <li>tvtropes.org (876)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (822)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:59 www.instagram.com</li>
+<ul><li> 18:00 www.instagram.com</li>
+<li class='same'> 17:59 www.instagram.com</li>
 <li class='same'> 17:58 www.instagram.com</li>
 <li> 17:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 17:55 www.instagram.com</li>
@@ -124511,18 +124512,4 @@ With number of accesses/minutes in parentheses
 <li> 17:11 bsky.app</li>
 <li class='same'> 17:10 bsky.app</li>
 <li> 17:09 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 16:14 outlook.office365.com</li>
-<li> 16:14 mail.rhul.ac.uk</li>
-<li> 16:13 bsky.app</li>
-<li class='same'> 16:12 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 15:17 outlook.office365.com</li>
-<li> 15:16 www.giantitp.com</li>
 </ul>
