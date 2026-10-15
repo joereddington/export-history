@@ -70,27 +70,27 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5183)</li>
-<li>www.google.com (4824)</li>
-<li>outlook.office365.com (4102)</li>
+<li>www.google.com (4823)</li>
+<li>outlook.office365.com (4089)</li>
 <li>duckduckgo.com (4042)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
-<li>chatgpt.com (2967)</li>
+<li>chatgpt.com (2968)</li>
 <li>www.linkedin.com (2365)</li>
-<li>bsky.app (1889)</li>
-<li>moodle.royalholloway.ac.uk (1882)</li>
+<li>bsky.app (1886)</li>
+<li>moodle.royalholloway.ac.uk (1877)</li>
 <li>www.facebook.com (1624)</li>
 <li>login.microsoftonline.com (1553)</li>
-<li>calendar.google.com (1552)</li>
-<li>chat.openai.com (1374)</li>
-<li>www.amazon.co.uk (1322)</li>
+<li>calendar.google.com (1551)</li>
+<li>chat.openai.com (1375)</li>
+<li>www.amazon.co.uk (1323)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1094)</li>
 <li>gmail.com (1086)</li>
-<li>mail.rhul.ac.uk (920)</li>
+<li>mail.rhul.ac.uk (917)</li>
 <li>tvtropes.org (876)</li>
 <li>feedly.com (846)</li>
-<li>rhul-my.sharepoint.com (823)</li>
+<li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (740)</li>
 <li>rhul.sharepoint.com (656)</li>
 <li>fritz.box (592)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:24 localhost:8443</li>
+<ul><li> 15:55 chatgpt.com</li>
+<li> 15:55 chat.openai.com</li>
+<li> 15:54 www.amazon.co.uk</li>
+<li> 15:50 www.imdb.com</li>
+<li class='same'> 15:48 www.imdb.com</li>
+<li class='same'> 15:47 www.imdb.com</li>
+<li> 15:24 localhost:8443</li>
 <li> 15:17 chatgpt.com</li>
 <li> 15:17 chat.openai.com</li>
 <li> 15:11 rhul.sharepoint.com</li>
@@ -124511,42 +124517,4 @@ With number of accesses/minutes in parentheses
 <li> 14:53 moodle.royalholloway.ac.uk</li>
 <li> 14:53 Local file</li>
 <li> 14:52 outlook.office365.com</li>
-<li> 14:51 moodle.royalholloway.ac.uk</li>
-<li> 14:48 outlook.office365.com</li>
-<li class='same'> 14:47 outlook.office365.com</li>
-<li> 14:45 moodle.royalholloway.ac.uk</li>
-<li> 14:45 Local file</li>
-<li> 14:45 moodle.royalholloway.ac.uk</li>
-<li> 14:45 outlook.office365.com</li>
-<li> 14:45 mail.rhul.ac.uk</li>
-<li> 14:41 rhul-my.sharepoint.com</li>
-<li> 14:34 github.com</li>
-<li> 14:33 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:32 moodle.royalholloway.ac.uk</li>
-<li> 14:31 projects.cs.rhul.ac.uk</li>
-<li> 14:29 outlook.office365.com</li>
-<li> 14:29 calendar.google.com</li>
-<li> 14:29 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 13:59 outlook.office365.com</li>
-<li class='same'> 13:57 outlook.office365.com</li>
-<li class='same'> 13:56 outlook.office365.com</li>
-<li class='same'> 13:55 outlook.office365.com</li>
-<li class='same'> 13:54 outlook.office365.com</li>
-<li> 13:54 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 12:57 www.google.com</li>
-<li> 12:54 bsky.app</li>
-<li> 12:54 outlook.office365.com</li>
-<li> 12:54 bsky.app</li>
-<li> 12:54 outlook.office365.com</li>
-<li> 12:54 bsky.app</li>
-<li> 12:54 mail.rhul.ac.uk</li>
-<li> 12:49 outlook.office365.com</li>
 </ul>
