@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5185)</li>
-<li>www.google.com (4848)</li>
+<li>www.google.com (4846)</li>
 <li>outlook.office365.com (4112)</li>
 <li>duckduckgo.com (4041)</li>
 <li>outlook.office.com (3812)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2368)</li>
 <li>bsky.app (1902)</li>
 <li>moodle.royalholloway.ac.uk (1882)</li>
-<li>www.facebook.com (1604)</li>
+<li>www.facebook.com (1620)</li>
 <li>login.microsoftonline.com (1553)</li>
 <li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1374)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (1094)</li>
 <li>gmail.com (1086)</li>
 <li>mail.rhul.ac.uk (921)</li>
-<li>tvtropes.org (880)</li>
+<li>tvtropes.org (878)</li>
 <li>feedly.com (846)</li>
 <li>rhul-my.sharepoint.com (824)</li>
 <li>forms.office.com (744)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:58 duckduckgo.com</li>
+<ul><li> 11:28 www.facebook.com</li>
+<li class='same'> 11:27 www.facebook.com</li>
+<li class='same'> 11:26 www.facebook.com</li>
+<li class='same'> 11:25 www.facebook.com</li>
+<li class='same'> 11:24 www.facebook.com</li>
+<li class='same'> 11:23 www.facebook.com</li>
+<li class='same'> 11:22 www.facebook.com</li>
+<li class='same'> 11:19 www.facebook.com</li>
+<li class='same'> 11:18 www.facebook.com</li>
+<li class='same'> 11:17 www.facebook.com</li>
+<li class='same'> 11:16 www.facebook.com</li>
+<li class='same'> 11:15 www.facebook.com</li>
+<li class='same'> 11:12 www.facebook.com</li>
+<li class='same'> 11:11 www.facebook.com</li>
+<li class='same'> 11:08 www.facebook.com</li>
+<li class='same'> 11:05 www.facebook.com</li>
+<li> 10:58 duckduckgo.com</li>
 <li> 10:52 www.royalholloway.ac.uk</li>
 <li> 10:52 duckduckgo.com</li>
 <li> 10:51 pure.royalholloway.ac.uk</li>
@@ -124588,15 +124604,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 23:14 www.google.com</li>
 <li> 23:14 tvtropes.org</li>
 <li class='same'> 23:13 tvtropes.org</li>
-<li class='same'> 23:12 tvtropes.org</li>
-<li class='same'> 23:08 tvtropes.org</li>
-<li> 23:08 www.google.com</li>
-<li class='same'> 23:03 www.google.com</li>
-<li> 23:02 www.giantitp.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 18:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
