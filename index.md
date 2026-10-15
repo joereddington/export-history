@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5183)</li>
-<li>www.google.com (4843)</li>
-<li>outlook.office365.com (4108)</li>
+<li>www.google.com (4842)</li>
+<li>outlook.office365.com (4103)</li>
 <li>duckduckgo.com (4041)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
 <li>chatgpt.com (2968)</li>
 <li>www.linkedin.com (2368)</li>
-<li>bsky.app (1901)</li>
+<li>bsky.app (1899)</li>
 <li>moodle.royalholloway.ac.uk (1882)</li>
 <li>www.facebook.com (1624)</li>
 <li>login.microsoftonline.com (1553)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (920)</li>
 <li>tvtropes.org (876)</li>
 <li>feedly.com (846)</li>
-<li>rhul-my.sharepoint.com (824)</li>
+<li>rhul-my.sharepoint.com (823)</li>
 <li>forms.office.com (744)</li>
 <li>rhul.sharepoint.com (654)</li>
 <li>fritz.box (592)</li>
@@ -124583,13 +124583,4 @@ With number of accesses/minutes in parentheses
 <li> 11:43 www.google.com</li>
 <li class='same'> 11:36 www.google.com</li>
 <li> 11:30 forms.office.com</li>
-<li> 11:29 www.google.com</li>
-<li> 11:24 bsky.app</li>
-<li> 11:23 rhul-my.sharepoint.com</li>
-<li> 11:23 outlook.office365.com</li>
-<li class='same'> 11:20 outlook.office365.com</li>
-<li class='same'> 11:19 outlook.office365.com</li>
-<li class='same'> 11:17 outlook.office365.com</li>
-<li class='same'> 11:16 outlook.office365.com</li>
-<li> 11:16 bsky.app</li>
 </ul>
