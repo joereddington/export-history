@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2368)</li>
 <li>bsky.app (1902)</li>
 <li>moodle.royalholloway.ac.uk (1882)</li>
-<li>www.facebook.com (1620)</li>
+<li>www.facebook.com (1624)</li>
 <li>login.microsoftonline.com (1553)</li>
 <li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1374)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:28 www.facebook.com</li>
+<ul><li> 11:33 www.facebook.com</li>
+<li class='same'> 11:32 www.facebook.com</li>
+<li class='same'> 11:30 www.facebook.com</li>
+<li class='same'> 11:29 www.facebook.com</li>
+<li class='same'> 11:28 www.facebook.com</li>
 <li class='same'> 11:27 www.facebook.com</li>
 <li class='same'> 11:26 www.facebook.com</li>
 <li class='same'> 11:25 www.facebook.com</li>
