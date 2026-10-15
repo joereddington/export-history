@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5975)</li>
 <li>mail.google.com (5185)</li>
-<li>www.google.com (4851)</li>
+<li>www.google.com (4848)</li>
 <li>outlook.office365.com (4112)</li>
-<li>duckduckgo.com (4036)</li>
+<li>duckduckgo.com (4041)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3244)</li>
-<li>chatgpt.com (2966)</li>
-<li>www.linkedin.com (2367)</li>
+<li>chatgpt.com (2967)</li>
+<li>www.linkedin.com (2368)</li>
 <li>bsky.app (1902)</li>
-<li>moodle.royalholloway.ac.uk (1877)</li>
+<li>moodle.royalholloway.ac.uk (1882)</li>
 <li>www.facebook.com (1604)</li>
 <li>login.microsoftonline.com (1553)</li>
 <li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1374)</li>
-<li>www.amazon.co.uk (1320)</li>
+<li>www.amazon.co.uk (1322)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1094)</li>
 <li>gmail.com (1086)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:14 teams.microsoft.com</li>
+<ul><li> 10:58 duckduckgo.com</li>
+<li> 10:52 www.royalholloway.ac.uk</li>
+<li> 10:52 duckduckgo.com</li>
+<li> 10:51 pure.royalholloway.ac.uk</li>
+<li> 10:49 duckduckgo.com</li>
+<li> 10:48 pure.royalholloway.ac.uk</li>
+<li> 10:48 duckduckgo.com</li>
+<li class='same'> 10:47 duckduckgo.com</li>
+<li> 10:47 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:46 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:44 moodle.royalholloway.ac.uk</li>
+<li> 10:44 www.amazon.co.uk</li>
+<li class='same'> 10:43 www.amazon.co.uk</li>
+<li> 10:42 reductress.com</li>
+<li> 10:42 www.linkedin.com</li>
+<li> 10:39 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:38 moodle.royalholloway.ac.uk</li>
+<li> 10:38 chatgpt.com</li>
+<li> 10:14 teams.microsoft.com</li>
 <li> 10:14 eur03.safelinks.protection.outlook.com</li>
 </ul>
 
@@ -124581,23 +124599,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 18:23 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 18:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 18:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 18:04 buffer.com</li>
-<li> 18:04 www.google.com</li>
-<li> 18:04 www.autoexpress.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 13:43 www.autoexpress.co.uk</li>
-<li> 13:43 www.google.com</li>
-<li> 13:43 clearsky.app</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 08:29 clearsky.app</li>
-<li> 08:27 www.google.com</li>
 </ul>
