@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5974)</li>
-<li>mail.google.com (5150)</li>
+<li>mail.google.com (5147)</li>
 <li>www.google.com (4804)</li>
-<li>outlook.office365.com (4059)</li>
+<li>outlook.office365.com (4058)</li>
 <li>duckduckgo.com (4053)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3242)</li>
 <li>chatgpt.com (2972)</li>
 <li>www.linkedin.com (2358)</li>
 <li>moodle.royalholloway.ac.uk (1879)</li>
-<li>bsky.app (1847)</li>
+<li>bsky.app (1846)</li>
 <li>www.facebook.com (1616)</li>
 <li>login.microsoftonline.com (1558)</li>
 <li>calendar.google.com (1543)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1089)</li>
-<li>gmail.com (1085)</li>
+<li>gmail.com (1084)</li>
 <li>mail.rhul.ac.uk (913)</li>
 <li>tvtropes.org (876)</li>
 <li>feedly.com (855)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:19 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 16:48 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 16:47 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 16:46 webtimetables.royalholloway.ac.uk</li>
+<li> 16:19 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:19 login.microsoftonline.com</li>
 <li> 16:19 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 16:19 device.login.microsoftonline.com</li>
@@ -124387,12 +124390,4 @@ With number of accesses/minutes in parentheses
 <li> 13:16 jakebailey.dev</li>
 <li> 13:13 bsky.app</li>
 <li> 13:13 mail.google.com</li>
-<li> 13:12 click.geckoengage.com</li>
-<li> 13:12 app.geckoform.com</li>
-<li> 13:12 mail.google.com</li>
-<li> 13:12 bsky.app</li>
-<li> 13:12 mail.google.com</li>
-<li> 13:12 gmail.com</li>
-<li> 13:12 outlook.office365.com</li>
-<li> 13:12 mail.google.com</li>
 </ul>
