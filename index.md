@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5974)</li>
-<li>mail.google.com (5154)</li>
-<li>www.google.com (4805)</li>
-<li>outlook.office365.com (4060)</li>
+<li>mail.google.com (5150)</li>
+<li>www.google.com (4804)</li>
+<li>outlook.office365.com (4059)</li>
 <li>duckduckgo.com (4053)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3242)</li>
-<li>chatgpt.com (2974)</li>
-<li>www.linkedin.com (2357)</li>
-<li>moodle.royalholloway.ac.uk (1878)</li>
-<li>bsky.app (1851)</li>
+<li>chatgpt.com (2972)</li>
+<li>www.linkedin.com (2358)</li>
+<li>moodle.royalholloway.ac.uk (1879)</li>
+<li>bsky.app (1847)</li>
 <li>www.facebook.com (1616)</li>
-<li>login.microsoftonline.com (1556)</li>
-<li>calendar.google.com (1544)</li>
-<li>chat.openai.com (1377)</li>
+<li>login.microsoftonline.com (1558)</li>
+<li>calendar.google.com (1543)</li>
+<li>chat.openai.com (1376)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1089)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:50 moodle.royalholloway.ac.uk</li>
+<ul><li> 16:19 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:19 login.microsoftonline.com</li>
+<li> 16:19 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:19 device.login.microsoftonline.com</li>
+<li> 16:19 login.microsoftonline.com</li>
+<li> 16:19 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:17 moodle.royalholloway.ac.uk</li>
+<li> 16:05 localhost:8443</li>
+<li> 16:02 www.linkedin.com</li>
+<li> 15:50 moodle.royalholloway.ac.uk</li>
 <li> 15:40 e.ggtimer.com</li>
 <li class='same'> 15:32 e.ggtimer.com</li>
 <li> 15:25 www.reddit.com</li>
@@ -124386,22 +124395,4 @@ With number of accesses/minutes in parentheses
 <li> 13:12 gmail.com</li>
 <li> 13:12 outlook.office365.com</li>
 <li> 13:12 mail.google.com</li>
-<li class='same'> 13:11 mail.google.com</li>
-<li> 13:11 calendar.google.com</li>
-<li> 13:11 mail.google.com</li>
-<li class='same'> 13:10 mail.google.com</li>
-<li> 13:10 outlook.office365.com</li>
-<li> 13:09 mail.google.com</li>
-<li> 13:08 bsky.app</li>
-<li class='same'> 13:06 bsky.app</li>
-<li> 13:03 discworldquotes.tumblr.com</li>
-<li> 13:03 www.google.com</li>
-<li> 12:59 bsky.app</li>
-<li class='same'> 12:57 bsky.app</li>
-<li> 12:50 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li class='same'> 12:45 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:45 experience.elluciancloud.ie</li>
-<li> 12:41 chatgpt.com</li>
-<li class='same'> 12:40 chatgpt.com</li>
-<li> 12:40 chat.openai.com</li>
 </ul>
