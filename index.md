@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1851)</li>
 <li>www.facebook.com (1616)</li>
 <li>login.microsoftonline.com (1556)</li>
-<li>calendar.google.com (1546)</li>
+<li>calendar.google.com (1544)</li>
 <li>chat.openai.com (1377)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
@@ -124403,6 +124403,4 @@ With number of accesses/minutes in parentheses
 <li> 12:39 experience.elluciancloud.ie</li>
 <li> 12:39 rhul.hosted.panopto.com</li>
 <li> 12:39 mail.google.com</li>
-<li> 12:39 calendar.google.com</li>
-<li class='same'> 12:38 calendar.google.com</li>
 </ul>
