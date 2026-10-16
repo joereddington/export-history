@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5972)</li>
+<ol><li>www.reddit.com (5974)</li>
 <li>mail.google.com (5154)</li>
 <li>www.google.com (4805)</li>
 <li>outlook.office365.com (4060)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (3242)</li>
 <li>chatgpt.com (2974)</li>
 <li>www.linkedin.com (2357)</li>
-<li>moodle.royalholloway.ac.uk (1877)</li>
+<li>moodle.royalholloway.ac.uk (1878)</li>
 <li>bsky.app (1851)</li>
 <li>www.facebook.com (1616)</li>
 <li>login.microsoftonline.com (1556)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:14 localhost:8443</li>
+<ul><li> 15:50 moodle.royalholloway.ac.uk</li>
+<li> 15:40 e.ggtimer.com</li>
+<li class='same'> 15:32 e.ggtimer.com</li>
+<li> 15:25 www.reddit.com</li>
+<li class='same'> 15:23 www.reddit.com</li>
+<li> 15:14 localhost:8443</li>
 <li class='same'> 15:13 localhost:8443</li>
 </ul>
 
@@ -124399,11 +124404,4 @@ With number of accesses/minutes in parentheses
 <li> 12:41 chatgpt.com</li>
 <li class='same'> 12:40 chatgpt.com</li>
 <li> 12:40 chat.openai.com</li>
-<li> 12:39 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:39 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 12:39 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:39 experience.elluciancloud.ie</li>
-<li> 12:39 extensions.royalholloway.ac.uk</li>
-<li> 12:39 experience.elluciancloud.ie</li>
-<li> 12:39 eee-api-eu-west-1.10005.elluciancloud.ie</li>
 </ul>
