@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5972)</li>
-<li>mail.google.com (5187)</li>
+<li>mail.google.com (5184)</li>
 <li>www.google.com (4806)</li>
-<li>outlook.office365.com (4073)</li>
-<li>duckduckgo.com (4044)</li>
+<li>outlook.office365.com (4071)</li>
+<li>duckduckgo.com (4045)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3243)</li>
-<li>chatgpt.com (2974)</li>
-<li>www.linkedin.com (2358)</li>
+<li>chatgpt.com (2975)</li>
+<li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1876)</li>
-<li>bsky.app (1862)</li>
+<li>bsky.app (1860)</li>
 <li>www.facebook.com (1618)</li>
 <li>login.microsoftonline.com (1554)</li>
 <li>calendar.google.com (1552)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1091)</li>
-<li>gmail.com (1087)</li>
+<li>gmail.com (1086)</li>
 <li>mail.rhul.ac.uk (914)</li>
 <li>tvtropes.org (876)</li>
 <li>feedly.com (855)</li>
@@ -104,7 +104,19 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 16/10/26</H3>
+
+<br>
+
+<ul><li> 10:51 duckduckgo.com</li>
+<li> 10:35 chatgpt.com</li>
+</ul>
+
 <H3>Thursday, 15/10/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -124434,15 +124446,4 @@ With number of accesses/minutes in parentheses
 <li> 11:18 gmail.com</li>
 <li> 11:17 bsky.app</li>
 <li> 11:17 privacyportal-de.onetrust.com</li>
-<li> 11:17 mail.google.com</li>
-<li> 11:16 privacyportal-de.onetrust.com</li>
-<li> 11:16 mail.google.com</li>
-<li class='same'> 11:09 mail.google.com</li>
-<li> 11:09 gmail.com</li>
-<li> 11:09 blog.google</li>
-<li> 11:08 www.linkedin.com</li>
-<li> 11:08 outlook.office365.com</li>
-<li> 11:07 bsky.app</li>
-<li class='same'> 11:06 bsky.app</li>
-<li> 11:06 outlook.office365.com</li>
 </ul>
