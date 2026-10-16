@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5972)</li>
-<li>mail.google.com (5155)</li>
+<li>mail.google.com (5154)</li>
 <li>www.google.com (4805)</li>
 <li>outlook.office365.com (4060)</li>
 <li>duckduckgo.com (4053)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 16/10/26</H3>
+
+<br>
+
+<ul><li> 15:14 localhost:8443</li>
+<li class='same'> 15:13 localhost:8443</li>
+</ul>
 
 <br>
 
@@ -124400,7 +124406,4 @@ With number of accesses/minutes in parentheses
 <li> 12:39 extensions.royalholloway.ac.uk</li>
 <li> 12:39 experience.elluciancloud.ie</li>
 <li> 12:39 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 12:39 experience.elluciancloud.ie</li>
-<li> 12:39 rhul.hosted.panopto.com</li>
-<li> 12:39 mail.google.com</li>
 </ul>
