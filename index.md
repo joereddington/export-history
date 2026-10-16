@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5975)</li>
-<li>mail.google.com (5183)</li>
-<li>www.google.com (4821)</li>
-<li>outlook.office365.com (4082)</li>
-<li>duckduckgo.com (4043)</li>
+<ol><li>www.reddit.com (5972)</li>
+<li>mail.google.com (5187)</li>
+<li>www.google.com (4806)</li>
+<li>outlook.office365.com (4073)</li>
+<li>duckduckgo.com (4044)</li>
 <li>outlook.office.com (3812)</li>
-<li>docs.google.com (3244)</li>
-<li>chatgpt.com (2968)</li>
-<li>www.linkedin.com (2363)</li>
-<li>bsky.app (1881)</li>
+<li>docs.google.com (3243)</li>
+<li>chatgpt.com (2974)</li>
+<li>www.linkedin.com (2358)</li>
 <li>moodle.royalholloway.ac.uk (1876)</li>
-<li>www.facebook.com (1623)</li>
-<li>login.microsoftonline.com (1555)</li>
-<li>calendar.google.com (1551)</li>
-<li>chat.openai.com (1375)</li>
-<li>www.amazon.co.uk (1323)</li>
+<li>bsky.app (1862)</li>
+<li>www.facebook.com (1618)</li>
+<li>login.microsoftonline.com (1554)</li>
+<li>calendar.google.com (1552)</li>
+<li>chat.openai.com (1376)</li>
+<li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
-<li>web.whatsapp.com (1092)</li>
-<li>gmail.com (1086)</li>
-<li>mail.rhul.ac.uk (915)</li>
+<li>web.whatsapp.com (1091)</li>
+<li>gmail.com (1087)</li>
+<li>mail.rhul.ac.uk (914)</li>
 <li>tvtropes.org (876)</li>
-<li>feedly.com (846)</li>
+<li>feedly.com (855)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (740)</li>
 <li>rhul.sharepoint.com (656)</li>
@@ -108,7 +108,73 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:00 www.instagram.com</li>
+<ul><li> 22:13 feedly.com</li>
+<li class='same'> 22:12 feedly.com</li>
+<li class='same'> 22:11 feedly.com</li>
+<li class='same'> 22:10 feedly.com</li>
+<li class='same'> 22:09 feedly.com</li>
+<li class='same'> 22:08 feedly.com</li>
+<li> 22:07 www.moneysavingexpert.com</li>
+<li> 22:05 chatgpt.com</li>
+<li> 22:04 www.natesilver.net</li>
+<li> 22:04 feedly.com</li>
+<li> 22:04 chatgpt.com</li>
+<li class='same'> 22:01 chatgpt.com</li>
+<li class='same'> 22:00 chatgpt.com</li>
+<li class='same'> 21:59 chatgpt.com</li>
+<li> 21:59 chat.openai.com</li>
+<li> 21:58 localhost:8443</li>
+<li> 21:55 github.com</li>
+<li class='same'> 21:54 github.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:14 localhost:8443</li>
+<li class='same'> 20:13 localhost:8443</li>
+<li> 20:12 forms.cloud.microsoft</li>
+<li> 20:11 localhost:8443</li>
+<li> 20:09 forms.cloud.microsoft</li>
+<li> 20:09 forms.office.com</li>
+<li> 20:09 forms.cloud.microsoft</li>
+<li> 20:06 vimeo.com</li>
+<li> 20:06 www.patreon.com</li>
+<li> 19:58 www.nysd.edu</li>
+<li class='same'> 19:57 www.nysd.edu</li>
+<li class='same'> 19:56 www.nysd.edu</li>
+<li> 19:55 www.coursera.org</li>
+<li> 19:55 www.universityoffashion.com</li>
+<li class='same'> 19:54 www.universityoffashion.com</li>
+<li> 19:53 www.futurelearn.com</li>
+<li> 19:52 www.coursera.org</li>
+<li> 19:52 www.edx.org</li>
+<li class='same'> 19:51 www.edx.org</li>
+<li> 19:51 chatgpt.com</li>
+<li class='same'> 19:50 chatgpt.com</li>
+<li> 19:50 chat.openai.com</li>
+<li> 19:50 www.edx.org</li>
+<li class='same'> 19:49 www.edx.org</li>
+<li class='same'> 19:48 www.edx.org</li>
+<li> 19:48 duckduckgo.com</li>
+<li> 19:48 feedly.com</li>
+<li class='same'> 19:47 feedly.com</li>
+<li> 19:47 www.feynmanlectures.caltech.edu</li>
+<li> 19:47 www.giantitp.com</li>
+<li> 19:46 mail.google.com</li>
+<li> 19:40 mail-attachment.googleusercontent.com</li>
+<li> 19:40 mail.google.com</li>
+<li> 19:40 mail-attachment.googleusercontent.com</li>
+<li> 19:40 mail.google.com</li>
+<li class='same'> 19:39 mail.google.com</li>
+<li> 19:39 gmail.com</li>
+<li> 19:39 calendar.google.com</li>
+<li class='same'> 19:38 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:01 www.instagram.com</li>
+<li class='same'> 18:00 www.instagram.com</li>
 <li class='same'> 17:59 www.instagram.com</li>
 <li class='same'> 17:58 www.instagram.com</li>
 <li> 17:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
@@ -12781,16 +12847,12 @@ With number of accesses/minutes in parentheses
 <li> 16:51 mail.google.com</li>
 <li class='same'> 16:49 mail.google.com</li>
 <li> 16:48 gla-my.sharepoint.com</li>
-<li> 16:48 www.google.com</li>
 <li> 16:47 mail.google.com</li>
-<li> 16:47 mail-attachment.googleusercontent.com</li>
 <li> 16:46 <a href="https://www.youtube.com/watch?v=an5cFQmmiz0">(1) What Is The Best Form Of Cardio? - YouTube</a></li>
 <li> 16:46 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+rowing+machine">(1) renaissance periodization rowing machine - YouTube</a></li>
 <li> 16:44 <a href="https://www.youtube.com/watch?v=BbuglXXCsiE">(1) Regular People V Olympic Rower | Brutal Challenge - YouTube</a></li>
-<li> 16:43 mail-attachment.googleusercontent.com</li>
 <li> 16:43 mail.google.com</li>
 <li> 16:43 www.qiq.support</li>
-<li> 16:43 www.google.com</li>
 <li> 16:42 mail.google.com</li>
 <li> 16:41 intranet.royalholloway.ac.uk</li>
 <li class='same'> 16:40 intranet.royalholloway.ac.uk</li>
@@ -12830,7 +12892,6 @@ With number of accesses/minutes in parentheses
 <li> 16:01 www.reddit.com</li>
 <li> 16:01 outlook.office365.com</li>
 <li class='same'> 16:00 outlook.office365.com</li>
-<li> 16:00 login.microsoftonline.com</li>
 <li> 16:00 device.login.microsoftonline.com</li>
 <li> 16:00 outlook.office365.com</li>
 <li> 16:00 pay.wagamama.com</li>
@@ -12858,8 +12919,6 @@ With number of accesses/minutes in parentheses
 <li> 09:13 gla-my.sharepoint.com</li>
 <li> 09:13 mail.google.com</li>
 <li> 09:09 teams.microsoft.com</li>
-<li> 09:09 www.google.com</li>
-<li> 09:09 teams.microsoft.com</li>
 <li> 09:09 mail.google.com</li>
 <li> 09:09 calendar.google.com</li>
 <li> 09:08 mail.google.com</li>
@@ -12881,7 +12940,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:34 www.nature.com</li>
-<li> 07:34 idp.nature.com</li>
 <li> 07:31 feedly.com</li>
 <li class='same'> 07:30 feedly.com</li>
 <li> 07:18 chatgpt.com</li>
@@ -124387,129 +124445,4 @@ With number of accesses/minutes in parentheses
 <li> 11:07 bsky.app</li>
 <li class='same'> 11:06 bsky.app</li>
 <li> 11:06 outlook.office365.com</li>
-<li> 11:06 www.google.com</li>
-<li> 10:39 bsky.app</li>
-<li> 10:32 outlook.office365.com</li>
-<li class='same'> 10:31 outlook.office365.com</li>
-<li> 10:31 bsky.app</li>
-<li class='same'> 10:19 bsky.app</li>
-<li> 10:19 www.linkedin.com</li>
-<li> 10:19 outlook.office365.com</li>
-<li class='same'> 10:17 outlook.office365.com</li>
-<li class='same'> 10:02 outlook.office365.com</li>
-<li class='same'> 10:01 outlook.office365.com</li>
-<li> 10:01 bsky.app</li>
-<li> 10:00 www.google.com</li>
-<li> 09:59 bsky.app</li>
-<li> 09:56 www.google.com</li>
-<li> 09:51 forms.office.com</li>
-<li> 09:48 outlook.office365.com</li>
-<li> 09:48 mail.rhul.ac.uk</li>
-<li> 09:48 www.linkedin.com</li>
-<li class='same'> 09:47 www.linkedin.com</li>
-<li> 09:47 www.google.com</li>
-<li> 09:47 bsky.app</li>
-<li> 09:47 calendar.google.com</li>
-<li> 09:43 www.amazon.co.uk</li>
-<li> 09:43 www.google.com</li>
-<li> 09:35 www.reddit.com</li>
-<li> 09:35 www.google.com</li>
-<li> 09:35 www.reddit.com</li>
-<li> 09:35 www.google.com</li>
-<li> 09:34 buffer.com</li>
-<li> 09:34 www.google.com</li>
-<li> 09:34 support.buffer.com</li>
-<li> 09:34 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:01 ico.org.uk</li>
-<li> 09:01 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:05 www.flightstats.com</li>
-<li> 08:05 www.google.com</li>
-<li> 08:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 07:39 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:06 bsky.app</li>
-<li> 07:04 www.amazon.co.uk</li>
-<li class='same'> 07:03 www.amazon.co.uk</li>
-<li> 07:02 docs.google.com</li>
-</ul>
-
-<H3>Monday, 18/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 18:49 bsky.app</li>
-<li class='same'> 18:48 bsky.app</li>
-<li> 18:31 <a href="https://joereddington.com/2022/02/20/holographicchoc.html">I made holographic chocolate | Joe Reddington</a></li>
-<li> 18:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 18:31 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 18:31 publish.buffer.com</li>
-<li> 18:29 <a href="https://joereddington.com/2022/11/11/dyslexia.html">Dyslexia | Joe Reddington</a></li>
-<li> 18:29 publish.buffer.com</li>
-<li> 18:28 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
-<li> 18:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 18:27 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
-<li> 18:27 <a href="https://joereddington.com/2023/12/27/spider-man.html">Spider-Man | Joe Reddington</a></li>
-<li> 18:27 <a href="https://joereddington.com/2024/03/20/exploiting-electric-blinds.html">Exploiting electric blinds | Joe Reddington</a></li>
-<li> 18:25 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
-<li> 18:24 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-<li> 18:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 18:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 18:23 bsky.app</li>
-<li class='same'> 18:22 bsky.app</li>
-<li> 18:22 www.facebook.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:43 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-<li> 17:43 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 17:43 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 17:43 publish.buffer.com</li>
-<li> 17:42 support.buffer.com</li>
-<li> 17:42 www.google.com</li>
-<li> 17:41 publish.buffer.com</li>
-<li> 17:41 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 17:41 <a href="https://joereddington.com/2024/06/18/history.html">Rebuilding public history | Joe Reddington</a></li>
-<li> 17:41 <a href="https://joereddington.com/2024/07/17/tih.html">Today I have… | Joe Reddington</a></li>
-<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 17:41 publish.buffer.com</li>
-<li> 17:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 17:40 publish.buffer.com</li>
-<li> 17:40 login.buffer.com</li>
-<li> 17:40 buffer.com</li>
-<li> 17:40 bsky.app</li>
-<li class='same'> 17:39 bsky.app</li>
-<li> 17:35 www.linkedin.com</li>
-<li> 17:34 bsky.app</li>
-<li class='same'> 17:33 bsky.app</li>
-<li> 17:32 chatgpt.com</li>
-<li> 17:32 chat.openai.com</li>
-<li> 17:30 bsky.app</li>
-<li> 17:29 www.linkedin.com</li>
-<li> 17:28 www.facebook.com</li>
-<li class='same'> 17:26 www.facebook.com</li>
-<li class='same'> 17:25 www.facebook.com</li>
-<li> 17:23 web.whatsapp.com</li>
-<li> 17:17 www.facebook.com</li>
-<li> 17:13 www.reddit.com</li>
-<li> 17:12 outlook.office365.com</li>
-<li> 17:11 bsky.app</li>
-<li class='same'> 17:10 bsky.app</li>
-<li> 17:09 outlook.office365.com</li>
 </ul>
