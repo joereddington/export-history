@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5988)</li>
+<ol><li>www.reddit.com (5990)</li>
 <li>mail.google.com (5126)</li>
 <li>www.google.com (4800)</li>
 <li>duckduckgo.com (4054)</li>
 <li>outlook.office365.com (4052)</li>
 <li>outlook.office.com (3812)</li>
 <li>docs.google.com (3240)</li>
-<li>chatgpt.com (2972)</li>
+<li>chatgpt.com (2973)</li>
 <li>www.linkedin.com (2359)</li>
 <li>moodle.royalholloway.ac.uk (1879)</li>
 <li>bsky.app (1834)</li>
 <li>www.facebook.com (1616)</li>
 <li>login.microsoftonline.com (1562)</li>
 <li>calendar.google.com (1542)</li>
-<li>chat.openai.com (1376)</li>
+<li>chat.openai.com (1377)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1088)</li>
@@ -104,11 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 17/10/26</H3>
+
+<br>
+
+<ul><li> 13:26 chatgpt.com</li>
+<li> 13:26 chat.openai.com</li>
+<li> 13:19 www.giantitp.com</li>
+<li class='same'> 13:18 www.giantitp.com</li>
+<li> 13:14 www.parkrun.org.uk</li>
+</ul>
+
 <H3>Friday, 16/10/26</H3>
 
 <br>
 
-<ul><li> 18:28 <a href="https://www.youtube.com/watch?v=dSDb9oKMCRc&amp;t=147s"></a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:31 www.reddit.com</li>
+<li class='same'> 18:30 www.reddit.com</li>
+<li> 18:28 <a href="https://www.youtube.com/watch?v=dSDb9oKMCRc&amp;t=147s">(112) Human Loop the Loop with Damien Walters Pepsi Max Unbelievable #LiveForNow - YouTube</a></li>
 <li> 18:25 www.reddit.com</li>
 <li class='same'> 18:16 www.reddit.com</li>
 <li> 18:16 generalssb-prod.ec.royalholloway.ac.uk</li>
