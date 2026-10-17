@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5990)</li>
 <li>mail.google.com (5126)</li>
-<li>www.google.com (4800)</li>
-<li>duckduckgo.com (4057)</li>
-<li>outlook.office365.com (4052)</li>
-<li>outlook.office.com (3812)</li>
+<li>www.google.com (4802)</li>
+<li>duckduckgo.com (4058)</li>
+<li>outlook.office365.com (4050)</li>
+<li>outlook.office.com (3811)</li>
 <li>docs.google.com (3240)</li>
-<li>chatgpt.com (2974)</li>
-<li>www.linkedin.com (2359)</li>
+<li>chatgpt.com (2975)</li>
+<li>www.linkedin.com (2360)</li>
 <li>moodle.royalholloway.ac.uk (1879)</li>
 <li>bsky.app (1834)</li>
 <li>www.facebook.com (1616)</li>
 <li>login.microsoftonline.com (1562)</li>
 <li>calendar.google.com (1542)</li>
-<li>chat.openai.com (1377)</li>
+<li>chat.openai.com (1378)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1088)</li>
 <li>gmail.com (1083)</li>
 <li>mail.rhul.ac.uk (911)</li>
 <li>tvtropes.org (876)</li>
-<li>feedly.com (855)</li>
+<li>feedly.com (856)</li>
 <li>rhul-my.sharepoint.com (824)</li>
 <li>forms.office.com (738)</li>
 <li>rhul.sharepoint.com (655)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 17/10/26</H3>
+
+<br>
+
+<ul><li> 16:53 chatgpt.com</li>
+<li> 16:53 chat.openai.com</li>
+<li> 16:42 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:41 www.linkedin.com</li>
+<li> 14:38 www.buzzfeed.com</li>
+<li class='same'> 14:35 www.buzzfeed.com</li>
+<li> 14:34 www.google.com</li>
+<li class='same'> 14:33 www.google.com</li>
+<li> 14:33 duckduckgo.com</li>
+<li> 14:31 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+</ul>
 
 <br>
 
@@ -124367,8 +124385,4 @@ With number of accesses/minutes in parentheses
 <li> 14:29 moodle.royalholloway.ac.uk</li>
 <li> 14:28 rhul-my.sharepoint.com</li>
 <li> 14:26 moodle.royalholloway.ac.uk</li>
-<li> 14:25 adblockplus.org</li>
-<li> 14:25 outlook.office.com</li>
-<li> 14:23 outlook.office365.com</li>
-<li class='same'> 14:22 outlook.office365.com</li>
 </ul>
