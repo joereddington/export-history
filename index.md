@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5984)</li>
+<ol><li>www.reddit.com (5983)</li>
 <li>mail.google.com (5129)</li>
-<li>www.google.com (4786)</li>
+<li>www.google.com (4782)</li>
 <li>duckduckgo.com (4060)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3239)</li>
-<li>chatgpt.com (2978)</li>
+<li>chatgpt.com (2977)</li>
 <li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1877)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1610)</li>
 <li>login.microsoftonline.com (1560)</li>
 <li>calendar.google.com (1540)</li>
-<li>chat.openai.com (1379)</li>
+<li>chat.openai.com (1378)</li>
 <li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 qbo.intuit.com</li>
+<ul><li> 11:50 ads.google.com</li>
+<li> 11:50 equalitytime.github.io</li>
+<li> 11:48 www.hbutterfield.co.uk</li>
+<li> 11:47 www.diy.com</li>
+<li class='same'> 11:46 www.diy.com</li>
+<li class='same'> 11:45 www.diy.com</li>
+<li> 11:42 chatgpt.com</li>
+<li> 11:31 qbo.intuit.com</li>
+<li class='same'> 11:30 qbo.intuit.com</li>
+<li> 11:29 accounts.intuit.com</li>
+<li> 11:29 qbo.intuit.com</li>
 <li> 11:29 app.qbo.intuit.com</li>
 <li> 11:29 c14.qbo.intuit.com</li>
 <li> 11:10 localhost:8443</li>
@@ -124298,21 +124308,4 @@ With number of accesses/minutes in parentheses
 <li> 11:46 sso.myfritz.net</li>
 <li> 11:46 www.myfritz.net</li>
 <li> 11:46 www.google.com</li>
-<li> 11:46 chatgpt.com</li>
-<li class='same'> 11:45 chatgpt.com</li>
-<li> 11:45 chat.openai.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:09 www.google.com</li>
-<li> 09:46 www.reddit.com</li>
-<li> 09:33 <a href="https://en.wikipedia.org/wiki/Pelops">Pelops - Wikipedia</a></li>
-<li> 09:33 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:54 www.google.com</li>
-<li class='same'> 07:53 www.google.com</li>
 </ul>
