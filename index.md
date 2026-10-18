@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5980)</li>
 <li>mail.google.com (5129)</li>
-<li>www.google.com (4769)</li>
+<li>www.google.com (4767)</li>
 <li>duckduckgo.com (4060)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
-<li>docs.google.com (3238)</li>
+<li>docs.google.com (3237)</li>
 <li>chatgpt.com (2981)</li>
 <li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1877)</li>
 <li>bsky.app (1820)</li>
-<li>www.facebook.com (1612)</li>
+<li>www.facebook.com (1614)</li>
 <li>login.microsoftonline.com (1561)</li>
-<li>calendar.google.com (1536)</li>
+<li>calendar.google.com (1535)</li>
 <li>chat.openai.com (1379)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:21 www.facebook.com</li>
+<ul><li> 12:59 www.giantitp.com</li>
+<li class='same'> 12:58 www.giantitp.com</li>
+<li class='same'> 12:57 www.giantitp.com</li>
+<li> 12:42 www.facebook.com</li>
+<li> 12:42 facebook.com</li>
+<li> 12:26 www.facebook.com</li>
+<li class='same'> 12:21 www.facebook.com</li>
 <li class='same'> 12:18 www.facebook.com</li>
 <li> 12:18 facebook.com</li>
 <li> 12:10 m365.cloud.microsoft</li>
@@ -124200,12 +124206,4 @@ With number of accesses/minutes in parentheses
 <li> 13:54 www.google.com</li>
 <li> 13:52 clubfinder.britishjudo.org.uk</li>
 <li class='same'> 13:51 clubfinder.britishjudo.org.uk</li>
-<li class='same'> 13:50 clubfinder.britishjudo.org.uk</li>
-<li> 13:49 docs.google.com</li>
-<li> 13:49 clubfinder.britishjudo.org.uk</li>
-<li class='same'> 13:48 clubfinder.britishjudo.org.uk</li>
-<li> 13:48 www.google.com</li>
-<li> 13:46 www.210jiujitsu.com</li>
-<li> 13:46 www.google.com</li>
-<li> 13:42 calendar.google.com</li>
 </ul>
