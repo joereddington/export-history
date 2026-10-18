@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5990)</li>
-<li>mail.google.com (5126)</li>
-<li>www.google.com (4799)</li>
-<li>duckduckgo.com (4059)</li>
+<ol><li>www.reddit.com (5988)</li>
+<li>mail.google.com (5129)</li>
+<li>www.google.com (4796)</li>
+<li>duckduckgo.com (4060)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3240)</li>
-<li>chatgpt.com (2975)</li>
-<li>www.linkedin.com (2358)</li>
+<li>chatgpt.com (2977)</li>
+<li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1877)</li>
 <li>bsky.app (1820)</li>
-<li>www.facebook.com (1615)</li>
+<li>www.facebook.com (1610)</li>
 <li>login.microsoftonline.com (1560)</li>
 <li>calendar.google.com (1541)</li>
-<li>chat.openai.com (1378)</li>
+<li>chat.openai.com (1379)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
-<li>gmail.com (1083)</li>
+<li>gmail.com (1084)</li>
 <li>mail.rhul.ac.uk (911)</li>
 <li>tvtropes.org (876)</li>
 <li>feedly.com (856)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:56 127.0.0.1:8000</li>
+<ul><li> 10:19 chatgpt.com</li>
+<li class='same'> 10:18 chatgpt.com</li>
+<li> 10:18 chat.openai.com</li>
+<li> 10:18 duckduckgo.com</li>
+<li> 10:14 mail.google.com</li>
+<li class='same'> 10:13 mail.google.com</li>
+<li class='same'> 10:12 mail.google.com</li>
+<li> 10:12 gmail.com</li>
+<li> 10:12 fast.com</li>
+<li> 09:56 127.0.0.1:8000</li>
 </ul>
 
 <H3>Saturday, 17/10/26</H3>
@@ -124334,20 +124343,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:09 www.amazon.co.uk</li>
 <li> 16:09 www.google.com</li>
 <li> 16:08 docs.google.com</li>
-<li> 15:56 www.reddit.com</li>
-<li> 15:56 www.google.com</li>
-<li> 15:56 www.chegg.com</li>
-<li> 15:56 www.google.com</li>
-<li> 15:53 www.reddit.com</li>
-<li> 15:53 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:23 www.linkedin.com</li>
-<li> 15:22 www.facebook.com</li>
-<li class='same'> 15:21 www.facebook.com</li>
-<li class='same'> 15:20 www.facebook.com</li>
-<li class='same'> 15:15 www.facebook.com</li>
-<li class='same'> 15:13 www.facebook.com</li>
 </ul>
