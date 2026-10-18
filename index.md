@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5980)</li>
-<li>mail.google.com (5129)</li>
-<li>www.google.com (4767)</li>
+<li>mail.google.com (5130)</li>
+<li>www.google.com (4766)</li>
 <li>duckduckgo.com (4060)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3237)</li>
-<li>chatgpt.com (2981)</li>
+<li>chatgpt.com (2984)</li>
 <li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1877)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
 <li>login.microsoftonline.com (1561)</li>
 <li>calendar.google.com (1535)</li>
-<li>chat.openai.com (1379)</li>
-<li>www.amazon.co.uk (1316)</li>
+<li>chat.openai.com (1381)</li>
+<li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
 <li>gmail.com (1084)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 www.giantitp.com</li>
+<ul><li> 13:27 www.boredpanda.com</li>
+<li class='same'> 13:21 www.boredpanda.com</li>
+<li class='same'> 13:12 www.boredpanda.com</li>
+<li> 13:11 mail.google.com</li>
+<li> 13:09 chatgpt.com</li>
+<li> 13:09 chat.openai.com</li>
+<li> 13:09 www.amazon.co.uk</li>
+<li> 13:04 chatgpt.com</li>
+<li class='same'> 13:03 chatgpt.com</li>
+<li> 13:03 chat.openai.com</li>
+<li> 13:03 ads.google.com</li>
+<li> 13:01 richburlew.gumroad.com</li>
+<li> 13:00 www.giantitp.com</li>
+<li class='same'> 12:59 www.giantitp.com</li>
 <li class='same'> 12:58 www.giantitp.com</li>
 <li class='same'> 12:57 www.giantitp.com</li>
 <li> 12:42 www.facebook.com</li>
@@ -124203,7 +124216,4 @@ With number of accesses/minutes in parentheses
 <li> 13:56 www.google.com</li>
 <li class='same'> 13:54 www.google.com</li>
 <li> 13:54 maps.google.com</li>
-<li> 13:54 www.google.com</li>
-<li> 13:52 clubfinder.britishjudo.org.uk</li>
-<li class='same'> 13:51 clubfinder.britishjudo.org.uk</li>
 </ul>
