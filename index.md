@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5988)</li>
+<ol><li>www.reddit.com (5986)</li>
 <li>mail.google.com (5129)</li>
-<li>www.google.com (4796)</li>
+<li>www.google.com (4791)</li>
 <li>duckduckgo.com (4060)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
-<li>docs.google.com (3240)</li>
+<li>docs.google.com (3239)</li>
 <li>chatgpt.com (2977)</li>
 <li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1877)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1610)</li>
 <li>login.microsoftonline.com (1560)</li>
-<li>calendar.google.com (1541)</li>
+<li>calendar.google.com (1540)</li>
 <li>chat.openai.com (1379)</li>
-<li>www.amazon.co.uk (1320)</li>
+<li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
 <li>gmail.com (1084)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 18/10/26</H3>
+
+<br>
+
+<ul><li> 10:59 reductress.com</li>
+</ul>
 
 <br>
 
@@ -124312,35 +124317,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:04 www.google.com</li>
-<li> 07:03 johnden.org</li>
-<li> 07:03 www.google.com</li>
-<li> 07:03 www.magneticmemorymethod.com</li>
-<li> 07:01 www.google.com</li>
-<li> 07:00 www.quora.com</li>
-<li> 07:00 www.google.com</li>
-<li> 06:59 www.reddit.com</li>
-<li class='same'> 06:58 www.reddit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 00:00 calendar.google.com</li>
-</ul>
-
-<H3>Tuesday, 19/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 18:42 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:09 www.amazon.co.uk</li>
-<li> 16:09 www.google.com</li>
-<li> 16:08 docs.google.com</li>
 </ul>
