@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5980)</li>
-<li>mail.google.com (5130)</li>
-<li>www.google.com (4766)</li>
+<li>mail.google.com (5136)</li>
+<li>www.google.com (4765)</li>
 <li>duckduckgo.com (4060)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
 <li>login.microsoftonline.com (1561)</li>
-<li>calendar.google.com (1535)</li>
+<li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1381)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:27 www.boredpanda.com</li>
+<ul><li class='same'> 15:56 www.google.com</li>
+<li> 15:56 mail.google.com</li>
+<li class='same'> 15:55 mail.google.com</li>
+<li> 15:54 about.downthemall.org</li>
+<li> 15:48 mail.google.com</li>
+<li class='same'> 15:47 mail.google.com</li>
+<li> 15:47 mail-attachment.googleusercontent.com</li>
+<li> 15:47 mail.google.com</li>
+<li class='same'> 15:46 mail.google.com</li>
+<li> 15:45 calendar.google.com</li>
+<li class='same'> 15:44 calendar.google.com</li>
+<li> 15:42 ads.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:31 ads.google.com</li>
+<li> 13:27 www.boredpanda.com</li>
 <li class='same'> 13:21 www.boredpanda.com</li>
 <li class='same'> 13:12 www.boredpanda.com</li>
 <li> 13:11 mail.google.com</li>
@@ -124212,8 +124229,4 @@ With number of accesses/minutes in parentheses
 <li> 13:58 www.google.com</li>
 <li> 13:58 clubfinder.britishjudo.org.uk</li>
 <li> 13:57 www.google.com</li>
-<li> 13:56 clubfinder.britishjudo.org.uk</li>
-<li> 13:56 www.google.com</li>
-<li class='same'> 13:54 www.google.com</li>
-<li> 13:54 maps.google.com</li>
 </ul>
