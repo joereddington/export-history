@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5983)</li>
+<ol><li>www.reddit.com (5980)</li>
 <li>mail.google.com (5129)</li>
-<li>www.google.com (4782)</li>
+<li>www.google.com (4769)</li>
 <li>duckduckgo.com (4060)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
-<li>docs.google.com (3239)</li>
-<li>chatgpt.com (2977)</li>
+<li>docs.google.com (3238)</li>
+<li>chatgpt.com (2981)</li>
 <li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1877)</li>
 <li>bsky.app (1820)</li>
-<li>www.facebook.com (1610)</li>
-<li>login.microsoftonline.com (1560)</li>
-<li>calendar.google.com (1540)</li>
-<li>chat.openai.com (1378)</li>
-<li>www.amazon.co.uk (1319)</li>
+<li>www.facebook.com (1612)</li>
+<li>login.microsoftonline.com (1561)</li>
+<li>calendar.google.com (1536)</li>
+<li>chat.openai.com (1379)</li>
+<li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
 <li>gmail.com (1084)</li>
 <li>mail.rhul.ac.uk (911)</li>
-<li>tvtropes.org (876)</li>
-<li>feedly.com (856)</li>
+<li>tvtropes.org (868)</li>
+<li>feedly.com (852)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (738)</li>
 <li>rhul.sharepoint.com (655)</li>
-<li>fritz.box (592)</li>
-<li>m365.cloud.microsoft (554)</li>
+<li>fritz.box (590)</li>
+<li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (472)</li>
 <li>www.theguardian.com (465)</li>
 <li>adfs.herts.ac.uk (455)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:50 ads.google.com</li>
+<ul><li> 12:21 www.facebook.com</li>
+<li class='same'> 12:18 www.facebook.com</li>
+<li> 12:18 facebook.com</li>
+<li> 12:10 m365.cloud.microsoft</li>
+<li class='same'> 12:06 m365.cloud.microsoft</li>
+<li class='same'> 12:00 m365.cloud.microsoft</li>
+<li class='same'> 11:59 m365.cloud.microsoft</li>
+<li class='same'> 11:58 m365.cloud.microsoft</li>
+<li> 11:58 login.microsoftonline.com</li>
+<li> 11:57 chatgpt.com</li>
+<li class='same'> 11:56 chatgpt.com</li>
+<li class='same'> 11:55 chatgpt.com</li>
+<li> 11:55 about.downthemall.org</li>
+<li> 11:55 chatgpt.com</li>
+<li> 11:55 chat.openai.com</li>
+<li> 11:50 ads.google.com</li>
 <li> 11:50 equalitytime.github.io</li>
 <li> 11:48 www.hbutterfield.co.uk</li>
 <li> 11:47 www.diy.com</li>
@@ -124193,119 +124208,4 @@ With number of accesses/minutes in parentheses
 <li> 13:46 www.210jiujitsu.com</li>
 <li> 13:46 www.google.com</li>
 <li> 13:42 calendar.google.com</li>
-<li> 13:41 www.britishjudo.org.uk</li>
-<li> 13:41 www.google.com</li>
-<li> 13:40 github.com</li>
-<li class='same'> 13:39 github.com</li>
-<li> 13:38 <a href="https://joereddington.com/2023/12/19/10-000-pages.html">10,000 pages | Joe Reddington</a></li>
-<li> 13:38 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 13:38 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 13:37 www.amazon.co.uk</li>
-<li class='same'> 13:35 www.amazon.co.uk</li>
-<li> 13:35 www.google.com</li>
-<li> 13:35 www.amazon.co.uk</li>
-<li> 13:35 www.google.com</li>
-<li> 13:35 docs.google.com</li>
-<li> 13:34 github.com</li>
-<li class='same'> 13:33 github.com</li>
-<li class='same'> 13:32 github.com</li>
-<li> 13:32 uamma.uk</li>
-<li class='same'> 13:31 uamma.uk</li>
-<li> 13:31 www.lutongrapplingclub.co.uk</li>
-<li> 13:31 www.instagram.com</li>
-<li class='same'> 13:30 www.instagram.com</li>
-<li> 13:30 www.google.com</li>
-<li> 13:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 12:58 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 12:57 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
-<li> 12:57 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 12:56 www.google.com</li>
-<li> 12:56 <a href="https://en.wikipedia.org/wiki/Information_security#Process">Information security - Wikipedia</a></li>
-<li> 12:55 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=21">Editing Information security - Wikipedia</a></li>
-<li> 12:54 <a href="https://en.wikipedia.org/wiki/Information_security#Defense_in_depth">Information security - Wikipedia</a></li>
-<li> 12:53 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 12:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;oldid=1258572012&amp;action=edit">Editing Information security - Wikipedia</a></li>
-<li> 12:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 12:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
-<li> 12:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
-<li> 12:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout#Specialized_layout">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
-<li> 12:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout#Body_sections">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
-<li> 12:49 <a href="https://en.wikipedia.org/wiki/Wikipedia:Simplified_Manual_of_Style">Wikipedia:Simplified Manual of Style - Wikipedia</a></li>
-<li> 12:49 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
-<li> 12:48 <a href="https://en.wikipedia.org/wiki/Information_security#Standards">Information security - Wikipedia</a></li>
-<li> 12:48 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=2">Editing Information security (section) - Wikipedia</a></li>
-<li> 12:47 <a href="https://en.wikipedia.org/wiki/Information_security#Security_Goals">Information security - Wikipedia</a></li>
-<li> 12:47 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=5">Editing Information security (section) - Wikipedia</a></li>
-<li> 12:46 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 12:46 <a href="https://en.wikipedia.org/wiki/Information_security#See_also">Information security - Wikipedia</a></li>
-<li> 12:45 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=29">Editing Information security (section) - Wikipedia</a></li>
-<li> 12:45 <a href="https://en.wikipedia.org/wiki/Information_security#See_also">Information security - Wikipedia</a></li>
-<li> 12:45 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 12:45 claude.ai</li>
-<li class='same'> 12:44 claude.ai</li>
-<li> 12:44 <a href="https://en.wikipedia.org/wiki/Information_security?action=edit&amp;veswitched=1">Editing Information security - Wikipedia</a></li>
-<li> 12:44 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout#%22See_also%22_section">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#See_also">Wikipedia:Manual of Style - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style">Wikipedia:Manual of Style - Wikipedia</a></li>
-<li> 12:43 www.google.com</li>
-<li> 12:42 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
-<li> 12:42 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 12:42 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 12:42 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 12:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 12:42 <a href="https://en.wikipedia.org/"></a></li>
-<li> 12:41 feedly.com</li>
-<li class='same'> 12:40 feedly.com</li>
-<li class='same'> 12:39 feedly.com</li>
-<li class='same'> 12:36 feedly.com</li>
-<li> 12:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 12:27 tvtropes.org</li>
-<li class='same'> 12:26 tvtropes.org</li>
-<li class='same'> 12:24 tvtropes.org</li>
-<li class='same'> 12:23 tvtropes.org</li>
-<li class='same'> 12:18 tvtropes.org</li>
-<li class='same'> 12:14 tvtropes.org</li>
-<li class='same'> 12:13 tvtropes.org</li>
-<li class='same'> 12:09 tvtropes.org</li>
-<li> 12:09 www.google.com</li>
-<li> 12:02 calendar.google.com</li>
-<li class='same'> 12:01 calendar.google.com</li>
-<li> 12:01 tesco-bookings.qudini.com</li>
-<li> 11:59 www.woodlandavenuepractice.nhs.uk</li>
-<li> 11:59 www.google.com</li>
-<li> 11:59 tesco-bookings.qudini.com</li>
-<li class='same'> 11:58 tesco-bookings.qudini.com</li>
-<li class='same'> 11:57 tesco-bookings.qudini.com</li>
-<li> 11:57 www.tesco.com</li>
-<li> 11:57 tesco-bookings.qudini.com</li>
-<li> 11:56 www.google.com</li>
-<li> 11:56 calendar.google.com</li>
-<li> 11:56 tesco-bookings.qudini.com</li>
-<li> 11:55 www.tesco.com</li>
-<li> 11:55 www.google.com</li>
-<li> 11:55 ad.doubleclick.net</li>
-<li> 11:55 www.google.com</li>
-<li> 11:54 <a href="https://www.bbc.co.uk/news/articles/c62d8r0nnl6o">Drop in UK flu vaccination warning ahead of winter - BBC News</a></li>
-<li> 11:53 www.reddit.com</li>
-<li class='same'> 11:51 www.reddit.com</li>
-<li class='same'> 11:50 www.reddit.com</li>
-<li> 11:50 www.nhs.uk</li>
-<li> 11:49 ukhsa.blog.gov.uk</li>
-<li> 11:49 www.google.com</li>
-<li> 11:48 calendar.google.com</li>
-<li> 11:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 11:47 192.168.178.128:7000</li>
-<li> 11:47 fritz.box</li>
-<li class='same'> 11:46 fritz.box</li>
-<li> 11:46 sso.myfritz.net</li>
-<li> 11:46 www.myfritz.net</li>
-<li> 11:46 www.google.com</li>
 </ul>
