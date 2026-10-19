@@ -80,8 +80,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1877)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
-<li>login.microsoftonline.com (1561)</li>
-<li>calendar.google.com (1537)</li>
+<li>login.microsoftonline.com (1559)</li>
+<li>calendar.google.com (1538)</li>
 <li>chat.openai.com (1381)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 19/10/26</H3>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Sunday, 18/10/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -12887,7 +12898,6 @@ With number of accesses/minutes in parentheses
 <li> 14:55 moodle.royalholloway.ac.uk</li>
 <li> 14:55 login.microsoftonline.com</li>
 <li> 14:55 device.login.microsoftonline.com</li>
-<li> 14:55 login.microsoftonline.com</li>
 <li> 14:48 www.feynmanlectures.caltech.edu</li>
 <li class='same'> 14:46 www.feynmanlectures.caltech.edu</li>
 <li class='same'> 14:44 www.feynmanlectures.caltech.edu</li>
@@ -12924,7 +12934,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:25 outlook.office.com</li>
 <li class='same'> 11:24 outlook.office.com</li>
 <li> 11:24 device.login.microsoftonline.com</li>
-<li> 11:24 login.microsoftonline.com</li>
 <li> 11:24 outlook.office.com</li>
 <li> 11:24 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 </ul>
