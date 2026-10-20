@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (3237)</li>
 <li>chatgpt.com (2990)</li>
 <li>www.linkedin.com (2357)</li>
-<li>moodle.royalholloway.ac.uk (1895)</li>
+<li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
 <li>login.microsoftonline.com (1576)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (911)</li>
 <li>tvtropes.org (868)</li>
 <li>feedly.com (852)</li>
-<li>rhul-my.sharepoint.com (824)</li>
+<li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (741)</li>
 <li>rhul.sharepoint.com (655)</li>
 <li>fritz.box (590)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
+<ul><li> 15:12 rhul-my.sharepoint.com</li>
+<li> 15:11 moodle.royalholloway.ac.uk</li>
+<li> 15:02 rhul-my.sharepoint.com</li>
+<li> 15:02 moodle.royalholloway.ac.uk</li>
+<li> 15:01 rhul.hosted.panopto.com</li>
+<li> 14:58 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
 <li> 14:58 royalholloway.idm.oclc.org</li>
 <li> 14:58 libguides.rhul.ac.uk</li>
 <li> 14:44 <a href="https://en.wikipedia.org/wiki/Marc_Rogers_(security_researcher)">Marc Rogers (security researcher) - Wikipedia</a></li>
