@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5982)</li>
+<ol><li>www.reddit.com (5984)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4746)</li>
+<li>www.google.com (4745)</li>
 <li>duckduckgo.com (4067)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
-<li>docs.google.com (3237)</li>
+<li>docs.google.com (3236)</li>
 <li>chatgpt.com (2990)</li>
 <li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
-<li>login.microsoftonline.com (1576)</li>
+<li>login.microsoftonline.com (1580)</li>
 <li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (852)</li>
 <li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (741)</li>
-<li>rhul.sharepoint.com (655)</li>
+<li>rhul.sharepoint.com (658)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (472)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 20/10/26</H3>
+
+<br>
+
+<ul><li> 16:29 rhul.sharepoint.com</li>
+<li> 16:27 www.reddit.com</li>
+<li class='same'> 16:26 www.reddit.com</li>
+<li> 16:25 login.microsoftonline.com</li>
+<li> 16:25 device.login.microsoftonline.com</li>
+<li> 16:25 login.microsoftonline.com</li>
+<li> 16:25 rhul.sharepoint.com</li>
+<li> 16:25 device.login.microsoftonline.com</li>
+<li> 16:25 rhul.sharepoint.com</li>
+<li> 16:23 login.microsoftonline.com</li>
+<li> 16:23 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:23 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:23 login.microsoftonline.com</li>
+<li> 16:23 device.login.microsoftonline.com</li>
+<li> 16:23 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:18 rhul.hosted.panopto.com</li>
+<li> 16:13 link.springer.com</li>
+<li> 16:13 idp.springer.com</li>
+<li> 16:13 doi.org</li>
+<li> 16:13 eur03.safelinks.protection.outlook.com</li>
+</ul>
 
 <br>
 
@@ -124362,11 +124386,4 @@ With number of accesses/minutes in parentheses
 <li> 16:38 www.giantitp.com</li>
 <li> 16:38 www.google.com</li>
 <li> 16:37 britishjudocouncil.org</li>
-<li> 16:37 lutonjudo.clubeo.com</li>
-<li class='same'> 16:36 lutonjudo.clubeo.com</li>
-<li> 16:35 docs.google.com</li>
-<li> 16:33 www.instagram.com</li>
-<li class='same'> 16:32 www.instagram.com</li>
-<li class='same'> 16:31 www.instagram.com</li>
-<li> 16:30 www.google.com</li>
 </ul>
