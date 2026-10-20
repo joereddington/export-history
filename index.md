@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5980)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4762)</li>
-<li>duckduckgo.com (4061)</li>
+<li>www.google.com (4758)</li>
+<li>duckduckgo.com (4064)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3237)</li>
-<li>chatgpt.com (2988)</li>
+<li>chatgpt.com (2990)</li>
 <li>www.linkedin.com (2357)</li>
-<li>moodle.royalholloway.ac.uk (1882)</li>
+<li>moodle.royalholloway.ac.uk (1883)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
-<li>login.microsoftonline.com (1574)</li>
-<li>calendar.google.com (1538)</li>
+<li>login.microsoftonline.com (1575)</li>
+<li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 royalholloway.akarisoftware.com</li>
+<ul><li> 10:56 moodle.royalholloway.ac.uk</li>
+<li> 10:55 chatgpt.com</li>
+<li class='same'> 10:54 chatgpt.com</li>
+<li> 10:54 myview.rhul.zellis.com</li>
+<li> 10:54 device.login.microsoftonline.com</li>
+<li> 10:54 myview.rhul.zellis.com</li>
+<li> 10:54 login.microsoftonline.com</li>
+<li> 10:54 myview.rhul.zellis.com</li>
+<li> 10:54 intranet.royalholloway.ac.uk</li>
+<li> 10:36 clip.cafe</li>
+<li> 10:36 duckduckgo.com</li>
+<li class='same'> 10:31 duckduckgo.com</li>
+<li class='same'> 10:30 duckduckgo.com</li>
+<li> 10:28 royalholloway.akarisoftware.com</li>
 <li class='same'> 10:27 royalholloway.akarisoftware.com</li>
 <li> 10:27 login.microsoftonline.com</li>
 <li> 10:27 device.login.microsoftonline.com</li>
@@ -124326,14 +124339,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:47 www.google.com</li>
-<li class='same'> 14:46 www.google.com</li>
-<li> 14:35 calendar.google.com</li>
-<li> 14:25 www.google.com</li>
-<li> 14:17 www.infowars.com</li>
-<li> 14:17 www.google.com</li>
-<li> 14:17 www.vanityfair.com</li>
-<li> 14:16 <a href="https://www.bbc.co.uk/news/articles/c8rl8knmg8eo?utm_source=firefox-newtab-en-gb">Trump picks Linda McMahon and Mehmet Oz to serve in top roles - BBC News</a></li>
-<li> 14:16 www.bbc.com</li>
-<li> 14:16 www.google.com</li>
-<li> 14:01 github.com</li>
 </ul>
