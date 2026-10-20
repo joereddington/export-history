@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5984)</li>
+<ol><li>www.reddit.com (5993)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4745)</li>
+<li>www.google.com (4742)</li>
 <li>duckduckgo.com (4067)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:46 eis-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 17:57 www.reddit.com</li>
+<li class='same'> 17:56 www.reddit.com</li>
+<li class='same'> 17:54 www.reddit.com</li>
+<li class='same'> 17:52 www.reddit.com</li>
+<li class='same'> 17:50 www.reddit.com</li>
+<li class='same'> 17:49 www.reddit.com</li>
+<li class='same'> 17:48 www.reddit.com</li>
+<li class='same'> 17:47 www.reddit.com</li>
+<li class='same'> 17:44 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:46 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:46 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 16:46 login.microsoftonline.com</li>
 <li> 16:46 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:46 eis-prod.ec.royalholloway.ac.uk</li>
@@ -124378,16 +124392,4 @@ With number of accesses/minutes in parentheses
 <li> 16:45 accounts.google.co.uk</li>
 <li> 16:45 accounts.google.com</li>
 <li> 16:45 myaccount.google.com</li>
-<li> 16:45 accounts.youtube.com</li>
-<li> 16:45 accounts.google.com</li>
-<li> 16:45 accounts.google.co.uk</li>
-<li> 16:45 myaccount.google.com</li>
-<li> 16:45 www.google.com</li>
-<li> 16:45 drive.google.com</li>
-<li class='same'> 16:44 drive.google.com</li>
-<li> 16:44 support.google.com</li>
-<li> 16:44 www.google.com</li>
-<li> 16:38 www.giantitp.com</li>
-<li> 16:38 www.google.com</li>
-<li> 16:37 britishjudocouncil.org</li>
 </ul>
