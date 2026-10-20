@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5980)</li>
 <li>mail.google.com (5139)</li>
 <li>www.google.com (4751)</li>
-<li>duckduckgo.com (4064)</li>
+<li>duckduckgo.com (4065)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3237)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:54 rhul-my.sharepoint.com</li>
+<ul><li> 12:21 intranet.royalholloway.ac.uk</li>
+<li> 12:08 duckduckgo.com</li>
+<li> 12:07 dashboards.rhul.ac.uk</li>
+<li class='same'> 12:04 dashboards.rhul.ac.uk</li>
+<li> 11:54 rhul-my.sharepoint.com</li>
 <li> 11:53 moodle.royalholloway.ac.uk</li>
 <li> 11:52 rhul.hosted.panopto.com</li>
 <li> 11:52 moodle.royalholloway.ac.uk</li>
