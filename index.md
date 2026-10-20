@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5980)</li>
+<ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4751)</li>
+<li>www.google.com (4746)</li>
 <li>duckduckgo.com (4065)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3237)</li>
 <li>chatgpt.com (2990)</li>
 <li>www.linkedin.com (2357)</li>
-<li>moodle.royalholloway.ac.uk (1891)</li>
+<li>moodle.royalholloway.ac.uk (1895)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
-<li>login.microsoftonline.com (1575)</li>
+<li>login.microsoftonline.com (1576)</li>
 <li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 librarysearch.royalholloway.ac.uk</li>
+<ul><li> 14:24 www.reddit.com</li>
+<li> 14:17 plugin.fileopen.com</li>
+<li> 14:16 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 14:16 royalholloway.idm.oclc.org</li>
+<li> 14:16 libguides.rhul.ac.uk</li>
+<li> 14:16 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 14:15 libguides.rhul.ac.uk</li>
+<li> 14:15 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 14:14 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 14:14 federation-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 14:14 identity-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 14:14 federation-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 14:14 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 14:14 login.royalholloway.idm.oclc.org</li>
+<li> 14:14 login.openathens.net</li>
+<li> 14:14 login.microsoftonline.com</li>
+<li> 14:14 device.login.microsoftonline.com</li>
+<li> 14:14 royalholloway.idm.oclc.org</li>
+<li> 14:14 login.openathens.net</li>
+<li> 14:14 libguides.rhul.ac.uk</li>
+<li class='same'> 14:13 libguides.rhul.ac.uk</li>
+<li> 14:13 intranet.royalholloway.ac.uk</li>
+<li> 14:13 librarysearch.royalholloway.ac.uk</li>
+<li> 14:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:03 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:01 moodle.royalholloway.ac.uk</li>
+<li> 13:59 librarysearch.royalholloway.ac.uk</li>
 <li> 13:58 intranet.royalholloway.ac.uk</li>
 <li> 13:58 librarysearch.royalholloway.ac.uk</li>
 </ul>
@@ -124326,27 +124353,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:32 www.instagram.com</li>
 <li class='same'> 16:31 www.instagram.com</li>
 <li> 16:30 www.google.com</li>
-<li> 16:30 britishjudocouncil.org</li>
-<li> 16:28 www.instagram.com</li>
-<li class='same'> 16:27 www.instagram.com</li>
-<li> 16:27 judoinside.com</li>
-<li> 16:27 www.google.com</li>
-<li> 16:27 britishjudocouncil.org</li>
-<li class='same'> 16:26 britishjudocouncil.org</li>
-<li> 16:26 www.google.com</li>
-<li> 16:26 clubfinder.britishjudo.org.uk</li>
-<li class='same'> 16:25 clubfinder.britishjudo.org.uk</li>
-<li class='same'> 16:23 clubfinder.britishjudo.org.uk</li>
-<li> 16:22 www.google.co.uk</li>
-<li> 16:22 www.google.com</li>
-<li> 16:22 clubfinder.britishjudo.org.uk</li>
-<li class='same'> 16:21 clubfinder.britishjudo.org.uk</li>
-<li> 16:19 192.168.178.128:7000</li>
-<li> 16:18 clubfinder.britishjudo.org.uk</li>
-<li class='same'> 16:17 clubfinder.britishjudo.org.uk</li>
-<li> 16:15 pinewoodjudoclub.mymawebsite.com</li>
-<li> 16:14 www.google.com</li>
-<li> 16:14 camberleyjudo.uk</li>
-<li> 16:14 www.google.com</li>
-<li> 16:14 clubfinder.britishjudo.org.uk</li>
 </ul>
