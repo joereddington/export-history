@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5980)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4755)</li>
+<li>www.google.com (4751)</li>
 <li>duckduckgo.com (4064)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3237)</li>
 <li>chatgpt.com (2990)</li>
 <li>www.linkedin.com (2357)</li>
-<li>moodle.royalholloway.ac.uk (1887)</li>
+<li>moodle.royalholloway.ac.uk (1891)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
 <li>login.microsoftonline.com (1575)</li>
-<li>calendar.google.com (1538)</li>
+<li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (911)</li>
 <li>tvtropes.org (868)</li>
 <li>feedly.com (852)</li>
-<li>rhul-my.sharepoint.com (823)</li>
+<li>rhul-my.sharepoint.com (824)</li>
 <li>forms.office.com (741)</li>
 <li>rhul.sharepoint.com (655)</li>
 <li>fritz.box (590)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:13 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 11:54 rhul-my.sharepoint.com</li>
+<li> 11:53 moodle.royalholloway.ac.uk</li>
+<li> 11:52 rhul.hosted.panopto.com</li>
+<li> 11:52 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:51 moodle.royalholloway.ac.uk</li>
+<li> 11:45 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:35 intranet.royalholloway.ac.uk</li>
+<li> 11:32 moodle.royalholloway.ac.uk</li>
+<li> 11:25 myview.rhul.zellis.com</li>
+<li> 11:13 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 11:11 webtimetables.royalholloway.ac.uk</li>
 <li> 11:06 rhul-my.sharepoint.com</li>
 <li> 11:06 moodle.royalholloway.ac.uk</li>
@@ -124328,16 +124337,4 @@ With number of accesses/minutes in parentheses
 <li> 16:14 camberleyjudo.uk</li>
 <li> 16:14 www.google.com</li>
 <li> 16:14 clubfinder.britishjudo.org.uk</li>
-<li> 16:02 calendar.google.com</li>
-<li> 16:02 www.google.com</li>
-<li> 16:02 osswa.co.uk</li>
-<li class='same'> 16:01 osswa.co.uk</li>
-<li> 16:01 www.google.com</li>
-<li> 16:01 intranet.royalholloway.ac.uk</li>
-<li> 16:01 www.google.com</li>
-<li> 16:00 stalbansbjj.co.uk</li>
-<li> 15:59 www.google.com</li>
-<li> 15:59 clubfinder.britishjudo.org.uk</li>
-<li> 15:58 www.wycombejudocentre.co.uk</li>
-<li> 15:58 www.bookergymclub.co.uk</li>
 </ul>
