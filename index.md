@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5980)</li>
-<li>mail.google.com (5138)</li>
+<li>mail.google.com (5139)</li>
 <li>www.google.com (4764)</li>
 <li>duckduckgo.com (4060)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3237)</li>
-<li>chatgpt.com (2984)</li>
+<li>chatgpt.com (2986)</li>
 <li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1877)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
-<li>login.microsoftonline.com (1559)</li>
+<li>login.microsoftonline.com (1566)</li>
 <li>calendar.google.com (1538)</li>
-<li>chat.openai.com (1381)</li>
+<li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (868)</li>
 <li>feedly.com (852)</li>
 <li>rhul-my.sharepoint.com (822)</li>
-<li>forms.office.com (738)</li>
+<li>forms.office.com (740)</li>
 <li>rhul.sharepoint.com (655)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -104,7 +104,54 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 20/10/26</H3>
+
+<br>
+
+<ul><li> 06:52 dashboards.rhul.ac.uk</li>
+<li> 06:49 chatgpt.com</li>
+<li> 06:49 127.0.0.1:1455</li>
+<li> 06:49 auth.openai.com</li>
+<li class='same'> 06:48 auth.openai.com</li>
+<li> 06:47 chatgpt.com</li>
+<li> 06:47 chat.openai.com</li>
+<li> 06:43 login.microsoftonline.com</li>
+<li> 06:43 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 06:43 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 06:43 login.microsoftonline.com</li>
+<li> 06:43 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 06:43 device.login.microsoftonline.com</li>
+<li> 06:43 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 06:41 192.168.178.1</li>
+<li> 06:41 localhost:8443</li>
+<li> 06:36 forms.cloud.microsoft</li>
+<li class='same'> 06:35 forms.cloud.microsoft</li>
+<li> 06:35 login.microsoftonline.com</li>
+<li> 06:35 forms.cloud.microsoft</li>
+<li> 06:35 login.microsoftonline.com</li>
+<li class='same'> 06:34 login.microsoftonline.com</li>
+<li> 06:34 device.login.microsoftonline.com</li>
+<li> 06:34 login.microsoftonline.com</li>
+<li> 06:34 forms.cloud.microsoft</li>
+<li> 06:34 forms.office.com</li>
+<li> 06:34 forms.cloud.microsoft</li>
+<li> 06:34 www.microsoft.com</li>
+<li> 06:34 forms.office.com</li>
+<li> 06:34 forms.cloud.microsoft</li>
+<li> 06:29 localhost:8443</li>
+<li> 06:20 login.microsoftonline.com</li>
+<li> 06:20 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 06:20 adblockplus.org</li>
+<li> 06:20 fast.com</li>
+<li> 06:19 192.168.178.1</li>
+<li> 06:18 mail.google.com</li>
+</ul>
+
 <H3>Monday, 19/10/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
