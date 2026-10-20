@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5981)</li>
+<ol><li>www.reddit.com (5982)</li>
 <li>mail.google.com (5139)</li>
 <li>www.google.com (4746)</li>
-<li>duckduckgo.com (4065)</li>
+<li>duckduckgo.com (4067)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3237)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:24 www.reddit.com</li>
+<ul><li> 14:58 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 14:58 royalholloway.idm.oclc.org</li>
+<li> 14:58 libguides.rhul.ac.uk</li>
+<li> 14:44 <a href="https://en.wikipedia.org/wiki/Marc_Rogers_(security_researcher)">Marc Rogers (security researcher) - Wikipedia</a></li>
+<li> 14:43 www.imdb.com</li>
+<li> 14:43 duckduckgo.com</li>
+<li> 14:42 <a href="https://en.wikipedia.org/wiki/Marc_Rogers_(security_researcher)#/media/File:TechCrunch_Disrupt_San_Francisco_2018_-_day_2_(43798654394).jpg">TechCrunch Disrupt San Francisco 2018 - day 2 (43798654394) - Marc Rogers (security researcher) - Wikipedia</a></li>
+<li> 14:42 <a href="https://en.wikipedia.org/wiki/Marc_Rogers_(security_researcher)">Marc Rogers (security researcher) - Wikipedia</a></li>
+<li> 14:42 duckduckgo.com</li>
+<li> 14:36 intranet.royalholloway.ac.uk</li>
+<li> 14:26 www.reddit.com</li>
+<li class='same'> 14:24 www.reddit.com</li>
 <li> 14:17 plugin.fileopen.com</li>
 <li> 14:16 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
 <li> 14:16 royalholloway.idm.oclc.org</li>
@@ -22990,7 +23001,7 @@ With number of accesses/minutes in parentheses
 <li> 09:56 www.crowdstrike.com</li>
 <li> 09:56 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
 <li> 09:56 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Threat+actor&amp;wprov=acrw1_0"></a></li>
-<li> 09:55 <a href="https://en.wikipedia.org/wiki/Marc_Rogers_(security_researcher)#/media/File:TechCrunch_Disrupt_San_Francisco_2018_-_day_2_(43798654394).jpg">Marc Rogers (security researcher) - Wikipedia</a></li>
+<li> 09:55 <a href="https://en.wikipedia.org/wiki/Marc_Rogers_(security_researcher)#/media/File:TechCrunch_Disrupt_San_Francisco_2018_-_day_2_(43798654394).jpg">TechCrunch Disrupt San Francisco 2018 - day 2 (43798654394) - Marc Rogers (security researcher) - Wikipedia</a></li>
 <li> 09:44 scholar.google.co.uk</li>
 <li> 09:42 www.sciencedirect.com</li>
 <li> 09:41 scholar.google.co.uk</li>
