@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5980)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4758)</li>
+<li>www.google.com (4755)</li>
 <li>duckduckgo.com (4064)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3237)</li>
 <li>chatgpt.com (2990)</li>
 <li>www.linkedin.com (2357)</li>
-<li>moodle.royalholloway.ac.uk (1883)</li>
+<li>moodle.royalholloway.ac.uk (1887)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
 <li>login.microsoftonline.com (1575)</li>
-<li>calendar.google.com (1537)</li>
+<li>calendar.google.com (1538)</li>
 <li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (911)</li>
 <li>tvtropes.org (868)</li>
 <li>feedly.com (852)</li>
-<li>rhul-my.sharepoint.com (822)</li>
+<li>rhul-my.sharepoint.com (823)</li>
 <li>forms.office.com (741)</li>
 <li>rhul.sharepoint.com (655)</li>
 <li>fritz.box (590)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:56 moodle.royalholloway.ac.uk</li>
+<ul><li> 11:13 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 11:11 webtimetables.royalholloway.ac.uk</li>
+<li> 11:06 rhul-my.sharepoint.com</li>
+<li> 11:06 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:04 moodle.royalholloway.ac.uk</li>
+<li> 11:04 rhul.hosted.panopto.com</li>
+<li> 11:04 moodle.royalholloway.ac.uk</li>
+<li> 11:04 calendar.google.com</li>
+<li> 11:03 rhul.hosted.panopto.com</li>
+<li> 11:03 moodle.royalholloway.ac.uk</li>
+<li> 11:03 rhul.hosted.panopto.com</li>
+<li> 10:56 moodle.royalholloway.ac.uk</li>
 <li> 10:55 chatgpt.com</li>
 <li class='same'> 10:54 chatgpt.com</li>
 <li> 10:54 myview.rhul.zellis.com</li>
@@ -124329,14 +124340,4 @@ With number of accesses/minutes in parentheses
 <li> 15:59 clubfinder.britishjudo.org.uk</li>
 <li> 15:58 www.wycombejudocentre.co.uk</li>
 <li> 15:58 www.bookergymclub.co.uk</li>
-<li> 15:58 www.wycombejudocentre.co.uk</li>
-<li class='same'> 15:57 www.wycombejudocentre.co.uk</li>
-<li> 15:57 www.google.com</li>
-<li class='same'> 15:56 www.google.com</li>
-<li> 15:55 clubfinder.britishjudo.org.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 14:47 www.google.com</li>
 </ul>
