@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
-<li>login.microsoftonline.com (1580)</li>
+<li>login.microsoftonline.com (1581)</li>
 <li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:29 rhul.sharepoint.com</li>
+<ul><li> 16:46 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:46 login.microsoftonline.com</li>
+<li> 16:46 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:46 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:29 rhul.sharepoint.com</li>
 <li> 16:27 www.reddit.com</li>
 <li class='same'> 16:26 www.reddit.com</li>
 <li> 16:25 login.microsoftonline.com</li>
