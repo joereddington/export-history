@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1880)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
-<li>login.microsoftonline.com (1567)</li>
+<li>login.microsoftonline.com (1566)</li>
 <li>calendar.google.com (1538)</li>
 <li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -12822,7 +12822,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:28 www.linkedin.com</li>
 <li> 18:27 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 18:26 <a href="https://www.bbc.co.uk/news/articles/ckg4we9g58do">Who&#x27;s in Andy Burnham&#x27;s new Labour cabinet? - BBC News</a></li>
-<li> 18:26 www.google.co.uk</li>
 <li> 18:26 duckduckgo.com</li>
 <li> 18:25 <a href="https://www.bbc.co.uk/news/articles/cj03r77n07jo">Ann Widdecombe was hit on head 21 times with hammer, prosecutors say - BBC News</a></li>
 <li> 18:24 <a href="https://www.bbc.co.uk/news/articles/ckg4we9g58do">Who&#x27;s in Andy Burnham&#x27;s new Labour cabinet? - BBC News</a></li>
@@ -12835,8 +12834,7 @@ With number of accesses/minutes in parentheses
 <li> 18:19 duckduckgo.com</li>
 <li> 18:17 www.linkedin.com</li>
 <li> 18:17 calendar.google.com</li>
-<li> 18:16 login.microsoftonline.com</li>
-<li class='same'> 18:15 login.microsoftonline.com</li>
+<li> 18:15 login.microsoftonline.com</li>
 <li> 18:15 rhul.sharepoint.com</li>
 <li> 18:09 chatgpt.com</li>
 <li> 18:08 www.linkedin.com</li>
@@ -12845,7 +12843,6 @@ With number of accesses/minutes in parentheses
 <li> 17:51 <a href="https://www.bbc.co.uk/news/articles/c8enk37nw86o?at_link_id=D8450AE8-84D6-11F1-97A0-9922C8AD5FE7&amp;at_campaign_type=owned&amp;at_medium=social&amp;at_link_type=web_link&amp;at_bbc_team=editorial&amp;at_link_origin=BBC_BedsHertsBucks&amp;at_ptr_name=facebook_page&amp;at_campaign=Social_Flow&amp;at_format=link"></a></li>
 <li> 17:51 <a href="https://www.bbc.co.uk/news/articles/c8enk37nw86o?at_bbc_team=editorial&amp;at_format=link">Six Luton Labour councillors quit party to form independent group - BBC News</a></li>
 <li> 17:51 trib.al</li>
-<li> 17:51 l.facebook.com</li>
 <li> 17:51 bbc.in</li>
 <li> 17:51 www.facebook.com</li>
 </ul>
