@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1880)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1614)</li>
-<li>login.microsoftonline.com (1566)</li>
+<li>login.microsoftonline.com (1572)</li>
 <li>calendar.google.com (1538)</li>
 <li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (868)</li>
 <li>feedly.com (852)</li>
 <li>rhul-my.sharepoint.com (822)</li>
-<li>forms.office.com (740)</li>
+<li>forms.office.com (741)</li>
 <li>rhul.sharepoint.com (655)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 20/10/26</H3>
+
+<br>
+
+<ul><li> 09:59 login.microsoftonline.com</li>
+<li> 09:59 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 09:59 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 09:48 forms.cloud.microsoft</li>
+<li> 09:48 login.microsoftonline.com</li>
+<li> 09:48 device.login.microsoftonline.com</li>
+<li> 09:48 login.microsoftonline.com</li>
+<li class='same'> 09:44 login.microsoftonline.com</li>
+<li> 09:44 forms.cloud.microsoft</li>
+<li> 09:44 forms.office.com</li>
+<li> 09:37 webtimetables.royalholloway.ac.uk</li>
+<li> 09:37 login.microsoftonline.com</li>
+<li> 09:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 09:37 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 09:37 login.microsoftonline.com</li>
+<li> 09:37 device.login.microsoftonline.com</li>
+<li> 09:36 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 09:36 dashboards.rhul.ac.uk</li>
+<li> 09:18 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+</ul>
 
 <br>
 
