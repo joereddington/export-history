@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5994)</li>
 <li>mail.google.com (5139)</li>
 <li>www.google.com (4739)</li>
-<li>duckduckgo.com (4068)</li>
+<li>duckduckgo.com (4069)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3236)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1615)</li>
-<li>login.microsoftonline.com (1581)</li>
+<li>login.microsoftonline.com (1584)</li>
 <li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1384)</li>
 <li>www.amazon.co.uk (1319)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:22 chatgpt.com</li>
+<ul><li> 11:49 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:49 login.microsoftonline.com</li>
+<li class='same'> 11:48 login.microsoftonline.com</li>
+<li> 11:48 device.login.microsoftonline.com</li>
+<li> 11:48 login.microsoftonline.com</li>
+<li> 11:48 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Southampton_F.C._espionage_incident">Southampton F.C. espionage incident - Wikipedia</a></li>
+<li> 11:45 duckduckgo.com</li>
+<li> 11:40 localhost:8443</li>
+<li> 11:30 192.168.178.1</li>
+<li> 11:22 chatgpt.com</li>
 <li> 11:13 feedly.com</li>
 <li> 11:13 chatgpt.com</li>
 <li> 11:12 chat.openai.com</li>
