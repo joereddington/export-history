@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
 <li>mail.google.com (5136)</li>
-<li>www.google.com (4722)</li>
-<li>duckduckgo.com (4074)</li>
+<li>www.google.com (4720)</li>
+<li>duckduckgo.com (4077)</li>
 <li>outlook.office365.com (4036)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3002)</li>
+<li>chatgpt.com (3004)</li>
 <li>www.linkedin.com (2353)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1808)</li>
-<li>www.facebook.com (1615)</li>
+<li>www.facebook.com (1613)</li>
 <li>login.microsoftonline.com (1583)</li>
-<li>calendar.google.com (1535)</li>
-<li>chat.openai.com (1386)</li>
+<li>calendar.google.com (1534)</li>
+<li>chat.openai.com (1387)</li>
 <li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1084)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:23 feedly.com</li>
+<ul><li> 16:52 oro.open.ac.uk</li>
+<li> 16:51 iet.open.ac.uk</li>
+<li class='same'> 16:49 iet.open.ac.uk</li>
+<li> 16:49 duckduckgo.com</li>
+<li> 16:48 iet.open.ac.uk</li>
+<li> 16:48 duckduckgo.com</li>
+<li class='same'> 16:47 duckduckgo.com</li>
+<li> 16:45 chatgpt.com</li>
+<li class='same'> 16:44 chatgpt.com</li>
+<li> 16:44 chat.openai.com</li>
+<li> 16:31 www.royalholloway.ac.uk</li>
+<li> 16:23 feedly.com</li>
 <li> 16:23 chatgpt.com</li>
 <li class='same'> 16:22 chatgpt.com</li>
 <li> 16:22 blueskythreads.xyz</li>
@@ -124379,13 +124390,4 @@ With number of accesses/minutes in parentheses
 <li> 12:25 gmail.com</li>
 <li> 12:22 clearsky.app</li>
 <li class='same'> 12:21 clearsky.app</li>
-<li> 12:21 www.google.com</li>
-<li> 12:16 forms.tvlicensing.co.uk</li>
-<li> 12:16 www.tvlicensing.co.uk</li>
-<li> 12:16 www.google.com</li>
-<li> 12:14 www.facebook.com</li>
-<li class='same'> 12:13 www.facebook.com</li>
-<li> 12:05 calendar.google.com</li>
-<li> 12:01 github.com</li>
-<li class='same'> 12:00 github.com</li>
 </ul>
