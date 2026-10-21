@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:48 localhost:8443</li>
+<ul><li> 13:04 reductress.com</li>
+<li> 12:48 localhost:8443</li>
 <li> 12:37 feedly.com</li>
 <li class='same'> 12:36 feedly.com</li>
 </ul>
