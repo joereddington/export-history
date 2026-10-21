@@ -75,15 +75,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (2993)</li>
+<li>chatgpt.com (2995)</li>
 <li>www.linkedin.com (2358)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1583)</li>
 <li>calendar.google.com (1537)</li>
-<li>chat.openai.com (1384)</li>
-<li>www.amazon.co.uk (1319)</li>
+<li>chat.openai.com (1385)</li>
+<li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
 <li>gmail.com (1084)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:04 reductress.com</li>
+<ul><li> 13:40 chatgpt.com</li>
+<li class='same'> 13:39 chatgpt.com</li>
+<li> 13:39 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:05 www.amazon.co.uk</li>
+<li class='same'> 13:04 www.amazon.co.uk</li>
+<li> 13:04 reductress.com</li>
 <li> 12:48 localhost:8443</li>
 <li> 12:37 feedly.com</li>
 <li class='same'> 12:36 feedly.com</li>
@@ -124443,11 +124452,4 @@ With number of accesses/minutes in parentheses
 <li> 17:26 tvtropes.org</li>
 <li> 17:26 www.google.com</li>
 <li> 17:17 docs.google.com</li>
-<li> 17:16 www.amazon.co.uk</li>
-<li> 17:12 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 17:11 www.vimgolf.com</li>
-<li class='same'> 16:57 www.vimgolf.com</li>
-<li> 16:56 publish.buffer.com</li>
-<li> 16:56 account.buffer.com</li>
-<li> 16:56 publish.buffer.com</li>
 </ul>
