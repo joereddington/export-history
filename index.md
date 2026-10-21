@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
-<li>mail.google.com (5136)</li>
+<li>mail.google.com (5132)</li>
 <li>www.google.com (4720)</li>
 <li>duckduckgo.com (4077)</li>
 <li>outlook.office365.com (4036)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3234)</li>
 <li>chatgpt.com (3004)</li>
-<li>www.linkedin.com (2353)</li>
+<li>www.linkedin.com (2357)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1808)</li>
 <li>www.facebook.com (1613)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1084)</li>
-<li>gmail.com (1083)</li>
+<li>gmail.com (1082)</li>
 <li>mail.rhul.ac.uk (909)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (861)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:52 oro.open.ac.uk</li>
+<ul><li> 17:12 www.linkedin.com</li>
+<li class='same'> 17:11 www.linkedin.com</li>
+<li class='same'> 17:10 www.linkedin.com</li>
+<li class='same'> 17:09 www.linkedin.com</li>
+<li> 16:52 oro.open.ac.uk</li>
 <li> 16:51 iet.open.ac.uk</li>
 <li class='same'> 16:49 iet.open.ac.uk</li>
 <li> 16:49 duckduckgo.com</li>
@@ -124381,13 +124385,4 @@ With number of accesses/minutes in parentheses
 <li> 12:31 mail.google.com</li>
 <li> 12:31 privacyportal-de.onetrust.com</li>
 <li> 12:31 mail.google.com</li>
-<li class='same'> 12:30 mail.google.com</li>
-<li> 12:30 www.tvlicensing.co.uk</li>
-<li> 12:30 forms.tvlicensing.co.uk</li>
-<li> 12:28 mail.google.com</li>
-<li class='same'> 12:26 mail.google.com</li>
-<li class='same'> 12:25 mail.google.com</li>
-<li> 12:25 gmail.com</li>
-<li> 12:22 clearsky.app</li>
-<li class='same'> 12:21 clearsky.app</li>
 </ul>
