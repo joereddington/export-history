@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4742)</li>
-<li>duckduckgo.com (4067)</li>
+<li>www.google.com (4739)</li>
+<li>duckduckgo.com (4068)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (2990)</li>
-<li>www.linkedin.com (2357)</li>
+<li>chatgpt.com (2993)</li>
+<li>www.linkedin.com (2358)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1820)</li>
-<li>www.facebook.com (1614)</li>
+<li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1581)</li>
 <li>calendar.google.com (1537)</li>
-<li>chat.openai.com (1382)</li>
-<li>www.amazon.co.uk (1317)</li>
+<li>chat.openai.com (1384)</li>
+<li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
 <li>gmail.com (1084)</li>
 <li>mail.rhul.ac.uk (911)</li>
 <li>tvtropes.org (868)</li>
-<li>feedly.com (852)</li>
+<li>feedly.com (857)</li>
 <li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (741)</li>
 <li>rhul.sharepoint.com (658)</li>
@@ -104,7 +104,65 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 21/10/26</H3>
+
+<br>
+
+<ul><li> 11:22 chatgpt.com</li>
+<li> 11:13 feedly.com</li>
+<li> 11:13 chatgpt.com</li>
+<li> 11:12 chat.openai.com</li>
+<li> 11:12 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:41 feedly.com</li>
+<li> 06:41 192.168.178.1</li>
+</ul>
+
 <H3>Tuesday, 20/10/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:56 cybersecurityventures.com</li>
+<li> 20:53 thehackernews.com</li>
+<li> 20:44 intranet.royalholloway.ac.uk</li>
+<li> 20:44 duckduckgo.com</li>
+<li> 20:31 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">The itest project | Joe Reddington</a></li>
+<li> 20:31 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
+<li> 20:24 wonkhe.com</li>
+<li> 20:18 www.independent.co.uk</li>
+<li> 20:07 feedly.com</li>
+<li> 20:07 www.feedly.com</li>
+<li> 20:07 feedly.com</li>
+<li> 20:03 www.amazon.co.uk</li>
+<li class='same'> 19:58 www.amazon.co.uk</li>
+<li> 19:56 feedly.com</li>
+<li> 19:56 www.linkedin.com</li>
+<li> 19:56 www.facebook.com</li>
+<li> 19:56 facebook.com</li>
+<li> 19:54 learningonscreen.ac.uk</li>
+<li> 19:54 chatgpt.com</li>
+<li> 19:54 chat.openai.com</li>
+<li> 19:53 learningonscreen.ac.uk</li>
+<li> 19:53 login.learningonscreen.ac.uk</li>
+<li> 19:53 learningonscreen.ac.uk</li>
+<li> 19:53 connect.openathens.net</li>
+<li> 19:53 login.openathens.net</li>
+<li> 19:53 connect.openathens.net</li>
+<li> 19:53 login.learningonscreen.ac.uk</li>
+<li> 19:53 connect.openathens.net</li>
+<li> 19:53 192.168.178.1</li>
+<li> 19:52 login.learningonscreen.ac.uk</li>
+<li> 19:52 192.168.178.1</li>
+<li> 19:52 learningonscreen.ac.uk</li>
+<li> 19:43 192.168.178.1</li>
+</ul>
 
 <br>
 
@@ -12901,7 +12959,6 @@ With number of accesses/minutes in parentheses
 <li> 14:48 fast.com</li>
 <li> 14:48 www.google.com</li>
 <li> 14:46 fast.com</li>
-<li> 14:46 teams.microsoft.com</li>
 <li> 14:46 www.google.com</li>
 <li> 14:46 teams.microsoft.com</li>
 <li> 14:45 feedly.com</li>
@@ -12944,7 +13001,6 @@ With number of accesses/minutes in parentheses
 <li> 09:04 duckduckgo.com</li>
 <li> 09:02 chatgpt.com</li>
 <li> 09:02 chat.openai.com</li>
-<li> 09:01 www.google.com</li>
 <li> 09:01 teams.microsoft.com</li>
 <li> 09:01 mail.google.com</li>
 <li class='same'> 09:00 mail.google.com</li>
@@ -124377,20 +124433,4 @@ With number of accesses/minutes in parentheses
 <li> 16:56 publish.buffer.com</li>
 <li> 16:56 account.buffer.com</li>
 <li> 16:56 publish.buffer.com</li>
-<li> 16:56 login.buffer.com</li>
-<li> 16:56 buffer.com</li>
-<li> 16:55 www.google.com</li>
-<li> 16:55 www.vimgolf.com</li>
-<li> 16:55 github.com</li>
-<li> 16:55 www.vimgolf.com</li>
-<li> 16:55 www.google.com</li>
-<li> 16:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 16:55 192.168.178.128:7000</li>
-<li> 16:52 Local file</li>
-<li> 16:48 claude.ai</li>
-<li> 16:48 www.google.com</li>
-<li> 16:45 accounts.youtube.com</li>
-<li> 16:45 accounts.google.co.uk</li>
-<li> 16:45 accounts.google.com</li>
-<li> 16:45 myaccount.google.com</li>
 </ul>
