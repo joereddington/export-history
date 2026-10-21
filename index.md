@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1084)</li>
 <li>mail.rhul.ac.uk (911)</li>
 <li>tvtropes.org (868)</li>
-<li>feedly.com (857)</li>
+<li>feedly.com (859)</li>
 <li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (741)</li>
 <li>rhul.sharepoint.com (658)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/10/26</H3>
+
+<br>
+
+<ul><li> 12:48 localhost:8443</li>
+<li> 12:37 feedly.com</li>
+<li class='same'> 12:36 feedly.com</li>
+</ul>
 
 <br>
 
