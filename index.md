@@ -70,33 +70,33 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4739)</li>
-<li>duckduckgo.com (4069)</li>
+<li>www.google.com (4731)</li>
+<li>duckduckgo.com (4073)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
-<li>docs.google.com (3236)</li>
-<li>chatgpt.com (2995)</li>
+<li>docs.google.com (3235)</li>
+<li>chatgpt.com (2997)</li>
 <li>www.linkedin.com (2358)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
 <li>bsky.app (1820)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1583)</li>
 <li>calendar.google.com (1537)</li>
-<li>chat.openai.com (1385)</li>
+<li>chat.openai.com (1386)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
 <li>gmail.com (1084)</li>
 <li>mail.rhul.ac.uk (911)</li>
-<li>tvtropes.org (868)</li>
-<li>feedly.com (859)</li>
+<li>tvtropes.org (866)</li>
+<li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (741)</li>
 <li>rhul.sharepoint.com (658)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (472)</li>
-<li>www.theguardian.com (465)</li>
+<li>www.theguardian.com (464)</li>
 <li>adfs.herts.ac.uk (455)</li>
 
 
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 chatgpt.com</li>
+<ul><li> 14:22 duckduckgo.com</li>
+<li class='same'> 14:21 duckduckgo.com</li>
+<li> 14:09 www.rhulisc.com</li>
+<li> 14:09 www.publicengagement.ac.uk</li>
+<li> 14:08 www.royalholloway.ac.uk</li>
+<li> 14:08 royalholloway.ac.uk</li>
+<li> 14:07 www.royalholloway.ac.uk</li>
+<li> 14:07 duckduckgo.com</li>
+<li> 14:07 chatgpt.com</li>
+<li class='same'> 14:06 chatgpt.com</li>
+<li> 14:06 chat.openai.com</li>
+<li> 14:06 x.com</li>
+<li> 14:06 www.google.com</li>
+<li> 14:06 duckduckgo.com</li>
+<li> 14:05 www.independent.co.uk</li>
+<li> 14:02 feedly.com</li>
+<li> 13:40 chatgpt.com</li>
 <li class='same'> 13:39 chatgpt.com</li>
 <li> 13:39 chat.openai.com</li>
 </ul>
@@ -124429,27 +124445,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:06 www.ikea.com</li>
 <li class='same'> 20:05 www.ikea.com</li>
 <li> 20:05 www.google.com</li>
-<li> 20:05 www.ikea.com</li>
-<li> 20:05 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:13 tvtropes.org</li>
-<li> 19:13 www.google.com</li>
-<li class='same'> 18:45 www.google.com</li>
-<li class='same'> 18:44 www.google.com</li>
-<li class='same'> 18:41 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 18:10 www.google.com</li>
-<li> 18:09 www.merriam-webster.com</li>
-<li> 18:09 www.google.com</li>
-<li> 17:51 www.theguardian.com</li>
-<li> 17:51 www.google.com</li>
-<li> 17:26 tvtropes.org</li>
-<li> 17:26 www.google.com</li>
-<li> 17:17 docs.google.com</li>
 </ul>
