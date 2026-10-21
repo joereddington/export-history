@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4729)</li>
+<li>www.google.com (4725)</li>
 <li>duckduckgo.com (4073)</li>
-<li>outlook.office365.com (4041)</li>
+<li>outlook.office365.com (4039)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3000)</li>
-<li>www.linkedin.com (2358)</li>
+<li>chatgpt.com (3001)</li>
+<li>www.linkedin.com (2354)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
-<li>bsky.app (1816)</li>
+<li>bsky.app (1814)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1583)</li>
 <li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1386)</li>
 <li>www.amazon.co.uk (1322)</li>
 <li>herts.instructure.com (1230)</li>
-<li>web.whatsapp.com (1086)</li>
+<li>web.whatsapp.com (1085)</li>
 <li>gmail.com (1084)</li>
-<li>mail.rhul.ac.uk (911)</li>
+<li>mail.rhul.ac.uk (910)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (826)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:55 bsky.app</li>
+<ul><li> 15:27 podcasts.apple.com</li>
+<li class='same'> 15:26 podcasts.apple.com</li>
+<li> 15:26 bsky.app</li>
+<li> 15:25 chatgpt.com</li>
+<li> 15:24 open.spotify.com</li>
+<li> 15:24 go.bsky.app</li>
+<li> 15:24 bsky.app</li>
+<li class='same'> 15:23 bsky.app</li>
+<li class='same'> 15:20 bsky.app</li>
+<li class='same'> 15:15 bsky.app</li>
+<li class='same'> 15:13 bsky.app</li>
+<li class='same'> 15:07 bsky.app</li>
+<li class='same'> 15:06 bsky.app</li>
+<li class='same'> 14:55 bsky.app</li>
 <li class='same'> 14:54 bsky.app</li>
 <li class='same'> 14:53 bsky.app</li>
 <li> 14:50 chatgpt.com</li>
@@ -124396,33 +124409,4 @@ With number of accesses/minutes in parentheses
 <li> 10:10 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 10:10 outlook.office365.com</li>
 <li class='same'> 10:09 outlook.office365.com</li>
-<li class='same'> 10:08 outlook.office365.com</li>
-<li class='same'> 10:07 outlook.office365.com</li>
-<li> 10:07 mail.rhul.ac.uk</li>
-<li> 10:02 bsky.app</li>
-<li> 10:02 www.google.com</li>
-<li> 10:00 finalfantasy.fandom.com</li>
-<li> 10:00 www.google.com</li>
-<li> 09:59 bsky.app</li>
-<li class='same'> 09:58 bsky.app</li>
-<li> 09:58 www.linkedin.com</li>
-<li class='same'> 09:57 www.linkedin.com</li>
-<li class='same'> 09:56 www.linkedin.com</li>
-<li> 09:56 www.google.com</li>
-<li> 09:55 www.linkedin.com</li>
-<li> 09:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 09:45 bsky.app</li>
-<li> 09:45 blueskydirectory.com</li>
-<li class='same'> 09:44 blueskydirectory.com</li>
-<li> 09:42 web.whatsapp.com</li>
-<li> 09:42 bsky.app</li>
-<li class='same'> 09:41 bsky.app</li>
-<li> 09:41 blueskydirectory.com</li>
-<li> 09:40 www.google.com</li>
-<li> 09:39 theopenvoicefactory.org</li>
-<li> 09:39 bsky.app</li>
-<li class='same'> 09:38 bsky.app</li>
-<li class='same'> 09:37 bsky.app</li>
-<li class='same'> 09:17 bsky.app</li>
-<li> 09:17 blueskydirectory.com</li>
 </ul>
