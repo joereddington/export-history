@@ -70,23 +70,23 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4725)</li>
-<li>duckduckgo.com (4073)</li>
-<li>outlook.office365.com (4039)</li>
+<li>www.google.com (4724)</li>
+<li>duckduckgo.com (4074)</li>
+<li>outlook.office365.com (4037)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3001)</li>
-<li>www.linkedin.com (2354)</li>
+<li>chatgpt.com (3000)</li>
+<li>www.linkedin.com (2353)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
-<li>bsky.app (1814)</li>
+<li>bsky.app (1819)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1583)</li>
-<li>calendar.google.com (1537)</li>
+<li>calendar.google.com (1536)</li>
 <li>chat.openai.com (1386)</li>
 <li>www.amazon.co.uk (1322)</li>
 <li>herts.instructure.com (1230)</li>
-<li>web.whatsapp.com (1085)</li>
-<li>gmail.com (1084)</li>
+<li>web.whatsapp.com (1084)</li>
+<li>gmail.com (1083)</li>
 <li>mail.rhul.ac.uk (910)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (860)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:27 podcasts.apple.com</li>
+<ul><li> 15:44 bsky.app</li>
+<li class='same'> 15:43 bsky.app</li>
+<li class='same'> 15:42 bsky.app</li>
+<li class='same'> 15:41 bsky.app</li>
+<li class='same'> 15:40 bsky.app</li>
+<li class='same'> 15:36 bsky.app</li>
+<li class='same'> 15:35 bsky.app</li>
+<li class='same'> 15:32 bsky.app</li>
+<li> 15:31 ticketing.britishmuseum.org</li>
+<li class='same'> 15:30 ticketing.britishmuseum.org</li>
+<li> 15:30 britishmuseum.queue-it.net</li>
+<li> 15:30 ticketing.britishmuseum.org</li>
+<li> 15:30 britishmuseum.queue-it.net</li>
+<li> 15:30 duckduckgo.com</li>
+<li> 15:27 bsky.app</li>
+<li> 15:27 podcasts.apple.com</li>
 <li class='same'> 15:26 podcasts.apple.com</li>
 <li> 15:26 bsky.app</li>
 <li> 15:25 chatgpt.com</li>
@@ -124390,23 +124405,4 @@ With number of accesses/minutes in parentheses
 <li> 10:56 mail.google.com</li>
 <li class='same'> 10:54 mail.google.com</li>
 <li class='same'> 10:51 mail.google.com</li>
-<li> 10:51 accounts.google.com</li>
-<li> 10:51 gmail.com</li>
-<li> 10:39 0.0.0.0:7000</li>
-<li> 10:39 bsky.app</li>
-<li class='same'> 10:38 bsky.app</li>
-<li> 10:34 0.0.0.0:8000</li>
-<li> 10:33 0.0.0.0:7000</li>
-<li> 10:32 bsky.app</li>
-<li> 10:31 www.unity.co.uk</li>
-<li> 10:31 www.google.com</li>
-<li> 10:29 bsky.app</li>
-<li> 10:13 web.whatsapp.com</li>
-<li> 10:12 calendar.google.com</li>
-<li> 10:12 192.168.178.128:7000</li>
-<li> 10:11 chatgpt.com</li>
-<li> 10:10 www.linkedin.com</li>
-<li> 10:10 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 10:10 outlook.office365.com</li>
-<li class='same'> 10:09 outlook.office365.com</li>
 </ul>
