@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
-<li>mail.google.com (5139)</li>
-<li>www.google.com (4724)</li>
+<li>mail.google.com (5136)</li>
+<li>www.google.com (4722)</li>
 <li>duckduckgo.com (4074)</li>
-<li>outlook.office365.com (4037)</li>
+<li>outlook.office365.com (4036)</li>
 <li>outlook.office.com (3791)</li>
-<li>docs.google.com (3235)</li>
-<li>chatgpt.com (3000)</li>
+<li>docs.google.com (3234)</li>
+<li>chatgpt.com (3002)</li>
 <li>www.linkedin.com (2353)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
-<li>bsky.app (1819)</li>
+<li>bsky.app (1808)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1583)</li>
-<li>calendar.google.com (1536)</li>
+<li>calendar.google.com (1535)</li>
 <li>chat.openai.com (1386)</li>
-<li>www.amazon.co.uk (1322)</li>
+<li>www.amazon.co.uk (1319)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1084)</li>
 <li>gmail.com (1083)</li>
-<li>mail.rhul.ac.uk (910)</li>
+<li>mail.rhul.ac.uk (909)</li>
 <li>tvtropes.org (866)</li>
-<li>feedly.com (860)</li>
+<li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (741)</li>
 <li>rhul.sharepoint.com (658)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/10/26</H3>
+
+<br>
+
+<ul><li> 16:23 feedly.com</li>
+<li> 16:23 chatgpt.com</li>
+<li class='same'> 16:22 chatgpt.com</li>
+<li> 16:22 blueskythreads.xyz</li>
+<li> 16:22 bluesky-thread-composer.pages.dev</li>
+</ul>
 
 <br>
 
@@ -124379,30 +124388,4 @@ With number of accesses/minutes in parentheses
 <li> 12:05 calendar.google.com</li>
 <li> 12:01 github.com</li>
 <li class='same'> 12:00 github.com</li>
-<li> 11:57 bsky.app</li>
-<li> 11:55 192.168.178.128:7000</li>
-<li> 11:54 outlook.office365.com</li>
-<li> 11:54 mail.rhul.ac.uk</li>
-<li> 11:50 bsky.app</li>
-<li class='same'> 11:42 bsky.app</li>
-<li> 11:41 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 11:20 www.amazon.co.uk</li>
-<li> 11:20 www.google.com</li>
-<li> 11:20 www.amazon.co.uk</li>
-<li class='same'> 11:18 www.amazon.co.uk</li>
-<li> 11:16 bsky.app</li>
-<li class='same'> 11:15 bsky.app</li>
-<li> 11:12 calendar.google.com</li>
-<li> 11:09 docs.google.com</li>
-<li> 11:09 bsky.app</li>
-<li class='same'> 11:07 bsky.app</li>
-<li> 11:05 www.niaid.nih.gov</li>
-<li> 11:05 bsky.app</li>
-<li class='same'> 11:04 bsky.app</li>
-<li> 11:03 www.google.com</li>
-<li> 11:00 bsky.app</li>
-<li class='same'> 10:58 bsky.app</li>
-<li> 10:56 mail.google.com</li>
-<li class='same'> 10:54 mail.google.com</li>
-<li class='same'> 10:51 mail.google.com</li>
 </ul>
