@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
 <li>mail.google.com (5139)</li>
-<li>www.google.com (4731)</li>
+<li>www.google.com (4729)</li>
 <li>duckduckgo.com (4073)</li>
 <li>outlook.office365.com (4041)</li>
 <li>outlook.office.com (3791)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (2997)</li>
+<li>chatgpt.com (3000)</li>
 <li>www.linkedin.com (2358)</li>
 <li>moodle.royalholloway.ac.uk (1897)</li>
-<li>bsky.app (1820)</li>
+<li>bsky.app (1816)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1583)</li>
 <li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1386)</li>
-<li>www.amazon.co.uk (1320)</li>
+<li>www.amazon.co.uk (1322)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1086)</li>
 <li>gmail.com (1084)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:22 duckduckgo.com</li>
+<ul><li> 14:55 bsky.app</li>
+<li class='same'> 14:54 bsky.app</li>
+<li class='same'> 14:53 bsky.app</li>
+<li> 14:50 chatgpt.com</li>
+<li class='same'> 14:49 chatgpt.com</li>
+<li class='same'> 14:45 chatgpt.com</li>
+<li> 14:43 www.amazon.co.uk</li>
+<li class='same'> 14:42 www.amazon.co.uk</li>
+<li> 14:22 duckduckgo.com</li>
 <li class='same'> 14:21 duckduckgo.com</li>
 <li> 14:09 www.rhulisc.com</li>
 <li> 14:09 www.publicengagement.ac.uk</li>
@@ -124417,32 +124425,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:37 bsky.app</li>
 <li class='same'> 09:17 bsky.app</li>
 <li> 09:17 blueskydirectory.com</li>
-<li> 09:16 bsky.app</li>
-<li> 09:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 09:16 bsky.app</li>
-<li> 09:16 blueskydirectory.com</li>
-<li> 09:15 bsky.app</li>
-<li> 09:15 blueskydirectory.com</li>
-<li> 09:13 bsky.app</li>
-<li class='same'> 09:10 bsky.app</li>
-<li class='same'> 09:08 bsky.app</li>
-<li class='same'> 09:07 bsky.app</li>
-<li> 09:07 192.168.178.128:7000</li>
-<li> 09:07 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-</ul>
-
-<H3>Wednesday, 20/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 20:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 20:09 www.google.com</li>
-<li> 20:07 www.ikea.com</li>
-<li class='same'> 20:06 www.ikea.com</li>
-<li class='same'> 20:05 www.ikea.com</li>
-<li> 20:05 www.google.com</li>
 </ul>
