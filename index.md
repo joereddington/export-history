@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5994)</li>
-<li>mail.google.com (5125)</li>
-<li>www.google.com (4714)</li>
+<ol><li>www.reddit.com (5993)</li>
+<li>mail.google.com (5121)</li>
+<li>www.google.com (4709)</li>
 <li>duckduckgo.com (4077)</li>
-<li>outlook.office365.com (4019)</li>
+<li>outlook.office365.com (4014)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3001)</li>
-<li>www.linkedin.com (2352)</li>
+<li>chatgpt.com (3000)</li>
+<li>www.linkedin.com (2351)</li>
 <li>moodle.royalholloway.ac.uk (1895)</li>
-<li>bsky.app (1794)</li>
+<li>bsky.app (1785)</li>
 <li>www.facebook.com (1613)</li>
 <li>login.microsoftonline.com (1583)</li>
 <li>calendar.google.com (1534)</li>
-<li>chat.openai.com (1385)</li>
+<li>chat.openai.com (1384)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1230)</li>
-<li>web.whatsapp.com (1083)</li>
+<li>web.whatsapp.com (1082)</li>
 <li>gmail.com (1081)</li>
-<li>mail.rhul.ac.uk (906)</li>
+<li>mail.rhul.ac.uk (904)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (826)</li>
@@ -124237,43 +124237,4 @@ With number of accesses/minutes in parentheses
 <li> 16:55 outlook.office365.com</li>
 <li> 16:55 mail.rhul.ac.uk</li>
 <li> 16:54 bsky.app</li>
-<li class='same'> 16:53 bsky.app</li>
-<li class='same'> 16:50 bsky.app</li>
-<li> 16:49 <a href="https://en.wikipedia.org/wiki/Tequila">Tequila - Wikipedia</a></li>
-<li> 16:49 www.google.com</li>
-<li> 16:49 bsky.app</li>
-<li class='same'> 16:48 bsky.app</li>
-<li> 16:42 outlook.office365.com</li>
-<li class='same'> 16:41 outlook.office365.com</li>
-<li class='same'> 16:40 outlook.office365.com</li>
-<li> 16:40 mail.rhul.ac.uk</li>
-<li> 16:36 www.linkedin.com</li>
-<li> 16:35 mail.google.com</li>
-<li> 16:35 softwareengineering.stackexchange.com</li>
-<li class='same'> 16:19 softwareengineering.stackexchange.com</li>
-<li> 16:19 www.google.com</li>
-<li> 16:18 chatgpt.com</li>
-<li> 16:18 chat.openai.com</li>
-<li> 16:17 projects.cs.rhul.ac.uk</li>
-<li> 16:16 outlook.office365.com</li>
-<li> 16:16 bsky.app</li>
-<li> 16:15 outlook.office365.com</li>
-<li> 16:15 mail.rhul.ac.uk</li>
-<li> 16:01 bsky.app</li>
-<li> 16:00 <a href="https://en.wikipedia.org/wiki/Beowulf_%26_Grendel">Beowulf &amp; Grendel - Wikipedia</a></li>
-<li> 15:59 <a href="https://en.wikipedia.org/wiki/Rory_McCann">Rory McCann - Wikipedia</a></li>
-<li> 15:59 www.google.com</li>
-<li> 15:58 www.reddit.com</li>
-<li> 15:57 www.google.com</li>
-<li> 15:57 bsky.app</li>
-<li class='same'> 15:56 bsky.app</li>
-<li class='same'> 15:55 bsky.app</li>
-<li> 15:55 mail.google.com</li>
-<li> 15:55 web.whatsapp.com</li>
-<li> 15:54 fightingfilms.com</li>
-<li class='same'> 15:53 fightingfilms.com</li>
-<li> 15:53 www.fightingfilms.com</li>
-<li> 15:53 www.google.com</li>
-<li> 15:53 mail.google.com</li>
-<li class='same'> 15:50 mail.google.com</li>
 </ul>
