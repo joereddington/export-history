@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5993)</li>
 <li>mail.google.com (5120)</li>
 <li>www.google.com (4705)</li>
-<li>duckduckgo.com (4078)</li>
-<li>outlook.office365.com (4008)</li>
+<li>duckduckgo.com (4079)</li>
+<li>outlook.office365.com (4005)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3000)</li>
 <li>www.linkedin.com (2352)</li>
-<li>moodle.royalholloway.ac.uk (1900)</li>
-<li>bsky.app (1779)</li>
+<li>moodle.royalholloway.ac.uk (1902)</li>
+<li>bsky.app (1782)</li>
 <li>www.facebook.com (1613)</li>
 <li>login.microsoftonline.com (1585)</li>
 <li>calendar.google.com (1535)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1081)</li>
 <li>web.whatsapp.com (1081)</li>
-<li>mail.rhul.ac.uk (902)</li>
+<li>mail.rhul.ac.uk (901)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (825)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:19 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 10:56 bsky.app</li>
+<li class='same'> 10:55 bsky.app</li>
+<li class='same'> 10:54 bsky.app</li>
+<li class='same'> 10:53 bsky.app</li>
+<li> 10:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:32 moodle.royalholloway.ac.uk</li>
+<li> 10:31 www.instagram.com</li>
+<li class='same'> 10:30 www.instagram.com</li>
+<li> 10:30 www.su.rhul.ac.uk</li>
+<li> 10:30 duckduckgo.com</li>
+<li> 10:23 www.royalholloway.ac.uk</li>
+<li> 10:19 webtimetables.royalholloway.ac.uk</li>
 <li> 09:51 www.linkedin.com</li>
 <li class='same'> 09:50 www.linkedin.com</li>
 <li> 09:38 chatgpt.com</li>
@@ -124194,28 +124205,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:53 bsky.app</li>
 <li> 10:53 www.linkedin.com</li>
 <li class='same'> 10:52 www.linkedin.com</li>
-<li> 10:46 bsky.app</li>
-<li> 10:46 outlook.office365.com</li>
-<li class='same'> 10:45 outlook.office365.com</li>
-<li class='same'> 10:44 outlook.office365.com</li>
-<li> 10:44 mail.rhul.ac.uk</li>
-</ul>
-
-<H3>Thursday, 21/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:10 www.nytimes.com</li>
-<li> 20:10 clearsky.app</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 18:59 clearsky.app</li>
-<li class='same'> 18:58 clearsky.app</li>
-<li class='same'> 18:57 clearsky.app</li>
 </ul>
