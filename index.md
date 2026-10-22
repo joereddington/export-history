@@ -70,28 +70,28 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5993)</li>
 <li>mail.google.com (5120)</li>
-<li>www.google.com (4706)</li>
+<li>www.google.com (4705)</li>
 <li>duckduckgo.com (4078)</li>
-<li>outlook.office365.com (4010)</li>
+<li>outlook.office365.com (4008)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (2999)</li>
-<li>www.linkedin.com (2350)</li>
+<li>chatgpt.com (3000)</li>
+<li>www.linkedin.com (2352)</li>
 <li>moodle.royalholloway.ac.uk (1900)</li>
-<li>bsky.app (1783)</li>
+<li>bsky.app (1779)</li>
 <li>www.facebook.com (1613)</li>
 <li>login.microsoftonline.com (1585)</li>
-<li>calendar.google.com (1534)</li>
+<li>calendar.google.com (1535)</li>
 <li>chat.openai.com (1383)</li>
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1081)</li>
 <li>web.whatsapp.com (1081)</li>
-<li>mail.rhul.ac.uk (903)</li>
+<li>mail.rhul.ac.uk (902)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (861)</li>
-<li>rhul-my.sharepoint.com (826)</li>
-<li>forms.office.com (741)</li>
+<li>rhul-my.sharepoint.com (825)</li>
+<li>forms.office.com (740)</li>
 <li>rhul.sharepoint.com (658)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:27 moodle.royalholloway.ac.uk</li>
+<ul><li> 09:51 www.linkedin.com</li>
+<li class='same'> 09:50 www.linkedin.com</li>
+<li> 09:38 chatgpt.com</li>
+<li> 09:30 calendar.google.com</li>
+<li> 09:27 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:26 moodle.royalholloway.ac.uk</li>
 <li> 09:13 duckduckgo.com</li>
 <li> 09:12 moodle.royalholloway.ac.uk</li>
@@ -124213,19 +124217,4 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 18:59 clearsky.app</li>
 <li class='same'> 18:58 clearsky.app</li>
 <li class='same'> 18:57 clearsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 17:56 forms.office.com</li>
-<li> 17:56 bsky.app</li>
-<li class='same'> 17:55 bsky.app</li>
-<li> 17:55 www.google.com</li>
-<li> 17:55 bsky.app</li>
-<li class='same'> 17:54 bsky.app</li>
-<li> 17:53 outlook.office365.com</li>
-<li> 17:53 mail.rhul.ac.uk</li>
-<li> 17:50 www.giantitp.com</li>
-<li> 17:45 outlook.office365.com</li>
-<li> 17:44 rhul-my.sharepoint.com</li>
 </ul>
