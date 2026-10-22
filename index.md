@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5994)</li>
 <li>mail.google.com (5125)</li>
-<li>www.google.com (4715)</li>
+<li>www.google.com (4714)</li>
 <li>duckduckgo.com (4077)</li>
-<li>outlook.office365.com (4021)</li>
+<li>outlook.office365.com (4019)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3001)</li>
-<li>www.linkedin.com (2354)</li>
-<li>moodle.royalholloway.ac.uk (1897)</li>
-<li>bsky.app (1798)</li>
+<li>www.linkedin.com (2352)</li>
+<li>moodle.royalholloway.ac.uk (1895)</li>
+<li>bsky.app (1794)</li>
 <li>www.facebook.com (1613)</li>
 <li>login.microsoftonline.com (1583)</li>
 <li>calendar.google.com (1534)</li>
@@ -86,8 +86,8 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1316)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1083)</li>
-<li>gmail.com (1082)</li>
-<li>mail.rhul.ac.uk (907)</li>
+<li>gmail.com (1081)</li>
+<li>mail.rhul.ac.uk (906)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (826)</li>
@@ -124276,25 +124276,4 @@ With number of accesses/minutes in parentheses
 <li> 15:53 www.google.com</li>
 <li> 15:53 mail.google.com</li>
 <li class='same'> 15:50 mail.google.com</li>
-<li> 15:50 gmail.com</li>
-<li> 15:49 www.linkedin.com</li>
-<li> 15:49 bsky.app</li>
-<li class='same'> 15:48 bsky.app</li>
-<li class='same'> 15:47 bsky.app</li>
-<li class='same'> 15:46 bsky.app</li>
-<li> 15:46 www.linkedin.com</li>
-<li> 15:45 projects.cs.rhul.ac.uk</li>
-<li> 15:22 outlook.office365.com</li>
-<li> 15:22 mail.rhul.ac.uk</li>
-<li> 15:14 projects.cs.rhul.ac.uk</li>
-<li class='same'> 15:10 projects.cs.rhul.ac.uk</li>
-<li> 15:08 gitlab.cim.rhul.ac.uk</li>
-<li class='same'> 15:07 gitlab.cim.rhul.ac.uk</li>
-<li> 15:07 projects.cs.rhul.ac.uk</li>
-<li> 15:04 outlook.office365.com</li>
-<li> 14:59 projects.cs.rhul.ac.uk</li>
-<li> 14:59 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:58 moodle.royalholloway.ac.uk</li>
-<li> 14:58 www.google.com</li>
-<li> 14:58 gitlab.cim.rhul.ac.uk</li>
 </ul>
