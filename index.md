@@ -69,29 +69,29 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5993)</li>
-<li>mail.google.com (5115)</li>
+<li>mail.google.com (5111)</li>
 <li>www.google.com (4694)</li>
-<li>duckduckgo.com (4085)</li>
-<li>outlook.office365.com (3987)</li>
+<li>duckduckgo.com (4088)</li>
+<li>outlook.office365.com (3985)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3002)</li>
-<li>www.linkedin.com (2360)</li>
+<li>chatgpt.com (3000)</li>
+<li>www.linkedin.com (2362)</li>
 <li>moodle.royalholloway.ac.uk (1912)</li>
-<li>bsky.app (1784)</li>
+<li>bsky.app (1786)</li>
 <li>www.facebook.com (1611)</li>
 <li>login.microsoftonline.com (1599)</li>
-<li>calendar.google.com (1535)</li>
-<li>chat.openai.com (1384)</li>
+<li>calendar.google.com (1533)</li>
+<li>chat.openai.com (1383)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1079)</li>
+<li>gmail.com (1078)</li>
 <li>web.whatsapp.com (1078)</li>
 <li>mail.rhul.ac.uk (896)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (822)</li>
-<li>forms.office.com (738)</li>
+<li>forms.office.com (737)</li>
 <li>rhul.sharepoint.com (660)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:51 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 17:09 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:05 bsky.app</li>
+<li> 17:04 duckduckgo.com</li>
+<li class='same'> 17:03 duckduckgo.com</li>
+<li> 17:02 bsky.app</li>
+<li> 17:02 www.linkedin.com</li>
+<li class='same'> 17:01 www.linkedin.com</li>
+<li> 17:01 duckduckgo.com</li>
+<li> 16:51 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:50 localhost:8443</li>
 <li class='same'> 16:49 localhost:8443</li>
 <li> 16:39 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -124231,22 +124239,4 @@ With number of accesses/minutes in parentheses
 <li> 17:46 mail.rhul.ac.uk</li>
 <li> 17:45 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:30 forms.office.com</li>
-<li class='same'> 17:29 forms.office.com</li>
-<li> 17:28 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:28 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 17:28 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:28 experience.elluciancloud.ie</li>
-<li> 17:28 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 17:27 chatgpt.com</li>
-<li class='same'> 17:26 chatgpt.com</li>
-<li> 17:26 chat.openai.com</li>
-<li> 17:26 mail.google.com</li>
-<li> 17:26 calendar.google.com</li>
-<li class='same'> 17:25 calendar.google.com</li>
-<li> 17:25 mail.google.com</li>
-<li class='same'> 17:24 mail.google.com</li>
-<li class='same'> 17:23 mail.google.com</li>
-<li> 17:23 gmail.com</li>
-<li> 17:23 outlook.office365.com</li>
-<li class='same'> 17:22 outlook.office365.com</li>
 </ul>
