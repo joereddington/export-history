@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (738)</li>
-<li>rhul.sharepoint.com (657)</li>
+<li>rhul.sharepoint.com (658)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (472)</li>
@@ -104,11 +104,33 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 23/10/26</H3>
+
+<br>
+
+<ul><li> 10:29 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 10:28 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 10:27 fyp.cs.rhul.ac.uk</li>
+<li> 10:22 rhul.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:39 192.168.178.1</li>
+<li class='same'> 08:38 192.168.178.1</li>
+</ul>
+
 <H3>Thursday, 22/10/26</H3>
 
 <br>
 
-<ul><li> 20:19 login.microsoftonline.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:19 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 20:19 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 20:19 login.microsoftonline.com</li>
 <li> 20:19 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 20:19 eis-prod.ec.royalholloway.ac.uk</li>
 </ul>
