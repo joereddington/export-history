@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5993)</li>
 <li>mail.google.com (5116)</li>
 <li>www.google.com (4694)</li>
-<li>duckduckgo.com (4084)</li>
+<li>duckduckgo.com (4085)</li>
 <li>outlook.office365.com (3989)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3002)</li>
-<li>www.linkedin.com (2353)</li>
-<li>moodle.royalholloway.ac.uk (1909)</li>
-<li>bsky.app (1779)</li>
+<li>chatgpt.com (3004)</li>
+<li>www.linkedin.com (2360)</li>
+<li>moodle.royalholloway.ac.uk (1910)</li>
+<li>bsky.app (1785)</li>
 <li>www.facebook.com (1611)</li>
 <li>login.microsoftonline.com (1597)</li>
 <li>calendar.google.com (1535)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:59 bsky.app</li>
+<ul><li> 12:25 moodle.royalholloway.ac.uk</li>
+<li> 12:24 rhul.hosted.panopto.com</li>
+<li> 12:23 www.linkedin.com</li>
+<li> 12:22 bsky.app</li>
+<li class='same'> 12:21 bsky.app</li>
+<li> 12:19 www.linkedin.com</li>
+<li class='same'> 12:18 www.linkedin.com</li>
+<li> 12:17 bsky.app</li>
+<li class='same'> 12:12 bsky.app</li>
+<li class='same'> 12:09 bsky.app</li>
+<li> 12:08 www.linkedin.com</li>
+<li> 12:07 cdn.bsky.app</li>
+<li> 12:05 www.linkedin.com</li>
+<li> 12:05 chatgpt.com</li>
+<li class='same'> 12:04 chatgpt.com</li>
+<li> 12:04 duckduckgo.com</li>
+<li> 12:02 www.linkedin.com</li>
+<li class='same'> 12:01 www.linkedin.com</li>
+<li> 12:01 bsky.app</li>
+<li class='same'> 11:59 bsky.app</li>
 <li class='same'> 11:51 bsky.app</li>
 <li class='same'> 11:49 bsky.app</li>
 <li class='same'> 11:46 bsky.app</li>
@@ -124205,5 +124224,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:03 chatgpt.com</li>
 <li> 17:03 chat.openai.com</li>
 <li> 17:02 clearsky.app</li>
-<li class='same'> 17:01 clearsky.app</li>
 </ul>
