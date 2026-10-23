@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1912)</li>
 <li>bsky.app (1784)</li>
 <li>www.facebook.com (1611)</li>
-<li>login.microsoftonline.com (1597)</li>
+<li>login.microsoftonline.com (1599)</li>
 <li>calendar.google.com (1535)</li>
 <li>chat.openai.com (1384)</li>
 <li>www.amazon.co.uk (1315)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (738)</li>
-<li>rhul.sharepoint.com (659)</li>
+<li>rhul.sharepoint.com (660)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (472)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 23/10/26</H3>
+
+<br>
+
+<ul><li> 16:14 login.microsoftonline.com</li>
+<li> 16:14 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:14 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:14 login.microsoftonline.com</li>
+<li> 16:14 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:14 device.login.microsoftonline.com</li>
+<li> 16:14 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:13 dashboards.rhul.ac.uk</li>
+<li> 16:03 rhul.sharepoint.com</li>
+</ul>
 
 <br>
 
