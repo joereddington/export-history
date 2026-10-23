@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5993)</li>
 <li>mail.google.com (5116)</li>
-<li>www.google.com (4693)</li>
-<li>duckduckgo.com (4081)</li>
+<li>www.google.com (4694)</li>
+<li>duckduckgo.com (4084)</li>
 <li>outlook.office365.com (3989)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3001)</li>
+<li>chatgpt.com (3002)</li>
 <li>www.linkedin.com (2351)</li>
-<li>moodle.royalholloway.ac.uk (1908)</li>
+<li>moodle.royalholloway.ac.uk (1909)</li>
 <li>bsky.app (1770)</li>
 <li>www.facebook.com (1611)</li>
 <li>login.microsoftonline.com (1597)</li>
 <li>calendar.google.com (1535)</li>
-<li>chat.openai.com (1383)</li>
+<li>chat.openai.com (1384)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1079)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:56 moodle.royalholloway.ac.uk</li>
+<ul><li> 11:25 www.google.com</li>
+<li> 11:23 iet.open.ac.uk</li>
+<li> 11:23 duckduckgo.com</li>
+<li class='same'> 11:22 duckduckgo.com</li>
+<li> 11:22 chatgpt.com</li>
+<li> 11:22 chat.openai.com</li>
+<li> 11:21 duckduckgo.com</li>
+<li> 11:11 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 11:09 fyp.cs.rhul.ac.uk</li>
+<li> 11:09 moodle.royalholloway.ac.uk</li>
+<li> 10:59 fyp.cs.rhul.ac.uk</li>
+<li> 10:56 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:55 moodle.royalholloway.ac.uk</li>
 <li> 10:53 rhul.sharepoint.com</li>
 <li> 10:50 bsky.app</li>
