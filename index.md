@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3989)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (2999)</li>
+<li>chatgpt.com (3001)</li>
 <li>www.linkedin.com (2349)</li>
 <li>moodle.royalholloway.ac.uk (1904)</li>
 <li>bsky.app (1764)</li>
 <li>www.facebook.com (1611)</li>
-<li>login.microsoftonline.com (1591)</li>
+<li>login.microsoftonline.com (1594)</li>
 <li>calendar.google.com (1535)</li>
-<li>chat.openai.com (1382)</li>
+<li>chat.openai.com (1383)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1079)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:29 login.microsoftonline.com</li>
+<ul><li> 20:19 login.microsoftonline.com</li>
+<li> 20:19 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 20:19 eis-prod.ec.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 19:43 localhost:8443</li>
+<li class='same'> 19:41 localhost:8443</li>
+<li> 19:37 chatgpt.com</li>
+<li class='same'> 19:36 chatgpt.com</li>
+<li> 19:36 chat.openai.com</li>
+<li> 19:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 19:32 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 19:32 login.microsoftonline.com</li>
+<li class='same'> 19:29 login.microsoftonline.com</li>
+<li> 19:29 device.login.microsoftonline.com</li>
+<li> 19:29 login.microsoftonline.com</li>
 <li> 19:29 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 19:29 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 19:29 login.microsoftonline.com</li>
