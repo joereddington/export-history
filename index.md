@@ -76,14 +76,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3001)</li>
-<li>www.linkedin.com (2349)</li>
-<li>moodle.royalholloway.ac.uk (1904)</li>
-<li>bsky.app (1764)</li>
+<li>www.linkedin.com (2351)</li>
+<li>moodle.royalholloway.ac.uk (1908)</li>
+<li>bsky.app (1770)</li>
 <li>www.facebook.com (1611)</li>
-<li>login.microsoftonline.com (1594)</li>
+<li>login.microsoftonline.com (1597)</li>
 <li>calendar.google.com (1535)</li>
 <li>chat.openai.com (1383)</li>
-<li>www.amazon.co.uk (1314)</li>
+<li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1079)</li>
 <li>web.whatsapp.com (1078)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (738)</li>
-<li>rhul.sharepoint.com (658)</li>
+<li>rhul.sharepoint.com (659)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (472)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 fyp.cs.rhul.ac.uk</li>
+<ul><li> 10:56 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:55 moodle.royalholloway.ac.uk</li>
+<li> 10:53 rhul.sharepoint.com</li>
+<li> 10:50 bsky.app</li>
+<li class='same'> 10:49 bsky.app</li>
+<li class='same'> 10:47 bsky.app</li>
+<li class='same'> 10:46 bsky.app</li>
+<li class='same'> 10:45 bsky.app</li>
+<li class='same'> 10:40 bsky.app</li>
+<li> 10:40 www.linkedin.com</li>
+<li class='same'> 10:38 www.linkedin.com</li>
+<li> 10:38 lnkd.in</li>
+<li> 10:34 www.amazon.co.uk</li>
+<li> 10:30 moodle.royalholloway.ac.uk</li>
+<li> 10:30 login.microsoftonline.com</li>
+<li> 10:30 device.login.microsoftonline.com</li>
+<li> 10:30 login.microsoftonline.com</li>
+<li class='same'> 10:29 login.microsoftonline.com</li>
+<li> 10:29 moodle.royalholloway.ac.uk</li>
+<li> 10:29 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 10:28 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 10:27 fyp.cs.rhul.ac.uk</li>
 <li> 10:22 rhul.sharepoint.com</li>
