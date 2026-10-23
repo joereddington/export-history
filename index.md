@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5993)</li>
-<li>mail.google.com (5116)</li>
+<li>mail.google.com (5115)</li>
 <li>www.google.com (4694)</li>
 <li>duckduckgo.com (4085)</li>
 <li>outlook.office365.com (3989)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3004)</li>
+<li>chatgpt.com (3005)</li>
 <li>www.linkedin.com (2360)</li>
 <li>moodle.royalholloway.ac.uk (1910)</li>
 <li>bsky.app (1785)</li>
 <li>www.facebook.com (1611)</li>
 <li>login.microsoftonline.com (1597)</li>
 <li>calendar.google.com (1535)</li>
-<li>chat.openai.com (1384)</li>
+<li>chat.openai.com (1385)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1079)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 23/10/26</H3>
+
+<br>
+
+<ul><li> 12:58 chatgpt.com</li>
+<li> 12:58 chat.openai.com</li>
+</ul>
 
 <br>
 
@@ -12955,8 +12961,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:40 mail.google.com</li>
 <li class='same'> 17:34 mail.google.com</li>
-<li> 17:34 mail-attachment.googleusercontent.com</li>
-<li> 17:34 mail.google.com</li>
 <li> 17:34 chatgpt.com</li>
 <li> 17:34 chat.openai.com</li>
 <li> 17:34 mail.google.com</li>
