@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3002)</li>
-<li>www.linkedin.com (2351)</li>
+<li>www.linkedin.com (2353)</li>
 <li>moodle.royalholloway.ac.uk (1909)</li>
-<li>bsky.app (1770)</li>
+<li>bsky.app (1779)</li>
 <li>www.facebook.com (1611)</li>
 <li>login.microsoftonline.com (1597)</li>
 <li>calendar.google.com (1535)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:25 www.google.com</li>
+<ul><li> 11:59 bsky.app</li>
+<li class='same'> 11:51 bsky.app</li>
+<li class='same'> 11:49 bsky.app</li>
+<li class='same'> 11:46 bsky.app</li>
+<li class='same'> 11:45 bsky.app</li>
+<li class='same'> 11:44 bsky.app</li>
+<li class='same'> 11:43 bsky.app</li>
+<li class='same'> 11:41 bsky.app</li>
+<li class='same'> 11:40 bsky.app</li>
+<li> 11:40 www.linkedin.com</li>
+<li class='same'> 11:39 www.linkedin.com</li>
+<li> 11:33 link.springer.com</li>
+<li> 11:33 eur03.safelinks.protection.outlook.com</li>
+<li> 11:33 doi.org</li>
+<li> 11:25 www.met.police.uk</li>
+<li> 11:25 www.google.com</li>
 <li> 11:23 iet.open.ac.uk</li>
 <li> 11:23 duckduckgo.com</li>
 <li class='same'> 11:22 duckduckgo.com</li>
