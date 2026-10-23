@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5992)</li>
-<li>mail.google.com (5111)</li>
+<li>mail.google.com (5110)</li>
 <li>www.google.com (4694)</li>
 <li>duckduckgo.com (4088)</li>
 <li>outlook.office365.com (3979)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3002)</li>
+<li>chatgpt.com (3003)</li>
 <li>www.linkedin.com (2359)</li>
-<li>moodle.royalholloway.ac.uk (1917)</li>
+<li>moodle.royalholloway.ac.uk (1918)</li>
 <li>bsky.app (1786)</li>
-<li>www.facebook.com (1610)</li>
-<li>login.microsoftonline.com (1602)</li>
+<li>www.facebook.com (1612)</li>
+<li>login.microsoftonline.com (1603)</li>
 <li>calendar.google.com (1533)</li>
-<li>chat.openai.com (1384)</li>
+<li>chat.openai.com (1385)</li>
 <li>www.amazon.co.uk (1315)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1078)</li>
 <li>web.whatsapp.com (1078)</li>
+<li>gmail.com (1077)</li>
 <li>mail.rhul.ac.uk (893)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (660)</li>
+<li>rhul.sharepoint.com (662)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:15 ev.turnitinuk.com</li>
+<ul><li> 18:54 www.facebook.com</li>
+<li class='same'> 18:50 www.facebook.com</li>
+<li> 18:50 facebook.com</li>
+<li> 18:47 chatgpt.com</li>
+<li> 18:47 chat.openai.com</li>
+<li> 18:43 moodle.royalholloway.ac.uk</li>
+<li> 18:34 dashboards.rhul.ac.uk</li>
+<li> 18:31 rhul.sharepoint.com</li>
+<li> 18:31 login.microsoftonline.com</li>
+<li> 18:31 device.login.microsoftonline.com</li>
+<li> 18:31 rhul.sharepoint.com</li>
+<li> 18:15 ev.turnitinuk.com</li>
 <li> 18:15 api.turnitinuk.com</li>
 <li> 18:14 moodle.royalholloway.ac.uk</li>
 <li class='same'> 18:13 moodle.royalholloway.ac.uk</li>
@@ -124199,13 +124210,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:48 bsky.app</li>
 <li> 18:47 mail.google.com</li>
 <li> 18:47 gmail.com</li>
-<li> 18:47 mail.google.com</li>
-<li> 18:47 gmail.com</li>
-<li> 18:45 whitewaterwriters.com</li>
-<li> 18:45 equalitytime.github.io</li>
-<li> 18:45 www.whitewaterwriters.com</li>
-<li> 18:45 whitewaterwriters.com</li>
-<li> 18:45 equalitytime.github.io</li>
-<li> 18:45 www.whitewaterwriters.com</li>
-<li> 18:45 github.com</li>
 </ul>
