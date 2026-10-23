@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5993)</li>
+<ol><li>www.reddit.com (5992)</li>
 <li>mail.google.com (5111)</li>
 <li>www.google.com (4694)</li>
 <li>duckduckgo.com (4088)</li>
@@ -76,11 +76,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3002)</li>
-<li>www.linkedin.com (2360)</li>
-<li>moodle.royalholloway.ac.uk (1912)</li>
-<li>bsky.app (1785)</li>
-<li>www.facebook.com (1611)</li>
-<li>login.microsoftonline.com (1601)</li>
+<li>www.linkedin.com (2359)</li>
+<li>moodle.royalholloway.ac.uk (1917)</li>
+<li>bsky.app (1786)</li>
+<li>www.facebook.com (1610)</li>
+<li>login.microsoftonline.com (1602)</li>
 <li>calendar.google.com (1533)</li>
 <li>chat.openai.com (1384)</li>
 <li>www.amazon.co.uk (1315)</li>
@@ -89,13 +89,13 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (1078)</li>
 <li>mail.rhul.ac.uk (893)</li>
 <li>tvtropes.org (866)</li>
-<li>feedly.com (861)</li>
+<li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (660)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
-<li>ev.turnitinuk.com (472)</li>
+<li>ev.turnitinuk.com (473)</li>
 <li>www.theguardian.com (462)</li>
 <li>adfs.herts.ac.uk (455)</li>
 
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 17:58 bsky.app</li>
+<ul><li> 18:15 ev.turnitinuk.com</li>
+<li> 18:15 api.turnitinuk.com</li>
+<li> 18:14 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:13 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:09 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:08 moodle.royalholloway.ac.uk</li>
+<li> 18:08 login.microsoftonline.com</li>
+<li> 18:08 device.login.microsoftonline.com</li>
+<li> 18:08 moodle.royalholloway.ac.uk</li>
+<li> 18:05 bsky.app</li>
+<li class='same'> 18:04 bsky.app</li>
+<li class='same'> 17:58 bsky.app</li>
 <li> 17:55 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:55 login.microsoftonline.com</li>
 <li> 17:55 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -124197,42 +124208,4 @@ With number of accesses/minutes in parentheses
 <li> 18:45 equalitytime.github.io</li>
 <li> 18:45 www.whitewaterwriters.com</li>
 <li> 18:45 github.com</li>
-<li> 18:44 whitewaterwriters.com</li>
-<li> 18:44 equalitytime.github.io</li>
-<li> 18:44 www.whitewaterwriters.com</li>
-<li> 18:44 whitewaterwriters.com</li>
-<li> 18:44 equalitytime.github.io</li>
-<li> 18:44 www.whitewaterwriters.com</li>
-<li> 18:44 github.com</li>
-<li> 18:44 whitewaterwriters.com</li>
-<li> 18:44 equalitytime.github.io</li>
-<li> 18:44 www.whitewaterwriters.com</li>
-<li> 18:43 whitewaterwriters.com</li>
-<li> 18:43 equalitytime.github.io</li>
-<li> 18:43 www.whitewaterwriters.com</li>
-<li> 18:43 whitewaterwriters.com</li>
-<li> 18:43 www.whitewaterwriters.com</li>
-<li> 18:43 whitewaterwriters.com</li>
-<li> 18:43 equalitytime.github.io</li>
-<li> 18:43 www.whitewaterwriters.com</li>
-<li> 18:43 whitewaterwriters.com</li>
-<li> 18:43 equalitytime.github.io</li>
-<li> 18:43 www.whitewaterwriters.com</li>
-<li> 18:43 github.com</li>
-<li> 18:43 www.whitewaterwriters.com</li>
-<li> 18:43 whitewaterwriters.com</li>
-<li> 18:43 equalitytime.github.io</li>
-<li> 18:43 www.whitewaterwriters.com</li>
-<li> 18:42 whitewaterwriters.com</li>
-<li> 18:42 www.whitewaterwriters.com</li>
-<li> 18:42 github.com</li>
-<li class='same'> 18:41 github.com</li>
-<li> 18:38 equalitytime.github.io</li>
-<li> 18:38 theopenvoicefactory.org</li>
-<li> 18:38 github.com</li>
-<li> 18:33 www.facebook.com</li>
-<li> 18:31 feedly.com</li>
-<li> 18:31 www.linkedin.com</li>
-<li> 18:30 www.reddit.com</li>
-<li> 18:28 bsky.app</li>
 </ul>
