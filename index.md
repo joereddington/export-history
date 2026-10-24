@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5992)</li>
-<li>mail.google.com (5110)</li>
-<li>www.google.com (4694)</li>
-<li>duckduckgo.com (4088)</li>
-<li>outlook.office365.com (3979)</li>
+<li>mail.google.com (5108)</li>
+<li>www.google.com (4690)</li>
+<li>duckduckgo.com (4089)</li>
+<li>outlook.office365.com (3980)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3003)</li>
-<li>www.linkedin.com (2359)</li>
+<li>chatgpt.com (3002)</li>
+<li>www.linkedin.com (2362)</li>
 <li>moodle.royalholloway.ac.uk (1918)</li>
-<li>bsky.app (1786)</li>
+<li>bsky.app (1785)</li>
 <li>www.facebook.com (1612)</li>
-<li>login.microsoftonline.com (1603)</li>
+<li>login.microsoftonline.com (1604)</li>
 <li>calendar.google.com (1533)</li>
-<li>chat.openai.com (1385)</li>
-<li>www.amazon.co.uk (1315)</li>
+<li>chat.openai.com (1384)</li>
+<li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1078)</li>
-<li>gmail.com (1077)</li>
-<li>mail.rhul.ac.uk (893)</li>
+<li>gmail.com (1076)</li>
+<li>mail.rhul.ac.uk (894)</li>
 <li>tvtropes.org (866)</li>
 <li>feedly.com (860)</li>
-<li>rhul-my.sharepoint.com (822)</li>
+<li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (662)</li>
+<li>rhul.sharepoint.com (658)</li>
 <li>fritz.box (590)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -104,11 +104,50 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 24/10/26</H3>
+
+<br>
+
+<ul><li> 06:38 192.168.178.1</li>
+<li class='same'> 06:35 192.168.178.1</li>
+<li class='same'> 06:34 192.168.178.1</li>
+<li class='same'> 06:33 192.168.178.1</li>
+</ul>
+
 <H3>Friday, 23/10/26</H3>
 
 <br>
 
-<ul><li> 18:54 www.facebook.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 22:40 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 21:27 192.168.178.1</li>
+<li class='same'> 21:26 192.168.178.1</li>
+<li class='same'> 21:25 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 19:08 www.linkedin.com</li>
+<li> 19:08 <a href="https://en.wikipedia.org/wiki/Admiral_Ackbar"></a></li>
+<li> 19:07 duckduckgo.com</li>
+<li> 19:05 bsky.app</li>
+<li> 19:05 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(118) Super star destroyer crash and death star destroy - YouTube</a></li>
+<li> 19:04 outlook.cloud.microsoft</li>
+<li> 19:04 device.login.microsoftonline.com</li>
+<li> 19:04 login.microsoftonline.com</li>
+<li> 19:04 outlook.office365.com</li>
+<li> 19:04 outlook.cloud.microsoft</li>
+<li> 19:04 mail.rhul.ac.uk</li>
+<li> 19:04 www.linkedin.com</li>
+<li class='same'> 19:03 www.linkedin.com</li>
+<li> 18:54 www.facebook.com</li>
 <li class='same'> 18:50 www.facebook.com</li>
 <li> 18:50 facebook.com</li>
 <li> 18:47 chatgpt.com</li>
@@ -1337,7 +1376,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:42 192.168.178.1</li>
 <li> 17:20 www.facebook.com</li>
 <li> 17:20 facebook.com</li>
-<li> 17:17 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(111) Super star destroyer crash and death star destroy - YouTube</a></li>
+<li> 17:17 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(118) Super star destroyer crash and death star destroy - YouTube</a></li>
 <li> 17:13 calendar.google.com</li>
 <li> 17:13 moodle.royalholloway.ac.uk</li>
 <li class='same'> 17:11 moodle.royalholloway.ac.uk</li>
@@ -12982,8 +13021,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:16 www.amazon.co.uk</li>
-<li> 08:16 everyonetheatres.com</li>
+<ul><li> 08:16 everyonetheatres.com</li>
 <li class='same'> 08:02 everyonetheatres.com</li>
 <li> 08:02 www.google.com</li>
 <li> 08:02 www.activeluton.co.uk</li>
@@ -14864,7 +14902,7 @@ With number of accesses/minutes in parentheses
 <li> 17:35 www.thedailymash.co.uk</li>
 <li> 17:35 www.giantitp.com</li>
 <li> 17:35 www.linkedin.com</li>
-<li> 17:32 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(111) Super star destroyer crash and death star destroy - YouTube</a></li>
+<li> 17:32 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(118) Super star destroyer crash and death star destroy - YouTube</a></li>
 <li> 17:32 chatgpt.com</li>
 <li class='same'> 17:31 chatgpt.com</li>
 <li> 17:24 www.linkedin.com</li>
@@ -18520,7 +18558,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:03 www.thedailymash.co.uk</li>
 <li> 17:02 www.linkedin.com</li>
 <li class='same'> 16:44 www.linkedin.com</li>
-<li> 16:32 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(111) Super star destroyer crash and death star destroy - YouTube</a></li>
+<li> 16:32 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(118) Super star destroyer crash and death star destroy - YouTube</a></li>
 <li> 16:32 <a href="https://www.youtube.com/results?search_query=concentrate+all+fire+on+that+super+star+destroyer+hd">(191) concentrate all fire on that super star destroyer hd - YouTube</a></li>
 <li> 16:32 <a href="https://www.youtube.com/results?search_query=concentrate+all+fire+on+that+super+star+destroyer">(191) concentrate all fire on that super star destroyer - YouTube</a></li>
 <li> 16:31 <a href="https://www.youtube.com/watch?v=ETFNSVNQqfE">(191) Super Star Destroyer Crash The Death Star II - YouTube</a></li>
@@ -124182,32 +124220,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 23:09 bsky.app</li>
 <li class='same'> 23:07 bsky.app</li>
 <li class='same'> 23:06 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 19:08 chatgpt.com</li>
-<li> 19:08 chat.openai.com</li>
-<li> 19:07 www.researchgate.net</li>
-<li> 19:07 www.google.com</li>
-<li> 19:07 <a href="https://en.wikipedia.org/wiki/Human_security">Human security - Wikipedia</a></li>
-<li> 19:07 www.google.com</li>
-<li> 18:57 rhul.sharepoint.com</li>
-<li class='same'> 18:56 rhul.sharepoint.com</li>
-<li class='same'> 18:55 rhul.sharepoint.com</li>
-<li class='same'> 18:53 rhul.sharepoint.com</li>
-<li> 18:52 rhul-my.sharepoint.com</li>
-<li> 18:51 www.google.com</li>
-<li> 18:51 rhul-my.sharepoint.com</li>
-<li> 18:51 github.com</li>
-<li class='same'> 18:50 github.com</li>
-<li> 18:50 www.google.com</li>
-<li> 18:50 mail.google.com</li>
-<li> 18:49 whitewaterwriters.com</li>
-<li> 18:49 equalitytime.github.io</li>
-<li> 18:49 www.whitewaterwriters.com</li>
-<li> 18:49 bsky.app</li>
-<li class='same'> 18:48 bsky.app</li>
-<li> 18:47 mail.google.com</li>
-<li> 18:47 gmail.com</li>
 </ul>
