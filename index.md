@@ -78,8 +78,8 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (3002)</li>
 <li>www.linkedin.com (2362)</li>
 <li>moodle.royalholloway.ac.uk (1918)</li>
-<li>bsky.app (1785)</li>
-<li>www.facebook.com (1612)</li>
+<li>bsky.app (1788)</li>
+<li>www.facebook.com (1613)</li>
 <li>login.microsoftonline.com (1604)</li>
 <li>calendar.google.com (1533)</li>
 <li>chat.openai.com (1384)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 24/10/26</H3>
+
+<br>
+
+<ul><li> 14:28 www.facebook.com</li>
+<li> 14:28 facebook.com</li>
+<li> 14:27 qmucu.org</li>
+<li class='same'> 14:26 qmucu.org</li>
+<li> 14:26 bsky.app</li>
+<li class='same'> 14:25 bsky.app</li>
+<li> 14:23 go.bsky.app</li>
+<li> 14:23 bylinetimes.com</li>
+<li> 14:17 bsky.app</li>
+</ul>
 
 <br>
 
