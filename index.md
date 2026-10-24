@@ -76,10 +76,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3002)</li>
-<li>www.linkedin.com (2362)</li>
+<li>www.linkedin.com (2365)</li>
 <li>moodle.royalholloway.ac.uk (1918)</li>
-<li>bsky.app (1788)</li>
-<li>www.facebook.com (1613)</li>
+<li>bsky.app (1789)</li>
+<li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1604)</li>
 <li>calendar.google.com (1533)</li>
 <li>chat.openai.com (1384)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1076)</li>
 <li>mail.rhul.ac.uk (894)</li>
 <li>tvtropes.org (866)</li>
-<li>feedly.com (860)</li>
+<li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (658)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:28 www.facebook.com</li>
+<ul><li> 15:59 feedly.com</li>
+<li> 15:58 www.linkedin.com</li>
+<li> 15:57 bsky.app</li>
+<li> 15:55 equalitytime.github.io</li>
+<li> 15:52 bsky.app</li>
+<li> 15:52 www.tandfonline.com</li>
+<li> 15:51 go.bsky.app</li>
+<li> 15:51 bylinetimes.com</li>
+<li> 15:51 bsky.app</li>
+<li> 15:46 theopenvoicefactory.org</li>
+<li> 15:46 code.theopenvoicefactory.org</li>
+<li> 15:45 bsky.app</li>
+<li> 15:45 raw.githubusercontent.com</li>
+<li> 15:45 theopenvoicefactory.org</li>
+<li> 15:40 bsky.app</li>
+<li> 15:38 www.giantitp.com</li>
+<li> 15:37 www.linkedin.com</li>
+<li class='same'> 15:36 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:38 www.facebook.com</li>
+<li class='same'> 14:35 www.facebook.com</li>
+<li class='same'> 14:28 www.facebook.com</li>
 <li> 14:28 facebook.com</li>
 <li> 14:27 qmucu.org</li>
 <li class='same'> 14:26 qmucu.org</li>
@@ -124229,8 +124253,4 @@ With number of accesses/minutes in parentheses
 <li> 23:14 blueskydirectory.com</li>
 <li class='same'> 23:13 blueskydirectory.com</li>
 <li class='same'> 23:12 blueskydirectory.com</li>
-<li> 23:10 bsky.app</li>
-<li class='same'> 23:09 bsky.app</li>
-<li class='same'> 23:07 bsky.app</li>
-<li class='same'> 23:06 bsky.app</li>
 </ul>
