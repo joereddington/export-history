@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5992)</li>
 <li>mail.google.com (5107)</li>
-<li>www.google.com (4690)</li>
+<li>www.google.com (4689)</li>
 <li>duckduckgo.com (4090)</li>
 <li>outlook.office365.com (3980)</li>
 <li>outlook.office.com (3786)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (3002)</li>
 <li>www.linkedin.com (2365)</li>
 <li>moodle.royalholloway.ac.uk (1918)</li>
-<li>bsky.app (1789)</li>
+<li>bsky.app (1778)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1606)</li>
 <li>calendar.google.com (1533)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (1078)</li>
 <li>gmail.com (1076)</li>
 <li>mail.rhul.ac.uk (894)</li>
-<li>tvtropes.org (866)</li>
+<li>tvtropes.org (864)</li>
 <li>feedly.com (861)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (736)</li>
@@ -124228,52 +124228,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 16:04 bsky.social</li>
 <li> 16:04 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:33 graziadaily.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 13:45 graziadaily.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 09:19 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:35 tvtropes.org</li>
-<li class='same'> 08:34 tvtropes.org</li>
-</ul>
-
-<H3>Friday, 22/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 23:23 bsky.app</li>
-<li> 23:23 clearsky.app</li>
-<li> 23:22 bsky.app</li>
-<li class='same'> 23:20 bsky.app</li>
-<li class='same'> 23:19 bsky.app</li>
-<li class='same'> 23:18 bsky.app</li>
-<li class='same'> 23:17 bsky.app</li>
-<li> 23:17 clearsky.app</li>
-<li> 23:17 bsky.app</li>
-<li class='same'> 23:16 bsky.app</li>
-<li> 23:16 blueskydirectory.com</li>
-<li> 23:15 bsky.app</li>
-<li class='same'> 23:14 bsky.app</li>
-<li> 23:14 blueskydirectory.com</li>
-<li> 23:14 bsky.app</li>
-<li> 23:14 blueskydirectory.com</li>
-<li class='same'> 23:13 blueskydirectory.com</li>
 </ul>
