@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5992)</li>
-<li>mail.google.com (5108)</li>
+<li>mail.google.com (5107)</li>
 <li>www.google.com (4690)</li>
-<li>duckduckgo.com (4089)</li>
+<li>duckduckgo.com (4090)</li>
 <li>outlook.office365.com (3980)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1918)</li>
 <li>bsky.app (1789)</li>
 <li>www.facebook.com (1615)</li>
-<li>login.microsoftonline.com (1604)</li>
+<li>login.microsoftonline.com (1606)</li>
 <li>calendar.google.com (1533)</li>
 <li>chat.openai.com (1384)</li>
 <li>www.amazon.co.uk (1314)</li>
@@ -104,7 +104,34 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 26/10/26</H3>
+
+<br>
+
+<ul><li> 14:50 learningonscreen.ac.uk</li>
+<li> 14:49 <a href="https://en.wikipedia.org/wiki/The_Great_British_Sewing_Bee">The Great British Sewing Bee - Wikipedia</a></li>
+<li> 14:49 duckduckgo.com</li>
+<li> 14:49 learningonscreen.ac.uk</li>
+<li> 14:48 login.learningonscreen.ac.uk</li>
+<li> 14:48 learningonscreen.ac.uk</li>
+<li> 14:48 connect.openathens.net</li>
+<li> 14:48 login.openathens.net</li>
+<li> 14:48 login.microsoftonline.com</li>
+<li> 14:48 device.login.microsoftonline.com</li>
+<li> 14:48 login.openathens.net</li>
+<li> 14:48 login.microsoftonline.com</li>
+<li> 14:48 connect.openathens.net</li>
+<li> 14:48 login.learningonscreen.ac.uk</li>
+<li> 14:48 connect.openathens.net</li>
+<li> 14:48 login.learningonscreen.ac.uk</li>
+<li> 14:48 learningonscreen.ac.uk</li>
+</ul>
+
 <H3>Saturday, 24/10/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -12954,16 +12981,13 @@ With number of accesses/minutes in parentheses
 <li> 11:57 mail.google.com</li>
 <li> 11:39 127.0.0.1:4000</li>
 <li> 11:38 chatgpt.com</li>
-<li> 11:37 mail-attachment.googleusercontent.com</li>
-<li> 11:36 chatgpt.com</li>
+<li class='same'> 11:36 chatgpt.com</li>
 <li> 11:36 chat.openai.com</li>
 <li> 11:36 mail.google.com</li>
 <li> 11:36 gmail.com</li>
 <li> 11:36 mail.google.com</li>
 <li class='same'> 11:35 mail.google.com</li>
 <li class='same'> 11:34 mail.google.com</li>
-<li> 11:34 accounts.google.com</li>
-<li> 11:34 mail.google.com</li>
 <li> 11:34 accounts.google.com</li>
 <li> 11:34 gmail.com</li>
 <li> 11:33 qbo.intuit.com</li>
@@ -124252,5 +124276,4 @@ With number of accesses/minutes in parentheses
 <li> 23:14 bsky.app</li>
 <li> 23:14 blueskydirectory.com</li>
 <li class='same'> 23:13 blueskydirectory.com</li>
-<li class='same'> 23:12 blueskydirectory.com</li>
 </ul>
