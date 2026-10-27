@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5988)</li>
-<li>mail.google.com (5118)</li>
-<li>www.google.com (4677)</li>
-<li>duckduckgo.com (4099)</li>
-<li>outlook.office365.com (3977)</li>
-<li>outlook.office.com (3783)</li>
-<li>docs.google.com (3234)</li>
+<li>mail.google.com (5124)</li>
+<li>www.google.com (4662)</li>
+<li>duckduckgo.com (4101)</li>
+<li>outlook.office365.com (3972)</li>
+<li>outlook.office.com (3782)</li>
+<li>docs.google.com (3235)</li>
 <li>chatgpt.com (3001)</li>
-<li>www.linkedin.com (2366)</li>
-<li>moodle.royalholloway.ac.uk (1921)</li>
-<li>bsky.app (1750)</li>
-<li>www.facebook.com (1615)</li>
+<li>www.linkedin.com (2370)</li>
+<li>moodle.royalholloway.ac.uk (1920)</li>
+<li>bsky.app (1748)</li>
 <li>login.microsoftonline.com (1612)</li>
-<li>calendar.google.com (1536)</li>
+<li>www.facebook.com (1610)</li>
+<li>calendar.google.com (1539)</li>
 <li>chat.openai.com (1382)</li>
-<li>www.amazon.co.uk (1314)</li>
+<li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1078)</li>
 <li>gmail.com (1077)</li>
-<li>mail.rhul.ac.uk (892)</li>
+<li>mail.rhul.ac.uk (890)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (814)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:20 joanna421.typeform.com</li>
+<ul><li> 13:27 calendar.google.com</li>
+<li> 13:26 mail.google.com</li>
+<li> 13:26 gmail.com</li>
+<li> 13:25 www.goodreads.com</li>
+<li class='same'> 13:24 www.goodreads.com</li>
+<li class='same'> 13:23 www.goodreads.com</li>
+<li> 13:23 goodreads.com</li>
+<li> 13:22 docs.google.com</li>
+<li> 13:20 www.linkedin.com</li>
+<li> 13:20 calendar.google.com</li>
+<li class='same'> 13:19 calendar.google.com</li>
+<li> 13:14 webtimetables.royalholloway.ac.uk</li>
+<li> 13:13 bsky.app</li>
+<li class='same'> 13:12 bsky.app</li>
+<li> 13:12 www.linkedin.com</li>
+<li class='same'> 12:56 www.linkedin.com</li>
+<li class='same'> 12:55 www.linkedin.com</li>
+<li> 12:54 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&amp;diff=1382122088&amp;oldid=1378293296#/media/File:Milo_Yiannopoulos_DHS_photo,_August_2026.jpg">Milo Yiannopoulos: Difference between revisions - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&amp;diff=1382122088&amp;oldid=1378293296#2026_deportation_from_the_United_States">Milo Yiannopoulos: Difference between revisions - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&amp;diff=1382122088&amp;oldid=1378293296">Milo Yiannopoulos: Difference between revisions - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&amp;action=history">Milo Yiannopoulos: Revision history - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+<li> 12:51 bsky.app</li>
+<li> 12:49 www.hanselman.com</li>
+<li> 12:49 duckduckgo.com</li>
+<li> 12:46 bsky.app</li>
+<li> 12:44 mail-attachment.googleusercontent.com</li>
+<li> 12:44 mail.google.com</li>
+<li> 12:43 blackhat.informafestivals.com</li>
+<li> 12:43 mail.google.com</li>
+<li class='same'> 12:42 mail.google.com</li>
+<li class='same'> 12:41 mail.google.com</li>
+<li class='same'> 12:40 mail.google.com</li>
+<li class='same'> 12:39 mail.google.com</li>
+<li> 12:38 bsky.app</li>
+<li> 12:37 duckduckgo.com</li>
+<li> 12:35 bsky.app</li>
+<li> 12:33 mail.google.com</li>
+<li> 12:20 joanna421.typeform.com</li>
 <li> 12:20 www.google.com</li>
 <li> 12:20 mail.google.com</li>
 <li class='same'> 12:19 mail.google.com</li>
@@ -124129,70 +124167,4 @@ With number of accesses/minutes in parentheses
 <li> 11:30 www.legislation.gov.uk</li>
 <li> 11:30 www.google.com</li>
 <li> 11:29 www.gov.uk</li>
-<li> 11:29 www.google.com</li>
-<li> 11:28 www.gov.uk</li>
-<li> 11:26 www.timpson-group.co.uk</li>
-<li> 11:26 www.google.com</li>
-<li> 11:24 mail.google.com</li>
-<li class='same'> 11:23 mail.google.com</li>
-<li> 11:23 gmail.com</li>
-<li> 11:23 www.google.com</li>
-<li> 11:20 www.gov.uk</li>
-<li> 11:20 www.google.com</li>
-<li> 11:20 unlock.org.uk</li>
-<li> 11:19 Local file</li>
-<li> 11:18 www.gov.uk</li>
-<li> 11:18 www.google.com</li>
-<li> 11:08 bsky.app</li>
-<li> 11:08 outlook.office365.com</li>
-<li> 11:01 www.editoraroncarati.com.br</li>
-<li> 11:01 www.ibm.com</li>
-<li> 11:00 ad.doubleclick.net</li>
-<li> 11:00 www.google.com</li>
-<li> 11:00 i.crn.com</li>
-<li> 11:00 www.breachsense.com</li>
-<li> 11:00 www.google.com</li>
-<li> 10:59 www2.deloitte.com</li>
-<li> 10:58 bsky.app</li>
-<li> 10:58 www.isaca.org</li>
-<li> 10:57 securityintelligence.com</li>
-<li> 10:57 www.idwatchdog.com</li>
-<li> 10:56 www.isaca.org</li>
-<li> 10:56 www.google.com</li>
-<li> 10:56 www.gov.uk</li>
-<li> 10:55 www.google.com</li>
-<li> 10:55 go.crowdstrike.com</li>
-<li> 10:54 www.google.com</li>
-<li class='same'> 10:53 www.google.com</li>
-<li> 10:53 books.google.co.uk</li>
-<li> 10:53 www.google.com</li>
-<li> 10:50 www.amazon.co.uk</li>
-<li> 10:45 legal.thomsonreuters.com</li>
-<li> 10:45 www.google.com</li>
-<li class='same'> 10:38 www.google.com</li>
-<li> 10:34 moodle.royalholloway.ac.uk</li>
-<li> 10:32 intranet.royalholloway.ac.uk</li>
-<li class='same'> 10:31 intranet.royalholloway.ac.uk</li>
-<li> 10:30 bsky.app</li>
-<li class='same'> 10:29 bsky.app</li>
-<li class='same'> 10:28 bsky.app</li>
-<li class='same'> 10:25 bsky.app</li>
-<li> 10:25 www.google.com</li>
-<li> 10:24 bsky.app</li>
-<li> 10:22 intranet.royalholloway.ac.uk</li>
-<li> 10:22 www.facebook.com</li>
-<li class='same'> 10:16 www.facebook.com</li>
-<li class='same'> 10:15 www.facebook.com</li>
-<li> 10:15 outlook.office365.com</li>
-<li> 10:14 www.facebook.com</li>
-<li class='same'> 10:13 www.facebook.com</li>
-<li> 10:13 intranet.royalholloway.ac.uk</li>
-<li> 10:13 outlook.office.com</li>
-<li> 10:13 outlook.office365.com</li>
-<li class='same'> 10:12 outlook.office365.com</li>
-<li> 10:12 mail.rhul.ac.uk</li>
-<li> 10:12 blueskydirectory.com</li>
-<li> 10:11 outlook.office365.com</li>
-<li> 10:11 mail.rhul.ac.uk</li>
-<li> 10:11 bsky.app</li>
 </ul>
