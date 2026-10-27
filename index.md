@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5986)</li>
-<li>mail.google.com (5131)</li>
-<li>www.google.com (4656)</li>
+<li>mail.google.com (5132)</li>
+<li>www.google.com (4654)</li>
 <li>duckduckgo.com (4101)</li>
 <li>outlook.office365.com (3964)</li>
 <li>outlook.office.com (3782)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3006)</li>
+<li>chatgpt.com (3007)</li>
 <li>www.linkedin.com (2371)</li>
 <li>moodle.royalholloway.ac.uk (1920)</li>
-<li>bsky.app (1738)</li>
+<li>bsky.app (1722)</li>
 <li>login.microsoftonline.com (1612)</li>
-<li>www.facebook.com (1608)</li>
-<li>calendar.google.com (1539)</li>
+<li>www.facebook.com (1607)</li>
+<li>calendar.google.com (1538)</li>
 <li>chat.openai.com (1383)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 27/10/26</H3>
+
+<br>
+
+<ul><li> 14:48 chatgpt.com</li>
+<li class='same'> 14:46 chatgpt.com</li>
+<li> 14:46 chat.openai.com</li>
+<li> 14:46 mail.google.com</li>
+<li> 14:45 bsky.app</li>
+</ul>
 
 <br>
 
@@ -124100,36 +124109,4 @@ With number of accesses/minutes in parentheses
 <li> 14:38 www.reddit.com</li>
 <li> 14:37 outlook.office365.com</li>
 <li class='same'> 14:36 outlook.office365.com</li>
-<li> 14:35 bsky.app</li>
-<li class='same'> 14:33 bsky.app</li>
-<li> 14:32 blueskydirectory.com</li>
-<li> 14:31 bsky.app</li>
-<li> 14:31 blueskydirectory.com</li>
-<li class='same'> 14:30 blueskydirectory.com</li>
-<li> 14:29 bsky.app</li>
-<li> 14:28 blueskydirectory.com</li>
-<li class='same'> 14:27 blueskydirectory.com</li>
-<li> 14:26 bsky.app</li>
-<li class='same'> 14:25 bsky.app</li>
-<li> 14:25 www.google.com</li>
-<li> 14:24 bsky.app</li>
-<li> 14:24 chatgpt.com</li>
-<li> 14:24 chat.openai.com</li>
-<li> 14:24 www.google.com</li>
-<li> 14:23 bsky.app</li>
-<li> 14:23 blueskydirectory.com</li>
-<li> 14:22 theopenvoicefactory.org</li>
-<li> 14:22 bsky.app</li>
-<li class='same'> 14:21 bsky.app</li>
-<li> 14:21 blueskydirectory.com</li>
-<li class='same'> 14:17 blueskydirectory.com</li>
-<li> 14:16 bsky.app</li>
-<li> 14:13 www.facebook.com</li>
-<li> 14:13 calendar.google.com</li>
-<li> 14:11 bsky.app</li>
-<li class='same'> 14:10 bsky.app</li>
-<li class='same'> 14:09 bsky.app</li>
-<li class='same'> 14:08 bsky.app</li>
-<li class='same'> 14:07 bsky.app</li>
-<li class='same'> 14:02 bsky.app</li>
 </ul>
