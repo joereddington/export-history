@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5992)</li>
 <li>mail.google.com (5107)</li>
-<li>www.google.com (4689)</li>
-<li>duckduckgo.com (4092)</li>
+<li>www.google.com (4685)</li>
+<li>duckduckgo.com (4095)</li>
 <li>outlook.office365.com (3980)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1918)</li>
 <li>bsky.app (1778)</li>
 <li>www.facebook.com (1615)</li>
-<li>login.microsoftonline.com (1606)</li>
+<li>login.microsoftonline.com (1608)</li>
 <li>calendar.google.com (1533)</li>
 <li>chat.openai.com (1385)</li>
 <li>www.amazon.co.uk (1314)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:22 oots.fandom.com</li>
+<ul><li> 10:26 192.168.178.1</li>
+<li> 10:26 myview.rhul.zellis.com</li>
+<li> 10:26 login.microsoftonline.com</li>
+<li> 10:26 device.login.microsoftonline.com</li>
+<li> 10:26 myview.rhul.zellis.com</li>
+<li> 10:26 login.microsoftonline.com</li>
+<li> 10:26 myview.rhul.zellis.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:54 democracy.derbyshire.gov.uk</li>
+<li class='same'> 08:53 democracy.derbyshire.gov.uk</li>
+<li> 08:53 duckduckgo.com</li>
+<li> 08:52 staff.derbyshire.gov.uk</li>
+<li> 08:52 duckduckgo.com</li>
+<li> 08:41 <a href="https://en.wikipedia.org/wiki/Risk_measure">Risk measure - Wikipedia</a></li>
+<li> 08:41 <a href="https://en.wikipedia.org/wiki/Risk_metric">Risk metric - Wikipedia</a></li>
+<li> 08:40 duckduckgo.com</li>
+<li> 08:35 www.giantitp.com</li>
+<li class='same'> 08:34 www.giantitp.com</li>
+<li class='same'> 08:33 www.giantitp.com</li>
+<li class='same'> 08:32 www.giantitp.com</li>
+<li> 08:32 oots.fandom.com</li>
+<li> 08:32 192.168.178.1</li>
+<li class='same'> 08:31 192.168.178.1</li>
+<li> 08:22 oots.fandom.com</li>
 <li class='same'> 08:21 oots.fandom.com</li>
 <li> 08:20 duckduckgo.com</li>
 <li> 08:20 forums.giantitp.com</li>
@@ -124239,28 +124265,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:41 bsky.app</li>
 <li> 06:40 blueskydirectory.com</li>
 <li> 06:26 clearsky.app</li>
-</ul>
-
-<H3>Saturday, 23/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:54 www.google.com</li>
-<li class='same'> 21:44 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 18:38 www.google.com</li>
-<li> 18:38 bsky.social</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 16:04 bsky.social</li>
-<li> 16:04 www.google.com</li>
 </ul>
