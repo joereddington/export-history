@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5992)</li>
 <li>mail.google.com (5107)</li>
-<li>www.google.com (4685)</li>
+<li>www.google.com (4682)</li>
 <li>duckduckgo.com (4095)</li>
 <li>outlook.office365.com (3980)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3006)</li>
+<li>chatgpt.com (3005)</li>
 <li>www.linkedin.com (2365)</li>
 <li>moodle.royalholloway.ac.uk (1918)</li>
-<li>bsky.app (1778)</li>
+<li>bsky.app (1773)</li>
 <li>www.facebook.com (1615)</li>
-<li>login.microsoftonline.com (1608)</li>
-<li>calendar.google.com (1533)</li>
-<li>chat.openai.com (1385)</li>
+<li>login.microsoftonline.com (1609)</li>
+<li>calendar.google.com (1535)</li>
+<li>chat.openai.com (1384)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1078)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (862)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (658)</li>
+<li>rhul.sharepoint.com (659)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:26 192.168.178.1</li>
+<ul><li> 10:41 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:41 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 10:40 login.microsoftonline.com</li>
+<li> 10:40 device.login.microsoftonline.com</li>
+<li> 10:40 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:39 localhost:8443</li>
+<li> 10:37 calendar.google.com</li>
+<li class='same'> 10:36 calendar.google.com</li>
+<li> 10:33 rhul.sharepoint.com</li>
+<li> 10:26 192.168.178.1</li>
 <li> 10:26 myview.rhul.zellis.com</li>
 <li> 10:26 login.microsoftonline.com</li>
 <li> 10:26 device.login.microsoftonline.com</li>
@@ -124245,24 +124254,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:12 m.facebook.com</li>
-<li> 11:12 www.google.com</li>
-<li> 11:12 www.mumsguideto.co.uk</li>
-<li class='same'> 11:11 www.mumsguideto.co.uk</li>
-<li> 11:11 www.google.com</li>
-<li> 11:11 clearsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 06:51 bsky.app</li>
-<li> 06:48 chatgpt.com</li>
-<li> 06:48 chat.openai.com</li>
-<li> 06:48 www.google.com</li>
-<li> 06:48 clearsky.app</li>
-<li> 06:45 bsky.app</li>
-<li class='same'> 06:43 bsky.app</li>
-<li class='same'> 06:42 bsky.app</li>
-<li class='same'> 06:41 bsky.app</li>
-<li> 06:40 blueskydirectory.com</li>
-<li> 06:26 clearsky.app</li>
 </ul>
