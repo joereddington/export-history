@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5988)</li>
-<li>mail.google.com (5124)</li>
-<li>www.google.com (4662)</li>
+<ol><li>www.reddit.com (5986)</li>
+<li>mail.google.com (5130)</li>
+<li>www.google.com (4658)</li>
 <li>duckduckgo.com (4101)</li>
-<li>outlook.office365.com (3972)</li>
+<li>outlook.office365.com (3966)</li>
 <li>outlook.office.com (3782)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3001)</li>
-<li>www.linkedin.com (2370)</li>
+<li>chatgpt.com (3004)</li>
+<li>www.linkedin.com (2371)</li>
 <li>moodle.royalholloway.ac.uk (1920)</li>
-<li>bsky.app (1748)</li>
+<li>bsky.app (1743)</li>
 <li>login.microsoftonline.com (1612)</li>
 <li>www.facebook.com (1610)</li>
 <li>calendar.google.com (1539)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (890)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
-<li>rhul-my.sharepoint.com (814)</li>
+<li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (662)</li>
+<li>rhul.sharepoint.com (663)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:27 calendar.google.com</li>
+<ul><li> 13:48 chatgpt.com</li>
+<li class='same'> 13:47 chatgpt.com</li>
+<li> 13:47 mail.google.com</li>
+<li class='same'> 13:37 mail.google.com</li>
+<li> 13:36 bsky.app</li>
+<li> 13:36 www.linkedin.com</li>
+<li> 13:35 mail.google.com</li>
+<li class='same'> 13:34 mail.google.com</li>
+<li> 13:34 chatgpt.com</li>
+<li> 13:31 rhul.sharepoint.com</li>
+<li> 13:31 mail.google.com</li>
+<li class='same'> 13:30 mail.google.com</li>
+<li> 13:29 calendar.google.com</li>
+<li class='same'> 13:27 calendar.google.com</li>
 <li> 13:26 mail.google.com</li>
 <li> 13:26 gmail.com</li>
 <li> 13:25 www.goodreads.com</li>
@@ -124138,33 +124151,4 @@ With number of accesses/minutes in parentheses
 <li> 12:43 www.royalholloway.ac.uk</li>
 <li> 12:43 isg.rhul.ac.uk</li>
 <li> 12:42 outlook.office365.com</li>
-<li class='same'> 12:41 outlook.office365.com</li>
-<li class='same'> 12:40 outlook.office365.com</li>
-<li> 12:40 bsky.app</li>
-<li class='same'> 12:38 bsky.app</li>
-<li class='same'> 12:36 bsky.app</li>
-<li> 12:36 outlook.office365.com</li>
-<li> 12:35 www.reddit.com</li>
-<li class='same'> 12:34 www.reddit.com</li>
-<li> 12:33 bsky.app</li>
-<li> 12:31 www.google.com</li>
-<li> 12:30 bsky.app</li>
-<li class='same'> 12:29 bsky.app</li>
-<li> 12:29 rhul-my.sharepoint.com</li>
-<li> 12:29 outlook.office365.com</li>
-<li> 12:28 calendar.google.com</li>
-<li> 12:28 outlook.office365.com</li>
-<li class='same'> 12:27 outlook.office365.com</li>
-<li> 12:27 rhul-my.sharepoint.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:42 www.instagram.com</li>
-<li> 11:37 relationshipsproject.org</li>
-<li> 11:37 www.google.com</li>
-<li class='same'> 11:32 www.google.com</li>
-<li> 11:30 www.legislation.gov.uk</li>
-<li> 11:30 www.google.com</li>
-<li> 11:29 www.gov.uk</li>
 </ul>
