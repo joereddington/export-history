@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5988)</li>
-<li>mail.google.com (5107)</li>
-<li>www.google.com (4680)</li>
-<li>duckduckgo.com (4095)</li>
-<li>outlook.office365.com (3980)</li>
-<li>outlook.office.com (3784)</li>
-<li>docs.google.com (3233)</li>
+<li>mail.google.com (5109)</li>
+<li>www.google.com (4678)</li>
+<li>duckduckgo.com (4096)</li>
+<li>outlook.office365.com (3979)</li>
+<li>outlook.office.com (3783)</li>
+<li>docs.google.com (3234)</li>
 <li>chatgpt.com (3003)</li>
 <li>www.linkedin.com (2364)</li>
-<li>moodle.royalholloway.ac.uk (1920)</li>
-<li>bsky.app (1766)</li>
+<li>moodle.royalholloway.ac.uk (1921)</li>
+<li>bsky.app (1757)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1612)</li>
 <li>calendar.google.com (1536)</li>
@@ -86,13 +86,13 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1078)</li>
-<li>gmail.com (1076)</li>
-<li>mail.rhul.ac.uk (894)</li>
+<li>gmail.com (1077)</li>
+<li>mail.rhul.ac.uk (893)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (862)</li>
-<li>rhul-my.sharepoint.com (817)</li>
+<li>rhul-my.sharepoint.com (814)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (661)</li>
+<li>rhul.sharepoint.com (662)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:27 rhul.sharepoint.com</li>
+<ul><li class='same'> 11:57 bsky.app</li>
+<li> 11:57 mail.google.com</li>
+<li> 11:57 bsky.app</li>
+<li> 11:56 mail.google.com</li>
+<li> 11:56 gmail.com</li>
+<li> 11:54 docs.google.com</li>
+<li> 11:54 drive.google.com</li>
+<li> 11:49 www.google.co.uk</li>
+<li> 11:49 books.google.com</li>
+<li> 11:49 books.google.co.uk</li>
+<li> 11:48 www.google.co.uk</li>
+<li> 11:48 books.google.com</li>
+<li> 11:48 books.google.co.uk</li>
+<li> 11:48 duckduckgo.com</li>
+<li> 11:34 moodle.royalholloway.ac.uk</li>
+<li> 11:30 rhul.sharepoint.com</li>
+<li class='same'> 11:27 rhul.sharepoint.com</li>
 <li> 11:27 calendar.google.com</li>
 <li> 11:25 myview.rhul.zellis.com</li>
 <li> 11:25 login.microsoftonline.com</li>
@@ -124188,25 +124204,4 @@ With number of accesses/minutes in parentheses
 <li> 07:09 bsky.app</li>
 <li> 07:09 0.0.0.0:8000</li>
 <li> 06:56 bsky.app</li>
-<li class='same'> 06:54 bsky.app</li>
-<li class='same'> 06:53 bsky.app</li>
-<li class='same'> 06:52 bsky.app</li>
-<li class='same'> 06:48 bsky.app</li>
-<li class='same'> 06:47 bsky.app</li>
-<li> 06:47 blueskydirectory.com</li>
-<li> 06:45 outlook.office365.com</li>
-<li> 06:45 mail.rhul.ac.uk</li>
-<li> 06:44 rhul-my.sharepoint.com</li>
-<li> 06:44 bsky.app</li>
-<li class='same'> 06:43 bsky.app</li>
-<li> 06:43 rhul-my.sharepoint.com</li>
-<li> 06:42 www.google.com</li>
-<li> 06:42 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 06:42 www.google.com</li>
-<li> 06:41 bsky.app</li>
-<li class='same'> 06:39 bsky.app</li>
-<li> 06:37 rhul-my.sharepoint.com</li>
-<li> 06:33 bsky.app</li>
-<li class='same'> 06:32 bsky.app</li>
-<li> 06:30 outlook.office.com</li>
 </ul>
