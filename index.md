@@ -75,25 +75,25 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3980)</li>
 <li>outlook.office.com (3786)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3002)</li>
+<li>chatgpt.com (3005)</li>
 <li>www.linkedin.com (2365)</li>
 <li>moodle.royalholloway.ac.uk (1918)</li>
 <li>bsky.app (1778)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1606)</li>
 <li>calendar.google.com (1533)</li>
-<li>chat.openai.com (1384)</li>
+<li>chat.openai.com (1385)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1078)</li>
 <li>gmail.com (1076)</li>
 <li>mail.rhul.ac.uk (894)</li>
 <li>tvtropes.org (864)</li>
-<li>feedly.com (861)</li>
+<li>feedly.com (862)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (658)</li>
-<li>fritz.box (590)</li>
+<li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
 <li>www.theguardian.com (462)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 27/10/26</H3>
+
+<br>
+
+<ul><li> 07:38 chatgpt.com</li>
+<li class='same'> 07:37 chatgpt.com</li>
+<li> 07:37 192.168.178.1</li>
+<li class='same'> 07:36 192.168.178.1</li>
+<li> 07:36 fritz.box</li>
+<li> 07:36 firefox-portal-detection.com</li>
+<li> 07:36 fritz.box</li>
+<li> 07:36 firefox-portal-detection.com</li>
+</ul>
+
 <H3>Monday, 26/10/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 16:12 chatgpt.com</li>
+<li> 16:12 chat.openai.com</li>
+<li> 16:12 www.independent.co.uk</li>
+<li> 16:11 feedly.com</li>
+<li> 16:11 www.giantitp.com</li>
+<li> 16:08 <a href="https://en.wikipedia.org/wiki/Sunny_Bank_Mills">Sunny Bank Mills - Wikipedia</a></li>
+</ul>
 
 <br>
 
