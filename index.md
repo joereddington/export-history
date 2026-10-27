@@ -70,23 +70,23 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5985)</li>
 <li>mail.google.com (5132)</li>
-<li>www.google.com (4654)</li>
-<li>duckduckgo.com (4101)</li>
-<li>outlook.office365.com (3961)</li>
-<li>outlook.office.com (3782)</li>
-<li>docs.google.com (3235)</li>
-<li>chatgpt.com (3007)</li>
-<li>www.linkedin.com (2372)</li>
+<li>www.google.com (4652)</li>
+<li>duckduckgo.com (4103)</li>
+<li>outlook.office365.com (3960)</li>
+<li>outlook.office.com (3781)</li>
+<li>docs.google.com (3234)</li>
+<li>chatgpt.com (3008)</li>
+<li>www.linkedin.com (2376)</li>
 <li>moodle.royalholloway.ac.uk (1920)</li>
-<li>bsky.app (1723)</li>
+<li>bsky.app (1718)</li>
 <li>login.microsoftonline.com (1612)</li>
-<li>www.facebook.com (1598)</li>
+<li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1538)</li>
-<li>chat.openai.com (1383)</li>
+<li>chat.openai.com (1384)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
-<li>web.whatsapp.com (1078)</li>
 <li>gmail.com (1077)</li>
+<li>web.whatsapp.com (1076)</li>
 <li>mail.rhul.ac.uk (889)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:52 www.linkedin.com</li>
+<ul><li> 16:25 bsky.app</li>
+<li> 16:23 www.linkedin.com</li>
+<li class='same'> 16:22 www.linkedin.com</li>
+<li> 16:15 www.facebook.com</li>
+<li> 16:14 chatgpt.com</li>
+<li> 16:14 chat.openai.com</li>
+<li> 16:10 duckduckgo.com</li>
+<li> 16:10 www.linkedin.com</li>
+<li> 16:09 www.facebook.com</li>
+<li> 16:09 facebook.com</li>
+<li> 16:08 www.linkedin.com</li>
+<li> 16:08 uk.linkedin.com</li>
+<li> 16:08 duckduckgo.com</li>
+<li> 15:52 www.linkedin.com</li>
 <li class='same'> 15:51 www.linkedin.com</li>
 <li> 15:49 bsky.app</li>
 </ul>
@@ -124079,26 +124092,4 @@ With number of accesses/minutes in parentheses
 <li> 15:23 www.google.com</li>
 <li> 15:22 one.google.com</li>
 <li> 15:22 drive.google.com</li>
-<li> 15:22 www.google.com</li>
-<li> 15:19 bsky.app</li>
-<li class='same'> 15:18 bsky.app</li>
-<li> 15:15 www.holycarrot.co.uk</li>
-<li> 15:14 web.whatsapp.com</li>
-<li> 15:14 www.facebook.com</li>
-<li> 15:14 bsky.app</li>
-<li class='same'> 15:13 bsky.app</li>
-<li> 14:58 projects.cs.rhul.ac.uk</li>
-<li> 14:58 outlook.office.com</li>
-<li> 14:58 outlook.office365.com</li>
-<li> 14:57 projects.cs.rhul.ac.uk</li>
-<li> 14:57 dashboards.rhul.ac.uk</li>
-<li> 14:57 qbo.intuit.com</li>
-<li> 14:57 app.qbo.intuit.com</li>
-<li> 14:57 accounts.intuit.com</li>
-<li> 14:52 web.whatsapp.com</li>
-<li> 14:51 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 14:51 bsky.app</li>
-<li> 14:50 www.google.com</li>
-<li> 14:49 docs.google.com</li>
-<li> 14:49 bsky.app</li>
 </ul>
