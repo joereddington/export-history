@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5988)</li>
-<li>mail.google.com (5109)</li>
-<li>www.google.com (4678)</li>
-<li>duckduckgo.com (4096)</li>
-<li>outlook.office365.com (3979)</li>
+<li>mail.google.com (5118)</li>
+<li>www.google.com (4677)</li>
+<li>duckduckgo.com (4099)</li>
+<li>outlook.office365.com (3977)</li>
 <li>outlook.office.com (3783)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3003)</li>
-<li>www.linkedin.com (2364)</li>
+<li>chatgpt.com (3001)</li>
+<li>www.linkedin.com (2366)</li>
 <li>moodle.royalholloway.ac.uk (1921)</li>
-<li>bsky.app (1757)</li>
+<li>bsky.app (1750)</li>
 <li>www.facebook.com (1615)</li>
 <li>login.microsoftonline.com (1612)</li>
 <li>calendar.google.com (1536)</li>
-<li>chat.openai.com (1383)</li>
+<li>chat.openai.com (1382)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>web.whatsapp.com (1078)</li>
 <li>gmail.com (1077)</li>
-<li>mail.rhul.ac.uk (893)</li>
+<li>mail.rhul.ac.uk (892)</li>
 <li>tvtropes.org (864)</li>
-<li>feedly.com (862)</li>
+<li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (814)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (662)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 11:57 bsky.app</li>
+<ul><li> 12:20 joanna421.typeform.com</li>
+<li> 12:20 www.google.com</li>
+<li> 12:20 mail.google.com</li>
+<li class='same'> 12:19 mail.google.com</li>
+<li> 12:18 www.darwinproject.ac.uk</li>
+<li> 12:18 duckduckgo.com</li>
+<li> 12:17 mail.google.com</li>
+<li> 12:17 drive.google.com</li>
+<li> 12:17 mail-attachment.googleusercontent.com</li>
+<li> 12:16 mail.google.com</li>
+<li class='same'> 12:15 mail.google.com</li>
+<li class='same'> 12:14 mail.google.com</li>
+<li> 12:13 www.linkedin.com</li>
+<li class='same'> 12:12 www.linkedin.com</li>
+<li> 12:12 fyp.cs.rhul.ac.uk</li>
+<li> 12:11 mail.google.com</li>
+<li> 12:11 email.parcelcompare.com</li>
+<li> 12:11 www.google.com</li>
+<li> 12:11 email.parcelcompare.com</li>
+<li> 12:11 mail.google.com</li>
+<li class='same'> 12:10 mail.google.com</li>
+<li> 12:09 bsky.app</li>
+<li class='same'> 12:08 bsky.app</li>
+<li class='same'> 12:07 bsky.app</li>
+<li class='same'> 12:06 bsky.app</li>
+<li class='same'> 12:05 bsky.app</li>
+<li class='same'> 12:04 bsky.app</li>
+<li> 12:04 duckduckgo.com</li>
+<li class='same'> 12:03 duckduckgo.com</li>
+<li> 12:00 bsky.app</li>
+<li class='same'> 11:57 bsky.app</li>
 <li> 11:57 mail.google.com</li>
 <li> 11:57 bsky.app</li>
 <li> 11:56 mail.google.com</li>
@@ -124165,43 +124195,4 @@ With number of accesses/minutes in parentheses
 <li> 10:11 outlook.office365.com</li>
 <li> 10:11 mail.rhul.ac.uk</li>
 <li> 10:11 bsky.app</li>
-<li class='same'> 10:09 bsky.app</li>
-<li> 10:09 www.google.com</li>
-<li> 10:08 bsky.app</li>
-<li class='same'> 10:07 bsky.app</li>
-<li> 09:45 outlook.office365.com</li>
-<li class='same'> 09:43 outlook.office365.com</li>
-<li> 09:43 mail.rhul.ac.uk</li>
-<li> 09:40 bsky.app</li>
-<li class='same'> 09:39 bsky.app</li>
-<li class='same'> 09:38 bsky.app</li>
-<li class='same'> 09:35 bsky.app</li>
-<li class='same'> 09:34 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:34 bsky.app</li>
-<li class='same'> 07:33 bsky.app</li>
-<li class='same'> 07:32 bsky.app</li>
-<li> 07:32 feedly.com</li>
-<li> 07:30 www.giantitp.com</li>
-<li> 07:29 feedly.com</li>
-<li> 07:25 github.com</li>
-<li class='same'> 07:24 github.com</li>
-<li> 07:18 chatgpt.com</li>
-<li class='same'> 07:17 chatgpt.com</li>
-<li> 07:17 chat.openai.com</li>
-<li> 07:17 github.com</li>
-<li class='same'> 07:16 github.com</li>
-<li> 07:16 whitewaterwriters.com</li>
-<li> 07:16 www.google.com</li>
-<li> 07:15 equalitytime.github.io</li>
-<li> 07:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 07:14 bsky.app</li>
-<li> 07:13 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder&#x27;s Justice League - Wikipedia</a></li>
-<li> 07:13 www.google.com</li>
-<li> 07:09 bsky.app</li>
-<li> 07:09 0.0.0.0:8000</li>
-<li> 06:56 bsky.app</li>
 </ul>
