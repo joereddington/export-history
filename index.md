@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (3014)</li>
 <li>www.linkedin.com (2377)</li>
 <li>moodle.royalholloway.ac.uk (1924)</li>
-<li>bsky.app (1728)</li>
+<li>bsky.app (1729)</li>
 <li>login.microsoftonline.com (1615)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1543)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 rhul.sharepoint.com</li>
+<ul><li> 15:41 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 13:51 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 13:29 rhul.sharepoint.com</li>
 <li> 13:27 dashboards.rhul.ac.uk</li>
 <li> 13:14 bsky.app</li>
 <li class='same'> 13:13 bsky.app</li>
