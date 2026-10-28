@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5984)</li>
-<li>mail.google.com (5151)</li>
-<li>www.google.com (4643)</li>
+<ol><li>www.reddit.com (5982)</li>
+<li>mail.google.com (5147)</li>
+<li>www.google.com (4627)</li>
 <li>duckduckgo.com (4107)</li>
 <li>outlook.office365.com (3955)</li>
-<li>outlook.office.com (3781)</li>
+<li>outlook.office.com (3772)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3014)</li>
-<li>www.linkedin.com (2377)</li>
-<li>moodle.royalholloway.ac.uk (1924)</li>
-<li>bsky.app (1742)</li>
+<li>chatgpt.com (3012)</li>
+<li>www.linkedin.com (2375)</li>
+<li>moodle.royalholloway.ac.uk (1922)</li>
+<li>bsky.app (1743)</li>
 <li>login.microsoftonline.com (1615)</li>
 <li>www.facebook.com (1599)</li>
-<li>calendar.google.com (1543)</li>
-<li>chat.openai.com (1389)</li>
+<li>calendar.google.com (1548)</li>
+<li>chat.openai.com (1388)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1078)</li>
-<li>web.whatsapp.com (1075)</li>
+<li>gmail.com (1077)</li>
+<li>web.whatsapp.com (1074)</li>
 <li>mail.rhul.ac.uk (889)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
-<li>rhul-my.sharepoint.com (812)</li>
+<li>rhul-my.sharepoint.com (804)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (669)</li>
 <li>fritz.box (592)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:59 bsky.app</li>
+<ul><li> 17:12 calendar.google.com</li>
+<li class='same'> 17:11 calendar.google.com</li>
+<li> 17:11 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 17:11 calendar.google.com</li>
+<li> 17:09 bsky.app</li>
+<li class='same'> 17:08 bsky.app</li>
+<li class='same'> 17:07 bsky.app</li>
+<li> 17:07 calendar.google.com</li>
+<li> 17:07 bsky.app</li>
+<li> 17:07 blueskythreads.xyz</li>
+<li> 17:07 bluesky-thread-composer.pages.dev</li>
+<li> 17:06 192.168.178.1</li>
+<li> 17:06 calendar.google.com</li>
+<li> 16:59 bsky.app</li>
 <li> 16:48 duckduckgo.com</li>
 <li> 16:46 bsky.app</li>
 <li> 16:42 www.chronicle.com</li>
@@ -124088,117 +124101,4 @@ With number of accesses/minutes in parentheses
 <li> 09:24 wikimania.wikimedia.org</li>
 <li> 09:23 www.jstor.org</li>
 <li class='same'> 09:22 www.jstor.org</li>
-<li class='same'> 09:21 www.jstor.org</li>
-<li> 09:21 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:15 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
-<li> 07:15 www.google.com</li>
-<li class='same'> 06:57 www.google.com</li>
-<li> 06:47 www.lexology.com</li>
-<li> 06:44 <a href="https://en.wikipedia.org/wiki/British_Airways">British Airways - Wikipedia</a></li>
-<li> 06:44 www.google.com</li>
-<li> 06:43 dpnetwork.org.uk</li>
-<li> 06:38 www.bmj.com</li>
-<li> 06:36 ieeexplore.ieee.org</li>
-<li> 06:36 www.google.com</li>
-<li> 06:36 researchr.org</li>
-<li class='same'> 06:35 researchr.org</li>
-<li> 06:35 www.google.com</li>
-</ul>
-
-<H3>Monday, 25/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 23:07 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 19:24 www.google.com</li>
-<li> 19:24 bjjfanatics.com</li>
-<li> 19:23 www.google.com</li>
-<li class='same'> 19:19 www.google.com</li>
-<li class='same'> 19:18 www.google.com</li>
-<li> 19:16 www.flograppling.com</li>
-<li> 19:14 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:39 www.riskiq.com</li>
-<li> 17:29 rhul-my.sharepoint.com</li>
-<li class='same'> 17:28 rhul-my.sharepoint.com</li>
-<li> 17:28 moodle.royalholloway.ac.uk</li>
-<li class='same'> 17:27 moodle.royalholloway.ac.uk</li>
-<li> 17:27 rhul-my.sharepoint.com</li>
-<li class='same'> 17:26 rhul-my.sharepoint.com</li>
-<li class='same'> 17:25 rhul-my.sharepoint.com</li>
-<li> 17:24 euc-excel.officeapps.live.com</li>
-<li> 17:24 rhul-my.sharepoint.com</li>
-<li class='same'> 17:23 rhul-my.sharepoint.com</li>
-<li> 17:23 www.giantitp.com</li>
-<li> 17:22 outlook.office.com</li>
-<li> 17:18 www.reddit.com</li>
-<li> 17:18 www.google.com</li>
-<li> 17:16 www.kboards.com</li>
-<li> 17:15 www.google.com</li>
-<li> 17:15 blueskydirectory.com</li>
-<li> 17:14 chatgpt.com</li>
-<li class='same'> 17:13 chatgpt.com</li>
-<li> 17:13 chat.openai.com</li>
-<li> 17:02 outlook.office.com</li>
-<li class='same'> 17:01 outlook.office.com</li>
-<li class='same'> 17:00 outlook.office.com</li>
-<li class='same'> 16:54 outlook.office.com</li>
-<li class='same'> 16:53 outlook.office.com</li>
-<li class='same'> 16:51 outlook.office.com</li>
-<li class='same'> 16:50 outlook.office.com</li>
-<li class='same'> 16:49 outlook.office.com</li>
-<li> 16:49 rhul-my.sharepoint.com</li>
-<li> 16:49 fast.com</li>
-<li> 16:46 www.linkedin.com</li>
-<li> 16:42 mail.google.com</li>
-<li class='same'> 16:41 mail.google.com</li>
-<li> 16:41 web.whatsapp.com</li>
-<li> 16:41 mail.google.com</li>
-<li> 16:41 gmail.com</li>
-<li> 16:40 bsky.app</li>
-<li class='same'> 16:37 bsky.app</li>
-<li class='same'> 16:36 bsky.app</li>
-<li> 16:33 www.monster.co.uk</li>
-<li> 16:33 identity.monster.com</li>
-<li> 16:33 www.monster.co.uk</li>
-<li> 16:33 identity.monster.com</li>
-<li> 16:33 www.monster.co.uk</li>
-<li> 16:32 www.reddit.com</li>
-<li> 16:31 www.google.com</li>
-<li> 16:31 www.monster.co.uk</li>
-<li class='same'> 16:30 www.monster.co.uk</li>
-<li> 16:30 identity.monster.com</li>
-<li> 16:30 www.monster.co.uk</li>
-<li> 16:30 identity.monster.com</li>
-<li> 16:30 www.monster.co.uk</li>
-<li> 16:30 identity.monster.com</li>
-<li> 16:30 www.monster.co.uk</li>
-<li class='same'> 16:29 www.monster.co.uk</li>
-<li> 16:29 ad.doubleclick.net</li>
-<li> 16:29 www.google.com</li>
-<li> 16:28 www.linkedin.com</li>
-<li> 16:27 uk.indeed.com</li>
-<li> 16:27 careers.amey.co.uk</li>
-<li> 16:27 uk.indeed.com</li>
-<li class='same'> 16:26 uk.indeed.com</li>
-<li class='same'> 16:25 uk.indeed.com</li>
-<li> 16:25 profile.indeed.com</li>
-<li class='same'> 16:24 profile.indeed.com</li>
-<li> 16:24 mail.google.com</li>
-<li> 16:23 profile.indeed.com</li>
 </ul>
