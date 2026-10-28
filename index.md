@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5984)</li>
 <li>mail.google.com (5151)</li>
 <li>www.google.com (4643)</li>
-<li>duckduckgo.com (4105)</li>
+<li>duckduckgo.com (4106)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3781)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3014)</li>
 <li>www.linkedin.com (2377)</li>
 <li>moodle.royalholloway.ac.uk (1924)</li>
-<li>bsky.app (1729)</li>
+<li>bsky.app (1739)</li>
 <li>login.microsoftonline.com (1615)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1543)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:41 bsky.app</li>
+<ul><li> 16:13 bsky.app</li>
+<li class='same'> 16:12 bsky.app</li>
+<li class='same'> 16:11 bsky.app</li>
+<li class='same'> 16:10 bsky.app</li>
+<li> 16:09 skylens.redflag.ps</li>
+<li> 16:09 bsky.app</li>
+<li class='same'> 16:08 bsky.app</li>
+<li> 16:07 skylens.redflag.ps</li>
+<li> 16:07 api.clearsky.app</li>
+<li> 16:07 clearsky.app</li>
+<li> 16:06 bsky.app</li>
+<li class='same'> 16:05 bsky.app</li>
+<li class='same'> 16:04 bsky.app</li>
+<li class='same'> 16:03 bsky.app</li>
+<li> 15:59 duckduckgo.com</li>
+<li> 15:41 bsky.app</li>
 </ul>
 
 <br>
