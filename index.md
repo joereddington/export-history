@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5984)</li>
-<li>mail.google.com (5137)</li>
+<li>mail.google.com (5138)</li>
 <li>www.google.com (4642)</li>
 <li>duckduckgo.com (4103)</li>
 <li>outlook.office365.com (3955)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (3013)</li>
 <li>www.linkedin.com (2375)</li>
 <li>moodle.royalholloway.ac.uk (1922)</li>
-<li>bsky.app (1722)</li>
+<li>bsky.app (1718)</li>
 <li>login.microsoftonline.com (1614)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1540)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 chatgpt.com</li>
+<ul><li> 07:58 mail.google.com</li>
+<li class='same'> 07:57 mail.google.com</li>
+<li> 07:45 127.0.0.1:8000</li>
+<li class='same'> 07:42 127.0.0.1:8000</li>
+<li> 07:21 chatgpt.com</li>
 <li class='same'> 07:20 chatgpt.com</li>
 <li> 07:20 chat.openai.com</li>
 <li> 07:20 192.168.178.1</li>
@@ -124114,12 +124118,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:24 profile.indeed.com</li>
 <li> 16:24 mail.google.com</li>
 <li> 16:23 profile.indeed.com</li>
-<li class='same'> 16:22 profile.indeed.com</li>
-<li> 16:20 bsky.app</li>
-<li class='same'> 16:19 bsky.app</li>
-<li class='same'> 16:18 bsky.app</li>
-<li class='same'> 16:17 bsky.app</li>
-<li> 16:17 mail.google.com</li>
-<li> 16:15 scholar.google.com</li>
-<li> 16:14 cisse.info</li>
 </ul>
