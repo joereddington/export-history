@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1727)</li>
 <li>login.microsoftonline.com (1614)</li>
 <li>www.facebook.com (1599)</li>
-<li>calendar.google.com (1539)</li>
+<li>calendar.google.com (1540)</li>
 <li>chat.openai.com (1387)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
@@ -104,11 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 28/10/26</H3>
+
+<br>
+
+<ul><li> 06:56 web.cineworld.co.uk</li>
+<li> 06:56 www.cineworld.co.uk</li>
+<li> 06:56 web.cineworld.co.uk</li>
+<li class='same'> 06:55 web.cineworld.co.uk</li>
+<li> 06:54 calendar.google.com</li>
+<li> 06:54 192.168.178.1</li>
+<li class='same'> 06:53 192.168.178.1</li>
+</ul>
+
 <H3>Tuesday, 27/10/26</H3>
 
 <br>
 
-<ul><li> 17:23 <a href="https://joereddington.com/2026/10/27/gratitude.html"></a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:20 127.0.0.1:4000</li>
+<li class='same'> 20:19 127.0.0.1:4000</li>
+<li class='same'> 20:18 127.0.0.1:4000</li>
+<li class='same'> 20:17 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
+<ul><li> 17:23 <a href="https://joereddington.com/2026/10/27/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 17:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:18 chatgpt.com</li>
