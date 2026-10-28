@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5984)</li>
 <li>mail.google.com (5151)</li>
 <li>www.google.com (4643)</li>
-<li>duckduckgo.com (4103)</li>
+<li>duckduckgo.com (4105)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3781)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3013)</li>
+<li>chatgpt.com (3014)</li>
 <li>www.linkedin.com (2377)</li>
 <li>moodle.royalholloway.ac.uk (1924)</li>
-<li>bsky.app (1721)</li>
+<li>bsky.app (1728)</li>
 <li>login.microsoftonline.com (1615)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1543)</li>
-<li>chat.openai.com (1388)</li>
+<li>chat.openai.com (1389)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1078)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (668)</li>
+<li>rhul.sharepoint.com (669)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:43 dashboards.rhul.ac.uk</li>
+<ul><li> 13:29 rhul.sharepoint.com</li>
+<li> 13:27 dashboards.rhul.ac.uk</li>
+<li> 13:14 bsky.app</li>
+<li class='same'> 13:13 bsky.app</li>
+<li class='same'> 13:11 bsky.app</li>
+<li class='same'> 13:10 bsky.app</li>
+<li class='same'> 13:09 bsky.app</li>
+<li> 13:09 duckduckgo.com</li>
+<li class='same'> 13:08 duckduckgo.com</li>
+<li> 13:08 chatgpt.com</li>
+<li> 13:08 chat.openai.com</li>
+<li> 13:07 bsky.app</li>
+<li class='same'> 13:06 bsky.app</li>
+<li> 12:43 dashboards.rhul.ac.uk</li>
 <li> 12:36 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:35 moodle.royalholloway.ac.uk</li>
 <li> 12:35 login.microsoftonline.com</li>
