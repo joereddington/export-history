@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5985)</li>
-<li>mail.google.com (5138)</li>
-<li>www.google.com (4649)</li>
+<ol><li>www.reddit.com (5984)</li>
+<li>mail.google.com (5137)</li>
+<li>www.google.com (4642)</li>
 <li>duckduckgo.com (4103)</li>
-<li>outlook.office365.com (3960)</li>
+<li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3781)</li>
-<li>docs.google.com (3236)</li>
-<li>chatgpt.com (3012)</li>
-<li>www.linkedin.com (2376)</li>
+<li>docs.google.com (3235)</li>
+<li>chatgpt.com (3013)</li>
+<li>www.linkedin.com (2375)</li>
 <li>moodle.royalholloway.ac.uk (1922)</li>
-<li>bsky.app (1727)</li>
+<li>bsky.app (1722)</li>
 <li>login.microsoftonline.com (1614)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1540)</li>
-<li>chat.openai.com (1387)</li>
+<li>chat.openai.com (1388)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1078)</li>
-<li>web.whatsapp.com (1076)</li>
+<li>gmail.com (1077)</li>
+<li>web.whatsapp.com (1075)</li>
 <li>mail.rhul.ac.uk (889)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (665)</li>
+<li>rhul.sharepoint.com (668)</li>
 <li>fritz.box (592)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:56 web.cineworld.co.uk</li>
+<ul><li> 07:21 chatgpt.com</li>
+<li class='same'> 07:20 chatgpt.com</li>
+<li> 07:20 chat.openai.com</li>
+<li> 07:20 192.168.178.1</li>
+<li> 07:19 rhul.sharepoint.com</li>
+<li class='same'> 07:13 rhul.sharepoint.com</li>
+<li class='same'> 07:12 rhul.sharepoint.com</li>
+<li> 07:09 www.cineworld.co.uk</li>
+<li class='same'> 07:08 www.cineworld.co.uk</li>
+<li> 07:08 www.cineworld.com</li>
+<li> 07:08 www.cineworld.co.uk</li>
+<li> 07:07 mail.google.com</li>
+<li> 07:07 www.cineworld.co.uk</li>
+<li> 07:06 mail.google.com</li>
+<li> 07:05 help.cineworld.co.uk</li>
+<li> 07:05 chatgpt.com</li>
+<li> 07:04 chat.openai.com</li>
+<li> 07:03 www.cineworld.co.uk</li>
+<li> 07:03 mail.google.com</li>
+<li> 07:03 gmail.com</li>
+<li> 07:02 web.cineworld.co.uk</li>
+<li> 07:02 www.paypal.com</li>
+<li> 07:02 web.cineworld.co.uk</li>
+<li> 07:01 www.cineworld.co.uk</li>
+<li> 07:01 cineworld.co.uk</li>
+<li> 06:56 web.cineworld.co.uk</li>
 <li> 06:56 www.cineworld.co.uk</li>
 <li> 06:56 web.cineworld.co.uk</li>
 <li class='same'> 06:55 web.cineworld.co.uk</li>
@@ -124097,50 +124122,4 @@ With number of accesses/minutes in parentheses
 <li> 16:17 mail.google.com</li>
 <li> 16:15 scholar.google.com</li>
 <li> 16:14 cisse.info</li>
-<li> 16:14 www.google.com</li>
-<li> 16:14 scholar.google.com</li>
-<li> 16:14 www.google.com</li>
-<li> 16:12 chatgpt.com</li>
-<li class='same'> 16:11 chatgpt.com</li>
-<li> 16:11 chat.openai.com</li>
-<li> 16:09 github.com</li>
-<li class='same'> 16:08 github.com</li>
-<li> 16:08 mail.google.com</li>
-<li> 16:08 profile.indeed.com</li>
-<li> 16:08 mail.google.com</li>
-<li> 16:08 gmail.com</li>
-<li> 16:07 secure.indeed.com</li>
-<li> 16:07 mail.google.com</li>
-<li> 16:06 www.meads.w-sussex.sch.uk</li>
-<li> 16:06 themeads.org.uk</li>
-<li> 16:05 www.google.com</li>
-<li> 16:04 mail.google.com</li>
-<li> 16:04 gmail.com</li>
-<li> 16:04 secure.indeed.com</li>
-<li> 16:04 profile.indeed.com</li>
-<li> 16:04 uk.indeed.com</li>
-<li> 16:04 www.google.com</li>
-<li> 16:03 www.reddit.com</li>
-<li> 16:02 www.google.com</li>
-<li> 15:58 www.ons.gov.uk</li>
-<li> 15:58 www.google.com</li>
-<li> 15:57 docs.google.com</li>
-<li> 15:57 drive.google.com</li>
-<li> 15:56 bsky.app</li>
-<li class='same'> 15:50 bsky.app</li>
-<li class='same'> 15:49 bsky.app</li>
-<li> 15:49 outlook.office365.com</li>
-<li class='same'> 15:48 outlook.office365.com</li>
-<li> 15:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 15:48 bsky.app</li>
-<li> 15:48 outlook.office365.com</li>
-<li class='same'> 15:47 outlook.office365.com</li>
-<li> 15:37 bsky.app</li>
-<li> 15:32 outlook.office365.com</li>
-<li> 15:31 web.whatsapp.com</li>
-<li> 15:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 15:30 www.linkedin.com</li>
-<li> 15:30 elitecyber-group.com</li>
-<li class='same'> 15:29 elitecyber-group.com</li>
-<li> 15:29 www.google.com</li>
 </ul>
