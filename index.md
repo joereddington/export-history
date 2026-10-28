@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5984)</li>
-<li>mail.google.com (5138)</li>
-<li>www.google.com (4642)</li>
+<li>mail.google.com (5142)</li>
+<li>www.google.com (4643)</li>
 <li>duckduckgo.com (4103)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3781)</li>
@@ -81,11 +81,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1718)</li>
 <li>login.microsoftonline.com (1614)</li>
 <li>www.facebook.com (1599)</li>
-<li>calendar.google.com (1540)</li>
+<li>calendar.google.com (1542)</li>
 <li>chat.openai.com (1388)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1077)</li>
+<li>gmail.com (1078)</li>
 <li>web.whatsapp.com (1075)</li>
 <li>mail.rhul.ac.uk (889)</li>
 <li>tvtropes.org (864)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:58 mail.google.com</li>
+<ul><li> 08:22 calendar.google.com</li>
+<li> 08:22 www.google.com</li>
+<li> 08:22 calendar.google.com</li>
+<li> 08:22 mail.google.com</li>
+<li class='same'> 08:21 mail.google.com</li>
+<li class='same'> 08:20 mail.google.com</li>
+<li> 08:20 help.cineworld.co.uk</li>
+<li class='same'> 08:18 help.cineworld.co.uk</li>
+<li> 08:18 www.cineworld.co.uk</li>
+<li> 08:17 mail.google.com</li>
+<li> 08:17 gmail.com</li>
+<li> 07:58 mail.google.com</li>
 <li class='same'> 07:57 mail.google.com</li>
 <li> 07:45 127.0.0.1:8000</li>
 <li class='same'> 07:42 127.0.0.1:8000</li>
