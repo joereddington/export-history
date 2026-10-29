@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5982)</li>
 <li>mail.google.com (5147)</li>
 <li>www.google.com (4627)</li>
-<li>duckduckgo.com (4107)</li>
+<li>duckduckgo.com (4108)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3772)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3012)</li>
 <li>www.linkedin.com (2375)</li>
 <li>moodle.royalholloway.ac.uk (1922)</li>
-<li>bsky.app (1750)</li>
+<li>bsky.app (1751)</li>
 <li>login.microsoftonline.com (1615)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
@@ -104,11 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 29/10/26</H3>
+
+<br>
+
+<ul><li> 08:27 bsky.app</li>
+<li> 08:27 duckduckgo.com</li>
+<li> 08:27 orbital.fusemetrix.com</li>
+<li> 08:27 192.168.178.1</li>
+</ul>
+
 <H3>Wednesday, 28/10/26</H3>
 
 <br>
 
-<ul><li> 19:29 192.168.178.1</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:29 192.168.178.1</li>
 <li> 19:29 bsky.app</li>
 </ul>
 
