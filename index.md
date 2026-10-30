@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5982)</li>
 <li>mail.google.com (5147)</li>
-<li>www.google.com (4620)</li>
+<li>www.google.com (4618)</li>
 <li>duckduckgo.com (4114)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:56 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 12:07 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 11:56 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 11:56 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 11:55 login.microsoftonline.com</li>
 <li> 11:55 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -124187,21 +124188,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:41 claude.ai</li>
 <li class='same'> 11:40 claude.ai</li>
-<li> 11:40 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 11:40 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 11:40 <a href="https://en.wikipedia.org/wiki/EasyJet_data_breach">Editing EasyJet data breach - Wikipedia</a></li>
-<li> 11:40 <a href="https://en.wikipedia.org/wiki/T-Mobile_US_breach">T-Mobile US breach - Wikipedia</a></li>
-<li> 11:39 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
-<li> 11:39 <a href="https://en.wikipedia.org/wiki/T-Mobile_US?wprov=srpw1_0">T-Mobile US - Wikipedia</a></li>
-<li> 11:39 <a href="https://en.wikipedia.org/wiki/Special:Search?search=tmobile+data+breach&amp;ns0=1&amp;ns118=1&amp;fulltext=Search&amp;searchToken=5b4xbsyuuctw70w0ag3kfsbp">tmobile data breach - Search results - Wikipedia</a></li>
-<li> 11:39 <a href="https://en.wikipedia.org/wiki/Special:Search?search=tmobile+data+breach&amp;ns0=1&amp;ns118=1&amp;fulltext=Search">tmobile data breach - Search results - Wikipedia</a></li>
-<li> 11:39 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
-<li> 11:39 <a href="https://en.wikipedia.org/wiki/T-Mobile_US?action=edit&amp;section=72&amp;veswitched=1">Editing T-Mobile US (section) - Wikipedia</a></li>
-<li> 11:39 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_US&amp;action=edit&amp;section=72">Editing T-Mobile US - Wikipedia</a></li>
-<li> 11:38 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
-<li> 11:38 <a href="https://en.wikipedia.org/wiki/T-Mobile">T-Mobile - Wikipedia</a></li>
-<li> 11:38 www.google.com</li>
-<li> 11:38 <a href="https://en.wikipedia.org/wiki/Help:Your_first_article">Help:Your first article - Wikipedia</a></li>
-<li> 11:38 www.google.com</li>
-<li> 11:38 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 </ul>
