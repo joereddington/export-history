@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2380)</li>
 <li>moodle.royalholloway.ac.uk (1922)</li>
 <li>bsky.app (1757)</li>
-<li>login.microsoftonline.com (1616)</li>
+<li>login.microsoftonline.com (1620)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1389)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/10/26</H3>
+
+<br>
+
+<ul><li> 11:27 dashboards.rhul.ac.uk</li>
+<li> 11:09 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:09 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:09 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:09 login.microsoftonline.com</li>
+<li> 11:09 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:09 login.microsoftonline.com</li>
+<li> 11:09 device.login.microsoftonline.com</li>
+<li> 11:09 login.microsoftonline.com</li>
+<li> 11:09 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:09 login.microsoftonline.com</li>
+<li> 11:09 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:09 eis-prod.ec.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
