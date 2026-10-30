@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5982)</li>
 <li>mail.google.com (5147)</li>
-<li>www.google.com (4618)</li>
+<li>www.google.com (4613)</li>
 <li>duckduckgo.com (4115)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3017)</li>
-<li>www.linkedin.com (2383)</li>
-<li>moodle.royalholloway.ac.uk (1925)</li>
-<li>bsky.app (1757)</li>
-<li>login.microsoftonline.com (1627)</li>
+<li>www.linkedin.com (2384)</li>
+<li>moodle.royalholloway.ac.uk (1927)</li>
+<li>bsky.app (1759)</li>
+<li>login.microsoftonline.com (1631)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1392)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/10/26</H3>
+
+<br>
+
+<ul><li> 17:58 login.microsoftonline.com</li>
+<li> 17:58 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:58 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:58 login.microsoftonline.com</li>
+<li> 17:58 device.login.microsoftonline.com</li>
+<li> 17:58 login.microsoftonline.com</li>
+<li> 17:58 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:57 localhost:8443</li>
+<li> 17:56 bsky.app</li>
+<li> 17:55 www.linkedin.com</li>
+<li> 17:51 bsky.app</li>
+<li> 17:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:49 moodle.royalholloway.ac.uk</li>
+<li> 17:33 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:33 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:33 login.microsoftonline.com</li>
+<li> 17:33 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:33 generalssb-prod.ec.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -124193,31 +124215,4 @@ With number of accesses/minutes in parentheses
 <li> 13:08 pogustgoodhead.com</li>
 <li> 13:07 <a href="https://www.bbc.co.uk/news/technology-57734946">British Airways data-breach compensation claim settled - BBC News</a></li>
 <li> 13:07 www.google.com</li>
-<li> 13:07 www.independent.co.uk</li>
-<li> 13:05 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
-<li> 13:05 www.bbc.com</li>
-<li> 13:03 <a href="https://en.wikipedia.org/wiki/Portal:Current_events/2018_September_7">Portal:Current events/2018 September 7 - Wikipedia</a></li>
-<li> 13:03 www.google.com</li>
-<li> 13:03 www.reuters.com</li>
-<li> 13:00 ieeexplore.ieee.org</li>
-<li> 12:57 www.wired.com</li>
-<li> 12:57 www.google.com</li>
-<li> 12:56 <a href="https://en.wikipedia.org/wiki/Modernizr">Modernizr - Wikipedia</a></li>
-<li> 12:54 <a href="https://www.bbc.co.uk/news/technology-57734946">British Airways data-breach compensation claim settled - BBC News</a></li>
-<li> 12:54 www.google.com</li>
-<li> 12:54 www.independent.co.uk</li>
-<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&amp;oldid=1256144369&amp;action=edit">Editing British Airways data breach - Wikipedia</a></li>
-<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&amp;action=edit">British Airways data breach - Wikipedia</a></li>
-<li> 12:53 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 12:53 www.google.com</li>
-<li> 12:52 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach?wprov=srpw1_2">British Airways data breach - Wikipedia</a></li>
-<li> 12:52 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
-<li> 12:52 <a href="https://en.wikipedia.org/w/index.php?search=ba+data+breach&amp;title=Special%3ASearch&amp;ns0=1&amp;searchToken=8aghzpfb540bdkbsj2mqv6gjz">ba data breach - Search results - Wikipedia</a></li>
-<li> 12:52 <a href="https://en.wikipedia.org/w/index.php?search=ba+data+breach&amp;title=Special%3ASearch&amp;ns0=1">ba data breach - Search results - Wikipedia</a></li>
-<li> 12:52 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-</ul>
-
-<br>
-
-<ul><li> 12:19 www.google.com</li>
 </ul>
