@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5982)</li>
 <li>mail.google.com (5147)</li>
-<li>www.google.com (4627)</li>
-<li>duckduckgo.com (4108)</li>
+<li>www.google.com (4626)</li>
+<li>duckduckgo.com (4110)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3772)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3012)</li>
+<li>chatgpt.com (3014)</li>
 <li>www.linkedin.com (2375)</li>
 <li>moodle.royalholloway.ac.uk (1922)</li>
-<li>bsky.app (1751)</li>
+<li>bsky.app (1752)</li>
 <li>login.microsoftonline.com (1615)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
-<li>chat.openai.com (1388)</li>
+<li>chat.openai.com (1389)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1077)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (804)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (669)</li>
-<li>fritz.box (592)</li>
+<li>fritz.box (594)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
 <li>www.theguardian.com (462)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:27 bsky.app</li>
+<ul><li> 21:19 bsky.app</li>
+<li> 21:17 chatgpt.com</li>
+<li class='same'> 21:15 chatgpt.com</li>
+<li> 21:15 chat.openai.com</li>
+<li> 21:15 duckduckgo.com</li>
+<li class='same'> 21:14 duckduckgo.com</li>
+<li> 21:14 192.168.178.1</li>
+<li> 21:13 fritz.box</li>
+<li class='same'> 21:12 fritz.box</li>
+<li> 21:12 firefox-portal-detection.com</li>
+<li> 21:12 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 08:36 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 08:36 live.opayo.eu.elavon.com</li>
+<li class='same'> 08:35 live.opayo.eu.elavon.com</li>
+<li class='same'> 08:34 live.opayo.eu.elavon.com</li>
+<li class='same'> 08:32 live.opayo.eu.elavon.com</li>
+<li> 08:32 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:31 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:30 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 08:30 www.orbitaltrampolinepark.co.uk</li>
+<li> 08:30 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 08:30 www.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:29 www.orbitaltrampolinepark.co.uk</li>
+<li> 08:27 bsky.app</li>
 <li> 08:27 duckduckgo.com</li>
 <li> 08:27 orbital.fusemetrix.com</li>
 <li> 08:27 192.168.178.1</li>
@@ -13346,20 +13373,13 @@ With number of accesses/minutes in parentheses
 <li> 19:52 www.reddit.com</li>
 <li class='same'> 19:51 www.reddit.com</li>
 <li> 19:51 www.google.com</li>
-<li> 19:51 accounts.google.com</li>
-<li> 19:51 www.google.com</li>
 <li> 19:50 www.reddit.com</li>
 <li> 19:50 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 11:30 www.bluelightcard.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 10:28 www.google.com</li>
+<ul><li class='same'> 10:28 www.google.com</li>
 <li> 10:28 www.wild-and-seek.co.uk</li>
 </ul>
 
@@ -124130,5 +124150,4 @@ With number of accesses/minutes in parentheses
 <li> 09:32 www.google.com</li>
 <li> 09:24 wikimania.wikimedia.org</li>
 <li> 09:23 www.jstor.org</li>
-<li class='same'> 09:22 www.jstor.org</li>
 </ul>
