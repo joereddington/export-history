@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5982)</li>
 <li>mail.google.com (5147)</li>
 <li>www.google.com (4618)</li>
-<li>duckduckgo.com (4114)</li>
+<li>duckduckgo.com (4115)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3017)</li>
-<li>www.linkedin.com (2381)</li>
-<li>moodle.royalholloway.ac.uk (1924)</li>
+<li>www.linkedin.com (2383)</li>
+<li>moodle.royalholloway.ac.uk (1925)</li>
 <li>bsky.app (1757)</li>
-<li>login.microsoftonline.com (1625)</li>
+<li>login.microsoftonline.com (1627)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1392)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:14 moodle.royalholloway.ac.uk</li>
+<ul><li> 16:56 localhost:8443</li>
+<li class='same'> 16:55 localhost:8443</li>
+<li class='same'> 16:54 localhost:8443</li>
+<li> 16:50 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:50 login.microsoftonline.com</li>
+<li> 16:50 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:50 device.login.microsoftonline.com</li>
+<li> 16:50 login.microsoftonline.com</li>
+<li> 16:50 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:50 <a href="https://en.wikipedia.org/wiki/Shrivenham">Shrivenham - Wikipedia</a></li>
+<li> 16:50 duckduckgo.com</li>
+<li> 16:49 www.linkedin.com</li>
+<li class='same'> 16:46 www.linkedin.com</li>
+<li> 16:31 moodle.royalholloway.ac.uk</li>
+<li> 16:31 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 16:30 fyp.cs.rhul.ac.uk</li>
+<li> 16:14 moodle.royalholloway.ac.uk</li>
 <li> 16:14 login.microsoftonline.com</li>
 <li class='same'> 16:13 login.microsoftonline.com</li>
 <li> 16:13 device.login.microsoftonline.com</li>
@@ -124204,10 +124220,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:19 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:41 claude.ai</li>
-<li class='same'> 11:40 claude.ai</li>
 </ul>
