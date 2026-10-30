@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5982)</li>
 <li>mail.google.com (5147)</li>
-<li>www.google.com (4613)</li>
-<li>duckduckgo.com (4115)</li>
+<li>www.google.com (4610)</li>
+<li>duckduckgo.com (4116)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
-<li>docs.google.com (3236)</li>
-<li>chatgpt.com (3017)</li>
-<li>www.linkedin.com (2384)</li>
-<li>moodle.royalholloway.ac.uk (1927)</li>
-<li>bsky.app (1759)</li>
+<li>docs.google.com (3235)</li>
+<li>chatgpt.com (3019)</li>
+<li>www.linkedin.com (2385)</li>
+<li>moodle.royalholloway.ac.uk (1930)</li>
+<li>bsky.app (1761)</li>
 <li>login.microsoftonline.com (1631)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
-<li>chat.openai.com (1392)</li>
+<li>chat.openai.com (1393)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1077)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:58 login.microsoftonline.com</li>
+<ul><li> 18:22 dashboards.rhul.ac.uk</li>
+<li> 18:14 chatgpt.com</li>
+<li class='same'> 18:13 chatgpt.com</li>
+<li> 18:13 chat.openai.com</li>
+<li> 18:10 bsky.app</li>
+<li class='same'> 18:09 bsky.app</li>
+<li> 18:09 www.linkedin.com</li>
+<li> 18:09 duckduckgo.com</li>
+<li> 18:07 rhul.hosted.panopto.com</li>
+<li class='same'> 18:06 rhul.hosted.panopto.com</li>
+<li> 18:06 moodle.royalholloway.ac.uk</li>
+<li> 18:06 rhul.hosted.panopto.com</li>
+<li> 18:05 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:02 moodle.royalholloway.ac.uk</li>
+<li> 17:58 login.microsoftonline.com</li>
 <li> 17:58 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:58 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 17:58 login.microsoftonline.com</li>
@@ -124194,25 +124208,4 @@ With number of accesses/minutes in parentheses
 <li> 13:45 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
 <li> 13:45 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
 <li> 13:44 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
-<li> 13:44 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
-<li> 13:44 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Yahoo_data_breaches&amp;action=edit">Editing Talk:Yahoo data breaches - Wikipedia</a></li>
-<li> 13:44 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo_data_breaches">Talk:Yahoo data breaches - Wikipedia</a></li>
-<li> 13:43 <a href="https://en.wikipedia.org/w/index.php?title=Talk:British_Airways_data_breach&amp;action=edit">Editing Talk:British Airways data breach - Wikipedia</a></li>
-<li> 13:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
-<li> 13:43 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
-<li> 13:43 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&amp;action=history">British Airways data breach: Revision history - Wikipedia</a></li>
-<li> 13:43 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach?venotify=saved">British Airways data breach - Wikipedia</a></li>
-<li> 13:43 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
-<li> 13:43 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&amp;action=edit">British Airways data breach - Wikipedia</a></li>
-<li> 13:42 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_criteria">Wikipedia:Good article criteria - Wikipedia</a></li>
-<li> 13:42 www.google.com</li>
-<li> 13:41 www.independent.co.uk</li>
-<li> 13:40 www.ft.com</li>
-<li> 13:13 docs.google.com</li>
-<li> 13:12 drive.google.com</li>
-<li> 13:08 pogustgoodhead.com</li>
-<li> 13:08 www.google.com</li>
-<li> 13:08 pogustgoodhead.com</li>
-<li> 13:07 <a href="https://www.bbc.co.uk/news/technology-57734946">British Airways data-breach compensation claim settled - BBC News</a></li>
-<li> 13:07 www.google.com</li>
 </ul>
