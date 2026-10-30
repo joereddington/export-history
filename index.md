@@ -77,9 +77,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3017)</li>
 <li>www.linkedin.com (2381)</li>
-<li>moodle.royalholloway.ac.uk (1922)</li>
+<li>moodle.royalholloway.ac.uk (1924)</li>
 <li>bsky.app (1757)</li>
-<li>login.microsoftonline.com (1622)</li>
+<li>login.microsoftonline.com (1625)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1392)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/10/26</H3>
+
+<br>
+
+<ul><li> 16:14 moodle.royalholloway.ac.uk</li>
+<li> 16:14 login.microsoftonline.com</li>
+<li class='same'> 16:13 login.microsoftonline.com</li>
+<li> 16:13 device.login.microsoftonline.com</li>
+<li> 16:13 moodle.royalholloway.ac.uk</li>
+<li> 16:13 login.microsoftonline.com</li>
+</ul>
 
 <br>
 
