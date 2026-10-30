@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:27 localhost:8443</li>
+<ul><li> 10:36 localhost:8443</li>
+<li class='same'> 10:28 localhost:8443</li>
+<li class='same'> 10:27 localhost:8443</li>
 <li> 10:23 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 10:23 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 10:23 login.microsoftonline.com</li>
