@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3014)</li>
-<li>www.linkedin.com (2380)</li>
+<li>chatgpt.com (3016)</li>
+<li>www.linkedin.com (2381)</li>
 <li>moodle.royalholloway.ac.uk (1922)</li>
 <li>bsky.app (1757)</li>
-<li>login.microsoftonline.com (1620)</li>
+<li>login.microsoftonline.com (1622)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
-<li>chat.openai.com (1389)</li>
+<li>chat.openai.com (1391)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1077)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (889)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
-<li>rhul-my.sharepoint.com (804)</li>
+<li>rhul-my.sharepoint.com (806)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (669)</li>
 <li>fritz.box (594)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:27 dashboards.rhul.ac.uk</li>
+<ul><li> 11:56 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:56 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:55 login.microsoftonline.com</li>
+<li> 11:55 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:55 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:47 chatgpt.com</li>
+<li> 11:47 chat.openai.com</li>
+<li> 11:44 dashboards.rhul.ac.uk</li>
+<li> 11:43 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:42 rhul-my.sharepoint.com</li>
+<li> 11:42 login.microsoftonline.com</li>
+<li> 11:42 device.login.microsoftonline.com</li>
+<li> 11:42 rhul-my.sharepoint.com</li>
+<li> 11:40 www.linkedin.com</li>
+<li> 11:39 chatgpt.com</li>
+<li> 11:39 chat.openai.com</li>
+<li> 11:37 <a href="https://joereddington.com/JACOB/?message=Thank%20youeee">Jacob Marley</a></li>
+<li> 11:37 <a href="https://joereddington.com/JACOB/?message=Thank%20you">Jacob Marley</a></li>
+<li> 11:37 <a href="http://joereddington.com/JACOB/?message=Thank%20you"></a></li>
+<li> 11:37 <a href="https://joereddington.com/JACOB/">Jacob Marley</a></li>
+<li> 11:36 github.com</li>
+<li> 11:35 <a href="https://joereddington.com/JACOB/">Jacob Marley</a></li>
+<li> 11:27 dashboards.rhul.ac.uk</li>
 <li> 11:09 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 11:09 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 11:09 generalssb-prod.ec.royalholloway.ac.uk</li>
