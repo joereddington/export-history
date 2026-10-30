@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5982)</li>
 <li>mail.google.com (5147)</li>
-<li>www.google.com (4626)</li>
-<li>duckduckgo.com (4110)</li>
+<li>www.google.com (4620)</li>
+<li>duckduckgo.com (4114)</li>
 <li>outlook.office365.com (3955)</li>
-<li>outlook.office.com (3772)</li>
+<li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3014)</li>
-<li>www.linkedin.com (2375)</li>
+<li>www.linkedin.com (2380)</li>
 <li>moodle.royalholloway.ac.uk (1922)</li>
-<li>bsky.app (1752)</li>
-<li>login.microsoftonline.com (1615)</li>
+<li>bsky.app (1757)</li>
+<li>login.microsoftonline.com (1616)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1389)</li>
@@ -104,7 +104,40 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 30/10/26</H3>
+
+<br>
+
+<ul><li> 10:27 localhost:8443</li>
+<li> 10:23 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:23 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 10:23 login.microsoftonline.com</li>
+<li> 10:23 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:23 device.login.microsoftonline.com</li>
+<li> 10:23 dashboards.rhul.ac.uk</li>
+<li> 10:19 duckduckgo.com</li>
+<li class='same'> 10:18 duckduckgo.com</li>
+<li> 10:18 <a href="https://www.youtube.com/shorts/P5zVHJV_MO0">I will deal with them myself.#shorts - YouTube</a></li>
+<li> 10:18 duckduckgo.com</li>
+<li class='same'> 10:17 duckduckgo.com</li>
+<li> 10:15 www.linkedin.com</li>
+<li> 10:15 bsky.app</li>
+<li class='same'> 10:13 bsky.app</li>
+<li> 10:11 www.linkedin.com</li>
+<li> 10:10 bsky.app</li>
+<li class='same'> 10:09 bsky.app</li>
+<li> 10:08 cdn.bsky.app</li>
+<li> 10:07 www.linkedin.com</li>
+<li> 10:07 bsky.app</li>
+<li> 10:07 www.linkedin.com</li>
+<li class='same'> 10:06 www.linkedin.com</li>
+</ul>
+
 <H3>Thursday, 29/10/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -13259,7 +13292,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:15 www.giantitp.com</li>
 <li> 11:15 www.facebook.com</li>
 <li> 11:14 www.reddit.com</li>
-<li> 11:13 www.blogcdn.com</li>
 <li> 11:13 imgur.com</li>
 <li> 11:10 www.reddit.com</li>
 <li class='same'> 11:09 www.reddit.com</li>
@@ -124131,23 +124163,4 @@ With number of accesses/minutes in parentheses
 <li> 11:38 <a href="https://en.wikipedia.org/wiki/Help:Your_first_article">Help:Your first article - Wikipedia</a></li>
 <li> 11:38 www.google.com</li>
 <li> 11:38 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
-<li> 11:38 www.google.com</li>
-<li> 11:36 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 11:35 www.google.com</li>
-<li class='same'> 11:33 www.google.com</li>
-<li> 11:27 <a href="https://en.wikipedia.org/wiki/Largest_airlines_in_the_world">Largest airlines in the world - Wikipedia</a></li>
-<li> 11:27 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:08 outlook.office.com</li>
-<li class='same'> 10:07 outlook.office.com</li>
-<li> 09:54 ico.org.uk</li>
-<li> 09:54 mediacentre.britishairways.com</li>
-<li> 09:54 www.google.com</li>
-<li> 09:33 <a href="https://en.wikipedia.org/wiki/EasyJet">EasyJet - Wikipedia</a></li>
-<li> 09:32 www.google.com</li>
-<li> 09:24 wikimania.wikimedia.org</li>
-<li> 09:23 www.jstor.org</li>
 </ul>
