@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5982)</li>
+<ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5148)</li>
-<li>www.google.com (4610)</li>
+<li>www.google.com (4609)</li>
 <li>duckduckgo.com (4116)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:22 www.parkrun.org.uk</li>
+<ul><li> 13:25 localhost:8443</li>
+</ul>
+
+<br>
+
+<ul><li> 12:40 localhost:8444</li>
+<li> 12:30 www.parkrun.org.uk</li>
+<li class='same'> 12:22 www.parkrun.org.uk</li>
 <li> 12:22 mail.google.com</li>
 <li> 12:22 gmail.com</li>
 <li> 12:18 localhost:8444</li>
@@ -13383,7 +13390,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:42 www.better.org.uk</li>
 <li> 08:42 www.google.com</li>
 <li class='same'> 08:41 www.google.com</li>
-<li> 08:41 www.reddit.com</li>
 </ul>
 
 <H3>Friday, 31/07/26</H3>
@@ -13394,7 +13400,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 16:11 www.reddit.com</li>
+<ul><li> 16:11 www.reddit.com</li>
 </ul>
 
 <br>
@@ -124218,10 +124224,4 @@ With number of accesses/minutes in parentheses
 <li> 13:48 <a href="https://en.wikipedia.org/wiki/British_Airways">British Airways - Wikipedia</a></li>
 <li> 13:47 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
 <li> 13:47 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach?venotify=saved">T-Mobile data breach - Wikipedia</a></li>
-<li> 13:47 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 13:46 www.google.com</li>
-<li> 13:45 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 13:45 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 13:45 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
-<li> 13:44 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 </ul>
