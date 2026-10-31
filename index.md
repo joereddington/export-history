@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5148)</li>
-<li>www.google.com (4609)</li>
+<li>www.google.com (4607)</li>
 <li>duckduckgo.com (4116)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
-<li>docs.google.com (3235)</li>
-<li>chatgpt.com (3019)</li>
+<li>docs.google.com (3236)</li>
+<li>chatgpt.com (3018)</li>
 <li>www.linkedin.com (2385)</li>
 <li>moodle.royalholloway.ac.uk (1930)</li>
 <li>bsky.app (1761)</li>
 <li>login.microsoftonline.com (1633)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
-<li>chat.openai.com (1393)</li>
+<li>chat.openai.com (1392)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1078)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 31/10/26</H3>
+
+<br>
+
+<ul><li> 14:28 docs.google.com</li>
+<li> 14:18 localhost:8444</li>
+</ul>
 
 <br>
 
@@ -124216,24 +124222,4 @@ With number of accesses/minutes in parentheses
 <li> 14:05 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
 <li> 14:03 www.theverge.com</li>
 <li> 14:03 www.engadget.com</li>
-<li> 14:02 www.t-mobile.com</li>
-<li> 14:01 <a href="https://www.bbc.co.uk/news/business-58263521">40 million T-Mobile customers hit by US data breach - BBC News</a></li>
-<li> 14:01 www.wsj.com</li>
-<li> 14:01 www.google.com</li>
-<li> 13:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 13:57 www.t-mobile.com</li>
-<li> 13:56 chatgpt.com</li>
-<li> 13:56 chat.openai.com</li>
-<li> 13:56 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach?action=edit&amp;veswitched=1#Timeline">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 13:56 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=1">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 13:56 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 13:56 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#Timeline">T-Mobile data breach - Wikipedia</a></li>
-<li> 13:53 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=1">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 13:52 ieeexplore.ieee.org</li>
-<li> 13:52 www.bloomberg.com</li>
-<li> 13:51 www.wired.com</li>
-<li> 13:51 www.google.com</li>
-<li> 13:51 www.404media.co</li>
-<li> 13:50 www.axios.com</li>
-<li> 13:48 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&amp;action=edit&amp;section=4">Section editing not supported - Wikipedia</a></li>
 </ul>
