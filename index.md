@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:11 localhost:8444</li>
+<ul><li> 10:39 localhost:8444</li>
+<li class='same'> 10:11 localhost:8444</li>
 <li class='same'> 10:08 localhost:8444</li>
 <li> 10:07 chatgpt.com</li>
 <li class='same'> 10:04 chatgpt.com</li>
