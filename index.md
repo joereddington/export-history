@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5148)</li>
-<li>www.google.com (4607)</li>
-<li>duckduckgo.com (4116)</li>
+<li>www.google.com (4603)</li>
+<li>duckduckgo.com (4117)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3018)</li>
+<li>chatgpt.com (3023)</li>
 <li>www.linkedin.com (2385)</li>
 <li>moodle.royalholloway.ac.uk (1930)</li>
 <li>bsky.app (1761)</li>
 <li>login.microsoftonline.com (1633)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1548)</li>
-<li>chat.openai.com (1392)</li>
+<li>chat.openai.com (1394)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1078)</li>
@@ -104,7 +104,46 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 01/11/26</H3>
+
+<br>
+
+<ul><li> 10:11 localhost:8444</li>
+<li class='same'> 10:08 localhost:8444</li>
+<li> 10:07 chatgpt.com</li>
+<li class='same'> 10:04 chatgpt.com</li>
+<li> 10:04 localhost:8444</li>
+<li> 10:03 chatgpt.com</li>
+<li> 10:03 chat.openai.com</li>
+</ul>
+
 <H3>Saturday, 31/10/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:08 192.168.178.1</li>
+<li> 20:01 localhost:8444</li>
+<li> 20:01 localhost:8443</li>
+<li> 19:59 localhost:8444</li>
+<li class='same'> 19:58 localhost:8444</li>
+<li class='same'> 19:56 localhost:8444</li>
+<li> 19:51 chatgpt.com</li>
+<li class='same'> 19:50 chatgpt.com</li>
+<li> 19:50 chat.openai.com</li>
+<li> 19:49 duckduckgo.com</li>
+<li> 19:47 localhost:8444</li>
+<li class='same'> 19:46 localhost:8444</li>
+<li> 19:36 192.168.178.1</li>
+<li class='same'> 19:35 192.168.178.1</li>
+<li class='same'> 19:34 192.168.178.1</li>
+<li> 19:33 localhost:8443</li>
+<li> 19:32 192.168.178.1</li>
+<li> 19:31 localhost:8443</li>
+</ul>
 
 <br>
 
@@ -124199,28 +124238,4 @@ With number of accesses/minutes in parentheses
 <li> 14:31 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#July_2021">T-Mobile data breach - Wikipedia</a></li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/Brute-force_attack">Brute-force attack - Wikipedia</a></li>
 <li> 14:28 www.google.com</li>
-<li> 14:28 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:28 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=3">Editing T-Mobile data breach (section) - Wikipedia</a></li>
-<li> 14:26 ieeexplore.ieee.org</li>
-<li> 14:20 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:19 www.wsj.com</li>
-<li> 14:19 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:18 krebsonsecurity.com</li>
-<li> 14:18 www.wsj.com</li>
-<li> 14:18 www.google.com</li>
-<li> 14:13 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:13 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach?venotify=saved">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:13 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:11 threatpost.com</li>
-<li> 14:10 www.govconwire.com</li>
-<li> 14:10 www.channelfutures.com</li>
-<li> 14:10 www.google.com</li>
-<li class='same'> 14:09 www.google.com</li>
-<li> 14:08 firewalltimes.com</li>
-<li> 14:07 www.complianceweek.com</li>
-<li> 14:07 www.google.com</li>
-<li> 14:07 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;oldid=1259680545&amp;action=edit">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 14:05 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:03 www.theverge.com</li>
-<li> 14:03 www.engadget.com</li>
 </ul>
