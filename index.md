@@ -76,17 +76,17 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3023)</li>
-<li>www.linkedin.com (2388)</li>
-<li>moodle.royalholloway.ac.uk (1943)</li>
-<li>bsky.app (1756)</li>
-<li>login.microsoftonline.com (1634)</li>
+<li>www.linkedin.com (2387)</li>
+<li>moodle.royalholloway.ac.uk (1948)</li>
+<li>bsky.app (1752)</li>
+<li>login.microsoftonline.com (1635)</li>
 <li>www.facebook.com (1599)</li>
-<li>calendar.google.com (1550)</li>
+<li>calendar.google.com (1551)</li>
 <li>chat.openai.com (1394)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1079)</li>
-<li>web.whatsapp.com (1072)</li>
+<li>web.whatsapp.com (1071)</li>
 <li>mail.rhul.ac.uk (888)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:39 moodle.royalholloway.ac.uk</li>
+<ul><li> 13:27 calendar.google.com</li>
+<li> 13:23 moodle.royalholloway.ac.uk</li>
+<li> 13:22 forms.cloud.microsoft</li>
+<li class='same'> 13:21 forms.cloud.microsoft</li>
+<li> 13:21 login.microsoftonline.com</li>
+<li> 13:21 forms.cloud.microsoft</li>
+<li> 13:21 device.login.microsoftonline.com</li>
+<li> 13:21 forms.cloud.microsoft</li>
+<li> 13:16 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:08 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:07 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:39 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:38 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:33 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:32 moodle.royalholloway.ac.uk</li>
@@ -124226,11 +124238,4 @@ With number of accesses/minutes in parentheses
 <li> 16:49 mail.google.com</li>
 <li class='same'> 16:48 mail.google.com</li>
 <li> 16:48 gmail.com</li>
-<li> 16:48 www.linkedin.com</li>
-<li> 16:47 bsky.app</li>
-<li> 16:40 web.whatsapp.com</li>
-<li> 16:40 bsky.app</li>
-<li class='same'> 16:32 bsky.app</li>
-<li class='same'> 16:31 bsky.app</li>
-<li> 16:19 www.sciencedirect.com</li>
 </ul>
