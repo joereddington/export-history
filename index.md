@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5150)</li>
-<li>www.google.com (4593)</li>
+<li>www.google.com (4591)</li>
 <li>duckduckgo.com (4119)</li>
 <li>outlook.office365.com (3954)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3024)</li>
+<li>chatgpt.com (3023)</li>
 <li>www.linkedin.com (2388)</li>
-<li>moodle.royalholloway.ac.uk (1938)</li>
+<li>moodle.royalholloway.ac.uk (1943)</li>
 <li>bsky.app (1756)</li>
 <li>login.microsoftonline.com (1634)</li>
 <li>www.facebook.com (1599)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:21 moodle.royalholloway.ac.uk</li>
+<ul><li> 12:39 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:32 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:29 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:21 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:19 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:17 moodle.royalholloway.ac.uk</li>
 <li> 12:17 www.researchgate.net</li>
@@ -124228,24 +124233,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:32 bsky.app</li>
 <li class='same'> 16:31 bsky.app</li>
 <li> 16:19 www.sciencedirect.com</li>
-<li> 16:19 www.google.com</li>
-<li> 16:06 www.nytimes.com</li>
-<li> 16:05 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:05 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 16:05 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 16:05 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 16:05 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 16:05 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 16:05 <a href="https://en.wikipedia.org/"></a></li>
-<li> 16:03 docs.justia.com</li>
-<li> 16:03 www.govinfo.gov</li>
-<li> 16:03 www.google.com</li>
-<li> 16:02 www.scribd.com</li>
-<li> 16:02 www.foxbusiness.com</li>
-<li> 16:02 www.fox13seattle.com</li>
-<li> 16:02 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:01 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:00 www.reuters.com</li>
-<li> 15:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 15:59 chatgpt.com</li>
 </ul>
