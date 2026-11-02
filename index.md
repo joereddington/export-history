@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
-<li>mail.google.com (5153)</li>
-<li>www.google.com (4573)</li>
+<li>mail.google.com (5149)</li>
+<li>www.google.com (4572)</li>
 <li>duckduckgo.com (4127)</li>
-<li>outlook.office365.com (3954)</li>
+<li>outlook.office365.com (3952)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3020)</li>
-<li>www.linkedin.com (2391)</li>
+<li>chatgpt.com (3023)</li>
+<li>www.linkedin.com (2393)</li>
 <li>moodle.royalholloway.ac.uk (1952)</li>
-<li>bsky.app (1755)</li>
-<li>login.microsoftonline.com (1638)</li>
+<li>bsky.app (1758)</li>
+<li>login.microsoftonline.com (1639)</li>
 <li>www.facebook.com (1599)</li>
-<li>calendar.google.com (1553)</li>
-<li>chat.openai.com (1392)</li>
+<li>calendar.google.com (1552)</li>
+<li>chat.openai.com (1394)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1079)</li>
+<li>gmail.com (1076)</li>
 <li>web.whatsapp.com (1071)</li>
-<li>mail.rhul.ac.uk (888)</li>
+<li>mail.rhul.ac.uk (887)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (862)</li>
 <li>rhul-my.sharepoint.com (808)</li>
 <li>forms.office.com (737)</li>
-<li>rhul.sharepoint.com (669)</li>
+<li>rhul.sharepoint.com (672)</li>
 <li>fritz.box (594)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:59 rhul.hosted.panopto.com</li>
+<ul><li> 16:22 chatgpt.com</li>
+<li> 16:22 chat.openai.com</li>
+<li> 16:19 bsky.app</li>
+<li class='same'> 16:18 bsky.app</li>
+<li class='same'> 16:16 bsky.app</li>
+<li> 16:16 www.linkedin.com</li>
+<li class='same'> 16:15 www.linkedin.com</li>
+<li> 16:06 support.microsoft.com</li>
+<li> 16:06 rhul.sharepoint.com</li>
+<li class='same'> 16:05 rhul.sharepoint.com</li>
+<li> 16:05 login.microsoftonline.com</li>
+<li> 16:05 device.login.microsoftonline.com</li>
+<li> 16:05 rhul.sharepoint.com</li>
+<li> 16:04 mail.google.com</li>
+<li> 16:03 support.microsoft.com</li>
+<li> 16:03 chatgpt.com</li>
+<li class='same'> 16:02 chatgpt.com</li>
+<li> 16:02 chat.openai.com</li>
+<li> 16:01 rhul.hosted.panopto.com</li>
+<li class='same'> 16:00 rhul.hosted.panopto.com</li>
+<li class='same'> 15:59 rhul.hosted.panopto.com</li>
 <li> 15:54 x.com</li>
 <li> 15:53 feedly.com</li>
 <li class='same'> 15:50 feedly.com</li>
@@ -124112,36 +124132,4 @@ With number of accesses/minutes in parentheses
 <li> 09:18 www.cybersecuritydive.com</li>
 <li> 09:15 www.rapid7.com</li>
 <li> 09:13 bsky.app</li>
-<li> 09:12 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
-<li> 09:12 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 09:12 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 09:12 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 09:12 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&amp;action=history">2023 MOVEit data breach: Revision history - Wikipedia</a></li>
-<li> 09:12 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach">2023 MOVEit data breach - Wikipedia</a></li>
-<li> 09:12 <a href="https://en.wikipedia.org/wiki/Talk:2023_MOVEit_data_breach">Talk:2023 MOVEit data breach - Wikipedia</a></li>
-<li> 09:12 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#Response">2023 MOVEit data breach - Wikipedia</a></li>
-<li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&amp;action=edit&amp;section=5">2023 MOVEit data breach - Wikipedia</a></li>
-<li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&amp;action=edit">Editing 2023 MOVEit data breach - Wikipedia</a></li>
-<li> 09:04 mail.google.com</li>
-<li class='same'> 09:03 mail.google.com</li>
-<li> 09:03 gmail.com</li>
-<li> 09:03 mail.google.com</li>
-<li> 09:02 outlook.office365.com</li>
-<li class='same'> 09:01 outlook.office365.com</li>
-<li> 09:01 mail.rhul.ac.uk</li>
-<li> 09:01 calendar.google.com</li>
-<li> 09:01 mail.google.com</li>
-<li> 09:01 gmail.com</li>
-<li> 09:00 mail.google.com</li>
-<li> 09:00 gmail.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:35 www.emsisoft.com</li>
-<li> 07:34 <a href="https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach">2020 United States federal government data breach - Wikipedia</a></li>
-<li> 07:34 <a href="https://en.wikipedia.org/wiki/SolarWinds#2019%E2%80%932020_supply_chain_attacks">SolarWinds - Wikipedia</a></li>
-<li> 07:33 go.gale.com</li>
-<li> 07:32 scholar.google.com</li>
-<li> 07:32 www.google.com</li>
 </ul>
