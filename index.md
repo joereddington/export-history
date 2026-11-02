@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5148)</li>
-<li>www.google.com (4584)</li>
+<li>www.google.com (4583)</li>
 <li>duckduckgo.com (4125)</li>
 <li>outlook.office365.com (3954)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3023)</li>
-<li>www.linkedin.com (2388)</li>
+<li>chatgpt.com (3021)</li>
+<li>www.linkedin.com (2390)</li>
 <li>moodle.royalholloway.ac.uk (1952)</li>
 <li>bsky.app (1753)</li>
-<li>login.microsoftonline.com (1635)</li>
+<li>login.microsoftonline.com (1636)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1551)</li>
-<li>chat.openai.com (1394)</li>
+<li>chat.openai.com (1393)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1078)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:29 www.linkedin.com</li>
+<ul><li> 14:58 www.linkedin.com</li>
+<li class='same'> 14:57 www.linkedin.com</li>
+<li> 14:56 royalholloway.akarisoftware.com</li>
+<li class='same'> 14:48 royalholloway.akarisoftware.com</li>
+<li class='same'> 14:47 royalholloway.akarisoftware.com</li>
+<li class='same'> 14:46 royalholloway.akarisoftware.com</li>
+<li class='same'> 14:45 royalholloway.akarisoftware.com</li>
+<li> 14:45 login.microsoftonline.com</li>
+<li> 14:45 device.login.microsoftonline.com</li>
+<li> 14:45 royalholloway.akarisoftware.com</li>
+<li> 14:29 www.linkedin.com</li>
 <li> 14:28 mail.google.com</li>
 <li> 14:25 bsky.app</li>
 <li> 14:24 <a href="https://joereddington.com/2020/08/28/iambic.html">I am very angry about Iambic Pentameter | Joe Reddington</a></li>
@@ -124181,31 +124191,4 @@ With number of accesses/minutes in parentheses
 <li> 06:32 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
 <li> 06:32 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches?action=edit&amp;veswitched=1">Editing Yahoo data breaches - Wikipedia</a></li>
 <li> 06:31 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&amp;action=edit">Editing Yahoo data breaches - Wikipedia</a></li>
-<li> 06:31 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 06:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 06:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Twinkle/Preferences">Wikipedia:Twinkle/Preferences - Wikipedia</a></li>
-<li> 06:30 <a href="https://en.wikipedia.org/wiki/Special:Preferences#mw-prefsection-gadgets">Preferences - Wikipedia</a></li>
-<li> 06:30 <a href="https://en.wikipedia.org/wiki/Wikipedia:Twinkle">Wikipedia:Twinkle - Wikipedia</a></li>
-<li> 06:30 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=history">T-Mobile data breach: Revision history - Wikipedia</a></li>
-<li> 06:29 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#Extent_of_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:27 chatgpt.com</li>
-<li class='same'> 06:26 chatgpt.com</li>
-<li> 06:26 chat.openai.com</li>
-<li> 06:25 www.google.com</li>
-<li> 06:23 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=6">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 06:22 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:19 <a href="https://en.wikipedia.org/wiki/User_talk:Oknazevad">User talk:Oknazevad - Wikipedia</a></li>
-<li> 06:18 adblockplus.org</li>
-<li> 06:18 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Strong_national_ties_to_a_topic">Wikipedia:Manual of Style - Wikipedia</a></li>
-<li> 06:18 <a href="https://en.wikipedia.org/wiki/Wikipedia:TIES">Wikipedia:Manual of Style - Wikipedia</a></li>
-<li> 06:18 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#National_varieties_of_English">Wikipedia:Manual of Style - Wikipedia</a></li>
-<li> 06:18 <a href="https://en.wikipedia.org/wiki/Wikipedia:ENGVAR">Wikipedia:Manual of Style - Wikipedia</a></li>
-<li> 06:17 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:17 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Oknazevad">User contributions for Oknazevad - Wikipedia</a></li>
-<li> 06:17 <a href="https://en.wikipedia.org/wiki/User:Oknazevad">User:Oknazevad - Wikipedia</a></li>
-<li> 06:17 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach">Talk:T-Mobile data breach - Wikipedia</a></li>
-<li> 06:16 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=history">T-Mobile data breach: Revision history - Wikipedia</a></li>
-<li> 06:16 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:16 <a href="https://en.wikipedia.org/wiki/User:Oknazevad">User:Oknazevad - Wikipedia</a></li>
-<li> 06:16 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach">Talk:T-Mobile data breach - Wikipedia</a></li>
 </ul>
