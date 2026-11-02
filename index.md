@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
-<li>mail.google.com (5147)</li>
-<li>www.google.com (4585)</li>
-<li>duckduckgo.com (4122)</li>
+<li>mail.google.com (5148)</li>
+<li>www.google.com (4584)</li>
+<li>duckduckgo.com (4125)</li>
 <li>outlook.office365.com (3954)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3023)</li>
-<li>www.linkedin.com (2387)</li>
+<li>www.linkedin.com (2388)</li>
 <li>moodle.royalholloway.ac.uk (1952)</li>
-<li>bsky.app (1752)</li>
+<li>bsky.app (1753)</li>
 <li>login.microsoftonline.com (1635)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1551)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:53 dashboards.rhul.ac.uk</li>
+<ul><li> 14:29 www.linkedin.com</li>
+<li> 14:28 mail.google.com</li>
+<li> 14:25 bsky.app</li>
+<li> 14:24 <a href="https://joereddington.com/2020/08/28/iambic.html">I am very angry about Iambic Pentameter | Joe Reddington</a></li>
+<li> 14:23 <a href="https://www.youtube.com/signin_prompt?app=desktop&amp;next=https%3A%2F%2Fwww.youtube.com%2Fpost_login"></a></li>
+<li> 14:23 <a href="https://www.youtube.com/signin?action_handle_signin=true&amp;hl=en&amp;next=/post_login&amp;pli=1"></a></li>
+<li> 14:23 accounts.google.com</li>
+<li> 14:22 <a href="https://joereddington.com/2020/08/28/iambic.html">I am very angry about Iambic Pentameter | Joe Reddington</a></li>
+<li> 14:22 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:22 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:22 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+<li> 14:22 bsky.app</li>
+<li> 14:19 <a href="https://en.wikipedia.org/wiki/Politician">Politician - Wikipedia</a></li>
+<li> 14:19 duckduckgo.com</li>
+<li> 14:16 bsky.app</li>
+<li> 14:04 womeninstem.org</li>
+<li> 14:03 duckduckgo.com</li>
+<li> 14:03 www.instagram.com</li>
+<li class='same'> 14:02 www.instagram.com</li>
+<li> 14:01 duckduckgo.com</li>
+<li> 13:53 dashboards.rhul.ac.uk</li>
 <li> 13:50 duckduckgo.com</li>
 <li> 13:48 www.instagram.com</li>
 <li> 13:48 duckduckgo.com</li>
@@ -124188,36 +124208,4 @@ With number of accesses/minutes in parentheses
 <li> 06:16 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
 <li> 06:16 <a href="https://en.wikipedia.org/wiki/User:Oknazevad">User:Oknazevad - Wikipedia</a></li>
 <li> 06:16 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach">Talk:T-Mobile data breach - Wikipedia</a></li>
-<li> 06:15 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 06:15 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 06:15 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 06:15 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-</ul>
-
-<H3>Tuesday, 26/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 17:43 bsky.app</li>
-<li class='same'> 17:42 bsky.app</li>
-<li> 17:39 s3.amazonaws.com</li>
-<li> 17:36 docs.fcc.gov</li>
-<li> 17:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 17:34 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=7">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 17:34 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 17:33 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#Legal_consequences">T-Mobile data breach - Wikipedia</a></li>
-<li> 17:33 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=7">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 17:33 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 17:32 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 17:30 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 17:30 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=2">T-Mobile data breach - Wikipedia</a></li>
-<li> 17:30 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=history">T-Mobile data breach: Revision history - Wikipedia</a></li>
-<li> 17:30 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#Timeline">T-Mobile data breach - Wikipedia</a></li>
-<li> 17:27 www.reuters.com</li>
-<li> 17:27 www.google.com</li>
-<li> 17:26 www.cnet.com</li>
 </ul>
