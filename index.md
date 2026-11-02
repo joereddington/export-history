@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
-<li>mail.google.com (5148)</li>
-<li>www.google.com (4603)</li>
+<li>mail.google.com (5150)</li>
+<li>www.google.com (4596)</li>
 <li>duckduckgo.com (4117)</li>
 <li>outlook.office365.com (3955)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3023)</li>
-<li>www.linkedin.com (2385)</li>
+<li>chatgpt.com (3024)</li>
+<li>www.linkedin.com (2387)</li>
 <li>moodle.royalholloway.ac.uk (1930)</li>
-<li>bsky.app (1761)</li>
+<li>bsky.app (1758)</li>
 <li>login.microsoftonline.com (1633)</li>
 <li>www.facebook.com (1599)</li>
-<li>calendar.google.com (1548)</li>
+<li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1394)</li>
-<li>www.amazon.co.uk (1313)</li>
+<li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1078)</li>
-<li>web.whatsapp.com (1074)</li>
-<li>mail.rhul.ac.uk (889)</li>
+<li>gmail.com (1079)</li>
+<li>web.whatsapp.com (1073)</li>
+<li>mail.rhul.ac.uk (888)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
 <li>rhul-my.sharepoint.com (806)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 rhul.hosted.panopto.com</li>
+<ul><li> 11:57 calendar.google.com</li>
+<li class='same'> 11:56 calendar.google.com</li>
+<li> 11:52 www.eurostar.com</li>
+<li class='same'> 11:47 www.eurostar.com</li>
+<li> 11:46 mail.google.com</li>
+<li> 11:46 www.eurostar.com</li>
+<li> 11:45 mail.google.com</li>
+<li> 11:45 gmail.com</li>
+<li> 11:44 chatgpt.com</li>
+<li> 11:44 www.eurostar.com</li>
+<li> 11:43 www.amazon.co.uk</li>
+<li> 11:42 www.eurostar.com</li>
+<li> 11:40 bsky.app</li>
+<li class='same'> 11:39 bsky.app</li>
+<li> 11:38 www.linkedin.com</li>
+<li class='same'> 11:37 www.linkedin.com</li>
+<li> 11:30 rhul.hosted.panopto.com</li>
+<li class='same'> 11:29 rhul.hosted.panopto.com</li>
 </ul>
 
 <br>
@@ -124244,39 +124261,4 @@ With number of accesses/minutes in parentheses
 <li> 15:49 www.su.rhul.ac.uk</li>
 <li> 15:29 www.google.com</li>
 <li> 15:19 outlook.office365.com</li>
-<li> 15:19 mail.rhul.ac.uk</li>
-<li> 15:18 bsky.app</li>
-<li> 15:09 www.su.rhul.ac.uk</li>
-<li> 15:09 www.google.com</li>
-<li> 15:09 www.su.rhul.ac.uk</li>
-<li> 15:08 www.google.com</li>
-<li> 15:06 bsky.app</li>
-<li> 15:03 web.whatsapp.com</li>
-<li> 15:03 bsky.app</li>
-<li class='same'> 15:00 bsky.app</li>
-<li> 14:57 www.google.com</li>
-<li class='same'> 14:45 www.google.com</li>
-<li> 14:41 bsky.social</li>
-<li> 14:41 www.google.com</li>
-<li class='same'> 14:40 www.google.com</li>
-<li> 14:39 intranet.royalholloway.ac.uk</li>
-<li class='same'> 14:38 intranet.royalholloway.ac.uk</li>
-<li class='same'> 14:37 intranet.royalholloway.ac.uk</li>
-<li> 14:36 bsky.app</li>
-<li> 14:36 teams.microsoft.com</li>
-<li> 14:34 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#Indictment_and_arrest_of_Binns">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:34 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 14:34 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 14:33 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=6">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 14:33 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=5">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 14:33 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=history">T-Mobile data breach: Revision history - Wikipedia</a></li>
-<li> 14:32 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#September_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=5">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:32 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=3">Editing T-Mobile data breach (section) - Wikipedia</a></li>
-<li> 14:31 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#July_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:28 <a href="https://en.wikipedia.org/wiki/Brute-force_attack">Brute-force attack - Wikipedia</a></li>
-<li> 14:28 www.google.com</li>
 </ul>
