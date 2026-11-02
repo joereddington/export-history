@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
-<li>mail.google.com (5150)</li>
-<li>www.google.com (4591)</li>
-<li>duckduckgo.com (4119)</li>
+<li>mail.google.com (5147)</li>
+<li>www.google.com (4585)</li>
+<li>duckduckgo.com (4122)</li>
 <li>outlook.office365.com (3954)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3023)</li>
 <li>www.linkedin.com (2387)</li>
-<li>moodle.royalholloway.ac.uk (1948)</li>
+<li>moodle.royalholloway.ac.uk (1952)</li>
 <li>bsky.app (1752)</li>
 <li>login.microsoftonline.com (1635)</li>
 <li>www.facebook.com (1599)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1394)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1079)</li>
+<li>gmail.com (1078)</li>
 <li>web.whatsapp.com (1071)</li>
 <li>mail.rhul.ac.uk (888)</li>
 <li>tvtropes.org (864)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:27 calendar.google.com</li>
+<ul><li> 13:53 dashboards.rhul.ac.uk</li>
+<li> 13:50 duckduckgo.com</li>
+<li> 13:48 www.instagram.com</li>
+<li> 13:48 duckduckgo.com</li>
+<li> 13:45 womeninstem.org</li>
+<li> 13:45 duckduckgo.com</li>
+<li> 13:44 eprint.iacr.org</li>
+<li> 13:44 scholar.google.com</li>
+<li> 13:42 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:32 moodle.royalholloway.ac.uk</li>
+<li> 13:27 calendar.google.com</li>
 <li> 13:23 moodle.royalholloway.ac.uk</li>
 <li> 13:22 forms.cloud.microsoft</li>
 <li class='same'> 13:21 forms.cloud.microsoft</li>
@@ -124208,34 +124220,4 @@ With number of accesses/minutes in parentheses
 <li> 17:27 www.reuters.com</li>
 <li> 17:27 www.google.com</li>
 <li> 17:26 www.cnet.com</li>
-<li> 17:25 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
-<li> 17:25 www.google.com</li>
-<li> 17:25 www.cnet.com</li>
-<li> 17:23 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=2">T-Mobile data breach - Wikipedia</a></li>
-<li> 17:23 www.cnet.com</li>
-<li> 17:22 www.t-mobilesettlement.com</li>
-<li> 17:22 www.google.com</li>
-<li> 17:22 www.academia.edu</li>
-<li> 17:21 www.google.com</li>
-<li> 17:21 www.sec.gov</li>
-<li> 17:19 s29.q4cdn.com</li>
-<li> 16:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach?venotify=saved">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:59 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:56 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;section=3&amp;oldid=1259699817&amp;action=edit">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 16:55 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=3">Editing T-Mobile data breach (section) - Wikipedia</a></li>
-<li> 16:55 www.google.com</li>
-<li> 16:55 medium.com</li>
-<li> 16:54 www.google.com</li>
-<li> 16:54 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:53 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 16:53 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 16:53 securityboulevard.com</li>
-<li> 16:50 www.google.com</li>
-<li> 16:49 mail.google.com</li>
-<li> 16:49 findarace.com</li>
-<li> 16:49 click.pstmrk.it</li>
-<li> 16:49 mail.google.com</li>
-<li class='same'> 16:48 mail.google.com</li>
-<li> 16:48 gmail.com</li>
 </ul>
