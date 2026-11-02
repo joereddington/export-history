@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5148)</li>
-<li>www.google.com (4583)</li>
-<li>duckduckgo.com (4125)</li>
+<li>www.google.com (4580)</li>
+<li>duckduckgo.com (4127)</li>
 <li>outlook.office365.com (3954)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3021)</li>
+<li>chatgpt.com (3020)</li>
 <li>www.linkedin.com (2390)</li>
 <li>moodle.royalholloway.ac.uk (1952)</li>
 <li>bsky.app (1753)</li>
 <li>login.microsoftonline.com (1636)</li>
 <li>www.facebook.com (1599)</li>
-<li>calendar.google.com (1551)</li>
-<li>chat.openai.com (1393)</li>
+<li>calendar.google.com (1552)</li>
+<li>chat.openai.com (1392)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1078)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 www.linkedin.com</li>
+<ul><li> 15:26 calendar.google.com</li>
+<li> 15:26 duckduckgo.com</li>
+<li> 15:25 onlinelibrary.wiley.com</li>
+<li> 15:25 scholar.google.com</li>
+<li> 15:24 www.researchgate.net</li>
+<li> 15:24 onlinelibrary.wiley.com</li>
+<li> 15:23 wiley.scienceconnect.io</li>
+<li> 15:23 onlinelibrary.wiley.com</li>
+<li> 15:23 duckduckgo.com</li>
+<li> 14:58 www.linkedin.com</li>
 <li class='same'> 14:57 www.linkedin.com</li>
 <li> 14:56 royalholloway.akarisoftware.com</li>
 <li class='same'> 14:48 royalholloway.akarisoftware.com</li>
@@ -124168,27 +124177,4 @@ With number of accesses/minutes in parentheses
 <li> 06:51 www.documentcloud.org</li>
 <li> 06:48 www.vice.com</li>
 <li> 06:48 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:48 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:48 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:48 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:47 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:47 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach?venotify=saved">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:47 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:45 www.fierce-network.com</li>
-<li> 06:44 www.t-mobile.com</li>
-<li class='same'> 06:41 www.t-mobile.com</li>
-<li> 06:41 chatgpt.com</li>
-<li> 06:41 chat.openai.com</li>
-<li> 06:39 www.t-mobile.com</li>
-<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;section=4&amp;oldid=1259819042&amp;action=edit">Editing T-Mobile data breach - Wikipedia</a></li>
-<li> 06:38 www.vice.com</li>
-<li> 06:37 www.google.com</li>
-<li class='same'> 06:35 www.google.com</li>
-<li> 06:34 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit&amp;section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:33 x.com</li>
-<li> 06:33 www.google.com</li>
-<li> 06:33 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:32 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 06:32 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches?action=edit&amp;veswitched=1">Editing Yahoo data breaches - Wikipedia</a></li>
-<li> 06:31 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&amp;action=edit">Editing Yahoo data breaches - Wikipedia</a></li>
 </ul>
