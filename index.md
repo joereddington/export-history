@@ -70,23 +70,23 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5150)</li>
-<li>www.google.com (4596)</li>
-<li>duckduckgo.com (4117)</li>
-<li>outlook.office365.com (3955)</li>
+<li>www.google.com (4593)</li>
+<li>duckduckgo.com (4119)</li>
+<li>outlook.office365.com (3954)</li>
 <li>outlook.office.com (3770)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3024)</li>
-<li>www.linkedin.com (2387)</li>
-<li>moodle.royalholloway.ac.uk (1930)</li>
-<li>bsky.app (1758)</li>
-<li>login.microsoftonline.com (1633)</li>
+<li>www.linkedin.com (2388)</li>
+<li>moodle.royalholloway.ac.uk (1938)</li>
+<li>bsky.app (1756)</li>
+<li>login.microsoftonline.com (1634)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1394)</li>
 <li>www.amazon.co.uk (1314)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1079)</li>
-<li>web.whatsapp.com (1073)</li>
+<li>web.whatsapp.com (1072)</li>
 <li>mail.rhul.ac.uk (888)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (860)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:57 calendar.google.com</li>
+<ul><li> 12:21 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:19 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:17 moodle.royalholloway.ac.uk</li>
+<li> 12:17 www.researchgate.net</li>
+<li> 12:17 duckduckgo.com</li>
+<li> 12:16 moodle.royalholloway.ac.uk</li>
+<li> 12:15 chatgpt.com</li>
+<li> 12:15 chat.openai.com</li>
+<li> 12:13 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:11 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:09 moodle.royalholloway.ac.uk</li>
+<li> 12:09 login.microsoftonline.com</li>
+<li> 12:09 device.login.microsoftonline.com</li>
+<li> 12:09 moodle.royalholloway.ac.uk</li>
+<li> 12:04 duckduckgo.com</li>
+<li> 11:57 www.linkedin.com</li>
+<li> 11:57 calendar.google.com</li>
 <li class='same'> 11:56 calendar.google.com</li>
 <li> 11:52 www.eurostar.com</li>
 <li class='same'> 11:47 www.eurostar.com</li>
@@ -124232,33 +124248,4 @@ With number of accesses/minutes in parentheses
 <li> 16:00 www.reuters.com</li>
 <li> 15:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
 <li> 15:59 chatgpt.com</li>
-<li> 15:58 www.reuters.com</li>
-<li> 15:58 chatgpt.com</li>
-<li> 15:58 chat.openai.com</li>
-<li> 15:58 www.reuters.com</li>
-<li class='same'> 15:57 www.reuters.com</li>
-<li> 15:57 www.google.com</li>
-<li> 15:56 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=edit">T-Mobile data breach - Wikipedia</a></li>
-<li> 15:56 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=history">T-Mobile data breach: Revision history - Wikipedia</a></li>
-<li> 15:56 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 15:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 15:56 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 15:55 web.whatsapp.com</li>
-<li> 15:55 <a href="https://en.wikipedia.org/wiki/T-Mobile_US#2021_data_breach">T-Mobile US - Wikipedia</a></li>
-<li> 15:54 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_US&amp;action=edit&amp;section=72">Editing T-Mobile US - Wikipedia</a></li>
-<li> 15:54 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
-<li> 15:54 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 15:54 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
-<li> 15:54 <a href="https://en.wikipedia.org/wiki/Wikipedia:FAQ/Categorization#How_do_I_add_an_article_to_a_category?">Wikipedia:FAQ/Categorization - Wikipedia</a></li>
-<li> 15:54 <a href="https://en.wikipedia.org/wiki/Wikipedia:Categorization_FAQ#How_do_I_add_an_article_to_a_category?">Wikipedia:FAQ/Categorization - Wikipedia</a></li>
-<li> 15:53 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 15:53 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 15:53 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 15:53 bsky.app</li>
-<li> 15:52 <a href="https://en.wikipedia.org/wiki/Sean_Combs">Sean Combs - Wikipedia</a></li>
-<li> 15:52 www.google.com</li>
-<li> 15:51 bsky.app</li>
-<li> 15:49 www.su.rhul.ac.uk</li>
-<li> 15:29 www.google.com</li>
-<li> 15:19 outlook.office365.com</li>
 </ul>
