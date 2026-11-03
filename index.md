@@ -76,8 +76,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3235)</li>
 <li>chatgpt.com (3020)</li>
-<li>www.linkedin.com (2394)</li>
-<li>moodle.royalholloway.ac.uk (1957)</li>
+<li>www.linkedin.com (2398)</li>
+<li>moodle.royalholloway.ac.uk (1961)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1649)</li>
 <li>www.facebook.com (1593)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (862)</li>
 <li>rhul-my.sharepoint.com (808)</li>
 <li>forms.office.com (737)</li>
-<li>rhul.sharepoint.com (673)</li>
+<li>rhul.sharepoint.com (674)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:26 rhul.sharepoint.com</li>
+<ul><li> 13:55 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:54 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:53 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:52 moodle.royalholloway.ac.uk</li>
+<li> 13:33 www.linkedin.com</li>
+<li class='same'> 13:32 www.linkedin.com</li>
+<li class='same'> 13:30 www.linkedin.com</li>
+<li class='same'> 13:29 www.linkedin.com</li>
+<li> 13:27 rhul.sharepoint.com</li>
+<li class='same'> 13:26 rhul.sharepoint.com</li>
 </ul>
 
 <br>
