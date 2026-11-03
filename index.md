@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
-<li>www.google.com (4554)</li>
-<li>duckduckgo.com (4131)</li>
+<li>www.google.com (4555)</li>
+<li>duckduckgo.com (4133)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3020)</li>
-<li>www.linkedin.com (2398)</li>
+<li>chatgpt.com (3022)</li>
+<li>www.linkedin.com (2399)</li>
 <li>moodle.royalholloway.ac.uk (1961)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1649)</li>
 <li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1552)</li>
-<li>chat.openai.com (1393)</li>
+<li>chat.openai.com (1394)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1074)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:55 moodle.royalholloway.ac.uk</li>
+<ul><li> 14:24 www.disneyholidays.co.uk</li>
+<li> 14:24 secure.worldpay.com</li>
+<li> 14:24 payments.worldpay.com</li>
+<li> 14:24 www.paypal.com</li>
+<li class='same'> 14:23 www.paypal.com</li>
+<li> 14:23 payments.worldpay.com</li>
+<li> 14:23 www.disneyholidays.co.uk</li>
+<li class='same'> 14:22 www.disneyholidays.co.uk</li>
+<li class='same'> 14:21 www.disneyholidays.co.uk</li>
+<li class='same'> 14:20 www.disneyholidays.co.uk</li>
+<li> 14:18 templates.meme</li>
+<li> 14:17 chatgpt.com</li>
+<li class='same'> 14:16 chatgpt.com</li>
+<li> 14:16 chat.openai.com</li>
+<li> 14:16 knowyourmeme.com</li>
+<li> 14:16 duckduckgo.com</li>
+<li class='same'> 14:15 duckduckgo.com</li>
+<li> 14:10 rhul.hosted.panopto.com</li>
+<li class='same'> 14:09 rhul.hosted.panopto.com</li>
+<li> 14:07 x.com</li>
+<li> 14:07 www.google.com</li>
+<li> 14:04 www.linkedin.com</li>
+<li> 13:55 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:54 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:53 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:52 moodle.royalholloway.ac.uk</li>
