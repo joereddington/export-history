@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3235)</li>
 <li>chatgpt.com (3023)</li>
-<li>www.linkedin.com (2402)</li>
+<li>www.linkedin.com (2404)</li>
 <li>moodle.royalholloway.ac.uk (1961)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1649)</li>
 <li>www.facebook.com (1593)</li>
-<li>calendar.google.com (1552)</li>
+<li>calendar.google.com (1553)</li>
 <li>chat.openai.com (1395)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:00 pure.royalholloway.ac.uk</li>
+<ul><li> 16:12 calendar.google.com</li>
+<li> 16:10 webtimetables.royalholloway.ac.uk</li>
+<li> 16:08 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 16:08 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
+<li> 16:01 www.linkedin.com</li>
+<li class='same'> 16:00 www.linkedin.com</li>
+<li> 16:00 pure.royalholloway.ac.uk</li>
 <li> 15:59 duckduckgo.com</li>
 </ul>
 
