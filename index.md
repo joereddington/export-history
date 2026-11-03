@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:39 <a href="https://joereddington.com/2026/01/30/history.html">zsh history | Joe Reddington</a></li>
+<ul><li> 10:29 localhost:8443</li>
+</ul>
+
+<br>
+
+<ul><li> 09:56 192.168.178.1</li>
+<li> 09:39 <a href="https://joereddington.com/2026/01/30/history.html">zsh history | Joe Reddington</a></li>
 <li> 09:39 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:39 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
