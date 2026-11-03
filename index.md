@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5149)</li>
-<li>www.google.com (4572)</li>
+<li>www.google.com (4571)</li>
 <li>duckduckgo.com (4128)</li>
 <li>outlook.office365.com (3952)</li>
 <li>outlook.office.com (3769)</li>
@@ -78,8 +78,8 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (3023)</li>
 <li>www.linkedin.com (2395)</li>
 <li>moodle.royalholloway.ac.uk (1952)</li>
-<li>bsky.app (1759)</li>
-<li>login.microsoftonline.com (1639)</li>
+<li>bsky.app (1758)</li>
+<li>login.microsoftonline.com (1641)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1553)</li>
 <li>chat.openai.com (1394)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 localhost:8443</li>
+<ul><li> 10:32 login.microsoftonline.com</li>
+<li> 10:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:32 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 10:32 device.login.microsoftonline.com</li>
+<li> 10:32 login.microsoftonline.com</li>
+<li> 10:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:29 localhost:8443</li>
 </ul>
 
 <br>
@@ -124165,9 +124171,4 @@ With number of accesses/minutes in parentheses
 <li> 09:23 <a href="https://en.wikipedia.org/wiki/Insomniac_Games#December_2023_leak">Insomniac Games - Wikipedia</a></li>
 <li> 09:23 <a href="https://en.wikipedia.org/wiki/Insomniac_Games">Insomniac Games - Wikipedia</a></li>
 <li> 09:23 www.google.com</li>
-<li> 09:19 www.cybersecuritydive.com</li>
-<li> 09:19 www.google.com</li>
-<li> 09:18 www.cybersecuritydive.com</li>
-<li> 09:15 www.rapid7.com</li>
-<li> 09:13 bsky.app</li>
 </ul>
