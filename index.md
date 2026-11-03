@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4555)</li>
-<li>duckduckgo.com (4135)</li>
+<li>duckduckgo.com (4137)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3235)</li>
 <li>chatgpt.com (3023)</li>
-<li>www.linkedin.com (2404)</li>
+<li>www.linkedin.com (2410)</li>
 <li>moodle.royalholloway.ac.uk (1961)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1649)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 03/11/26</H3>
+
+<br>
+
+<ul><li> 16:53 www.linkedin.com</li>
+<li class='same'> 16:52 www.linkedin.com</li>
+<li class='same'> 16:51 www.linkedin.com</li>
+<li> 16:51 uk.linkedin.com</li>
+<li> 16:51 duckduckgo.com</li>
+<li class='same'> 16:50 duckduckgo.com</li>
+<li> 16:45 www.linkedin.com</li>
+<li class='same'> 16:44 www.linkedin.com</li>
+<li class='same'> 16:43 www.linkedin.com</li>
+</ul>
 
 <br>
 
