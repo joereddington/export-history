@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5145)</li>
-<li>www.google.com (4566)</li>
-<li>duckduckgo.com (4130)</li>
-<li>outlook.office365.com (3950)</li>
+<li>www.google.com (4561)</li>
+<li>duckduckgo.com (4131)</li>
+<li>outlook.office365.com (3948)</li>
 <li>outlook.office.com (3769)</li>
-<li>docs.google.com (3236)</li>
-<li>chatgpt.com (3022)</li>
-<li>www.linkedin.com (2395)</li>
+<li>docs.google.com (3235)</li>
+<li>chatgpt.com (3020)</li>
+<li>www.linkedin.com (2398)</li>
 <li>moodle.royalholloway.ac.uk (1957)</li>
-<li>bsky.app (1748)</li>
-<li>login.microsoftonline.com (1647)</li>
-<li>www.facebook.com (1596)</li>
+<li>bsky.app (1740)</li>
+<li>login.microsoftonline.com (1649)</li>
+<li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1553)</li>
 <li>chat.openai.com (1393)</li>
 <li>www.amazon.co.uk (1317)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:07 www.amazon.co.uk</li>
+<ul><li> 12:54 royalholloway.akarisoftware.com</li>
+<li class='same'> 12:52 royalholloway.akarisoftware.com</li>
+<li class='same'> 12:51 royalholloway.akarisoftware.com</li>
+<li> 12:51 login.microsoftonline.com</li>
+<li> 12:51 device.login.microsoftonline.com</li>
+<li> 12:51 royalholloway.akarisoftware.com</li>
+<li> 12:51 login.microsoftonline.com</li>
+<li> 12:50 royalholloway.akarisoftware.com</li>
+<li> 12:45 coursera-assessments.s3.amazonaws.com</li>
+<li> 12:45 www.coursera.org</li>
+<li> 12:45 coursera-assessments.s3.amazonaws.com</li>
+<li> 12:45 www.coursera.org</li>
+<li> 12:45 coursera-assessments.s3.amazonaws.com</li>
+<li> 12:45 www.coursera.org</li>
+<li> 12:44 coursera-assessments.s3.amazonaws.com</li>
+<li> 12:44 d3c33hcgiwev3.cloudfront.net</li>
+<li> 12:44 www.coursera.org</li>
+<li class='same'> 12:43 www.coursera.org</li>
+<li> 12:39 www.linkedin.com</li>
+<li class='same'> 12:37 www.linkedin.com</li>
+<li class='same'> 12:36 www.linkedin.com</li>
+<li> 12:31 www.jpmorganchase.com</li>
+<li> 12:30 chatgpt.com</li>
+<li> 12:30 chat.openai.com</li>
+<li> 12:30 duckduckgo.com</li>
+<li> 12:07 www.amazon.co.uk</li>
 <li class='same'> 12:06 www.amazon.co.uk</li>
 <li> 12:04 <a href="https://www.youtube.com/watch?v=8V3OY5cqQyg">(129) Splitting Water - Electrolysis of H₂O - YouTube</a></li>
 <li> 12:03 <a href="https://www.youtube.com/shorts/swOrrKXPBBw">(129) How To Make Invisible Fire At Home | Simple science experiments #trending #viral - YouTube</a></li>
@@ -124118,31 +124143,4 @@ With number of accesses/minutes in parentheses
 <li> 13:45 claude.ai</li>
 <li class='same'> 13:44 claude.ai</li>
 <li> 13:44 www.google.com</li>
-<li> 13:43 bsky.app</li>
-<li class='same'> 13:41 bsky.app</li>
-<li class='same'> 13:40 bsky.app</li>
-<li> 13:40 www.facebook.com</li>
-<li> 13:40 bsky.app</li>
-<li> 13:39 www.facebook.com</li>
-<li> 13:38 bsky.app</li>
-<li> 13:37 www.facebook.com</li>
-<li> 13:37 bsky.app</li>
-<li> 13:37 outlook.office365.com</li>
-<li> 13:35 chatgpt.com</li>
-<li> 13:35 www.forbes.com</li>
-<li> 13:34 chatgpt.com</li>
-<li> 13:27 trends.google.com</li>
-<li> 13:27 www.google.com</li>
-<li> 13:25 docs.google.com</li>
-<li> 13:25 drive.google.com</li>
-<li> 13:23 www.forbes.com</li>
-<li> 13:23 www.google.com</li>
-<li class='same'> 13:20 www.google.com</li>
-<li class='same'> 13:16 www.google.com</li>
-<li class='same'> 13:15 www.google.com</li>
-<li> 13:14 chatgpt.com</li>
-<li> 13:14 chat.openai.com</li>
-<li> 13:04 outlook.office365.com</li>
-<li> 13:02 bsky.app</li>
-<li class='same'> 13:01 bsky.app</li>
 </ul>
