@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
-<li>mail.google.com (5145)</li>
-<li>www.google.com (4561)</li>
+<li>mail.google.com (5135)</li>
+<li>www.google.com (4554)</li>
 <li>duckduckgo.com (4131)</li>
-<li>outlook.office365.com (3948)</li>
+<li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3235)</li>
 <li>chatgpt.com (3020)</li>
-<li>www.linkedin.com (2398)</li>
+<li>www.linkedin.com (2394)</li>
 <li>moodle.royalholloway.ac.uk (1957)</li>
-<li>bsky.app (1740)</li>
+<li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1649)</li>
 <li>www.facebook.com (1593)</li>
-<li>calendar.google.com (1553)</li>
+<li>calendar.google.com (1552)</li>
 <li>chat.openai.com (1393)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1075)</li>
-<li>web.whatsapp.com (1071)</li>
-<li>mail.rhul.ac.uk (887)</li>
+<li>gmail.com (1074)</li>
+<li>web.whatsapp.com (1070)</li>
+<li>mail.rhul.ac.uk (884)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (862)</li>
 <li>rhul-my.sharepoint.com (808)</li>
 <li>forms.office.com (737)</li>
-<li>rhul.sharepoint.com (672)</li>
+<li>rhul.sharepoint.com (673)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:54 royalholloway.akarisoftware.com</li>
+<ul><li> 13:26 rhul.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:55 royalholloway.akarisoftware.com</li>
+<li class='same'> 12:54 royalholloway.akarisoftware.com</li>
 <li class='same'> 12:52 royalholloway.akarisoftware.com</li>
 <li class='same'> 12:51 royalholloway.akarisoftware.com</li>
 <li> 12:51 login.microsoftonline.com</li>
@@ -124080,67 +124086,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:06 www.theguardian.com</li>
 <li> 15:06 www.google.com</li>
 <li> 15:06 mail.google.com</li>
-<li class='same'> 15:05 mail.google.com</li>
-<li class='same'> 15:04 mail.google.com</li>
-<li> 15:04 bsky.app</li>
-<li> 15:03 www.linkedin.com</li>
-<li class='same'> 15:02 www.linkedin.com</li>
-<li> 15:01 www.google.com</li>
-<li> 15:01 calendar.google.com</li>
-<li> 15:01 outlook.office365.com</li>
-<li class='same'> 14:58 outlook.office365.com</li>
-<li class='same'> 14:52 outlook.office365.com</li>
-<li class='same'> 14:51 outlook.office365.com</li>
-<li> 14:51 www.google.com</li>
-<li> 14:50 outlook.office365.com</li>
-<li class='same'> 14:49 outlook.office365.com</li>
-<li class='same'> 14:48 outlook.office365.com</li>
-<li> 14:48 mail.rhul.ac.uk</li>
-<li> 14:47 mail.google.com</li>
-<li> 14:47 gmail.com</li>
-<li> 14:47 mail.google.com</li>
-<li> 14:43 teams.microsoft.com</li>
-<li> 14:43 eur03.safelinks.protection.outlook.com</li>
-<li> 14:43 outlook.office365.com</li>
-<li> 14:43 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;diff=1259846981&amp;oldid=1254551606">Sarah Owen: Difference between revisions - Wikipedia</a></li>
-<li> 14:42 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&amp;curid=62569479&amp;action=history">Sarah Owen: Revision history - Wikipedia</a></li>
-<li> 14:42 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 14:42 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 14:42 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 14:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 14:42 <a href="https://en.wikipedia.org/"></a></li>
-<li> 14:42 web.whatsapp.com</li>
-<li> 14:33 outlook.office365.com</li>
-<li class='same'> 14:32 outlook.office365.com</li>
-<li> 14:32 mail.rhul.ac.uk</li>
-<li> 14:32 bsky.app</li>
-<li> 14:31 sxswlondon.com</li>
-<li class='same'> 14:30 sxswlondon.com</li>
-<li class='same'> 14:29 sxswlondon.com</li>
-<li> 14:29 <a href="https://www.youtube.com/sxsw?themeRefresh=1">SXSW - YouTube</a></li>
-<li> 14:29 <a href="https://www.youtube.com/sxsw">(5) SXSW - YouTube</a></li>
-<li> 14:29 www.google.com</li>
-<li> 14:28 www.linkedin.com</li>
-<li class='same'> 14:27 www.linkedin.com</li>
-<li> 14:27 bsky.app</li>
-<li> 14:26 outlook.office365.com</li>
-<li> 14:17 www.google.com</li>
-<li> 14:14 outlook.office365.com</li>
-<li> 14:14 mail.google.com</li>
-<li class='same'> 14:13 mail.google.com</li>
-<li class='same'> 14:12 mail.google.com</li>
-<li class='same'> 14:11 mail.google.com</li>
-<li class='same'> 14:10 mail.google.com</li>
-<li> 14:09 www.rightmove.co.uk</li>
-<li> 14:08 mail.google.com</li>
-<li> 14:07 outlook.office365.com</li>
-<li> 14:07 mail.rhul.ac.uk</li>
-<li> 14:07 bsky.app</li>
-<li class='same'> 14:04 bsky.app</li>
-<li class='same'> 13:52 bsky.app</li>
-<li> 13:49 www.google.com</li>
-<li class='same'> 13:47 www.google.com</li>
-<li> 13:45 claude.ai</li>
-<li class='same'> 13:44 claude.ai</li>
-<li> 13:44 www.google.com</li>
 </ul>
