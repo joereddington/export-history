@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:29 www.anthropic.com</li>
+<ul><li> 09:39 <a href="https://joereddington.com/2026/01/30/history.html">zsh history | Joe Reddington</a></li>
+<li> 09:39 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:39 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:29 www.anthropic.com</li>
 <li> 09:29 eur03.safelinks.protection.outlook.com</li>
 <li> 09:28 duckduckgo.com</li>
 <li> 09:27 www.linkedin.com</li>
