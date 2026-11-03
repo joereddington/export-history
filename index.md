@@ -77,9 +77,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3023)</li>
 <li>www.linkedin.com (2395)</li>
-<li>moodle.royalholloway.ac.uk (1952)</li>
+<li>moodle.royalholloway.ac.uk (1955)</li>
 <li>bsky.app (1758)</li>
-<li>login.microsoftonline.com (1641)</li>
+<li>login.microsoftonline.com (1645)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1553)</li>
 <li>chat.openai.com (1394)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 03/11/26</H3>
+
+<br>
+
+<ul><li> 11:26 moodle.royalholloway.ac.uk</li>
+<li> 11:26 login.microsoftonline.com</li>
+<li class='same'> 11:25 login.microsoftonline.com</li>
+<li> 11:25 device.login.microsoftonline.com</li>
+<li> 11:25 moodle.royalholloway.ac.uk</li>
+<li> 11:25 login.microsoftonline.com</li>
+<li> 11:25 moodle.royalholloway.ac.uk</li>
+<li> 11:23 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:23 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:23 login.microsoftonline.com</li>
+<li> 11:23 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:23 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:09 rhul.hosted.panopto.com</li>
+</ul>
 
 <br>
 
