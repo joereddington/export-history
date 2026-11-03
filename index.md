@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5149)</li>
 <li>www.google.com (4572)</li>
-<li>duckduckgo.com (4127)</li>
+<li>duckduckgo.com (4128)</li>
 <li>outlook.office365.com (3952)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3023)</li>
-<li>www.linkedin.com (2393)</li>
+<li>www.linkedin.com (2395)</li>
 <li>moodle.royalholloway.ac.uk (1952)</li>
-<li>bsky.app (1758)</li>
+<li>bsky.app (1759)</li>
 <li>login.microsoftonline.com (1639)</li>
 <li>www.facebook.com (1599)</li>
 <li>calendar.google.com (1553)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (808)</li>
 <li>forms.office.com (737)</li>
 <li>rhul.sharepoint.com (672)</li>
-<li>fritz.box (594)</li>
+<li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
 <li>www.theguardian.com (462)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 03/11/26</H3>
+
+<br>
+
+<ul><li> 09:29 www.anthropic.com</li>
+<li> 09:29 eur03.safelinks.protection.outlook.com</li>
+<li> 09:28 duckduckgo.com</li>
+<li> 09:27 www.linkedin.com</li>
+<li class='same'> 09:26 www.linkedin.com</li>
+<li> 09:26 bsky.app</li>
+<li> 09:26 fast.com</li>
+<li> 09:26 192.168.178.1</li>
+<li class='same'> 09:25 192.168.178.1</li>
+<li> 09:25 fritz.box</li>
+<li> 09:25 firefox-portal-detection.com</li>
+<li> 09:24 192.168.178.1</li>
+<li class='same'> 09:23 192.168.178.1</li>
+</ul>
 
 <br>
 
