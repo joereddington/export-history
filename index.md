@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4555)</li>
-<li>duckduckgo.com (4133)</li>
+<li>duckduckgo.com (4134)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3022)</li>
-<li>www.linkedin.com (2399)</li>
+<li>chatgpt.com (3023)</li>
+<li>www.linkedin.com (2402)</li>
 <li>moodle.royalholloway.ac.uk (1961)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1649)</li>
 <li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1552)</li>
-<li>chat.openai.com (1394)</li>
+<li>chat.openai.com (1395)</li>
 <li>www.amazon.co.uk (1317)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1074)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:24 www.disneyholidays.co.uk</li>
+<ul><li> 14:50 github.com</li>
+<li> 14:48 addons.mozilla.org</li>
+<li> 14:48 duckduckgo.com</li>
+<li> 14:47 www.linkedin.com</li>
+<li class='same'> 14:46 www.linkedin.com</li>
+<li> 14:34 chatgpt.com</li>
+<li> 14:34 chat.openai.com</li>
+<li> 14:28 www.linkedin.com</li>
+<li> 14:28 templates.meme</li>
+<li> 14:24 www.disneyholidays.co.uk</li>
 <li> 14:24 secure.worldpay.com</li>
 <li> 14:24 payments.worldpay.com</li>
 <li> 14:24 www.paypal.com</li>
