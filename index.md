@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4554)</li>
-<li>duckduckgo.com (4138)</li>
+<li>duckduckgo.com (4142)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3028)</li>
-<li>www.linkedin.com (2414)</li>
+<li>chatgpt.com (3031)</li>
+<li>www.linkedin.com (2415)</li>
 <li>moodle.royalholloway.ac.uk (2003)</li>
 <li>bsky.app (1734)</li>
-<li>login.microsoftonline.com (1650)</li>
+<li>login.microsoftonline.com (1651)</li>
 <li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1557)</li>
 <li>chat.openai.com (1399)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 calendar.google.com</li>
+<ul><li> 07:29 www.ft.com</li>
+<li> 07:29 ft.com</li>
+<li> 07:29 x.com</li>
+<li> 07:29 duckduckgo.com</li>
+<li> 07:28 www.linkedin.com</li>
+<li> 07:25 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 07:25 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 07:25 login.microsoftonline.com</li>
+<li> 07:25 device.login.microsoftonline.com</li>
+<li> 07:25 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 07:21 chatgpt.com</li>
+<li> 07:21 openai.com</li>
+<li> 07:21 duckduckgo.com</li>
+<li> 07:06 chatgpt.com</li>
+<li> 07:06 www.royalholloway.ac.uk</li>
+<li> 07:06 duckduckgo.com</li>
+<li class='same'> 07:04 duckduckgo.com</li>
+<li> 07:03 chatgpt.com</li>
+<li> 06:59 calendar.google.com</li>
 <li class='same'> 06:58 calendar.google.com</li>
 <li> 06:58 www.amazon.co.uk</li>
 <li> 06:58 calendar.google.com</li>
