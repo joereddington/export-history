@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4554)</li>
-<li>duckduckgo.com (4144)</li>
+<li>duckduckgo.com (4147)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3035)</li>
 <li>www.linkedin.com (2424)</li>
-<li>moodle.royalholloway.ac.uk (2006)</li>
+<li>moodle.royalholloway.ac.uk (2007)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1654)</li>
 <li>www.facebook.com (1593)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:29 moodle.royalholloway.ac.uk</li>
+<ul><li> 14:54 duckduckgo.com</li>
+<li> 14:53 <a href="https://en.wikipedia.org/wiki/Headphones">Headphones - Wikipedia</a></li>
+<li> 14:53 duckduckgo.com</li>
+<li class='same'> 14:43 duckduckgo.com</li>
+<li> 14:30 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:29 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:28 moodle.royalholloway.ac.uk</li>
 <li> 14:28 login.microsoftonline.com</li>
 <li> 14:28 device.login.microsoftonline.com</li>
