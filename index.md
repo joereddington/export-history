@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 www.foxnews.com</li>
+<ul><li> 15:48 www.ft.com</li>
+<li> 15:29 www.foxnews.com</li>
 <li class='same'> 15:28 www.foxnews.com</li>
 <li> 15:27 www.ft.com</li>
 <li> 15:27 ft.com</li>
