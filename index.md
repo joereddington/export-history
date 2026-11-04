@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3035)</li>
-<li>www.linkedin.com (2422)</li>
+<li>www.linkedin.com (2424)</li>
 <li>moodle.royalholloway.ac.uk (2003)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1653)</li>
 <li>www.facebook.com (1593)</li>
-<li>calendar.google.com (1557)</li>
+<li>calendar.google.com (1558)</li>
 <li>chat.openai.com (1401)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (1070)</li>
 <li>mail.rhul.ac.uk (884)</li>
 <li>tvtropes.org (864)</li>
-<li>feedly.com (862)</li>
+<li>feedly.com (863)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (737)</li>
 <li>rhul.sharepoint.com (678)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 04/11/26</H3>
+
+<br>
+
+<ul><li> 13:53 feedly.com</li>
+<li> 13:52 www.natesilver.net</li>
+<li> 13:51 www.ft.com</li>
+<li> 13:51 ft.com</li>
+<li> 13:50 www.linkedin.com</li>
+<li class='same'> 13:49 www.linkedin.com</li>
+<li> 13:44 calendar.google.com</li>
+</ul>
 
 <br>
 
