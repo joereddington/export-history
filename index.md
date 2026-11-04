@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:54 rhul.sharepoint.com</li>
+<ul><li> 10:58 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 10:54 rhul.sharepoint.com</li>
 <li class='same'> 10:53 rhul.sharepoint.com</li>
 <li> 10:52 login.microsoftonline.com</li>
 <li> 10:52 device.login.microsoftonline.com</li>
