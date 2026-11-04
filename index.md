@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4554)</li>
-<li>duckduckgo.com (4150)</li>
+<li>duckduckgo.com (4151)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3036)</li>
-<li>www.linkedin.com (2426)</li>
-<li>moodle.royalholloway.ac.uk (2007)</li>
+<li>chatgpt.com (3037)</li>
+<li>www.linkedin.com (2428)</li>
+<li>moodle.royalholloway.ac.uk (2009)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1656)</li>
 <li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1559)</li>
-<li>chat.openai.com (1402)</li>
+<li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1074)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 04/11/26</H3>
+
+<br>
+
+<ul><li> 17:59 chatgpt.com</li>
+<li> 17:59 chat.openai.com</li>
+<li> 17:57 www.linkedin.com</li>
+<li class='same'> 17:56 www.linkedin.com</li>
+<li> 17:56 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:55 moodle.royalholloway.ac.uk</li>
+<li> 17:55 duckduckgo.com</li>
+</ul>
 
 <br>
 
