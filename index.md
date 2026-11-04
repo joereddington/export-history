@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4554)</li>
-<li>duckduckgo.com (4143)</li>
+<li>duckduckgo.com (4144)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3035)</li>
 <li>www.linkedin.com (2424)</li>
-<li>moodle.royalholloway.ac.uk (2003)</li>
+<li>moodle.royalholloway.ac.uk (2006)</li>
 <li>bsky.app (1734)</li>
-<li>login.microsoftonline.com (1653)</li>
+<li>login.microsoftonline.com (1654)</li>
 <li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1558)</li>
 <li>chat.openai.com (1401)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:53 feedly.com</li>
+<ul><li> 14:29 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:28 moodle.royalholloway.ac.uk</li>
+<li> 14:28 login.microsoftonline.com</li>
+<li> 14:28 device.login.microsoftonline.com</li>
+<li> 14:28 moodle.royalholloway.ac.uk</li>
+<li> 14:27 www.ft.com</li>
+<li> 14:27 ft.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:53 x.com</li>
+<li> 13:53 duckduckgo.com</li>
+<li> 13:53 feedly.com</li>
 <li> 13:52 www.natesilver.net</li>
 <li> 13:51 www.ft.com</li>
 <li> 13:51 ft.com</li>
