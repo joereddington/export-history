@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3032)</li>
-<li>www.linkedin.com (2416)</li>
+<li>chatgpt.com (3035)</li>
+<li>www.linkedin.com (2422)</li>
 <li>moodle.royalholloway.ac.uk (2003)</li>
 <li>bsky.app (1734)</li>
-<li>login.microsoftonline.com (1651)</li>
+<li>login.microsoftonline.com (1653)</li>
 <li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1557)</li>
-<li>chat.openai.com (1400)</li>
+<li>chat.openai.com (1401)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1074)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (884)</li>
 <li>tvtropes.org (864)</li>
 <li>feedly.com (862)</li>
-<li>rhul-my.sharepoint.com (808)</li>
+<li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (737)</li>
-<li>rhul.sharepoint.com (674)</li>
+<li>rhul.sharepoint.com (677)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 04/11/26</H3>
+
+<br>
+
+<ul><li> 10:54 rhul.sharepoint.com</li>
+<li class='same'> 10:53 rhul.sharepoint.com</li>
+<li> 10:52 login.microsoftonline.com</li>
+<li> 10:52 device.login.microsoftonline.com</li>
+<li> 10:52 rhul.sharepoint.com</li>
+<li> 10:47 rhul-my.sharepoint.com</li>
+<li> 10:47 www.linkedin.com</li>
+<li> 10:47 rhul-my.sharepoint.com</li>
+<li> 10:45 chatgpt.com</li>
+<li> 10:39 www.linkedin.com</li>
+<li class='same'> 10:38 www.linkedin.com</li>
+<li> 10:38 links-ire.mic-soft.com</li>
+<li> 10:38 landing.mic-soft.com</li>
+<li> 10:38 chatgpt.com</li>
+<li> 10:38 www.linkedin.com</li>
+<li> 10:38 chatgpt.com</li>
+<li> 10:38 rhul-my.sharepoint.com</li>
+<li> 10:38 chat.openai.com</li>
+<li> 10:37 www.linkedin.com</li>
+<li> 10:36 rhul-my.sharepoint.com</li>
+<li> 10:36 www.linkedin.com</li>
+<li> 10:35 fast.com</li>
+<li> 10:35 rhul-my.sharepoint.com</li>
+<li class='same'> 10:34 rhul-my.sharepoint.com</li>
+<li class='same'> 10:33 rhul-my.sharepoint.com</li>
+<li> 10:33 login.microsoftonline.com</li>
+<li> 10:33 rhul-my.sharepoint.com</li>
+<li> 10:33 device.login.microsoftonline.com</li>
+<li> 10:33 rhul-my.sharepoint.com</li>
+</ul>
 
 <br>
 
