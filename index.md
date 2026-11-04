@@ -70,33 +70,33 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
-<li>www.google.com (4554)</li>
+<li>www.google.com (4549)</li>
 <li>duckduckgo.com (4151)</li>
-<li>outlook.office365.com (3935)</li>
+<li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3037)</li>
-<li>www.linkedin.com (2428)</li>
+<li>chatgpt.com (3035)</li>
+<li>www.linkedin.com (2426)</li>
 <li>moodle.royalholloway.ac.uk (2009)</li>
-<li>bsky.app (1734)</li>
+<li>bsky.app (1729)</li>
 <li>login.microsoftonline.com (1656)</li>
-<li>www.facebook.com (1593)</li>
+<li>www.facebook.com (1578)</li>
 <li>calendar.google.com (1559)</li>
-<li>chat.openai.com (1403)</li>
+<li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1074)</li>
+<li>gmail.com (1075)</li>
 <li>web.whatsapp.com (1070)</li>
 <li>mail.rhul.ac.uk (884)</li>
-<li>feedly.com (864)</li>
 <li>tvtropes.org (864)</li>
+<li>feedly.com (863)</li>
 <li>rhul-my.sharepoint.com (817)</li>
-<li>forms.office.com (737)</li>
+<li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (678)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
-<li>www.theguardian.com (462)</li>
+<li>www.theguardian.com (460)</li>
 <li>adfs.herts.ac.uk (455)</li>
 
 
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:59 chatgpt.com</li>
+<ul><li> 18:07 bsky.app</li>
+<li> 18:07 www.tlmaths.com</li>
+<li class='same'> 18:05 www.tlmaths.com</li>
+<li class='same'> 18:04 www.tlmaths.com</li>
+<li> 18:04 tlmaths.com</li>
+<li> 18:04 www.tlmaths.com</li>
+<li> 18:04 tlmaths.com</li>
+<li> 18:04 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&amp;list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(131) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 18:03 mail.google.com</li>
+<li> 18:02 www.emperiacollege.co.uk</li>
+<li> 18:01 mail.google.com</li>
+<li> 18:01 gmail.com</li>
+<li> 17:59 chatgpt.com</li>
 <li> 17:59 chat.openai.com</li>
 <li> 17:57 www.linkedin.com</li>
 <li class='same'> 17:56 www.linkedin.com</li>
@@ -124348,74 +124360,4 @@ With number of accesses/minutes in parentheses
 <li> 16:47 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:47 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:47 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 16:47 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack#Attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
-<li class='same'> 16:39 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack#Attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
-<li> 16:38 <a href="https://en.wikipedia.org/w/index.php?title=Colonial_Pipeline_ransomware_attack&amp;action=edit&amp;section=2">Editing Colonial Pipeline ransomware attack - Wikipedia</a></li>
-<li> 16:38 <a href="https://en.wikipedia.org/w/index.php?title=Colonial_Pipeline_ransomware_attack&amp;action=edit">Colonial Pipeline ransomware attack - Wikipedia</a></li>
-<li> 16:37 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
-<li> 16:35 edition.cnn.com</li>
-<li> 16:35 www.bloomberg.com</li>
-<li> 16:35 www.google.com</li>
-<li> 16:34 <a href="https://en.wikipedia.org/w/index.php?title=Colonial_Pipeline_ransomware_attack&amp;action=edit">Colonial Pipeline ransomware attack - Wikipedia</a></li>
-<li> 16:33 ieeexplore.ieee.org</li>
-<li> 16:33 www.semanticscholar.org</li>
-<li> 16:27 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
-<li> 16:27 www.google.com</li>
-<li> 16:16 bsky.app</li>
-<li class='same'> 16:15 bsky.app</li>
-<li> 16:14 feedly.com</li>
-<li> 16:12 www.gov.uk</li>
-<li> 16:11 www.google.com</li>
-<li> 16:09 www.facebook.com</li>
-<li class='same'> 16:08 www.facebook.com</li>
-<li> 16:08 www.linkedin.com</li>
-<li> 16:08 mail.google.com</li>
-<li> 16:06 discord.com</li>
-<li class='same'> 16:04 discord.com</li>
-<li> 16:03 outlook.office365.com</li>
-<li> 16:03 discord.com</li>
-<li class='same'> 15:59 discord.com</li>
-<li> 15:58 outlook.office365.com</li>
-<li class='same'> 15:53 outlook.office365.com</li>
-<li> 15:49 forms.office.com</li>
-<li> 15:48 outlook.office365.com</li>
-<li> 15:46 bsky.app</li>
-<li class='same'> 15:45 bsky.app</li>
-<li> 15:44 www.facebook.com</li>
-<li class='same'> 15:43 www.facebook.com</li>
-<li class='same'> 15:41 www.facebook.com</li>
-<li class='same'> 15:40 www.facebook.com</li>
-<li class='same'> 15:39 www.facebook.com</li>
-<li class='same'> 15:38 www.facebook.com</li>
-<li class='same'> 15:37 www.facebook.com</li>
-<li class='same'> 15:36 www.facebook.com</li>
-<li class='same'> 15:35 www.facebook.com</li>
-<li class='same'> 15:34 www.facebook.com</li>
-<li class='same'> 15:33 www.facebook.com</li>
-<li class='same'> 15:32 www.facebook.com</li>
-<li class='same'> 15:30 www.facebook.com</li>
-<li> 15:25 outlook.office365.com</li>
-<li> 15:25 bsky.app</li>
-<li> 15:25 jobs.royalholloway.ac.uk</li>
-<li class='same'> 15:24 jobs.royalholloway.ac.uk</li>
-<li class='same'> 15:23 jobs.royalholloway.ac.uk</li>
-<li> 15:23 www.google.com</li>
-<li> 15:23 www.monster.co.uk</li>
-<li class='same'> 15:22 www.monster.co.uk</li>
-<li> 15:22 identity.monster.com</li>
-<li> 15:22 www.monster.co.uk</li>
-<li> 15:22 identity.monster.com</li>
-<li> 15:22 www.monster.co.uk</li>
-<li> 15:22 adblockplus.org</li>
-<li> 15:22 www.linkedin.com</li>
-<li> 15:20 bsky.app</li>
-<li> 15:18 teams.microsoft.com</li>
-<li> 15:18 outlook.office365.com</li>
-<li> 15:09 chatgpt.com</li>
-<li class='same'> 15:08 chatgpt.com</li>
-<li> 15:08 chat.openai.com</li>
-<li> 15:07 www.theguardian.com</li>
-<li class='same'> 15:06 www.theguardian.com</li>
-<li> 15:06 www.google.com</li>
-<li> 15:06 mail.google.com</li>
 </ul>
