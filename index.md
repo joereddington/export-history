@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4554)</li>
-<li>duckduckgo.com (4142)</li>
+<li>duckduckgo.com (4143)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
-<li>docs.google.com (3237)</li>
+<li>docs.google.com (3238)</li>
 <li>chatgpt.com (3032)</li>
 <li>www.linkedin.com (2416)</li>
 <li>moodle.royalholloway.ac.uk (2003)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:59 docs.google.com</li>
+<ul><li> 09:00 duckduckgo.com</li>
+<li> 09:00 docs.google.com</li>
+<li class='same'> 08:59 docs.google.com</li>
 <li class='same'> 08:58 docs.google.com</li>
 <li> 08:57 drive.google.com</li>
 </ul>
