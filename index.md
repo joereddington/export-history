@@ -79,9 +79,9 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2426)</li>
 <li>moodle.royalholloway.ac.uk (2007)</li>
 <li>bsky.app (1734)</li>
-<li>login.microsoftonline.com (1655)</li>
+<li>login.microsoftonline.com (1656)</li>
 <li>www.facebook.com (1593)</li>
-<li>calendar.google.com (1558)</li>
+<li>calendar.google.com (1559)</li>
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:20 duckduckgo.com</li>
+<ul><li> 16:52 learningonscreen.ac.uk</li>
+<li> 16:52 login.learningonscreen.ac.uk</li>
+<li> 16:52 learningonscreen.ac.uk</li>
+<li> 16:52 login.openathens.net</li>
+<li> 16:52 connect.openathens.net</li>
+<li> 16:52 login.microsoftonline.com</li>
+<li> 16:52 device.login.microsoftonline.com</li>
+<li> 16:52 login.openathens.net</li>
+<li> 16:52 connect.openathens.net</li>
+<li> 16:52 login.learningonscreen.ac.uk</li>
+<li> 16:52 connect.openathens.net</li>
+<li> 16:52 login.learningonscreen.ac.uk</li>
+<li> 16:51 learningonscreen.ac.uk</li>
+<li> 16:38 read.amazon.com</li>
+<li> 16:36 calendar.google.com</li>
+<li> 16:20 duckduckgo.com</li>
 <li> 16:11 chatgpt.com</li>
 <li> 16:11 chat.openai.com</li>
 <li> 16:01 feedly.com</li>
