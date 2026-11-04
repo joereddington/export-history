@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4554)</li>
-<li>duckduckgo.com (4147)</li>
+<li>duckduckgo.com (4149)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3035)</li>
-<li>www.linkedin.com (2424)</li>
+<li>www.linkedin.com (2425)</li>
 <li>moodle.royalholloway.ac.uk (2007)</li>
 <li>bsky.app (1734)</li>
-<li>login.microsoftonline.com (1654)</li>
+<li>login.microsoftonline.com (1655)</li>
 <li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1558)</li>
 <li>chat.openai.com (1401)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:54 duckduckgo.com</li>
+<ul><li> 15:29 www.foxnews.com</li>
+<li class='same'> 15:28 www.foxnews.com</li>
+<li> 15:27 www.ft.com</li>
+<li> 15:27 ft.com</li>
+<li> 15:26 www.natesilver.net</li>
+<li> 15:23 www.linkedin.com</li>
+<li> 15:20 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:20 login.microsoftonline.com</li>
+<li> 15:20 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:20 device.login.microsoftonline.com</li>
+<li> 15:20 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:18 www.ft.com</li>
+<li class='same'> 15:17 www.ft.com</li>
+<li> 15:17 ft.com</li>
+<li> 15:09 www.nec.com</li>
+<li> 15:09 duckduckgo.com</li>
+<li> 15:09 www.nec.com</li>
+<li> 15:09 duckduckgo.com</li>
+<li> 14:54 <a href="https://en.wikipedia.org/wiki/Door">Door - Wikipedia</a></li>
+<li> 14:54 duckduckgo.com</li>
 <li> 14:53 <a href="https://en.wikipedia.org/wiki/Headphones">Headphones - Wikipedia</a></li>
 <li> 14:53 duckduckgo.com</li>
 <li class='same'> 14:43 duckduckgo.com</li>
