@@ -71,25 +71,25 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4554)</li>
-<li>duckduckgo.com (4149)</li>
+<li>duckduckgo.com (4150)</li>
 <li>outlook.office365.com (3935)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3035)</li>
-<li>www.linkedin.com (2425)</li>
+<li>chatgpt.com (3036)</li>
+<li>www.linkedin.com (2426)</li>
 <li>moodle.royalholloway.ac.uk (2007)</li>
 <li>bsky.app (1734)</li>
 <li>login.microsoftonline.com (1655)</li>
 <li>www.facebook.com (1593)</li>
 <li>calendar.google.com (1558)</li>
-<li>chat.openai.com (1401)</li>
+<li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1074)</li>
 <li>web.whatsapp.com (1070)</li>
 <li>mail.rhul.ac.uk (884)</li>
+<li>feedly.com (864)</li>
 <li>tvtropes.org (864)</li>
-<li>feedly.com (863)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (737)</li>
 <li>rhul.sharepoint.com (678)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:48 www.ft.com</li>
+<ul><li> 16:20 duckduckgo.com</li>
+<li> 16:11 chatgpt.com</li>
+<li> 16:11 chat.openai.com</li>
+<li> 16:01 feedly.com</li>
+<li> 16:00 www.linkedin.com</li>
+<li> 15:59 www.ft.com</li>
+<li class='same'> 15:48 www.ft.com</li>
 <li> 15:29 www.foxnews.com</li>
 <li class='same'> 15:28 www.foxnews.com</li>
 <li> 15:27 www.ft.com</li>
