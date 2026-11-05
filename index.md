@@ -71,28 +71,28 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4547)</li>
-<li>duckduckgo.com (4157)</li>
+<li>duckduckgo.com (4158)</li>
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3765)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3039)</li>
-<li>www.linkedin.com (2435)</li>
+<li>www.linkedin.com (2437)</li>
 <li>moodle.royalholloway.ac.uk (2009)</li>
-<li>bsky.app (1721)</li>
+<li>bsky.app (1717)</li>
 <li>login.microsoftonline.com (1657)</li>
-<li>www.facebook.com (1570)</li>
+<li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1557)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1075)</li>
-<li>web.whatsapp.com (1070)</li>
+<li>web.whatsapp.com (1069)</li>
 <li>mail.rhul.ac.uk (884)</li>
 <li>feedly.com (866)</li>
 <li>tvtropes.org (864)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (680)</li>
+<li>rhul.sharepoint.com (681)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:54 pure.royalholloway.ac.uk</li>
+<ul><li> 15:16 www.giantitp.com</li>
+<li> 15:16 sites.google.com</li>
+<li> 15:16 accounts.google.com</li>
+<li> 15:16 duckduckgo.com</li>
+<li> 15:15 rikkebjerg.gitlab.io</li>
+<li> 15:14 www.linkedin.com</li>
+<li class='same'> 15:13 www.linkedin.com</li>
+<li> 14:57 rhul.sharepoint.com</li>
+<li> 14:54 pure.royalholloway.ac.uk</li>
 <li> 14:54 duckduckgo.com</li>
 <li class='same'> 14:53 duckduckgo.com</li>
 <li> 14:53 rhul.sharepoint.com</li>
@@ -124387,17 +124395,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:11 www.google.com</li>
 <li class='same'> 19:10 www.google.com</li>
 <li class='same'> 19:09 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:08 bsky.app</li>
-<li class='same'> 18:07 bsky.app</li>
-<li class='same'> 18:06 bsky.app</li>
-<li class='same'> 18:05 bsky.app</li>
-<li> 17:41 web.whatsapp.com</li>
-<li> 17:40 www.facebook.com</li>
-<li class='same'> 17:39 www.facebook.com</li>
-<li class='same'> 17:38 www.facebook.com</li>
-<li class='same'> 17:37 www.facebook.com</li>
 </ul>
