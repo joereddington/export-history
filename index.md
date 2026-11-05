@@ -71,16 +71,16 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4547)</li>
-<li>duckduckgo.com (4154)</li>
+<li>duckduckgo.com (4157)</li>
 <li>outlook.office365.com (3929)</li>
-<li>outlook.office.com (3767)</li>
+<li>outlook.office.com (3765)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3039)</li>
-<li>www.linkedin.com (2433)</li>
+<li>www.linkedin.com (2435)</li>
 <li>moodle.royalholloway.ac.uk (2009)</li>
-<li>bsky.app (1726)</li>
+<li>bsky.app (1721)</li>
 <li>login.microsoftonline.com (1657)</li>
-<li>www.facebook.com (1578)</li>
+<li>www.facebook.com (1570)</li>
 <li>calendar.google.com (1557)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1328)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (864)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (678)</li>
+<li>rhul.sharepoint.com (680)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:17 <a href="https://joereddington.com/2026/03/26/wombat.html">WOMBAT | Joe Reddington</a></li>
+<ul><li> 14:54 pure.royalholloway.ac.uk</li>
+<li> 14:54 duckduckgo.com</li>
+<li class='same'> 14:53 duckduckgo.com</li>
+<li> 14:53 rhul.sharepoint.com</li>
+<li class='same'> 14:52 rhul.sharepoint.com</li>
+<li> 14:49 www.buzzfeed.com</li>
+<li class='same'> 14:46 www.buzzfeed.com</li>
+<li class='same'> 14:45 www.buzzfeed.com</li>
+<li> 14:44 x.com</li>
+<li> 14:42 www.buzzfeed.com</li>
+<li> 14:41 www.huffingtonpost.co.uk</li>
+<li> 14:41 www.buzzfeed.com</li>
+<li> 14:39 www.linkedin.com</li>
+<li class='same'> 14:38 www.linkedin.com</li>
+<li> 14:38 duckduckgo.com</li>
+<li> 14:36 <a href="https://joereddington.com/2026/03/26/wombat.html">WOMBAT | Joe Reddington</a></li>
+<li class='same'> 14:17 <a href="https://joereddington.com/2026/03/26/wombat.html">WOMBAT | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -124384,21 +124400,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:39 www.facebook.com</li>
 <li class='same'> 17:38 www.facebook.com</li>
 <li class='same'> 17:37 www.facebook.com</li>
-<li class='same'> 17:36 www.facebook.com</li>
-<li class='same'> 17:35 www.facebook.com</li>
-<li class='same'> 17:34 www.facebook.com</li>
-<li class='same'> 17:32 www.facebook.com</li>
-<li class='same'> 17:31 www.facebook.com</li>
-<li class='same'> 17:30 www.facebook.com</li>
-<li> 17:27 bsky.app</li>
-<li> 17:27 www.facebook.com</li>
-<li> 17:26 blueskydirectory.com</li>
-<li> 17:26 bsky.app</li>
-<li class='same'> 17:25 bsky.app</li>
-<li> 17:25 blueskydirectory.com</li>
-<li> 17:25 bsky.app</li>
-<li> 17:24 www.facebook.com</li>
-<li> 17:21 bsky.app</li>
-<li> 17:17 outlook.office.com</li>
-<li class='same'> 17:13 outlook.office.com</li>
 </ul>
