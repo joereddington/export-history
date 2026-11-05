@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4547)</li>
-<li>duckduckgo.com (4158)</li>
+<li>duckduckgo.com (4159)</li>
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3765)</li>
 <li>docs.google.com (3238)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:16 www.giantitp.com</li>
+<ul><li> 15:35 lutondaily.co.uk</li>
+<li> 15:34 duckduckgo.com</li>
+<li> 15:16 www.giantitp.com</li>
 <li> 15:16 sites.google.com</li>
 <li> 15:16 accounts.google.com</li>
 <li> 15:16 duckduckgo.com</li>
