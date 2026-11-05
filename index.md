@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4549)</li>
-<li>duckduckgo.com (4153)</li>
+<li>duckduckgo.com (4154)</li>
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3038)</li>
-<li>www.linkedin.com (2431)</li>
+<li>chatgpt.com (3039)</li>
+<li>www.linkedin.com (2433)</li>
 <li>moodle.royalholloway.ac.uk (2009)</li>
 <li>bsky.app (1729)</li>
 <li>login.microsoftonline.com (1657)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1075)</li>
 <li>web.whatsapp.com (1070)</li>
 <li>mail.rhul.ac.uk (884)</li>
+<li>feedly.com (866)</li>
 <li>tvtropes.org (864)</li>
-<li>feedly.com (863)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (678)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:52 192.168.178.1</li>
+<ul><li> 13:28 feedly.com</li>
+<li class='same'> 13:27 feedly.com</li>
+<li> 13:23 casper.cs.rhul.ac.uk</li>
+<li class='same'> 13:22 casper.cs.rhul.ac.uk</li>
+<li> 13:20 feedly.com</li>
+<li> 13:19 casper.cs.rhul.ac.uk</li>
+<li> 13:17 duckduckgo.com</li>
+<li> 13:14 casper.cs.rhul.ac.uk</li>
+<li class='same'> 13:09 casper.cs.rhul.ac.uk</li>
+<li class='same'> 13:08 casper.cs.rhul.ac.uk</li>
+<li> 13:08 www.linkedin.com</li>
+<li class='same'> 13:07 www.linkedin.com</li>
+<li> 13:07 chatgpt.com</li>
+<li> 12:53 192.168.178.1</li>
+<li class='same'> 12:52 192.168.178.1</li>
 <li> 12:52 www.linkedin.com</li>
 <li> 12:28 scholar.google.com</li>
 <li class='same'> 12:27 scholar.google.com</li>
