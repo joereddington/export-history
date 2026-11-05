@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
 <li>www.google.com (4549)</li>
-<li>duckduckgo.com (4151)</li>
+<li>duckduckgo.com (4153)</li>
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3037)</li>
-<li>www.linkedin.com (2429)</li>
+<li>chatgpt.com (3038)</li>
+<li>www.linkedin.com (2430)</li>
 <li>moodle.royalholloway.ac.uk (2009)</li>
 <li>bsky.app (1729)</li>
 <li>login.microsoftonline.com (1657)</li>
 <li>www.facebook.com (1578)</li>
 <li>calendar.google.com (1559)</li>
-<li>chat.openai.com (1402)</li>
+<li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1075)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:59 www.researchgate.net</li>
+<ul><li> 12:27 scholar.google.com</li>
+<li class='same'> 12:26 scholar.google.com</li>
+<li> 12:26 www.linkedin.com</li>
+<li> 12:22 ieeexplore.ieee.org</li>
+<li> 12:22 scholar.google.com</li>
+<li> 12:22 duckduckgo.com</li>
+<li> 12:08 grm.web.elte.hu</li>
+<li> 12:08 duckduckgo.com</li>
+<li> 12:07 orcid.org</li>
+<li> 12:01 chatgpt.com</li>
+<li> 12:01 chat.openai.com</li>
+<li> 11:59 www.researchgate.net</li>
 <li> 11:50 www.linkedin.com</li>
 </ul>
 
