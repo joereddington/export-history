@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3769)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3038)</li>
-<li>www.linkedin.com (2430)</li>
+<li>www.linkedin.com (2431)</li>
 <li>moodle.royalholloway.ac.uk (2009)</li>
 <li>bsky.app (1729)</li>
 <li>login.microsoftonline.com (1657)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 scholar.google.com</li>
+<ul><li> 12:52 192.168.178.1</li>
+<li> 12:52 www.linkedin.com</li>
+<li> 12:28 scholar.google.com</li>
+<li class='same'> 12:27 scholar.google.com</li>
 <li class='same'> 12:26 scholar.google.com</li>
 <li> 12:26 www.linkedin.com</li>
 <li> 12:22 ieeexplore.ieee.org</li>
