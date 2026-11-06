@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3765)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3040)</li>
+<li>chatgpt.com (3041)</li>
 <li>www.linkedin.com (2441)</li>
 <li>moodle.royalholloway.ac.uk (2013)</li>
 <li>bsky.app (1717)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:22 rhul.hosted.panopto.com</li>
+<ul><li> 16:37 chatgpt.com</li>
+<li> 16:31 rhul.hosted.panopto.com</li>
+<li class='same'> 16:30 rhul.hosted.panopto.com</li>
+<li class='same'> 16:22 rhul.hosted.panopto.com</li>
 <li class='same'> 16:21 rhul.hosted.panopto.com</li>
 <li class='same'> 16:19 rhul.hosted.panopto.com</li>
 <li> 16:19 moodle.royalholloway.ac.uk</li>
