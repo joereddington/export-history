@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
-<li>www.google.com (4541)</li>
+<li>www.google.com (4537)</li>
 <li>duckduckgo.com (4160)</li>
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3765)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2441)</li>
 <li>moodle.royalholloway.ac.uk (2013)</li>
 <li>bsky.app (1717)</li>
-<li>login.microsoftonline.com (1663)</li>
+<li>login.microsoftonline.com (1668)</li>
 <li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1557)</li>
 <li>chat.openai.com (1404)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:17 dashboards.rhul.ac.uk</li>
+<ul><li> 17:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:54 login.microsoftonline.com</li>
+<li> 17:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:54 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:54 login.microsoftonline.com</li>
+<li> 17:54 device.login.microsoftonline.com</li>
+<li> 17:54 login.microsoftonline.com</li>
+<li class='same'> 17:53 login.microsoftonline.com</li>
+<li> 17:53 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:52 localhost:4444</li>
+<li> 17:49 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:49 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:48 login.microsoftonline.com</li>
+<li> 17:48 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:48 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:40 localhost:4444</li>
+<li class='same'> 17:39 localhost:4444</li>
+<li class='same'> 17:38 localhost:4444</li>
+<li> 17:17 dashboards.rhul.ac.uk</li>
 <li> 17:13 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:13 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 17:13 login.microsoftonline.com</li>
@@ -124468,12 +124486,4 @@ With number of accesses/minutes in parentheses
 <li> 21:01 www.frontiersin.org</li>
 <li> 21:01 www.google.com</li>
 <li> 21:00 www.cell.com</li>
-<li> 21:00 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 19:27 www.google.com</li>
-<li class='same'> 19:26 www.google.com</li>
-<li class='same'> 19:24 www.google.com</li>
 </ul>
