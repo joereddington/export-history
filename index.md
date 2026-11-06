@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
-<li>mail.google.com (5135)</li>
-<li>www.google.com (4537)</li>
+<li>mail.google.com (5134)</li>
+<li>www.google.com (4533)</li>
 <li>duckduckgo.com (4160)</li>
 <li>outlook.office365.com (3929)</li>
-<li>outlook.office.com (3765)</li>
+<li>outlook.office.com (3764)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3041)</li>
 <li>www.linkedin.com (2441)</li>
 <li>moodle.royalholloway.ac.uk (2013)</li>
 <li>bsky.app (1717)</li>
-<li>login.microsoftonline.com (1668)</li>
+<li>login.microsoftonline.com (1669)</li>
 <li>www.facebook.com (1566)</li>
-<li>calendar.google.com (1557)</li>
+<li>calendar.google.com (1556)</li>
 <li>chat.openai.com (1404)</li>
-<li>www.amazon.co.uk (1328)</li>
+<li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1075)</li>
+<li>gmail.com (1074)</li>
 <li>web.whatsapp.com (1069)</li>
 <li>mail.rhul.ac.uk (884)</li>
 <li>feedly.com (868)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 18:17 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:17 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 18:17 login.microsoftonline.com</li>
+<li> 18:17 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:17 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 18:10 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 18:08 webtimetables.royalholloway.ac.uk</li>
+<li> 17:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:54 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:54 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:54 login.microsoftonline.com</li>
 <li> 17:54 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:54 eis-prod.ec.royalholloway.ac.uk</li>
@@ -124462,28 +124471,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:57 mail.google.com</li>
 <li> 06:57 outlook.office.com</li>
 <li class='same'> 06:56 outlook.office.com</li>
-<li class='same'> 06:55 outlook.office.com</li>
-<li> 06:55 mail.google.com</li>
-<li> 06:55 gmail.com</li>
-<li> 06:55 calendar.google.com</li>
-<li> 06:50 0.0.0.0:8000</li>
-<li> 06:49 0.0.0.0:7000</li>
-</ul>
-
-<H3>Wednesday, 27/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:42 www.google.com</li>
-<li> 21:27 www.amazon.co.uk</li>
-<li> 21:26 www.google.com</li>
-<li> 21:02 pmc.ncbi.nlm.nih.gov</li>
-<li> 21:02 www.google.com</li>
-<li> 21:01 www.frontiersin.org</li>
-<li> 21:01 www.google.com</li>
-<li> 21:00 www.cell.com</li>
 </ul>
