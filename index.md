@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
 <li>mail.google.com (5135)</li>
-<li>www.google.com (4546)</li>
+<li>www.google.com (4544)</li>
 <li>duckduckgo.com (4160)</li>
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3765)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:18 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 21:41 192.168.178.1</li>
+<li> 21:18 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li class='same'> 21:17 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 21:17 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 21:17 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -13664,9 +13665,7 @@ With number of accesses/minutes in parentheses
 <li> 11:50 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 11:50 chatgpt.com</li>
 <li> 11:49 www.gov.uk</li>
-<li> 11:49 www.google.com</li>
 <li> 11:49 mail.google.com</li>
-<li> 11:49 s3.eu-west-2.amazonaws.com</li>
 <li> 11:49 find-and-update.company-information.service.gov.uk</li>
 <li> 11:48 identity.company-information.service.gov.uk</li>
 <li> 11:48 find-and-update.company-information.service.gov.uk</li>
@@ -13680,14 +13679,12 @@ With number of accesses/minutes in parentheses
 <li> 11:47 ewf.companieshouse.gov.uk</li>
 <li> 11:47 www.gov.uk</li>
 <li> 11:47 duckduckgo.com</li>
-<li> 11:47 s3.eu-west-2.amazonaws.com</li>
 <li> 11:47 find-and-update.company-information.service.gov.uk</li>
 <li> 11:47 identity.company-information.service.gov.uk</li>
 <li> 11:47 find-and-update.company-information.service.gov.uk</li>
 <li class='same'> 11:46 find-and-update.company-information.service.gov.uk</li>
 <li> 11:46 identity.company-information.service.gov.uk</li>
 <li> 11:46 find-and-update.company-information.service.gov.uk</li>
-<li> 11:46 beta.companieshouse.gov.uk</li>
 <li> 11:46 ewf.companieshouse.gov.uk</li>
 <li> 11:46 signin.account.gov.uk</li>
 <li> 11:46 oidc.account.gov.uk</li>
@@ -13700,7 +13697,6 @@ With number of accesses/minutes in parentheses
 <li> 11:45 idam-ui.company-information.service.gov.uk</li>
 <li> 11:45 ewf.companieshouse.gov.uk</li>
 <li> 11:45 www.gov.uk</li>
-<li> 11:45 www.google.com</li>
 <li> 11:45 gov.uk</li>
 <li> 11:45 mail.google.com</li>
 <li> 11:45 calendar.google.com</li>
@@ -13716,7 +13712,6 @@ With number of accesses/minutes in parentheses
 <li> 11:32 chatgpt.com</li>
 <li> 11:32 chat.openai.com</li>
 <li> 11:31 calendar.google.com</li>
-<li> 11:30 mail-attachment.googleusercontent.com</li>
 <li> 11:30 mail.google.com</li>
 <li class='same'> 11:29 mail.google.com</li>
 <li class='same'> 11:28 mail.google.com</li>
