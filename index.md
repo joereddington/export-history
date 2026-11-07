@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
-<li>mail.google.com (5132)</li>
-<li>www.google.com (4533)</li>
+<li>mail.google.com (5130)</li>
+<li>www.google.com (4529)</li>
 <li>duckduckgo.com (4160)</li>
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3762)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3041)</li>
-<li>www.linkedin.com (2441)</li>
-<li>moodle.royalholloway.ac.uk (2013)</li>
-<li>bsky.app (1717)</li>
-<li>login.microsoftonline.com (1669)</li>
+<li>www.linkedin.com (2443)</li>
+<li>moodle.royalholloway.ac.uk (2015)</li>
+<li>bsky.app (1715)</li>
+<li>login.microsoftonline.com (1670)</li>
 <li>www.facebook.com (1566)</li>
-<li>calendar.google.com (1556)</li>
+<li>calendar.google.com (1554)</li>
 <li>chat.openai.com (1404)</li>
-<li>www.amazon.co.uk (1327)</li>
+<li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1074)</li>
 <li>web.whatsapp.com (1069)</li>
@@ -105,6 +105,40 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 07/11/26</H3>
+
+<br>
+
+<ul><li> 16:28 ico.org.uk</li>
+<li class='same'> 16:27 ico.org.uk</li>
+<li> 16:26 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&amp;action=history">2015 TalkTalk data breach: Revision history - Wikipedia</a></li>
+<li> 16:26 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 16:26 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 16:25 <a href="https://en.wikipedia.org/wiki/Grey_hat_hacker">Grey hat hacker - Wikipedia</a></li>
+<li> 16:25 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat_hacker&amp;action=history">Grey hat hacker: Revision history - Wikipedia</a></li>
+<li> 16:25 <a href="https://en.wikipedia.org/wiki/Grey_hat_hacker">Grey hat hacker - Wikipedia</a></li>
+<li> 16:25 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
+<li> 16:24 <a href="https://en.wikipedia.org/wiki/White_hat_hacker">White hat hacker - Wikipedia</a></li>
+<li> 16:24 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
+<li> 16:24 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
+<li> 16:24 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat hacker - Wikipedia</a></li>
+<li> 16:23 <a href="https://en.wikipedia.org/w/index.php?title=Margaret_Mitchell_(scientist)&amp;curid=66831679&amp;diff=1383719224&amp;oldid=1372514409">Margaret Mitchell (scientist): Difference between revisions - Wikipedia</a></li>
+<li> 16:23 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:23 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:23 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:23 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:23 <a href="https://en.wikipedia.org/"></a></li>
+<li> 16:22 www.giantitp.com</li>
+<li> 16:22 www.amazon.co.uk</li>
+<li> 16:22 reductress.com</li>
+<li class='same'> 16:21 reductress.com</li>
+<li> 16:21 www.giantitp.com</li>
+<li> 16:09 www.linkedin.com</li>
+<li class='same'> 16:08 www.linkedin.com</li>
+<li> 16:03 seldo.com</li>
+<li> 15:54 moodle.royalholloway.ac.uk</li>
+<li> 15:54 login.microsoftonline.com</li>
+<li> 15:54 moodle.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -13721,8 +13755,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:17 www.reddit.com</li>
 <li class='same'> 08:16 www.reddit.com</li>
 <li> 08:15 www.google.com</li>
-<li> 08:15 theoodie.co.uk</li>
-<li> 08:15 www.google.com</li>
 <li class='same'> 08:10 www.google.com</li>
 <li class='same'> 08:09 www.google.com</li>
 <li> 08:09 spectator.com</li>
@@ -15989,14 +16021,14 @@ With number of accesses/minutes in parentheses
 <li> 10:57 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:57 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 10:57 <a href="https://en.wikipedia.org/wiki/User_talk:Id0x00">User talk:Id0x00 - Wikipedia</a></li>
-<li> 10:57 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 10:57 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 10:57 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:Id0x00&amp;action=edit&amp;preview=yes&amp;vanarticle=Grey%20hat&amp;vanarticlerevid=1363959950&amp;vantimestamp=2026-07-13T15%3A42%3A24Z&amp;vanarticlegoodrevid=1357765055&amp;type=agf&amp;count=1">Creating User talk:Id0x00 - Wikipedia</a></li>
 <li> 10:47 www.pcworld.com</li>
 <li> 10:47 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_note-12">Grey hat - Wikipedia</a></li>
-<li> 10:47 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 10:47 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 10:47 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;diff=1363959950&amp;oldid=1357765055">Grey hat: Difference between revisions - Wikipedia</a></li>
 <li> 10:47 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
-<li> 10:46 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 10:46 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 10:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:39 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:39 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -20796,7 +20828,7 @@ With number of accesses/minutes in parentheses
 <li> 13:32 <a href="https://en.wikipedia.org/wiki/Hacker_culture">Hacker culture - Wikipedia</a></li>
 <li> 13:32 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=history">Security hacker: Revision history - Wikipedia</a></li>
 <li> 13:31 <a href="https://en.wikipedia.org/wiki/Hacker_culture">Hacker culture - Wikipedia</a></li>
-<li> 13:28 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 13:28 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 13:27 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 13:26 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_security">Wikipedia talk:WikiProject Computer security - Wikipedia</a></li>
 <li> 13:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_security">Wikipedia:WikiProject Computer security - Wikipedia</a></li>
@@ -22793,7 +22825,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:08 kdpreports.amazon.com</li>
 <li> 14:08 kdp.amazon.com</li>
 <li> 14:08 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
-<li> 14:08 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 14:08 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 14:07 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=history">Hacker: Revision history - Wikipedia</a></li>
 <li> 14:07 <a href="https://en.wikipedia.org/wiki/Hacker#External_links">Hacker - Wikipedia</a></li>
 <li> 14:07 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit&amp;section=8">Editing Hacker - Wikipedia</a></li>
@@ -22844,9 +22876,9 @@ With number of accesses/minutes in parentheses
 <li> 13:50 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit">Hacker - Wikipedia</a></li>
 <li> 13:44 <a href="https://en.wikipedia.org/wiki/Hacker#Naming">Hacker - Wikipedia</a></li>
 <li> 13:42 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
-<li> 13:42 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 13:42 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 13:40 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit">Editing Security hacker - Wikipedia</a></li>
-<li> 13:40 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 13:40 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 13:40 <a href="https://en.wikipedia.org/wiki/Hacker#Civic_Hacking">Hacker - Wikipedia</a></li>
 <li> 13:39 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit&amp;section=3">Hacker - Wikipedia</a></li>
 <li> 13:39 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit">Hacker - Wikipedia</a></li>
@@ -23238,7 +23270,7 @@ With number of accesses/minutes in parentheses
 <li> 06:42 <a href="https://en.wikipedia.org/wiki/Hacker#Overlaps_and_differences">Hacker - Wikipedia</a></li>
 <li> 06:41 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit&amp;section=6">Editing Hacker - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/wiki/Security_hacker#">Security hacker - Wikipedia</a></li>
-<li> 06:40 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/Hacker#">Hacker - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/Special:Deadlinkchecker/1780378775.8219745-ec0454c4702533a530f093ba8b546dc5">No such special page - Wikipedia</a></li>
 <li> 06:39 meta.wikimedia.org</li>
@@ -23264,7 +23296,7 @@ With number of accesses/minutes in parentheses
 <li> 06:34 web.archive.org</li>
 <li> 06:34 <a href="https://en.wikipedia.org/wiki/Hacker#cite_note-24">Hacker - Wikipedia</a></li>
 <li> 06:33 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
-<li> 06:33 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 06:33 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 06:33 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=2">Security hacker - Wikipedia</a></li>
 <li> 06:32 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 06:32 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Black+hat+%28computer+security%29&amp;wprov=acrw1_2"></a></li>
@@ -23281,7 +23313,7 @@ With number of accesses/minutes in parentheses
 <li> 06:27 <a href="https://en.wikipedia.org/wiki/Alt.2600">2600: The Hacker Quarterly - Wikipedia</a></li>
 <li> 06:26 <a href="https://en.wikipedia.org/wiki/Security_hacker#Birth_of_subculture_and_entering_mainstream:_1960s%E2%80%931980s">Security hacker - Wikipedia</a></li>
 <li> 06:26 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=2">Security hacker - Wikipedia</a></li>
-<li> 06:25 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 06:25 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 06:25 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
 <li> 06:24 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
 <li> 06:24 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
@@ -23613,7 +23645,7 @@ With number of accesses/minutes in parentheses
 <li> 16:13 <a href="https://en.wikipedia.org/wiki/Government_hacking">Government hacking - Wikipedia</a></li>
 <li> 16:13 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=17">Security hacker - Wikipedia</a></li>
 <li class='same'> 16:12 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=17">Security hacker - Wikipedia</a></li>
-<li> 16:10 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 16:10 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 16:09 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=history">Hacker: Revision history - Wikipedia</a></li>
 <li> 16:09 <a href="https://en.wikipedia.org/wiki/Hacker#See_also">Hacker - Wikipedia</a></li>
 <li> 16:08 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit&amp;section=7">Hacker - Wikipedia</a></li>
@@ -23903,7 +23935,7 @@ With number of accesses/minutes in parentheses
 <li> 16:39 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;oldid=1356224067&amp;action=edit">Editing Security hacker - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit">Editing Security hacker - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
-<li> 16:38 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 16:38 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 16:38 <a href="https://en.wikipedia.org/w/index.php?title=Threat_(computer_security)&amp;action=edit&amp;section=6">Threat (computer security) - Wikipedia</a></li>
 <li class='same'> 16:36 <a href="https://en.wikipedia.org/w/index.php?title=Threat_(computer_security)&amp;action=edit&amp;section=6">Threat (computer security) - Wikipedia</a></li>
 <li> 16:36 <a href="https://en.wikipedia.org/w/index.php?curid=29066981">Threat (computer security) - Wikipedia</a></li>
@@ -23915,7 +23947,7 @@ With number of accesses/minutes in parentheses
 <li> 16:35 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 16:35 <a href="https://en.wikipedia.org/wiki/Security_hacker#Black_hat">Security hacker - Wikipedia</a></li>
 <li> 16:35 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=1">Security hacker - Wikipedia</a></li>
-<li> 16:35 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 16:35 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 16:33 link.springer.com</li>
 <li> 16:33 idp.springer.com</li>
 <li> 16:33 link.springer.com</li>
@@ -23940,7 +23972,7 @@ With number of accesses/minutes in parentheses
 <li> 16:26 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_%28computer_security%29&amp;section=2&amp;oldid=1356251492&amp;action=edit">Editing Black hat (computer security) - Wikipedia</a></li>
 <li> 16:26 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=2">Editing Black hat (computer security) - Wikipedia</a></li>
 <li> 16:25 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
-<li> 16:25 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 16:25 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 16:25 <a href="https://en.wikipedia.org/w/index.php?title=Timeline_of_computer_security_hacker_history&amp;redirect=no">Timeline of computer security hacker history - Wikipedia</a></li>
 <li> 16:24 <a href="https://en.wikipedia.org/wiki/List_of_security_hacking_incidents">List of security hacking incidents - Wikipedia</a></li>
 <li> 16:24 <a href="https://en.wikipedia.org/wiki/Timeline_of_computer_security_hacker_history">List of security hacking incidents - Wikipedia</a></li>
@@ -23960,7 +23992,7 @@ With number of accesses/minutes in parentheses
 <li> 16:18 <a href="https://en.wikipedia.org/wiki/Threat_(computer_security)">Threat (computer security) - Wikipedia</a></li>
 <li> 16:17 <a href="https://en.wikipedia.org/wiki/Coloured_hat">Coloured hat - Wikipedia</a></li>
 <li> 16:17 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Grey_hat">Pages that link to &quot;Grey hat&quot; - Wikipedia</a></li>
-<li> 16:17 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 16:17 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 16:16 infosecwriteups.com</li>
 <li> 16:16 medium.com</li>
 <li> 16:16 infosecwriteups.com</li>
@@ -24348,7 +24380,7 @@ With number of accesses/minutes in parentheses
 <li> 17:49 <a href="https://en.wikipedia.org/wiki/Penetration_testing">Penetration test - Wikipedia</a></li>
 <li> 17:49 <a href="https://en.wikipedia.org/wiki/Penetration_test">Penetration test - Wikipedia</a></li>
 <li> 17:49 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
-<li> 17:48 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 17:48 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 17:48 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 17:48 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)#History">Black hat (computer security) - Wikipedia</a></li>
 <li> 17:48 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=2">Editing Black hat (computer security) - Wikipedia</a></li>
@@ -24383,12 +24415,12 @@ With number of accesses/minutes in parentheses
 <li> 17:19 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=10">Editing Black hat (computer security) (section) - Wikipedia</a></li>
 <li> 17:19 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 17:19 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=15">Security hacker - Wikipedia</a></li>
-<li> 17:19 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 17:19 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 17:19 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Black+hat+%28computer+security%29&amp;wprov=acrw1_1"></a></li>
 <li> 17:18 <a href="https://en.wikipedia.org/wiki/List_of_cybercriminals">List of cybercriminals - Wikipedia</a></li>
 <li> 17:18 <a href="https://en.wikipedia.org/wiki/List_of_computer_criminals">List of cybercriminals - Wikipedia</a></li>
-<li> 17:18 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 17:18 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 17:17 <a href="https://en.wikipedia.org/w/index.php?title=Malicious_actor&amp;redirect=no">Malicious actor - Wikipedia</a></li>
 <li> 17:17 <a href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Threat_actor&amp;hidelinks=1&amp;hidetrans=1">Pages that link to &quot;Threat actor&quot; - Wikipedia</a></li>
 <li> 17:17 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=info">Information for &quot;Threat actor&quot; - Wikipedia</a></li>
@@ -24434,7 +24466,7 @@ With number of accesses/minutes in parentheses
 <li> 17:01 <a href="https://en.wikipedia.org/wiki/Template:Computer_hacking">Template:Computer hacking - Wikipedia</a></li>
 <li> 17:00 <a href="https://en.wikipedia.org/wiki/Security_hacker?action=edit&amp;veswitched=1">Editing Security hacker - Wikipedia</a></li>
 <li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit">Editing Security hacker - Wikipedia</a></li>
-<li> 17:00 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 17:00 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 16:59 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
 <li> 16:59 <a href="https://en.wikipedia.org/wiki/Threat_actor?venotify=saved">Threat actor - Wikipedia</a></li>
 <li> 16:59 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;veswitched=1&amp;action=edit">Threat actor - Wikipedia</a></li>
@@ -24461,7 +24493,7 @@ With number of accesses/minutes in parentheses
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Hacker_culture">Hacker culture - Wikipedia</a></li>
-<li> 16:39 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 16:39 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 16:37 www.enisa.europa.eu</li>
 <li> 16:37 duckduckgo.com</li>
 <li> 16:37 doi.org</li>
@@ -24559,7 +24591,7 @@ With number of accesses/minutes in parentheses
 <li> 13:51 <a href="https://en.wikipedia.org/wiki/Threat_actor#Techniques">Threat actor - Wikipedia</a></li>
 <li> 13:51 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit&amp;section=10">Editing Threat actor (section) - Wikipedia</a></li>
 <li> 13:51 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=13">Editing Security hacker (section) - Wikipedia</a></li>
-<li> 13:51 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 13:51 duckduckgo.com</li>
 <li> 13:47 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit">Editing Threat actor - Wikipedia</a></li>
 <li> 13:45 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
@@ -24569,7 +24601,7 @@ With number of accesses/minutes in parentheses
 <li> 13:44 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=12">Editing Security hacker - Wikipedia</a></li>
 <li> 13:44 <a href="https://en.wikipedia.org/wiki/Security_hacker#Classifications">Security hacker - Wikipedia</a></li>
 <li> 13:42 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=3">Editing Security hacker - Wikipedia</a></li>
-<li> 13:42 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 13:42 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 13:42 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 13:42 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)#History">Black hat (computer security) - Wikipedia</a></li>
 <li> 13:41 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=3">Editing Black hat (computer security) - Wikipedia</a></li>
@@ -24581,7 +24613,7 @@ With number of accesses/minutes in parentheses
 <li> 13:39 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=2">Editing Black hat (computer security) - Wikipedia</a></li>
 <li> 13:38 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 13:37 <a href="https://en.wikipedia.org/wiki/List_of_hackers">List of hackers - Wikipedia</a></li>
-<li> 13:37 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 13:37 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 13:35 catb.org</li>
 <li> 13:34 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
 <li> 13:34 <a href="https://en.wikipedia.org/wiki/Hacker?action=history&amp;offset=20220430235959&amp;limit=30">Hacker: Revision history - Wikipedia</a></li>
@@ -24640,7 +24672,7 @@ With number of accesses/minutes in parentheses
 <li> 09:20 users.ece.cmu.edu</li>
 <li> 09:20 www.ece.cmu.edu</li>
 <li> 09:19 intranet.royalholloway.ac.uk</li>
-<li> 09:16 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 09:16 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 09:16 copyvios.toolforge.org</li>
 <li class='same'> 09:15 copyvios.toolforge.org</li>
 <li> 09:15 insecure.org</li>
@@ -24711,7 +24743,7 @@ With number of accesses/minutes in parentheses
 <li> 15:56 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=16">Security hacker - Wikipedia</a></li>
 <li> 15:56 <a href="https://en.wikipedia.org/wiki/Computer_security#Vulnerabilities_and_attacks">Computer security - Wikipedia</a></li>
 <li> 15:55 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
-<li> 15:55 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 15:55 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 15:54 <a href="https://en.wikipedia.org/wiki/Hacker?wprov=srpw1_0">Hacker - Wikipedia</a></li>
 <li> 15:54 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
 <li> 15:54 <a href="https://en.wikipedia.org/w/index.php?search=list+of+hacking+techniques&amp;title=Special%3ASearch&amp;ns0=1&amp;searchToken=9tpfgokt83uzpwbcyqj94tb39">list of hacking techniques - Search results - Wikipedia</a></li>
@@ -24726,11 +24758,11 @@ With number of accesses/minutes in parentheses
 <li> 15:53 <a href="https://en.wikipedia.org/"></a></li>
 <li> 15:53 feedly.com</li>
 <li> 15:53 www.linkedin.com</li>
-<li> 15:36 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 15:36 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 15:36 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=history">Hacker: Revision history - Wikipedia</a></li>
 <li> 15:36 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
 <li> 15:36 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=info">Information for &quot;Security hacker&quot; - Wikipedia</a></li>
-<li> 15:36 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 15:36 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 15:36 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=info">Information for &quot;Black hat (computer security)&quot; - Wikipedia</a></li>
 <li> 15:35 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 15:35 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
@@ -24744,11 +24776,11 @@ With number of accesses/minutes in parentheses
 <li> 15:34 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
 <li> 15:33 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;oldid=1308214880">Grey hat - Wikipedia</a></li>
 <li> 15:33 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
-<li> 15:33 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 15:33 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 15:33 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit">Editing Grey hat - Wikipedia</a></li>
-<li> 15:33 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 15:33 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 15:33 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit">Editing Grey hat - Wikipedia</a></li>
-<li> 15:33 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 15:33 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 15:32 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;diff=1356062987&amp;oldid=1356062250">Grey hat: Difference between revisions - Wikipedia</a></li>
 <li> 15:32 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
 <li> 15:32 <a href="https://en.wikipedia.org/wiki/Grey_hat#Definitions">Grey hat - Wikipedia</a></li>
@@ -24759,20 +24791,20 @@ With number of accesses/minutes in parentheses
 <li> 15:29 articlegateway.com</li>
 <li> 15:28 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
 <li> 15:28 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_note-Cybercrime:_investigating_high-technology_computer_crime-7">Grey hat - Wikipedia</a></li>
-<li> 15:27 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 15:27 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 15:22 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit">Editing Grey hat - Wikipedia</a></li>
 <li> 15:22 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
 <li> 15:21 www.nytimes.com</li>
 <li> 15:21 archive.nytimes.com</li>
 <li> 15:19 <a href="https://en.wikipedia.org/wiki/L0pht">L0pht - Wikipedia</a></li>
 <li> 15:19 <a href="https://en.wikipedia.org/wiki/Grey_hat?venotify=saved">Grey hat - Wikipedia</a></li>
-<li> 15:19 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 15:19 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 15:19 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit">Editing Grey hat - Wikipedia</a></li>
 <li> 15:18 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;oldid=1356060562&amp;action=edit">Editing Grey hat - Wikipedia</a></li>
 <li> 15:18 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit">Editing Grey hat - Wikipedia</a></li>
 <li> 15:17 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_note-Grey_Hat_Hacking:_The_Ethical_Hacker&#x27;s_Handbook-2">Grey hat - Wikipedia</a></li>
 <li> 15:17 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
-<li> 15:17 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 15:17 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit&amp;section=4">Editing Grey hat - Wikipedia</a></li>
 <li> 15:16 www.google.com</li>
 <li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:BookSources/9798398304732">Book sources - Wikipedia</a></li>
@@ -24785,12 +24817,12 @@ With number of accesses/minutes in parentheses
 <li> 15:15 <a href="https://en.wikipedia.org/wiki/Grey_hat#Further_reading">Grey hat - Wikipedia</a></li>
 <li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit&amp;section=4">Editing Grey hat - Wikipedia</a></li>
 <li> 15:14 www.amazon.com</li>
-<li> 15:14 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 15:14 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
 <li> 15:14 <a href="https://en.wikipedia.org/wiki/Grey_hat#References">Grey hat - Wikipedia</a></li>
 <li> 15:13 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit&amp;section=3">Editing Grey hat - Wikipedia</a></li>
-<li> 15:13 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
-<li> 15:12 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 15:13 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
+<li> 15:12 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 15:11 <a href="https://en.wikipedia.org/wiki/Wietse_Venema">Wietse Venema - Wikipedia</a></li>
 <li> 15:11 <a href="https://en.wikipedia.org/wiki/Dan_Farmer">Dan Farmer - Wikipedia</a></li>
 <li> 15:10 web.archive.org</li>
@@ -24804,7 +24836,7 @@ With number of accesses/minutes in parentheses
 <li> 15:06 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
 <li> 15:06 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;oldid=1119426629">Grey hat - Wikipedia</a></li>
 <li> 15:05 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
-<li> 15:05 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 15:05 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 15:03 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit">Editing Grey hat - Wikipedia</a></li>
 <li> 15:03 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;diff=1322882248&amp;oldid=1308214880">Grey hat: Difference between revisions - Wikipedia</a></li>
 <li> 15:03 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
@@ -24823,7 +24855,7 @@ With number of accesses/minutes in parentheses
 <li> 14:59 www.cnet.com</li>
 <li> 14:59 news.cnet.com</li>
 <li> 14:58 web.archive.org</li>
-<li> 14:58 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 14:58 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 14:57 web.archive.org</li>
 <li> 14:56 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit">Editing Grey hat - Wikipedia</a></li>
 <li> 14:55 web.archive.org</li>
@@ -24832,9 +24864,9 @@ With number of accesses/minutes in parentheses
 <li> 14:53 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit&amp;section=1">Editing Grey hat - Wikipedia</a></li>
 <li> 14:51 web.archive.org</li>
 <li> 14:51 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_ref-9">Grey hat - Wikipedia</a></li>
-<li> 14:51 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 14:51 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 14:51 <a href="https://en.wikipedia.org/wiki/Gray_hat">Grey hat - Wikipedia</a></li>
-<li> 14:50 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 14:50 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 14:50 <a href="https://en.wikipedia.org/wiki/Grey_hat#Examples">Grey hat - Wikipedia</a></li>
 <li> 14:50 duckduckgo.com</li>
 <li class='same'> 14:49 duckduckgo.com</li>
@@ -24849,7 +24881,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:46 web.textfiles.com</li>
 <li> 14:46 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_ref-Grey_Hat_Hacking:_The_Ethical_Hacker&#x27;s_Handbook_2-0">Grey hat - Wikipedia</a></li>
 <li> 14:46 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_note-Grey_Hat_Hacking:_The_Ethical_Hacker&#x27;s_Handbook-2">Grey hat - Wikipedia</a></li>
-<li> 14:45 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 14:45 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 14:44 www.nytimes.com</li>
 <li> 14:44 archive.nytimes.com</li>
 <li> 14:43 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit&amp;section=1">Editing Grey hat - Wikipedia</a></li>
@@ -24862,7 +24894,7 @@ With number of accesses/minutes in parentheses
 <li> 14:39 blackhat.com</li>
 <li> 14:38 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit&amp;section=1">Editing Grey hat - Wikipedia</a></li>
 <li> 14:37 blackhat.com</li>
-<li> 14:37 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 14:37 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 14:36 chatgpt.com</li>
 <li> 14:36 <a href="https://en.wikipedia.org/w/index.php?title=BlueHat&amp;action=history">BlueHat: Revision history - Wikipedia</a></li>
 <li> 14:36 <a href="https://en.wikipedia.org/wiki/BlueHat">BlueHat - Wikipedia</a></li>
@@ -25039,7 +25071,7 @@ With number of accesses/minutes in parentheses
 <li> 11:07 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=2">Security hacker - Wikipedia</a></li>
 <li> 11:06 <a href="https://en.wikipedia.org/wiki/Security_hacker#Script_kiddie">Security hacker - Wikipedia</a></li>
 <li> 11:05 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=8">Security hacker - Wikipedia</a></li>
-<li> 11:04 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 11:04 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 11:04 <a href="https://en.wikipedia.org/wiki/Hacker#See_also">Hacker - Wikipedia</a></li>
 <li> 11:03 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit&amp;section=8">Editing Hacker - Wikipedia</a></li>
 <li> 11:03 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit&amp;section=2">Hacker - Wikipedia</a></li>
@@ -25106,10 +25138,10 @@ With number of accesses/minutes in parentheses
 <li> 10:28 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit&amp;section=2">Hacker - Wikipedia</a></li>
 <li class='same'> 10:27 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=edit&amp;section=2">Hacker - Wikipedia</a></li>
 <li> 10:27 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=info">Information for &quot;Security hacker&quot; - Wikipedia</a></li>
-<li> 10:26 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 10:26 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 10:26 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=info">Information for &quot;Hacker&quot; - Wikipedia</a></li>
 <li> 10:25 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=history">Security hacker: Revision history - Wikipedia</a></li>
-<li> 10:24 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 10:24 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 10:22 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
 <li> 10:22 <a href="https://en.wikipedia.org/wiki/hacker"></a></li>
 <li> 10:22 <a href="https://en.wikipedia.org/wiki/Cybercrime">Cybercrime - Wikipedia</a></li>
@@ -48628,7 +48660,7 @@ With number of accesses/minutes in parentheses
 <li> 06:40 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#cite_ref-5">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/wiki/Security_hacker?action=edit&amp;section=12&amp;veswitched=1">Editing Security hacker (section) - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=12">Editing Security hacker - Wikipedia</a></li>
-<li> 06:39 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&amp;action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Legal_consequences">LastPass 2022 data breach - Wikipedia</a></li>
@@ -50790,10 +50822,10 @@ With number of accesses/minutes in parentheses
 <li> 14:54 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:54 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 14:51 herts365-my.sharepoint.com</li>
-<li> 14:50 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 14:50 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 14:49 <a href="https://en.wikipedia.org/wiki/Talk:Security_hacker">Talk:Security hacker - Wikipedia</a></li>
 <li> 14:49 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit&amp;section=12">Editing Security hacker - Wikipedia</a></li>
-<li> 14:49 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 14:49 <a href="https://en.wikipedia.org/w/index.php?search=Security+hacker&amp;title=Special%3ASearch&amp;ns0=1"></a></li>
 <li> 14:49 <a href="https://en.wikipedia.org/wiki/Peter_Salamon">Peter Salamon - Wikipedia</a></li>
 <li> 14:48 <a href="https://en.wikipedia.org/wiki/Mir_Mohammad_Ali_Khan">Mir Mohammad Ali Khan - Wikipedia</a></li>
@@ -53961,10 +53993,10 @@ With number of accesses/minutes in parentheses
 <li> 11:48 <a href="https://en.wikipedia.org/wiki/Grey_hat#Examples">Grey hat - Wikipedia</a></li>
 <li> 11:47 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit&amp;section=2">Editing Grey hat (section) - Wikipedia</a></li>
 <li> 11:46 articlegateway.com</li>
-<li> 11:45 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat hacker - Wikipedia</a></li>
 <li> 11:45 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
-<li> 11:45 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
-<li> 11:45 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat (computer security) - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat hacker - Wikipedia</a></li>
 <li> 11:45 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 11:44 <a href="https://en.wikipedia.org/wiki/Script_kiddie#cite_note-zdnet-4">Script kiddie - Wikipedia</a></li>
 <li> 11:44 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
@@ -54299,7 +54331,7 @@ With number of accesses/minutes in parentheses
 <li> 18:08 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
 <li> 18:08 <a href="https://en.wikipedia.org/wiki/Data_breach_notification_laws">Data breach notification laws - Wikipedia</a></li>
 <li> 18:06 <a href="https://en.wikipedia.org/wiki/Exploit_(computer_security)">Exploit (computer security) - Wikipedia</a></li>
-<li> 18:06 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 18:06 <a href="https://en.wikipedia.org/wiki/Security_hacker">Hacker - Wikipedia</a></li>
 <li> 18:06 <a href="https://en.wikipedia.org/wiki/Cyberattacks_against_infrastructure">Cyberattacks against infrastructure - Wikipedia</a></li>
 <li> 18:05 <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyberattack - Wikipedia</a></li>
 <li> 18:05 <a href="https://en.wikipedia.org/wiki/Cyberwarfare">Cyberwarfare - Wikipedia</a></li>
@@ -124454,24 +124486,4 @@ With number of accesses/minutes in parentheses
 <li> 11:04 outlook.office.com</li>
 <li class='same'> 11:03 outlook.office.com</li>
 <li class='same'> 11:02 outlook.office.com</li>
-<li> 11:02 mail.google.com</li>
-<li> 10:54 impact.ref.ac.uk</li>
-<li> 10:53 find-and-update.company-information.service.gov.uk</li>
-<li> 10:53 www.transport.gov.scot</li>
-<li class='same'> 10:52 www.transport.gov.scot</li>
-<li> 10:52 researchportal.plymouth.ac.uk</li>
-<li> 10:52 www.plymouth.ac.uk</li>
-<li> 10:50 <a href="https://www.youtube.com/watch?v=AjG6_vmBQ5k">Professor Jon Shaw &amp; Dr Andrew Seedhouse - REF Impact Case Study - YouTube</a></li>
-<li> 10:50 www.plymouth.ac.uk</li>
-<li> 10:49 www.transport-ticketing.com</li>
-<li> 10:48 www.talktosam.co.uk</li>
-<li> 10:48 www.google.com</li>
-<li> 10:47 www.futureplymouth2030.co.uk</li>
-<li> 10:47 www.google.com</li>
-<li> 10:32 calendar.google.com</li>
-<li class='same'> 10:31 calendar.google.com</li>
-<li> 10:30 www.google.com</li>
-<li> 10:13 mail.google.com</li>
-<li> 10:13 bsky.app</li>
-<li class='same'> 10:12 bsky.app</li>
 </ul>
