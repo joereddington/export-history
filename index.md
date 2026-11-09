@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5118)</li>
 <li>www.google.com (4506)</li>
 <li>duckduckgo.com (4162)</li>
-<li>outlook.office365.com (3923)</li>
+<li>outlook.office365.com (3918)</li>
 <li>outlook.office.com (3752)</li>
-<li>docs.google.com (3238)</li>
+<li>docs.google.com (3237)</li>
 <li>chatgpt.com (3041)</li>
-<li>www.linkedin.com (2443)</li>
-<li>moodle.royalholloway.ac.uk (2014)</li>
-<li>bsky.app (1705)</li>
+<li>www.linkedin.com (2447)</li>
+<li>moodle.royalholloway.ac.uk (2015)</li>
+<li>bsky.app (1704)</li>
 <li>login.microsoftonline.com (1675)</li>
 <li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1554)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (814)</li>
 <li>forms.office.com (736)</li>
-<li>rhul.sharepoint.com (681)</li>
+<li>rhul.sharepoint.com (682)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:24 chatgpt.com</li>
+<ul><li> 14:56 calendar.google.com</li>
+<li> 14:51 rhul.sharepoint.com</li>
+<li> 14:47 moodle.royalholloway.ac.uk</li>
+<li> 14:45 www.linkedin.com</li>
+<li class='same'> 14:44 www.linkedin.com</li>
+<li> 14:41 jobs.glos.ac.uk</li>
+<li> 14:39 www.linkedin.com</li>
+<li class='same'> 14:37 www.linkedin.com</li>
+<li> 14:24 chatgpt.com</li>
 <li> 14:24 chat.openai.com</li>
 <li> 14:15 www.su.rhul.ac.uk</li>
 <li> 14:15 duckduckgo.com</li>
@@ -124396,15 +124404,4 @@ With number of accesses/minutes in parentheses
 <li> 18:46 chat.openai.com</li>
 <li> 18:43 docs.google.com</li>
 <li> 18:43 forms.gle</li>
-<li> 18:43 eur03.safelinks.protection.outlook.com</li>
-<li> 18:43 outlook.office365.com</li>
-<li> 18:41 bsky.app</li>
-<li> 18:41 outlook.office365.com</li>
-<li class='same'> 18:40 outlook.office365.com</li>
-<li> 18:40 calendar.google.com</li>
-<li> 18:39 outlook.office365.com</li>
-<li> 18:38 docs.google.com</li>
-<li> 18:38 forms.gle</li>
-<li> 18:38 eur03.safelinks.protection.outlook.com</li>
-<li> 18:38 outlook.office365.com</li>
 </ul>
