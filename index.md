@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5977)</li>
-<li>mail.google.com (5122)</li>
-<li>www.google.com (4513)</li>
+<ol><li>www.reddit.com (5976)</li>
+<li>mail.google.com (5119)</li>
+<li>www.google.com (4510)</li>
 <li>duckduckgo.com (4160)</li>
-<li>outlook.office365.com (3925)</li>
+<li>outlook.office365.com (3924)</li>
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3039)</li>
-<li>www.linkedin.com (2441)</li>
+<li>chatgpt.com (3040)</li>
+<li>www.linkedin.com (2442)</li>
 <li>moodle.royalholloway.ac.uk (2013)</li>
-<li>bsky.app (1707)</li>
+<li>bsky.app (1705)</li>
 <li>login.microsoftonline.com (1675)</li>
 <li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1554)</li>
-<li>chat.openai.com (1402)</li>
+<li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1072)</li>
 <li>web.whatsapp.com (1069)</li>
-<li>mail.rhul.ac.uk (883)</li>
+<li>mail.rhul.ac.uk (882)</li>
 <li>feedly.com (869)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (814)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:55 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 12:27 www.linkedin.com</li>
+<li> 12:26 talkingpointsmemo.com</li>
+<li> 12:26 chatgpt.com</li>
+<li> 12:26 chat.openai.com</li>
+<li> 12:15 www.linkedin.com</li>
+<li> 12:13 dashboards.rhul.ac.uk</li>
+<li> 11:55 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 11:54 webtimetables.royalholloway.ac.uk</li>
 <li> 11:51 dashboards.rhul.ac.uk</li>
 <li class='same'> 11:49 dashboards.rhul.ac.uk</li>
@@ -124402,19 +124408,4 @@ With number of accesses/minutes in parentheses
 <li> 16:19 www.gsk.com</li>
 <li> 16:19 www.google.com</li>
 <li class='same'> 16:18 www.google.com</li>
-<li> 16:18 careers.ba.com</li>
-<li> 16:17 www.google.com</li>
-<li> 16:17 www.reddit.com</li>
-<li> 15:53 bsky.app</li>
-<li class='same'> 15:52 bsky.app</li>
-<li> 15:52 www.linkedin.com</li>
-<li> 15:50 www.royalholloway.ac.uk</li>
-<li> 15:50 www.google.com</li>
-<li> 15:47 www.london.ac.uk</li>
-<li> 15:47 www.google.com</li>
-<li> 15:46 mail.google.com</li>
-<li> 15:46 outlook.office365.com</li>
-<li> 15:46 mail.rhul.ac.uk</li>
-<li> 15:46 mail.google.com</li>
-<li class='same'> 15:45 mail.google.com</li>
 </ul>
