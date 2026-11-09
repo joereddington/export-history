@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3236)</li>
 <li>chatgpt.com (3040)</li>
-<li>www.linkedin.com (2451)</li>
+<li>www.linkedin.com (2452)</li>
 <li>moodle.royalholloway.ac.uk (2015)</li>
 <li>bsky.app (1700)</li>
 <li>login.microsoftonline.com (1677)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1071)</li>
 <li>web.whatsapp.com (1069)</li>
 <li>mail.rhul.ac.uk (882)</li>
-<li>feedly.com (869)</li>
+<li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (814)</li>
 <li>forms.office.com (736)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:21 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 16:38 feedly.com</li>
+<li> 16:32 www.linkedin.com</li>
+<li> 16:21 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:19 localhost:8443</li>
 <li class='same'> 16:18 localhost:8443</li>
 <li> 16:12 <a href="https://www.youtube.com/watch?v=sMqR0ANOSVM">(140) Super star destroyer crash and death star destroy - YouTube</a></li>
