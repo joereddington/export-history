@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5976)</li>
-<li>mail.google.com (5119)</li>
+<li>mail.google.com (5118)</li>
 <li>www.google.com (4506)</li>
-<li>duckduckgo.com (4161)</li>
-<li>outlook.office365.com (3924)</li>
+<li>duckduckgo.com (4162)</li>
+<li>outlook.office365.com (3923)</li>
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3040)</li>
+<li>chatgpt.com (3041)</li>
 <li>www.linkedin.com (2443)</li>
 <li>moodle.royalholloway.ac.uk (2014)</li>
 <li>bsky.app (1705)</li>
 <li>login.microsoftonline.com (1675)</li>
 <li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1554)</li>
-<li>chat.openai.com (1403)</li>
+<li>chat.openai.com (1404)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1072)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:53 rhul.hosted.panopto.com</li>
+<ul><li> 14:24 chatgpt.com</li>
+<li> 14:24 chat.openai.com</li>
+<li> 14:15 www.su.rhul.ac.uk</li>
+<li> 14:15 duckduckgo.com</li>
+<li> 13:53 rhul.hosted.panopto.com</li>
 <li class='same'> 13:52 rhul.hosted.panopto.com</li>
 <li> 13:52 moodle.royalholloway.ac.uk</li>
 <li> 13:52 rhul.hosted.panopto.com</li>
@@ -124403,11 +124407,4 @@ With number of accesses/minutes in parentheses
 <li> 18:38 forms.gle</li>
 <li> 18:38 eur03.safelinks.protection.outlook.com</li>
 <li> 18:38 outlook.office365.com</li>
-<li> 18:38 mail.google.com</li>
-<li> 18:38 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:03 m.youtube.com</li>
 </ul>
