@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5976)</li>
 <li>mail.google.com (5118)</li>
 <li>www.google.com (4506)</li>
-<li>duckduckgo.com (4162)</li>
+<li>duckduckgo.com (4163)</li>
 <li>outlook.office365.com (3918)</li>
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3237)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:22 localhost:8443</li>
+<ul><li> 15:58 <a href="https://en.wikipedia.org/wiki/Colossus_of_Rhodes"></a></li>
+<li> 15:57 <a href="https://en.wikipedia.org/wiki/Colossus">Colossus - Wikipedia</a></li>
+<li> 15:57 duckduckgo.com</li>
+<li> 15:47 dashboards.rhul.ac.uk</li>
+<li> 15:22 localhost:8443</li>
 <li> 15:03 casper.cs.rhul.ac.uk</li>
 <li> 15:01 www.linkedin.com</li>
 <li> 14:56 calendar.google.com</li>
