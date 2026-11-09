@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5978)</li>
-<li>mail.google.com (5125)</li>
-<li>www.google.com (4517)</li>
+<ol><li>www.reddit.com (5977)</li>
+<li>mail.google.com (5122)</li>
+<li>www.google.com (4513)</li>
 <li>duckduckgo.com (4160)</li>
-<li>outlook.office365.com (3929)</li>
+<li>outlook.office365.com (3925)</li>
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3039)</li>
 <li>www.linkedin.com (2441)</li>
-<li>moodle.royalholloway.ac.uk (2015)</li>
+<li>moodle.royalholloway.ac.uk (2013)</li>
 <li>bsky.app (1707)</li>
-<li>login.microsoftonline.com (1673)</li>
+<li>login.microsoftonline.com (1675)</li>
 <li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1554)</li>
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1074)</li>
+<li>gmail.com (1072)</li>
 <li>web.whatsapp.com (1069)</li>
-<li>mail.rhul.ac.uk (884)</li>
+<li>mail.rhul.ac.uk (883)</li>
 <li>feedly.com (869)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (815)</li>
+<li>rhul-my.sharepoint.com (814)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (681)</li>
 <li>fritz.box (595)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:25 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 11:55 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:54 webtimetables.royalholloway.ac.uk</li>
+<li> 11:51 dashboards.rhul.ac.uk</li>
+<li class='same'> 11:49 dashboards.rhul.ac.uk</li>
+<li> 11:39 moodle.royalholloway.ac.uk</li>
+<li> 11:39 login.microsoftonline.com</li>
+<li> 11:39 moodle.royalholloway.ac.uk</li>
+<li> 11:39 login.microsoftonline.com</li>
+<li> 11:39 device.login.microsoftonline.com</li>
+<li> 11:25 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 11:16 login.microsoftonline.com</li>
 <li> 11:16 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 11:16 eis-prod.ec.royalholloway.ac.uk</li>
@@ -124408,34 +124417,4 @@ With number of accesses/minutes in parentheses
 <li> 15:46 mail.rhul.ac.uk</li>
 <li> 15:46 mail.google.com</li>
 <li class='same'> 15:45 mail.google.com</li>
-<li class='same'> 15:41 mail.google.com</li>
-<li> 15:41 gmail.com</li>
-<li> 15:41 mail.google.com</li>
-<li> 15:30 outlook.office365.com</li>
-<li> 15:29 mail.google.com</li>
-<li> 15:29 gmail.com</li>
-<li> 15:29 outlook.office365.com</li>
-<li> 15:26 moodle2021.royalholloway.ac.uk</li>
-<li> 15:26 www.google.com</li>
-<li> 15:25 moodle.royalholloway.ac.uk</li>
-<li> 15:24 dashboards.rhul.ac.uk</li>
-<li> 15:22 moodle.royalholloway.ac.uk</li>
-<li> 15:21 rhul-my.sharepoint.com</li>
-<li> 15:20 www.royalholloway.ac.uk</li>
-<li> 15:19 www.google.com</li>
-<li> 15:19 www.royalholloway.ac.uk</li>
-<li> 15:19 royalholloway.ac.uk</li>
-<li> 15:19 www.google.com</li>
-<li> 15:16 outlook.office365.com</li>
-<li> 15:16 www.royalholloway.ac.uk</li>
-<li> 15:16 www.google.com</li>
-<li> 15:15 moodle.royalholloway.ac.uk</li>
-<li class='same'> 15:14 moodle.royalholloway.ac.uk</li>
-<li> 15:13 outlook.office365.com</li>
-<li> 15:13 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 14:40 www.reddit.com</li>
 </ul>
