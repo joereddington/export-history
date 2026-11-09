@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5981)</li>
-<li>mail.google.com (5130)</li>
-<li>www.google.com (4529)</li>
+<li>mail.google.com (5125)</li>
+<li>www.google.com (4519)</li>
 <li>duckduckgo.com (4160)</li>
 <li>outlook.office365.com (3929)</li>
-<li>outlook.office.com (3762)</li>
+<li>outlook.office.com (3752)</li>
 <li>docs.google.com (3238)</li>
-<li>chatgpt.com (3041)</li>
-<li>www.linkedin.com (2443)</li>
+<li>chatgpt.com (3039)</li>
+<li>www.linkedin.com (2441)</li>
 <li>moodle.royalholloway.ac.uk (2015)</li>
-<li>bsky.app (1715)</li>
+<li>bsky.app (1707)</li>
 <li>login.microsoftonline.com (1670)</li>
 <li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1554)</li>
-<li>chat.openai.com (1404)</li>
+<li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1074)</li>
 <li>web.whatsapp.com (1069)</li>
 <li>mail.rhul.ac.uk (884)</li>
 <li>feedly.com (869)</li>
-<li>tvtropes.org (864)</li>
-<li>rhul-my.sharepoint.com (817)</li>
+<li>tvtropes.org (862)</li>
+<li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (681)</li>
 <li>fritz.box (595)</li>
@@ -104,11 +104,24 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 08/11/26</H3>
+
+<br>
+
+<ul><li> 12:45 localhost:8443</li>
+<li class='same'> 12:44 localhost:8443</li>
+</ul>
+
 <H3>Saturday, 07/11/26</H3>
 
 <br>
 
-<ul><li> 16:28 ico.org.uk</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 16:33 ico.org.uk</li>
+<li class='same'> 16:28 ico.org.uk</li>
 <li class='same'> 16:27 ico.org.uk</li>
 <li> 16:26 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&amp;action=history">2015 TalkTalk data breach: Revision history - Wikipedia</a></li>
 <li> 16:26 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
@@ -13601,12 +13614,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 07:57 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 07:20 www.google.com</li>
+<ul><li> 07:20 www.google.com</li>
 <li class='same'> 07:17 www.google.com</li>
 <li> 07:17 bulbapedia.bulbagarden.net</li>
 <li> 06:58 mail.google.com</li>
@@ -13614,18 +13626,14 @@ With number of accesses/minutes in parentheses
 <li> 06:57 gmail.com</li>
 <li> 06:57 www.ucas.com</li>
 <li class='same'> 06:56 www.ucas.com</li>
-<li class='same'> 06:55 www.ucas.com</li>
 <li> 06:55 chatgpt.com</li>
 <li class='same'> 06:54 chatgpt.com</li>
 <li> 06:54 chat.openai.com</li>
 <li> 06:54 duckduckgo.com</li>
 <li> 06:53 www.ucas.com</li>
-<li class='same'> 06:52 www.ucas.com</li>
-<li class='same'> 06:51 www.ucas.com</li>
 <li class='same'> 06:50 www.ucas.com</li>
 <li> 06:49 www.royalholloway.ac.uk</li>
-<li> 06:49 royalholloway.ac.uk</li>
-<li> 06:48 www.royalholloway.ac.uk</li>
+<li class='same'> 06:48 www.royalholloway.ac.uk</li>
 <li> 06:47 www.law.ac.uk</li>
 <li> 06:47 www.royalholloway.ac.uk</li>
 <li> 06:47 duckduckgo.com</li>
@@ -13663,14 +13671,10 @@ With number of accesses/minutes in parentheses
 <li> 06:23 find-and-update.company-information.service.gov.uk</li>
 <li> 06:21 mail.google.com</li>
 <li class='same'> 06:20 mail.google.com</li>
-<li> 06:20 accounts.google.com</li>
-<li> 06:20 mail.google.com</li>
 <li> 06:20 gmail.com</li>
 <li> 06:20 accounts.google.com</li>
 <li> 06:20 mail.google.com</li>
 <li> 06:19 calendar.google.com</li>
-<li> 06:19 mail.google.com</li>
-<li> 06:19 mail-attachment.googleusercontent.com</li>
 <li> 06:19 mail.google.com</li>
 <li class='same'> 06:18 mail.google.com</li>
 <li class='same'> 06:17 mail.google.com</li>
@@ -124414,76 +124418,4 @@ With number of accesses/minutes in parentheses
 <li> 14:20 www.reddit.com</li>
 <li> 14:20 www.google.com</li>
 <li> 14:19 www.reddit.com</li>
-<li> 14:19 www.google.com</li>
-<li> 13:52 tvtropes.org</li>
-<li> 13:51 chatgpt.com</li>
-<li> 13:51 chat.openai.com</li>
-<li> 13:51 tvtropes.org</li>
-<li> 13:51 www.google.com</li>
-<li> 13:48 <a href="https://en.wikipedia.org/wiki/Skanderbeg">Skanderbeg - Wikipedia</a></li>
-<li> 13:47 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 13:30 money.cnn.com</li>
-<li> 13:30 www.google.com</li>
-<li> 13:28 <a href="https://en.wikipedia.org/wiki/Shamoon">Shamoon - Wikipedia</a></li>
-<li> 13:27 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:50 <a href="https://en.wikipedia.org/wiki/Albert_Gonzalez#Heartland_Payment_Systems">Albert Gonzalez - Wikipedia</a></li>
-<li> 12:50 <a href="https://en.wikipedia.org/wiki/Heartland_Payment_Systems">Heartland Payment Systems - Wikipedia</a></li>
-<li> 12:50 www.google.com</li>
-<li> 12:49 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community">UK cyber security community - Wikipedia</a></li>
-<li> 12:49 www.google.com</li>
-<li> 12:49 <a href="https://en.wikipedia.org/w/index.php?title=UK_cyber_security_community&amp;oldid=1214936313">UK cyber security community - Wikipedia</a></li>
-<li> 12:48 <a href="https://en.wikipedia.org/w/index.php?title=UK_cyber_security_community&amp;action=history">UK cyber security community: Revision history - Wikipedia</a></li>
-<li> 12:48 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community#Professional_bodies">UK cyber security community - Wikipedia</a></li>
-<li> 12:47 <a href="https://en.wikipedia.org/w/index.php?title=UK_cyber_security_community&amp;action=edit&amp;section=11">Editing UK cyber security community - Wikipedia</a></li>
-<li> 12:47 www.ncsc.gov.uk</li>
-<li> 12:47 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community">UK cyber security community - Wikipedia</a></li>
-<li> 12:47 www.ncsc.gov.uk</li>
-<li> 12:46 <a href="https://en.wikipedia.org/wiki/National_Cyber_Security_Centre_(United_Kingdom)">National Cyber Security Centre (United Kingdom) - Wikipedia</a></li>
-<li> 12:45 <a href="https://en.wikipedia.org/wiki/Centre_for_Secure_Information_Technologies">Centre for Secure Information Technologies - Wikipedia</a></li>
-<li> 12:45 www.google.com</li>
-<li> 12:45 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community">UK cyber security community - Wikipedia</a></li>
-<li> 12:44 <a href="https://en.wikipedia.org/w/index.php?title=UK_cyber_security_community&amp;diff=1259506774&amp;oldid=1258904953">UK cyber security community: Difference between revisions - Wikipedia</a></li>
-<li> 12:44 <a href="https://en.wikipedia.org/w/index.php?title=UK_cyber_security_community&amp;action=history">UK cyber security community: Revision history - Wikipedia</a></li>
-<li> 12:44 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community">UK cyber security community - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/w/index.php?title=Luton&amp;curid=55639&amp;diff=1259938938&amp;oldid=1254909351">Luton: Difference between revisions - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 12:43 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 12:28 bsky.app</li>
-<li> 12:25 community.crossref.org</li>
-<li> 12:25 www.google.com</li>
-<li> 12:24 bsky.app</li>
-<li class='same'> 12:23 bsky.app</li>
-<li> 12:21 www.sec.gov</li>
-<li> 12:07 rhul-my.sharepoint.com</li>
-<li> 12:05 mail.google.com</li>
-<li class='same'> 12:04 mail.google.com</li>
-<li class='same'> 12:03 mail.google.com</li>
-<li> 12:03 outlook.office.com</li>
-<li class='same'> 11:53 outlook.office.com</li>
-<li class='same'> 11:51 outlook.office.com</li>
-<li class='same'> 11:50 outlook.office.com</li>
-<li> 11:46 askubuntu.com</li>
-<li> 11:46 www.google.com</li>
-<li> 11:42 outlook.office.com</li>
-<li class='same'> 11:41 outlook.office.com</li>
-<li class='same'> 11:40 outlook.office.com</li>
-<li> 11:34 chatgpt.com</li>
-<li> 11:34 chat.openai.com</li>
-<li> 11:26 bsky.app</li>
-<li class='same'> 11:25 bsky.app</li>
-<li class='same'> 11:24 bsky.app</li>
-<li class='same'> 11:23 bsky.app</li>
-<li class='same'> 11:22 bsky.app</li>
-<li> 11:19 rhul-my.sharepoint.com</li>
-<li> 11:14 www.linkedin.com</li>
-<li class='same'> 11:13 www.linkedin.com</li>
-<li> 11:04 outlook.office.com</li>
-<li class='same'> 11:03 outlook.office.com</li>
-<li class='same'> 11:02 outlook.office.com</li>
 </ul>
