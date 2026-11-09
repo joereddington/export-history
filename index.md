@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5981)</li>
+<ol><li>www.reddit.com (5978)</li>
 <li>mail.google.com (5125)</li>
-<li>www.google.com (4519)</li>
+<li>www.google.com (4517)</li>
 <li>duckduckgo.com (4160)</li>
 <li>outlook.office365.com (3929)</li>
 <li>outlook.office.com (3752)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2441)</li>
 <li>moodle.royalholloway.ac.uk (2015)</li>
 <li>bsky.app (1707)</li>
-<li>login.microsoftonline.com (1670)</li>
+<li>login.microsoftonline.com (1673)</li>
 <li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1554)</li>
 <li>chat.openai.com (1402)</li>
@@ -104,11 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 09/11/26</H3>
+
+<br>
+
+<ul><li> 11:25 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:16 login.microsoftonline.com</li>
+<li> 11:16 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:16 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:16 login.microsoftonline.com</li>
+<li> 11:16 device.login.microsoftonline.com</li>
+<li> 11:16 login.microsoftonline.com</li>
+<li> 11:16 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:15 localhost:4444</li>
+<li class='same'> 11:13 localhost:4444</li>
+<li class='same'> 11:11 localhost:4444</li>
+<li> 11:03 dashboards.rhul.ac.uk</li>
+<li> 11:02 localhost:4444</li>
+<li class='same'> 11:00 localhost:4444</li>
+<li> 10:59 localhost:8443</li>
+</ul>
+
 <H3>Sunday, 08/11/26</H3>
 
 <br>
 
-<ul><li> 12:45 localhost:8443</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:45 localhost:8443</li>
 <li class='same'> 12:44 localhost:8443</li>
 </ul>
 
@@ -124413,9 +124438,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:40 www.reddit.com</li>
-<li class='same'> 14:21 www.reddit.com</li>
-<li> 14:20 www.google.com</li>
-<li> 14:20 www.reddit.com</li>
-<li> 14:20 www.google.com</li>
-<li> 14:19 www.reddit.com</li>
 </ul>
