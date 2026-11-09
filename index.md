@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5976)</li>
 <li>mail.google.com (5119)</li>
-<li>www.google.com (4510)</li>
-<li>duckduckgo.com (4160)</li>
+<li>www.google.com (4508)</li>
+<li>duckduckgo.com (4161)</li>
 <li>outlook.office365.com (3924)</li>
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3238)</li>
 <li>chatgpt.com (3040)</li>
-<li>www.linkedin.com (2442)</li>
+<li>www.linkedin.com (2443)</li>
 <li>moodle.royalholloway.ac.uk (2013)</li>
 <li>bsky.app (1705)</li>
 <li>login.microsoftonline.com (1675)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 www.linkedin.com</li>
+<ul><li> 12:41 duckduckgo.com</li>
+<li> 12:28 www.linkedin.com</li>
+<li class='same'> 12:27 www.linkedin.com</li>
 <li> 12:26 talkingpointsmemo.com</li>
 <li> 12:26 chatgpt.com</li>
 <li> 12:26 chat.openai.com</li>
@@ -124405,7 +124407,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 16:20 www.google.com</li>
-<li> 16:19 www.gsk.com</li>
-<li> 16:19 www.google.com</li>
-<li class='same'> 16:18 www.google.com</li>
 </ul>
