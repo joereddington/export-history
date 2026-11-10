@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5968)</li>
-<li>mail.google.com (5132)</li>
+<li>mail.google.com (5133)</li>
 <li>www.google.com (4495)</li>
 <li>duckduckgo.com (4169)</li>
 <li>outlook.office365.com (3907)</li>
-<li>outlook.office.com (3748)</li>
+<li>outlook.office.com (3747)</li>
 <li>docs.google.com (3237)</li>
 <li>chatgpt.com (3041)</li>
 <li>www.linkedin.com (2453)</li>
-<li>moodle.royalholloway.ac.uk (2012)</li>
+<li>moodle.royalholloway.ac.uk (2009)</li>
 <li>bsky.app (1695)</li>
 <li>login.microsoftonline.com (1678)</li>
 <li>www.facebook.com (1561)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (813)</li>
-<li>forms.office.com (734)</li>
+<li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (684)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 10/11/26</H3>
+
+<br>
+
+<ul><li> 14:44 localhost:8443</li>
+<li class='same'> 14:43 localhost:8443</li>
+<li> 14:40 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -124390,10 +124397,4 @@ With number of accesses/minutes in parentheses
 <li> 15:04 eur03.safelinks.protection.outlook.com</li>
 <li> 15:04 outlook.office.com</li>
 <li class='same'> 15:03 outlook.office.com</li>
-<li> 15:02 forms.office.com</li>
-<li> 14:57 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:56 moodle.royalholloway.ac.uk</li>
-<li> 14:54 dashboards.rhul.ac.uk</li>
-<li> 14:53 moodle.royalholloway.ac.uk</li>
-<li> 14:52 outlook.office.com</li>
 </ul>
