@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5975)</li>
+<ol><li>www.reddit.com (5969)</li>
 <li>mail.google.com (5116)</li>
 <li>www.google.com (4504)</li>
-<li>duckduckgo.com (4163)</li>
-<li>outlook.office365.com (3918)</li>
+<li>duckduckgo.com (4164)</li>
+<li>outlook.office365.com (3914)</li>
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3236)</li>
-<li>chatgpt.com (3041)</li>
+<li>chatgpt.com (3043)</li>
 <li>www.linkedin.com (2452)</li>
-<li>moodle.royalholloway.ac.uk (2015)</li>
+<li>moodle.royalholloway.ac.uk (2014)</li>
 <li>bsky.app (1700)</li>
 <li>login.microsoftonline.com (1677)</li>
 <li>www.facebook.com (1563)</li>
-<li>calendar.google.com (1554)</li>
-<li>chat.openai.com (1404)</li>
+<li>calendar.google.com (1553)</li>
+<li>chat.openai.com (1405)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1071)</li>
 <li>web.whatsapp.com (1069)</li>
-<li>mail.rhul.ac.uk (882)</li>
+<li>mail.rhul.ac.uk (880)</li>
 <li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (814)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:26 chatgpt.com</li>
+<ul><li> 09:57 chatgpt.com</li>
+<li class='same'> 09:56 chatgpt.com</li>
+<li> 09:56 chat.openai.com</li>
+<li> 09:56 qbo.intuit.com</li>
+<li class='same'> 09:55 qbo.intuit.com</li>
+<li> 09:54 www.paypal.com</li>
+<li class='same'> 09:53 www.paypal.com</li>
+<li> 09:53 online.unity.co.uk</li>
+<li> 09:53 www.paypal.com</li>
+<li class='same'> 09:52 www.paypal.com</li>
+<li> 09:52 qbo.intuit.com</li>
+<li class='same'> 09:51 qbo.intuit.com</li>
+<li class='same'> 09:49 qbo.intuit.com</li>
+<li class='same'> 09:48 qbo.intuit.com</li>
+<li> 09:46 online.unity.co.uk</li>
+<li> 09:45 qbo.intuit.com</li>
+<li class='same'> 09:43 qbo.intuit.com</li>
+<li class='same'> 09:42 qbo.intuit.com</li>
+<li class='same'> 09:41 qbo.intuit.com</li>
+<li class='same'> 09:39 qbo.intuit.com</li>
+<li> 09:39 accounts.intuit.com</li>
+<li> 09:39 qbo.intuit.com</li>
+<li> 09:39 app.qbo.intuit.com</li>
+<li> 09:38 c14.qbo.intuit.com</li>
+<li> 09:35 <a href="https://en.wikipedia.org/wiki/Red_team">Red team - Wikipedia</a></li>
+<li> 09:35 duckduckgo.com</li>
+<li> 09:26 chatgpt.com</li>
 <li> 09:26 chat.openai.com</li>
 <li> 09:22 casper.cs.rhul.ac.uk</li>
 </ul>
@@ -18605,7 +18631,7 @@ With number of accesses/minutes in parentheses
 <li> 12:11 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Computer_security&amp;action=edit&amp;section=11">Editing Wikipedia talk:WikiProject Computer security (section) - Wikipedia</a></li>
 <li> 12:11 <a href="https://en.wikipedia.org/wiki/Red_team#See_also">Red team - Wikipedia</a></li>
 <li> 12:10 <a href="https://en.wikipedia.org/w/index.php?title=Red_team&amp;action=edit&amp;section=20">Editing Red team - Wikipedia</a></li>
-<li> 12:10 <a href="https://en.wikipedia.org/wiki/Red_team">Editing Red team - Wikipedia</a></li>
+<li> 12:10 <a href="https://en.wikipedia.org/wiki/Red_team">Red team - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -21921,7 +21947,7 @@ With number of accesses/minutes in parentheses
 <li> 16:18 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:18 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 16:18 <a href="https://en.wikipedia.org/wiki/Talk:Hacker#Structure">Talk:Hacker - Wikipedia</a></li>
-<li> 16:16 <a href="https://en.wikipedia.org/wiki/Red_team">Editing Red team - Wikipedia</a></li>
+<li> 16:16 <a href="https://en.wikipedia.org/wiki/Red_team">Red team - Wikipedia</a></li>
 <li> 16:13 <a href="https://en.wikipedia.org/wiki/Engineer">Engineer - Wikipedia</a></li>
 <li> 16:12 <a href="https://en.wikipedia.org/w/index.php?title=BlueHat&amp;action=history">BlueHat: Revision history - Wikipedia</a></li>
 <li> 16:12 <a href="https://en.wikipedia.org/wiki/BlueHat">BlueHat - Wikipedia</a></li>
@@ -23698,7 +23724,7 @@ With number of accesses/minutes in parentheses
 <li> 18:25 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_security/Archive_5">Wikipedia talk:WikiProject Computer security/Archive 5 - Wikipedia</a></li>
 <li> 18:25 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_security">Wikipedia talk:WikiProject Computer security - Wikipedia</a></li>
 <li> 18:24 www.ibm.com</li>
-<li> 18:23 <a href="https://en.wikipedia.org/wiki/Red_team">Editing Red team - Wikipedia</a></li>
+<li> 18:23 <a href="https://en.wikipedia.org/wiki/Red_team">Red team - Wikipedia</a></li>
 <li> 18:23 wp1.openzim.org</li>
 <li> 18:23 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_security">Wikipedia:WikiProject Computer security - Wikipedia</a></li>
 <li> 18:23 <a href="https://en.wikipedia.org/wiki/Talk:Kevin_Mitnick">Talk:Kevin Mitnick - Wikipedia</a></li>
@@ -24457,9 +24483,9 @@ With number of accesses/minutes in parentheses
 <li> 18:13 <a href="https://en.wikipedia.org/wiki/Penetration_test">Penetration test - Wikipedia</a></li>
 <li> 18:13 duckduckgo.com</li>
 <li> 18:09 <a href="https://en.wikipedia.org/wiki/Tiger_team">Tiger team - Wikipedia</a></li>
-<li> 18:09 <a href="https://en.wikipedia.org/wiki/Red_team">Editing Red team - Wikipedia</a></li>
+<li> 18:09 <a href="https://en.wikipedia.org/wiki/Red_team">Red team - Wikipedia</a></li>
 <li> 18:09 <a href="https://en.wikipedia.org/wiki/Tiger_team">Tiger team - Wikipedia</a></li>
-<li> 18:08 <a href="https://en.wikipedia.org/wiki/Red_team">Editing Red team - Wikipedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/wiki/Red_team">Red team - Wikipedia</a></li>
 <li> 18:08 <a href="https://en.wikipedia.org/wiki/Network_security">Network security - Wikipedia</a></li>
 <li> 18:08 <a href="https://en.wikipedia.org/wiki/Network_Security">Network security - Wikipedia</a></li>
 <li> 17:59 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)#Tactics">White hat (computer security) - Wikipedia</a></li>
@@ -124386,41 +124412,4 @@ With number of accesses/minutes in parentheses
 <li> 08:32 gmail.com</li>
 <li> 08:31 www.linkedin.com</li>
 <li> 08:31 bsky.app</li>
-<li> 08:31 outlook.office365.com</li>
-<li class='same'> 08:30 outlook.office365.com</li>
-<li> 08:30 moodle.royalholloway.ac.uk</li>
-<li> 08:30 outlook.office365.com</li>
-<li> 08:30 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 00:00 calendar.google.com</li>
-</ul>
-
-<H3>Thursday, 28/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:57 theweek.com</li>
-<li> 20:55 news.sky.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:06 www.reddit.com</li>
-<li> 20:05 <a href="https://www.youtube.com/watch?v=SwYl-BmTUdw">(6) 1940s - The Ideal Diet - YouTube</a></li>
-<li> 20:05 <a href="https://www.youtube.com/watch?si=YOIPhK0HM2DFzCZP&amp;v=SwYl-BmTUdw&amp;feature=youtu.be&amp;themeRefresh=1">1940s - The Ideal Diet - YouTube</a></li>
-<li> 20:05 <a href="https://www.youtube.com/watch?si=YOIPhK0HM2DFzCZP&amp;v=SwYl-BmTUdw&amp;feature=youtu.be">1940s - The Ideal Diet - YouTube</a></li>
-<li> 20:05 www.reddit.com</li>
-<li class='same'> 20:03 www.reddit.com</li>
-<li class='same'> 20:02 www.reddit.com</li>
-<li class='same'> 20:01 www.reddit.com</li>
-<li class='same'> 20:00 www.reddit.com</li>
-<li> 19:59 outlook.office365.com</li>
-<li> 19:59 mail.rhul.ac.uk</li>
 </ul>
