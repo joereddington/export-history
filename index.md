@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3907)</li>
 <li>outlook.office.com (3742)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3041)</li>
+<li>chatgpt.com (3039)</li>
 <li>www.linkedin.com (2453)</li>
-<li>moodle.royalholloway.ac.uk (2009)</li>
+<li>moodle.royalholloway.ac.uk (2008)</li>
 <li>bsky.app (1692)</li>
 <li>login.microsoftonline.com (1678)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1552)</li>
-<li>chat.openai.com (1402)</li>
+<li>chat.openai.com (1400)</li>
 <li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1070)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (876)</li>
 <li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (813)</li>
-<li>forms.office.com (733)</li>
+<li>rhul-my.sharepoint.com (812)</li>
+<li>forms.office.com (732)</li>
 <li>rhul.sharepoint.com (692)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -124388,16 +124388,4 @@ With number of accesses/minutes in parentheses
 <li> 15:37 bsky.app</li>
 <li class='same'> 15:36 bsky.app</li>
 <li> 15:36 rhul.hosted.panopto.com</li>
-<li> 15:36 moodle.royalholloway.ac.uk</li>
-<li> 15:36 rhul.hosted.panopto.com</li>
-<li> 15:33 dashboards.rhul.ac.uk</li>
-<li> 15:28 chatgpt.com</li>
-<li> 15:28 chat.openai.com</li>
-<li> 15:26 chatgpt.com</li>
-<li> 15:26 chat.openai.com</li>
-<li> 15:24 rhul-my.sharepoint.com</li>
-<li> 15:24 forms.office.com</li>
-<li> 15:18 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:18 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 15:18 generalssb-prod.ec.royalholloway.ac.uk</li>
 </ul>
