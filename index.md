@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5968)</li>
 <li>mail.google.com (5133)</li>
 <li>www.google.com (4495)</li>
-<li>duckduckgo.com (4169)</li>
+<li>duckduckgo.com (4170)</li>
 <li>outlook.office365.com (3907)</li>
-<li>outlook.office.com (3747)</li>
-<li>docs.google.com (3237)</li>
+<li>outlook.office.com (3744)</li>
+<li>docs.google.com (3235)</li>
 <li>chatgpt.com (3041)</li>
 <li>www.linkedin.com (2453)</li>
 <li>moodle.royalholloway.ac.uk (2009)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 10/11/26</H3>
+
+<br>
+
+<ul><li> 15:23 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -124386,15 +124391,4 @@ With number of accesses/minutes in parentheses
 <li> 15:06 docs.google.com</li>
 <li> 15:06 outlook.office.com</li>
 <li> 15:05 calendar.google.com</li>
-<li> 15:04 outlook.office.com</li>
-<li> 15:04 forms.gle</li>
-<li> 15:04 docs.google.com</li>
-<li> 15:04 forms.gle</li>
-<li> 15:04 eur03.safelinks.protection.outlook.com</li>
-<li> 15:04 forms.gle</li>
-<li> 15:04 docs.google.com</li>
-<li> 15:04 forms.gle</li>
-<li> 15:04 eur03.safelinks.protection.outlook.com</li>
-<li> 15:04 outlook.office.com</li>
-<li class='same'> 15:03 outlook.office.com</li>
 </ul>
