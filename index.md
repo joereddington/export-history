@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5969)</li>
-<li>mail.google.com (5116)</li>
-<li>www.google.com (4504)</li>
-<li>duckduckgo.com (4164)</li>
+<li>mail.google.com (5131)</li>
+<li>www.google.com (4503)</li>
+<li>duckduckgo.com (4165)</li>
 <li>outlook.office365.com (3914)</li>
 <li>outlook.office.com (3752)</li>
-<li>docs.google.com (3236)</li>
-<li>chatgpt.com (3043)</li>
-<li>www.linkedin.com (2452)</li>
+<li>docs.google.com (3237)</li>
+<li>chatgpt.com (3044)</li>
+<li>www.linkedin.com (2455)</li>
 <li>moodle.royalholloway.ac.uk (2014)</li>
-<li>bsky.app (1700)</li>
+<li>bsky.app (1699)</li>
 <li>login.microsoftonline.com (1677)</li>
 <li>www.facebook.com (1563)</li>
-<li>calendar.google.com (1553)</li>
+<li>calendar.google.com (1554)</li>
 <li>chat.openai.com (1405)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1071)</li>
-<li>web.whatsapp.com (1069)</li>
+<li>gmail.com (1070)</li>
+<li>web.whatsapp.com (1067)</li>
 <li>mail.rhul.ac.uk (880)</li>
 <li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (814)</li>
+<li>rhul-my.sharepoint.com (813)</li>
 <li>forms.office.com (736)</li>
 <li>rhul.sharepoint.com (682)</li>
 <li>fritz.box (595)</li>
@@ -108,7 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 chatgpt.com</li>
+<ul><li class='same'> 10:28 mail.google.com</li>
+<li class='same'> 10:27 mail.google.com</li>
+<li> 10:26 www.google.com</li>
+<li> 10:26 dash.cloudflare.com</li>
+<li> 10:26 mail.google.com</li>
+<li class='same'> 10:25 mail.google.com</li>
+<li> 10:25 dash.cloudflare.com</li>
+<li> 10:24 mail.google.com</li>
+<li class='same'> 10:23 mail.google.com</li>
+<li> 10:23 dash.cloudflare.com</li>
+<li> 10:23 mail.google.com</li>
+<li class='same'> 10:22 mail.google.com</li>
+<li> 10:21 dash.cloudflare.com</li>
+<li> 10:14 drive.google.com</li>
+<li class='same'> 10:13 drive.google.com</li>
+<li> 10:11 mail.google.com</li>
+<li> 10:11 dash.cloudflare.com</li>
+<li class='same'> 10:09 dash.cloudflare.com</li>
+<li> 10:08 www.cloudflare.com</li>
+<li> 10:08 duckduckgo.com</li>
+<li> 10:08 mail.google.com</li>
+<li class='same'> 10:07 mail.google.com</li>
+<li> 10:06 chatgpt.com</li>
+<li> 10:06 mail.google.com</li>
+<li> 10:06 docs.google.com</li>
+<li> 10:06 mail.google.com</li>
+<li class='same'> 10:05 mail.google.com</li>
+<li> 10:05 online.unity.co.uk</li>
+<li> 10:05 mail.google.com</li>
+<li> 10:05 calendar.google.com</li>
+<li> 10:05 mail.google.com</li>
+<li class='same'> 10:04 mail.google.com</li>
+<li> 10:04 gmail.com</li>
+<li> 10:01 www.linkedin.com</li>
+<li> 10:01 qbo.intuit.com</li>
+<li> 10:01 www.linkedin.com</li>
+<li class='same'> 10:00 www.linkedin.com</li>
+<li> 10:00 online.unity.co.uk</li>
+<li> 10:00 www.linkedin.com</li>
+<li> 09:58 qbo.intuit.com</li>
+<li> 09:57 chatgpt.com</li>
 <li class='same'> 09:56 chatgpt.com</li>
 <li> 09:56 chat.openai.com</li>
 <li> 09:56 qbo.intuit.com</li>
@@ -124397,19 +124437,4 @@ With number of accesses/minutes in parentheses
 <li> 08:49 chatgpt.com</li>
 <li> 08:49 chat.openai.com</li>
 <li> 08:44 mail.google.com</li>
-<li> 08:43 web.whatsapp.com</li>
-<li> 08:41 drive.google.com</li>
-<li class='same'> 08:40 drive.google.com</li>
-<li> 08:38 web.whatsapp.com</li>
-<li> 08:35 www.studocu.com</li>
-<li> 08:35 info.pxpfinancial.com</li>
-<li> 08:34 www.google.com</li>
-<li> 08:32 rhul-my.sharepoint.com</li>
-<li> 08:32 mail.google.com</li>
-<li> 08:32 gmail.com</li>
-<li> 08:32 www.google.com</li>
-<li> 08:32 mail.google.com</li>
-<li> 08:32 gmail.com</li>
-<li> 08:31 www.linkedin.com</li>
-<li> 08:31 bsky.app</li>
 </ul>
