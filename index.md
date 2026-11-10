@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5968)</li>
 <li>mail.google.com (5133)</li>
-<li>www.google.com (4494)</li>
+<li>www.google.com (4493)</li>
 <li>duckduckgo.com (4171)</li>
-<li>outlook.office365.com (3907)</li>
-<li>outlook.office.com (3742)</li>
+<li>outlook.office365.com (3906)</li>
+<li>outlook.office.com (3735)</li>
 <li>docs.google.com (3234)</li>
 <li>chatgpt.com (3039)</li>
-<li>www.linkedin.com (2453)</li>
-<li>moodle.royalholloway.ac.uk (2008)</li>
-<li>bsky.app (1692)</li>
+<li>www.linkedin.com (2451)</li>
+<li>moodle.royalholloway.ac.uk (2007)</li>
+<li>bsky.app (1688)</li>
 <li>login.microsoftonline.com (1678)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1552)</li>
@@ -86,8 +86,8 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1070)</li>
-<li>web.whatsapp.com (1065)</li>
-<li>mail.rhul.ac.uk (876)</li>
+<li>web.whatsapp.com (1064)</li>
+<li>mail.rhul.ac.uk (875)</li>
 <li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
@@ -124363,29 +124363,4 @@ With number of accesses/minutes in parentheses
 <li> 16:17 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 16:17 <a href="https://en.wikipedia.org/"></a></li>
 <li> 16:17 publish.obsidian.md</li>
-<li> 16:17 www.google.com</li>
-<li> 16:16 outlook.office.com</li>
-<li> 16:15 www.coursera.org</li>
-<li class='same'> 16:14 www.coursera.org</li>
-<li> 16:14 outlook.office.com</li>
-<li> 16:14 outlook.office365.com</li>
-<li> 16:14 outlook.office.com</li>
-<li> 16:14 mail.rhul.ac.uk</li>
-<li> 16:14 www.giantitp.com</li>
-<li class='same'> 16:13 www.giantitp.com</li>
-<li> 16:13 www.linkedin.com</li>
-<li> 16:13 bsky.app</li>
-<li class='same'> 16:12 bsky.app</li>
-<li> 16:12 outlook.office.com</li>
-<li class='same'> 15:49 outlook.office.com</li>
-<li class='same'> 15:48 outlook.office.com</li>
-<li> 15:47 moodle.royalholloway.ac.uk</li>
-<li> 15:47 outlook.office.com</li>
-<li> 15:45 www.linkedin.com</li>
-<li> 15:40 web.whatsapp.com</li>
-<li> 15:40 rhul.hosted.panopto.com</li>
-<li> 15:38 projects.cs.rhul.ac.uk</li>
-<li> 15:37 bsky.app</li>
-<li class='same'> 15:36 bsky.app</li>
-<li> 15:36 rhul.hosted.panopto.com</li>
 </ul>
