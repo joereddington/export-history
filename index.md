@@ -72,26 +72,26 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5132)</li>
 <li>www.google.com (4495)</li>
 <li>duckduckgo.com (4169)</li>
-<li>outlook.office365.com (3910)</li>
-<li>outlook.office.com (3752)</li>
+<li>outlook.office365.com (3908)</li>
+<li>outlook.office.com (3751)</li>
 <li>docs.google.com (3237)</li>
 <li>chatgpt.com (3041)</li>
-<li>www.linkedin.com (2456)</li>
-<li>moodle.royalholloway.ac.uk (2013)</li>
-<li>bsky.app (1697)</li>
+<li>www.linkedin.com (2453)</li>
+<li>moodle.royalholloway.ac.uk (2012)</li>
+<li>bsky.app (1695)</li>
 <li>login.microsoftonline.com (1678)</li>
-<li>www.facebook.com (1563)</li>
+<li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1553)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1070)</li>
-<li>web.whatsapp.com (1067)</li>
-<li>mail.rhul.ac.uk (879)</li>
+<li>web.whatsapp.com (1066)</li>
+<li>mail.rhul.ac.uk (877)</li>
 <li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (813)</li>
-<li>forms.office.com (735)</li>
+<li>forms.office.com (734)</li>
 <li>rhul.sharepoint.com (684)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 intranet.royalholloway.ac.uk</li>
+<ul><li> 13:01 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:00 intranet.royalholloway.ac.uk</li>
+<li class='same'> 12:59 intranet.royalholloway.ac.uk</li>
 <li class='same'> 12:58 intranet.royalholloway.ac.uk</li>
 <li> 12:57 rhul.sharepoint.com</li>
 <li> 12:57 device.login.microsoftonline.com</li>
@@ -124403,24 +124405,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:05 outlook.office.com</li>
-<li> 14:05 outlook.office365.com</li>
-<li> 14:05 outlook.office.com</li>
-<li> 14:05 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 12:37 outlook.office365.com</li>
-<li> 12:37 mail.rhul.ac.uk</li>
-<li> 12:36 bsky.app</li>
-<li> 12:35 forms.office.com</li>
-<li> 12:35 moodle.royalholloway.ac.uk</li>
-<li> 12:16 bsky.app</li>
-<li> 12:14 www.linkedin.com</li>
-<li> 12:14 www.facebook.com</li>
-<li> 12:14 facebook.com</li>
-<li> 12:13 web.whatsapp.com</li>
-<li> 12:12 www.facebook.com</li>
-<li> 12:10 www.linkedin.com</li>
-<li class='same'> 12:09 www.linkedin.com</li>
 </ul>
