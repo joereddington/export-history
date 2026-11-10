@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1695)</li>
 <li>login.microsoftonline.com (1678)</li>
 <li>www.facebook.com (1561)</li>
-<li>calendar.google.com (1553)</li>
+<li>calendar.google.com (1552)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
@@ -124387,8 +124387,6 @@ With number of accesses/minutes in parentheses
 <li> 15:10 web.whatsapp.com</li>
 <li> 15:08 outlook.office.com</li>
 <li> 15:06 forms.gle</li>
-<li> 15:06 eur03.safelinks.protection.outlook.com</li>
 <li> 15:06 docs.google.com</li>
 <li> 15:06 outlook.office.com</li>
-<li> 15:05 calendar.google.com</li>
 </ul>
