@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5969)</li>
-<li>mail.google.com (5131)</li>
-<li>www.google.com (4503)</li>
-<li>duckduckgo.com (4165)</li>
+<ol><li>www.reddit.com (5968)</li>
+<li>mail.google.com (5129)</li>
+<li>www.google.com (4496)</li>
+<li>duckduckgo.com (4166)</li>
 <li>outlook.office365.com (3914)</li>
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3237)</li>
-<li>chatgpt.com (3044)</li>
+<li>chatgpt.com (3043)</li>
 <li>www.linkedin.com (2455)</li>
 <li>moodle.royalholloway.ac.uk (2014)</li>
-<li>bsky.app (1699)</li>
+<li>bsky.app (1697)</li>
 <li>login.microsoftonline.com (1677)</li>
 <li>www.facebook.com (1563)</li>
-<li>calendar.google.com (1554)</li>
-<li>chat.openai.com (1405)</li>
-<li>www.amazon.co.uk (1328)</li>
+<li>calendar.google.com (1553)</li>
+<li>chat.openai.com (1404)</li>
+<li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1070)</li>
 <li>web.whatsapp.com (1067)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (813)</li>
-<li>forms.office.com (736)</li>
+<li>forms.office.com (735)</li>
 <li>rhul.sharepoint.com (682)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 10:28 mail.google.com</li>
+<ul><li> 10:48 duckduckgo.com</li>
+<li> 10:28 mail.google.com</li>
 <li class='same'> 10:27 mail.google.com</li>
 <li> 10:26 www.google.com</li>
 <li> 10:26 dash.cloudflare.com</li>
@@ -124412,29 +124413,4 @@ With number of accesses/minutes in parentheses
 <li> 09:49 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
 <li> 09:49 www.techtarget.com</li>
 <li> 09:49 www.google.com</li>
-<li> 09:44 www.amazon.co.uk</li>
-<li> 09:44 www.google.com</li>
-<li> 09:43 <a href="https://en.wikipedia.org/wiki/Security_theater">Security theater - Wikipedia</a></li>
-<li> 09:43 www.google.com</li>
-<li> 09:24 citationhunt.toolforge.org</li>
-<li> 09:24 <a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed">Wikipedia:Citation needed - Wikipedia</a></li>
-<li> 09:24 www.google.com</li>
-<li class='same'> 09:22 www.google.com</li>
-<li> 09:15 bsky.app</li>
-<li class='same'> 09:07 bsky.app</li>
-<li> 09:05 www.ucl.ac.uk</li>
-<li> 09:05 www.google.com</li>
-<li> 09:03 <a href="https://en.wikipedia.org/wiki/Golden_handcuffs">Golden handcuffs - Wikipedia</a></li>
-<li> 09:03 www.google.com</li>
-<li> 09:01 <a href="https://en.wikipedia.org/wiki/Non-disclosure_agreement">Non-disclosure agreement - Wikipedia</a></li>
-<li> 08:59 www.reddit.com</li>
-<li> 08:59 <a href="https://en.wikipedia.org/wiki/Non-disclosure_agreement">Non-disclosure agreement - Wikipedia</a></li>
-<li> 08:59 www.google.com</li>
-<li> 08:56 forms.office.com</li>
-<li> 08:56 dashboards.rhul.ac.uk</li>
-<li> 08:54 mail.google.com</li>
-<li> 08:53 calendar.google.com</li>
-<li> 08:49 chatgpt.com</li>
-<li> 08:49 chat.openai.com</li>
-<li> 08:44 mail.google.com</li>
 </ul>
