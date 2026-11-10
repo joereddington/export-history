@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5968)</li>
-<li>mail.google.com (5130)</li>
-<li>www.google.com (4496)</li>
-<li>duckduckgo.com (4166)</li>
-<li>outlook.office365.com (3914)</li>
+<li>mail.google.com (5132)</li>
+<li>www.google.com (4495)</li>
+<li>duckduckgo.com (4169)</li>
+<li>outlook.office365.com (3910)</li>
 <li>outlook.office.com (3752)</li>
 <li>docs.google.com (3237)</li>
-<li>chatgpt.com (3043)</li>
-<li>www.linkedin.com (2455)</li>
-<li>moodle.royalholloway.ac.uk (2014)</li>
+<li>chatgpt.com (3041)</li>
+<li>www.linkedin.com (2456)</li>
+<li>moodle.royalholloway.ac.uk (2013)</li>
 <li>bsky.app (1697)</li>
-<li>login.microsoftonline.com (1677)</li>
+<li>login.microsoftonline.com (1678)</li>
 <li>www.facebook.com (1563)</li>
 <li>calendar.google.com (1553)</li>
-<li>chat.openai.com (1404)</li>
+<li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1070)</li>
 <li>web.whatsapp.com (1067)</li>
-<li>mail.rhul.ac.uk (880)</li>
+<li>mail.rhul.ac.uk (879)</li>
 <li>feedly.com (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>forms.office.com (735)</li>
-<li>rhul.sharepoint.com (682)</li>
+<li>rhul.sharepoint.com (684)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 10/11/26</H3>
+
+<br>
+
+<ul><li> 12:59 intranet.royalholloway.ac.uk</li>
+<li class='same'> 12:58 intranet.royalholloway.ac.uk</li>
+<li> 12:57 rhul.sharepoint.com</li>
+<li> 12:57 device.login.microsoftonline.com</li>
+<li> 12:57 login.microsoftonline.com</li>
+<li> 12:57 rhul.sharepoint.com</li>
+<li> 12:57 intranet.royalholloway.ac.uk</li>
+<li> 12:56 www.royalholloway.ac.uk</li>
+<li> 12:56 duckduckgo.com</li>
+<li> 12:50 www.linkedin.com</li>
+<li> 12:49 mail.google.com</li>
+<li> 12:47 localhost:8443</li>
+<li> 12:44 mail.google.com</li>
+<li> 12:43 <a href="https://www.youtube.com/watch?v=JDZ0VxJIBkc">(141) The Emperor Palpatine - Fire at will commander - YouTube</a></li>
+<li> 12:42 <a href="https://www.youtube.com/watch?v=2mlza-sPdBg">(141) Fully Armed and Operational - YouTube</a></li>
+<li> 12:42 <a href="https://www.youtube.com/results?search_query=witness+the+firepower+of+this+fully+armed+and+operational+battle+station">(141) Fully Armed and Operational - YouTube</a></li>
+<li> 12:41 mail.google.com</li>
+<li> 12:41 <a href="https://www.youtube.com/watch?v=g7-tskP0OzI">(141) Now Witness the Firepower of this fully Armed and Operational Battle Station - YouTube</a></li>
+<li> 12:41 duckduckgo.com</li>
+<li> 12:37 casper.cs.rhul.ac.uk</li>
+<li> 12:37 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -124398,22 +124423,4 @@ With number of accesses/minutes in parentheses
 <li> 12:12 www.facebook.com</li>
 <li> 12:10 www.linkedin.com</li>
 <li class='same'> 12:09 www.linkedin.com</li>
-<li> 12:08 moodle.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 10:19 chatgpt.com</li>
-<li class='same'> 10:18 chatgpt.com</li>
-<li> 10:18 chat.openai.com</li>
-<li> 10:16 outlook.office365.com</li>
-<li class='same'> 10:08 outlook.office365.com</li>
-<li class='same'> 10:07 outlook.office365.com</li>
-<li> 10:04 Local file</li>
-<li> 10:04 outlook.office365.com</li>
-<li> 10:04 mail.rhul.ac.uk</li>
-<li> 10:02 mail.google.com</li>
-<li> 09:49 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
-<li> 09:49 www.techtarget.com</li>
-<li> 09:49 www.google.com</li>
 </ul>
