@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5968)</li>
 <li>mail.google.com (5137)</li>
-<li>www.google.com (4493)</li>
-<li>duckduckgo.com (4171)</li>
+<li>www.google.com (4495)</li>
+<li>duckduckgo.com (4176)</li>
 <li>outlook.office365.com (3906)</li>
 <li>outlook.office.com (3735)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3041)</li>
-<li>www.linkedin.com (2451)</li>
+<li>chatgpt.com (3042)</li>
+<li>www.linkedin.com (2454)</li>
 <li>moodle.royalholloway.ac.uk (2007)</li>
 <li>bsky.app (1688)</li>
 <li>login.microsoftonline.com (1678)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1552)</li>
 <li>chat.openai.com (1401)</li>
-<li>www.amazon.co.uk (1327)</li>
+<li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1071)</li>
 <li>web.whatsapp.com (1064)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:12 mail.google.com</li>
+<ul><li> 13:58 www.google.com</li>
+<li> 13:58 takeout.google.com</li>
+<li> 13:58 accounts.google.com</li>
+<li> 13:58 www.google.com</li>
+<li> 13:58 accounts.google.com</li>
+<li> 13:58 duckduckgo.com</li>
+<li> 13:55 www.amazon.co.uk</li>
+<li> 13:55 duckduckgo.com</li>
+<li class='same'> 13:53 duckduckgo.com</li>
+<li> 13:52 forum.artofmemory.com</li>
+<li class='same'> 13:51 forum.artofmemory.com</li>
+<li class='same'> 13:50 forum.artofmemory.com</li>
+<li class='same'> 13:49 forum.artofmemory.com</li>
+<li> 13:48 www.goodreads.com</li>
+<li> 13:47 duckduckgo.com</li>
+<li> 13:47 ctl.stanford.edu</li>
+<li> 13:47 duckduckgo.com</li>
+<li> 13:46 chatgpt.com</li>
+<li> 13:39 www.linkedin.com</li>
+<li class='same'> 13:38 www.linkedin.com</li>
+<li class='same'> 13:37 www.linkedin.com</li>
+<li> 13:37 trends.google.com</li>
+<li class='same'> 13:36 trends.google.com</li>
+<li> 13:36 kdpreports.amazon.com</li>
+<li> 13:12 mail.google.com</li>
 <li class='same'> 13:11 mail.google.com</li>
 <li> 13:11 www.projectreal.co.uk</li>
 <li> 13:11 mail.google.com</li>
