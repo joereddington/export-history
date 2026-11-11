@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5968)</li>
-<li>mail.google.com (5133)</li>
+<li>mail.google.com (5137)</li>
 <li>www.google.com (4493)</li>
 <li>duckduckgo.com (4171)</li>
 <li>outlook.office365.com (3906)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1401)</li>
 <li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1070)</li>
+<li>gmail.com (1071)</li>
 <li>web.whatsapp.com (1064)</li>
 <li>mail.rhul.ac.uk (875)</li>
 <li>feedly.com (870)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:50 pay.ebay.co.uk</li>
+<ul><li> 13:12 mail.google.com</li>
+<li class='same'> 13:11 mail.google.com</li>
+<li> 13:11 www.projectreal.co.uk</li>
+<li> 13:11 mail.google.com</li>
+<li class='same'> 13:06 mail.google.com</li>
+<li> 13:06 gmail.com</li>
+<li> 12:51 www.learnyay.co.uk</li>
+<li> 12:50 pay.ebay.co.uk</li>
 <li class='same'> 12:49 pay.ebay.co.uk</li>
 <li> 12:49 signin.ebay.co.uk</li>
 <li> 12:49 pay.ebay.co.uk</li>
