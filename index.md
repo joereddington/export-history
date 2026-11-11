@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3906)</li>
 <li>outlook.office.com (3735)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3039)</li>
+<li>chatgpt.com (3041)</li>
 <li>www.linkedin.com (2451)</li>
 <li>moodle.royalholloway.ac.uk (2007)</li>
 <li>bsky.app (1688)</li>
 <li>login.microsoftonline.com (1678)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1552)</li>
-<li>chat.openai.com (1400)</li>
+<li>chat.openai.com (1401)</li>
 <li>www.amazon.co.uk (1327)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1070)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 dashboards.rhul.ac.uk</li>
+<ul><li> 12:50 pay.ebay.co.uk</li>
+<li class='same'> 12:49 pay.ebay.co.uk</li>
+<li> 12:49 signin.ebay.co.uk</li>
+<li> 12:49 pay.ebay.co.uk</li>
+<li> 12:49 www.ebay.co.uk</li>
+<li class='same'> 12:48 www.ebay.co.uk</li>
+<li class='same'> 12:47 www.ebay.co.uk</li>
+<li> 12:46 chatgpt.com</li>
+<li class='same'> 12:45 chatgpt.com</li>
+<li> 12:45 chat.openai.com</li>
+<li> 12:45 www.ebay.co.uk</li>
+<li> 12:30 localhost:8443</li>
+<li class='same'> 12:28 localhost:8443</li>
+<li> 12:27 dashboards.rhul.ac.uk</li>
 <li> 12:18 localhost:8443</li>
 <li class='same'> 12:17 localhost:8443</li>
 </ul>
