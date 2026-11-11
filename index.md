@@ -104,11 +104,26 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 11/11/26</H3>
+
+<br>
+
+<ul><li> 12:27 dashboards.rhul.ac.uk</li>
+<li> 12:18 localhost:8443</li>
+<li class='same'> 12:17 localhost:8443</li>
+</ul>
+
 <H3>Tuesday, 10/11/26</H3>
 
 <br>
 
-<ul><li> 21:46 localhost:8443</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 22:00 localhost:8443</li>
+<li class='same'> 21:58 localhost:8443</li>
+<li class='same'> 21:46 localhost:8443</li>
 </ul>
 
 <br>
