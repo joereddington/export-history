@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5968)</li>
 <li>mail.google.com (5137)</li>
 <li>www.google.com (4493)</li>
-<li>duckduckgo.com (4182)</li>
+<li>duckduckgo.com (4183)</li>
 <li>outlook.office365.com (3906)</li>
 <li>outlook.office.com (3732)</li>
 <li>docs.google.com (3234)</li>
 <li>chatgpt.com (3050)</li>
 <li>www.linkedin.com (2454)</li>
-<li>moodle.royalholloway.ac.uk (2043)</li>
+<li>moodle.royalholloway.ac.uk (2046)</li>
 <li>login.microsoftonline.com (1711)</li>
 <li>bsky.app (1688)</li>
 <li>www.facebook.com (1561)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
-<li>rhul.sharepoint.com (698)</li>
+<li>rhul.sharepoint.com (699)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:29 duckduckgo.com</li>
+<ul><li> 14:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:43 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:42 moodle.royalholloway.ac.uk</li>
+<li> 14:36 rhul.sharepoint.com</li>
+<li> 14:36 duckduckgo.com</li>
+<li> 14:29 <a href="https://en.wikipedia.org/wiki/Change_detection">Change detection - Wikipedia</a></li>
+<li> 14:29 <a href="https://en.wikipedia.org/wiki/CUSUM">CUSUM - Wikipedia</a></li>
+<li> 14:29 duckduckgo.com</li>
 <li> 14:14 rhul.hosted.panopto.com</li>
 <li class='same'> 14:05 rhul.hosted.panopto.com</li>
 <li> 14:05 download.cdn.hosted.panopto.com</li>
