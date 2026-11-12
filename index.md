@@ -70,23 +70,23 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5968)</li>
 <li>mail.google.com (5137)</li>
-<li>www.google.com (4494)</li>
-<li>duckduckgo.com (4180)</li>
+<li>www.google.com (4493)</li>
+<li>duckduckgo.com (4181)</li>
 <li>outlook.office365.com (3906)</li>
-<li>outlook.office.com (3735)</li>
+<li>outlook.office.com (3732)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3049)</li>
+<li>chatgpt.com (3050)</li>
 <li>www.linkedin.com (2454)</li>
 <li>moodle.royalholloway.ac.uk (2043)</li>
 <li>login.microsoftonline.com (1711)</li>
 <li>bsky.app (1688)</li>
 <li>www.facebook.com (1561)</li>
-<li>calendar.google.com (1552)</li>
+<li>calendar.google.com (1551)</li>
 <li>chat.openai.com (1404)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1071)</li>
-<li>web.whatsapp.com (1064)</li>
+<li>web.whatsapp.com (1063)</li>
 <li>mail.rhul.ac.uk (875)</li>
 <li>feedly.com (874)</li>
 <li>tvtropes.org (862)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:23 rhul.hosted.panopto.com</li>
+<ul><li> 13:59 chatgpt.com</li>
+<li> 13:59 download.cdn.hosted.panopto.com</li>
+<li> 13:59 rhul.hosted.panopto.com</li>
+<li class='same'> 13:55 rhul.hosted.panopto.com</li>
+<li class='same'> 13:54 rhul.hosted.panopto.com</li>
+<li class='same'> 13:53 rhul.hosted.panopto.com</li>
+<li class='same'> 13:52 rhul.hosted.panopto.com</li>
+<li class='same'> 13:47 rhul.hosted.panopto.com</li>
+<li> 13:39 <a href="https://en.wikipedia.org/wiki/User:ClueBot">User:ClueBot - Wikipedia</a></li>
+<li> 13:35 <a href="https://en.wikipedia.org/wiki/Special:Contributions/ClueBot_NG">User contributions for ClueBot NG - Wikipedia</a></li>
+<li> 13:35 <a href="https://en.wikipedia.org/wiki/User:ClueBot_NG">User:ClueBot NG - Wikipedia</a></li>
+<li> 13:35 <a href="https://en.wikipedia.org/wiki/User:ClueBot">User:ClueBot - Wikipedia</a></li>
+<li> 13:35 <a href="https://en.wikipedia.org/wiki/Wikipedia:Bots/Requests_for_approval/ClueBot">Wikipedia:Bots/Requests for approval/ClueBot - Wikipedia</a></li>
+<li> 13:35 duckduckgo.com</li>
+<li> 13:24 rhul.hosted.panopto.com</li>
+<li class='same'> 13:23 rhul.hosted.panopto.com</li>
 <li class='same'> 13:22 rhul.hosted.panopto.com</li>
 <li> 13:21 rhul.sharepoint.com</li>
 <li> 13:21 login.microsoftonline.com</li>
@@ -13758,8 +13773,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:35 www.amazon.co.uk</li>
 <li> 13:12 mail.google.com</li>
 <li class='same'> 13:11 mail.google.com</li>
-<li> 13:11 calendar.google.com</li>
-<li> 13:11 www.google.com</li>
 <li> 13:11 calendar.google.com</li>
 <li> 13:11 mail.google.com</li>
 <li class='same'> 13:10 mail.google.com</li>
@@ -124640,22 +124653,4 @@ With number of accesses/minutes in parentheses
 <li> 17:24 www.coursera.org</li>
 <li> 17:24 eur03.safelinks.protection.outlook.com</li>
 <li> 17:24 outlook.office.com</li>
-<li> 17:23 web.whatsapp.com</li>
-<li> 17:23 outlook.office.com</li>
-<li class='same'> 17:22 outlook.office.com</li>
-<li class='same'> 17:21 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:18 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 16:18 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 16:18 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 16:18 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach">Talk:T-Mobile data breach - Wikipedia</a></li>
-<li> 16:18 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&amp;action=history">T-Mobile data breach: Revision history - Wikipedia</a></li>
-<li> 16:18 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach?markasread=332404684&amp;markasreadwiki=enwiki">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:18 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
-<li> 16:17 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 16:17 <a href="https://en.wikipedia.org/"></a></li>
-<li> 16:17 publish.obsidian.md</li>
 </ul>
