@@ -77,9 +77,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (3234)</li>
 <li>chatgpt.com (3047)</li>
 <li>www.linkedin.com (2454)</li>
-<li>moodle.royalholloway.ac.uk (2013)</li>
+<li>moodle.royalholloway.ac.uk (2020)</li>
+<li>login.microsoftonline.com (1691)</li>
 <li>bsky.app (1688)</li>
-<li>login.microsoftonline.com (1680)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1552)</li>
 <li>chat.openai.com (1402)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
-<li>rhul.sharepoint.com (691)</li>
+<li>rhul.sharepoint.com (696)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:16 www.royalholloway.ac.uk</li>
+<ul><li> 12:38 moodle.royalholloway.ac.uk</li>
+<li> 12:38 login.microsoftonline.com</li>
+<li> 12:38 rhul.hosted.panopto.com</li>
+<li> 12:38 moodle.royalholloway.ac.uk</li>
+<li> 12:38 login.microsoftonline.com</li>
+<li> 12:38 device.login.microsoftonline.com</li>
+<li> 12:38 rhul.hosted.panopto.com</li>
+<li> 12:37 moodle.royalholloway.ac.uk</li>
+<li> 12:37 login.microsoftonline.com</li>
+<li> 12:37 moodle.royalholloway.ac.uk</li>
+<li> 12:37 login.microsoftonline.com</li>
+<li> 12:37 device.login.microsoftonline.com</li>
+<li> 12:37 moodle.royalholloway.ac.uk</li>
+<li> 12:37 login.microsoftonline.com</li>
+<li> 12:37 device.login.microsoftonline.com</li>
+<li> 12:37 moodle.royalholloway.ac.uk</li>
+<li> 12:37 login.microsoftonline.com</li>
+<li> 12:37 device.login.microsoftonline.com</li>
+<li> 12:37 moodle.royalholloway.ac.uk</li>
+<li> 12:37 login.microsoftonline.com</li>
+<li> 12:37 rhul.hosted.panopto.com</li>
+<li class='same'> 12:36 rhul.hosted.panopto.com</li>
+<li> 12:34 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:34 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 12:34 login.microsoftonline.com</li>
+<li> 12:34 device.login.microsoftonline.com</li>
+<li> 12:34 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:31 rhul.sharepoint.com</li>
+<li> 12:31 login.microsoftonline.com</li>
+<li> 12:31 device.login.microsoftonline.com</li>
+<li> 12:31 rhul.sharepoint.com</li>
+<li> 12:31 login.microsoftonline.com</li>
+<li> 12:31 device.login.microsoftonline.com</li>
+<li> 12:31 rhul.sharepoint.com</li>
+<li> 12:31 login.microsoftonline.com</li>
+<li> 12:31 rhul.sharepoint.com</li>
+<li> 12:31 device.login.microsoftonline.com</li>
+<li> 12:31 rhul.sharepoint.com</li>
+<li> 12:16 www.royalholloway.ac.uk</li>
 </ul>
 
 <br>
