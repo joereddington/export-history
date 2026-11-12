@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3906)</li>
 <li>outlook.office.com (3735)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3047)</li>
+<li>chatgpt.com (3049)</li>
 <li>www.linkedin.com (2454)</li>
-<li>moodle.royalholloway.ac.uk (2020)</li>
-<li>login.microsoftonline.com (1691)</li>
+<li>moodle.royalholloway.ac.uk (2043)</li>
+<li>login.microsoftonline.com (1711)</li>
 <li>bsky.app (1688)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1552)</li>
-<li>chat.openai.com (1402)</li>
+<li>chat.openai.com (1404)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1071)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
-<li>rhul.sharepoint.com (696)</li>
+<li>rhul.sharepoint.com (698)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -105,6 +105,79 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 12/11/26</H3>
+
+<br>
+
+<ul><li> 13:23 rhul.hosted.panopto.com</li>
+<li class='same'> 13:22 rhul.hosted.panopto.com</li>
+<li> 13:21 rhul.sharepoint.com</li>
+<li> 13:21 login.microsoftonline.com</li>
+<li> 13:21 device.login.microsoftonline.com</li>
+<li> 13:21 rhul.sharepoint.com</li>
+<li> 13:20 rhul.hosted.panopto.com</li>
+<li class='same'> 13:18 rhul.hosted.panopto.com</li>
+<li class='same'> 13:17 rhul.hosted.panopto.com</li>
+<li> 13:17 moodle.royalholloway.ac.uk</li>
+<li> 13:17 rhul.hosted.panopto.com</li>
+<li> 13:17 moodle.royalholloway.ac.uk</li>
+<li> 13:17 login.microsoftonline.com</li>
+<li> 13:17 device.login.microsoftonline.com</li>
+<li> 13:17 moodle.royalholloway.ac.uk</li>
+<li> 13:17 login.microsoftonline.com</li>
+<li> 13:17 moodle.royalholloway.ac.uk</li>
+<li> 13:17 login.microsoftonline.com</li>
+<li> 13:17 device.login.microsoftonline.com</li>
+<li> 13:17 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:16 moodle.royalholloway.ac.uk</li>
+<li> 13:16 login.microsoftonline.com</li>
+<li> 13:16 device.login.microsoftonline.com</li>
+<li> 13:16 moodle.royalholloway.ac.uk</li>
+<li> 13:16 login.microsoftonline.com</li>
+<li> 13:16 device.login.microsoftonline.com</li>
+<li> 13:16 moodle.royalholloway.ac.uk</li>
+<li> 13:16 login.microsoftonline.com</li>
+<li> 13:15 moodle.royalholloway.ac.uk</li>
+<li> 13:15 login.microsoftonline.com</li>
+<li> 13:15 device.login.microsoftonline.com</li>
+<li> 13:15 moodle.royalholloway.ac.uk</li>
+<li> 13:14 chatgpt.com</li>
+<li> 13:14 chat.openai.com</li>
+<li> 13:14 moodle.royalholloway.ac.uk</li>
+<li> 13:14 login.microsoftonline.com</li>
+<li> 13:14 device.login.microsoftonline.com</li>
+<li> 13:14 moodle.royalholloway.ac.uk</li>
+<li> 13:14 login.microsoftonline.com</li>
+<li> 13:14 moodle.royalholloway.ac.uk</li>
+<li> 13:14 login.microsoftonline.com</li>
+<li> 13:14 moodle.royalholloway.ac.uk</li>
+<li> 13:14 login.microsoftonline.com</li>
+<li> 13:14 device.login.microsoftonline.com</li>
+<li> 13:14 moodle.royalholloway.ac.uk</li>
+<li> 13:14 login.microsoftonline.com</li>
+<li> 13:14 moodle.royalholloway.ac.uk</li>
+<li> 13:14 login.microsoftonline.com</li>
+<li> 13:14 device.login.microsoftonline.com</li>
+<li> 13:12 chatgpt.com</li>
+<li> 13:12 chat.openai.com</li>
+<li> 13:12 moodle.royalholloway.ac.uk</li>
+<li> 13:12 login.microsoftonline.com</li>
+<li> 13:12 device.login.microsoftonline.com</li>
+<li> 13:12 moodle.royalholloway.ac.uk</li>
+<li> 13:12 login.microsoftonline.com</li>
+<li> 13:12 docs.moodle.org</li>
+<li> 13:11 moodle.royalholloway.ac.uk</li>
+<li> 13:11 login.microsoftonline.com</li>
+<li> 13:11 moodle.royalholloway.ac.uk</li>
+<li> 13:11 login.microsoftonline.com</li>
+<li> 13:11 device.login.microsoftonline.com</li>
+<li> 13:11 moodle.royalholloway.ac.uk</li>
+<li> 13:11 login.microsoftonline.com</li>
+<li> 13:11 moodle.royalholloway.ac.uk</li>
+<li> 13:11 login.microsoftonline.com</li>
+<li> 13:11 device.login.microsoftonline.com</li>
+<li> 13:11 moodle.royalholloway.ac.uk</li>
+<li> 13:11 www.firefox.com</li>
+</ul>
 
 <br>
 
