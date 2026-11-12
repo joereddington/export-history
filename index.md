@@ -70,12 +70,12 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5968)</li>
 <li>mail.google.com (5137)</li>
-<li>www.google.com (4493)</li>
+<li>www.google.com (4492)</li>
 <li>duckduckgo.com (4183)</li>
 <li>outlook.office365.com (3906)</li>
-<li>outlook.office.com (3732)</li>
+<li>outlook.office.com (3731)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3050)</li>
+<li>chatgpt.com (3051)</li>
 <li>www.linkedin.com (2454)</li>
 <li>moodle.royalholloway.ac.uk (2046)</li>
 <li>login.microsoftonline.com (1711)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:45 moodle.royalholloway.ac.uk</li>
+<ul><li> 15:08 chatgpt.com</li>
+<li> 14:49 eur03.safelinks.protection.outlook.com</li>
+<li> 14:45 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:43 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:42 moodle.royalholloway.ac.uk</li>
 <li> 14:36 rhul.sharepoint.com</li>
@@ -13770,7 +13772,6 @@ With number of accesses/minutes in parentheses
 <li> 14:16 www.thedailymash.co.uk</li>
 <li> 14:15 mail.google.com</li>
 <li> 14:15 www.bluelightcard.co.uk</li>
-<li> 14:15 www.google.com</li>
 <li> 14:15 clicks.bluelightcard.co.uk</li>
 <li> 14:15 access.blcshine.io</li>
 <li> 14:15 mail.google.com</li>
@@ -124661,9 +124662,4 @@ With number of accesses/minutes in parentheses
 <li> 17:26 www.coursera.org</li>
 <li class='same'> 17:25 www.coursera.org</li>
 <li> 17:25 eur03.safelinks.protection.outlook.com</li>
-<li> 17:25 www.coursera.org</li>
-<li> 17:25 eur03.safelinks.protection.outlook.com</li>
-<li> 17:24 www.coursera.org</li>
-<li> 17:24 eur03.safelinks.protection.outlook.com</li>
-<li> 17:24 outlook.office.com</li>
 </ul>
