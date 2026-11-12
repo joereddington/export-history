@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5968)</li>
 <li>mail.google.com (5137)</li>
-<li>www.google.com (4495)</li>
-<li>duckduckgo.com (4181)</li>
+<li>www.google.com (4494)</li>
+<li>duckduckgo.com (4180)</li>
 <li>outlook.office365.com (3906)</li>
 <li>outlook.office.com (3735)</li>
 <li>docs.google.com (3234)</li>
@@ -79,9 +79,9 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2454)</li>
 <li>moodle.royalholloway.ac.uk (2013)</li>
 <li>bsky.app (1688)</li>
-<li>login.microsoftonline.com (1683)</li>
+<li>login.microsoftonline.com (1680)</li>
 <li>www.facebook.com (1561)</li>
-<li>calendar.google.com (1553)</li>
+<li>calendar.google.com (1552)</li>
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>herts.instructure.com (1230)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
-<li>rhul.sharepoint.com (692)</li>
+<li>rhul.sharepoint.com (691)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:58 localhost:8445</li>
+<ul><li> 07:03 localhost:8445</li>
+<li class='same'> 07:01 localhost:8445</li>
+<li class='same'> 06:58 localhost:8445</li>
 <li class='same'> 06:57 localhost:8445</li>
 <li class='same'> 06:56 localhost:8445</li>
 <li class='same'> 06:55 localhost:8445</li>
@@ -13647,14 +13649,12 @@ With number of accesses/minutes in parentheses
 <li> 12:52 docs.google.com</li>
 <li class='same'> 12:48 docs.google.com</li>
 <li> 12:46 mobile.prod.chiphq.net</li>
-<li> 12:46 pay.truelayer.com</li>
 <li> 12:42 docs.google.com</li>
 <li class='same'> 12:39 docs.google.com</li>
 <li> 12:39 drive.google.com</li>
 <li> 12:38 mail.google.com</li>
 <li> 12:38 chatgpt.com</li>
 <li> 12:38 www.bluelightcard.co.uk</li>
-<li> 12:38 www.google.com</li>
 <li> 12:38 clicks.bluelightcard.co.uk</li>
 <li> 12:37 chatgpt.com</li>
 <li> 12:37 chat.openai.com</li>
@@ -13667,8 +13667,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:52 duckduckgo.com</li>
-<li> 11:51 www.ebay.co.uk</li>
+<ul><li> 11:51 www.ebay.co.uk</li>
 <li> 11:51 duckduckgo.com</li>
 <li> 11:50 shop.ford.co.uk</li>
 <li> 11:44 <a href="https://www.youtube.com/watch?v=wsvJaQdObRc">(46) Cabin Pollen Odour filter replacement - Ford Fiesta Mk7 (2008 on) - YouTube</a></li>
@@ -13690,14 +13689,11 @@ With number of accesses/minutes in parentheses
 <li> 11:21 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 11:21 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 11:07 duckduckgo.com</li>
-<li> 10:55 content.naic.org</li>
 <li> 10:53 www.schneier.com</li>
 <li> 10:47 www.admiral.com</li>
 <li> 10:47 duckduckgo.com</li>
 <li> 10:46 calendar.google.com</li>
 <li class='same'> 10:38 calendar.google.com</li>
-<li> 10:38 eur03.safelinks.protection.outlook.com</li>
-<li> 10:38 calendar.google.com</li>
 <li> 10:35 services.sheerid.com</li>
 <li> 10:34 www.spotify.com</li>
 <li> 10:34 accounts.spotify.com</li>
@@ -13820,7 +13816,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:23 outlook.office365.com</li>
 <li> 09:23 device.login.microsoftonline.com</li>
 <li> 09:23 outlook.office365.com</li>
-<li> 09:23 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -13836,16 +13831,12 @@ With number of accesses/minutes in parentheses
 <li> 08:14 duckduckgo.com</li>
 <li> 08:09 www.uolacademiccontractors.com</li>
 <li class='same'> 08:08 www.uolacademiccontractors.com</li>
-<li> 08:08 eur03.safelinks.protection.outlook.com</li>
 <li> 08:01 duckduckgo.com</li>
 <li class='same'> 08:00 duckduckgo.com</li>
 <li> 08:00 rhul-my.sharepoint.com</li>
-<li> 08:00 login.microsoftonline.com</li>
-<li> 07:59 rhul-my.sharepoint.com</li>
+<li class='same'> 07:59 rhul-my.sharepoint.com</li>
 <li> 07:55 rhul.sharepoint.com</li>
 <li class='same'> 07:54 rhul.sharepoint.com</li>
-<li> 07:54 login.microsoftonline.com</li>
-<li> 07:54 rhul.sharepoint.com</li>
 <li> 07:54 login.microsoftonline.com</li>
 <li> 07:53 www.linkedin.com</li>
 <li> 07:31 duckduckgo.com</li>
@@ -13856,7 +13847,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:58 fritz.box</li>
 <li> 06:58 moodle.royalholloway.ac.uk</li>
 <li class='same'> 06:57 moodle.royalholloway.ac.uk</li>
-<li> 06:57 eur03.safelinks.protection.outlook.com</li>
 <li> 06:49 projects.cs.rhul.ac.uk</li>
 <li> 06:46 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
 <li> 06:43 moodle.royalholloway.ac.uk</li>
