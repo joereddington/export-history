@@ -75,11 +75,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3906)</li>
 <li>outlook.office.com (3735)</li>
 <li>docs.google.com (3234)</li>
-<li>chatgpt.com (3046)</li>
+<li>chatgpt.com (3047)</li>
 <li>www.linkedin.com (2454)</li>
-<li>moodle.royalholloway.ac.uk (2007)</li>
+<li>moodle.royalholloway.ac.uk (2013)</li>
 <li>bsky.app (1688)</li>
-<li>login.microsoftonline.com (1678)</li>
+<li>login.microsoftonline.com (1683)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1553)</li>
 <li>chat.openai.com (1402)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1071)</li>
 <li>web.whatsapp.com (1064)</li>
 <li>mail.rhul.ac.uk (875)</li>
-<li>feedly.com (873)</li>
+<li>feedly.com (874)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
@@ -104,7 +104,71 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 12/11/26</H3>
+
+<br>
+
+<ul><li> 06:58 localhost:8445</li>
+<li class='same'> 06:57 localhost:8445</li>
+<li class='same'> 06:56 localhost:8445</li>
+<li class='same'> 06:55 localhost:8445</li>
+<li class='same'> 06:51 localhost:8445</li>
+<li class='same'> 06:50 localhost:8445</li>
+<li class='same'> 06:49 localhost:8445</li>
+<li class='same'> 06:48 localhost:8445</li>
+</ul>
+
 <H3>Wednesday, 11/11/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:19 localhost:8445</li>
+<li class='same'> 21:18 localhost:8445</li>
+<li class='same'> 21:17 localhost:8445</li>
+<li class='same'> 21:16 localhost:8445</li>
+<li class='same'> 21:15 localhost:8445</li>
+<li class='same'> 21:14 localhost:8445</li>
+<li class='same'> 21:13 localhost:8445</li>
+<li class='same'> 21:12 localhost:8445</li>
+<li class='same'> 21:11 localhost:8445</li>
+<li class='same'> 21:04 localhost:8445</li>
+<li class='same'> 21:01 localhost:8445</li>
+<li class='same'> 20:55 localhost:8445</li>
+<li class='same'> 20:53 localhost:8445</li>
+<li class='same'> 20:47 localhost:8445</li>
+<li class='same'> 20:46 localhost:8445</li>
+<li class='same'> 20:45 localhost:8445</li>
+<li class='same'> 20:44 localhost:8445</li>
+<li class='same'> 20:43 localhost:8445</li>
+<li class='same'> 20:42 localhost:8445</li>
+<li class='same'> 20:41 localhost:8445</li>
+<li class='same'> 20:40 localhost:8445</li>
+<li> 20:37 feedly.com</li>
+<li> 20:36 moodle.royalholloway.ac.uk</li>
+<li> 20:36 login.microsoftonline.com</li>
+<li> 20:36 moodle.royalholloway.ac.uk</li>
+<li> 20:36 login.microsoftonline.com</li>
+<li> 20:36 device.login.microsoftonline.com</li>
+<li> 20:36 moodle.royalholloway.ac.uk</li>
+<li> 20:36 login.microsoftonline.com</li>
+<li> 20:36 moodle.royalholloway.ac.uk</li>
+<li> 20:36 login.microsoftonline.com</li>
+<li> 20:36 device.login.microsoftonline.com</li>
+<li> 20:36 moodle.royalholloway.ac.uk</li>
+<li> 20:36 login.microsoftonline.com</li>
+<li> 20:36 device.login.microsoftonline.com</li>
+<li> 20:36 moodle.royalholloway.ac.uk</li>
+<li> 20:13 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:07 chatgpt.com</li>
+</ul>
 
 <br>
 
