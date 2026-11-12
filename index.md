@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5968)</li>
 <li>mail.google.com (5137)</li>
 <li>www.google.com (4493)</li>
-<li>duckduckgo.com (4181)</li>
+<li>duckduckgo.com (4182)</li>
 <li>outlook.office365.com (3906)</li>
 <li>outlook.office.com (3732)</li>
 <li>docs.google.com (3234)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 chatgpt.com</li>
+<ul><li> 14:29 duckduckgo.com</li>
+<li> 14:14 rhul.hosted.panopto.com</li>
+<li class='same'> 14:05 rhul.hosted.panopto.com</li>
+<li> 14:05 download.cdn.hosted.panopto.com</li>
+<li> 14:04 rhul.hosted.panopto.com</li>
+<li> 14:04 download.cdn.hosted.panopto.com</li>
+<li> 13:59 chatgpt.com</li>
 <li> 13:59 download.cdn.hosted.panopto.com</li>
 <li> 13:59 rhul.hosted.panopto.com</li>
 <li class='same'> 13:55 rhul.hosted.panopto.com</li>
