@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:14 casper.cs.rhul.ac.uk</li>
+<ul><li> 14:41 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:40 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:38 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:18 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:14 casper.cs.rhul.ac.uk</li>
 <li class='same'> 14:13 casper.cs.rhul.ac.uk</li>
 <li class='same'> 14:12 casper.cs.rhul.ac.uk</li>
 <li class='same'> 14:11 casper.cs.rhul.ac.uk</li>
