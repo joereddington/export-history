@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3727)</li>
 <li>docs.google.com (3234)</li>
 <li>chatgpt.com (3051)</li>
-<li>www.linkedin.com (2457)</li>
+<li>www.linkedin.com (2459)</li>
 <li>moodle.royalholloway.ac.uk (2046)</li>
-<li>login.microsoftonline.com (1711)</li>
+<li>login.microsoftonline.com (1712)</li>
 <li>bsky.app (1685)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1551)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:19 casper.cs.rhul.ac.uk</li>
+<ul><li> 11:52 www.linkedin.com</li>
+<li class='same'> 11:51 www.linkedin.com</li>
+<li> 11:51 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:47 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:46 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:43 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:42 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:41 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:40 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:39 casper.cs.rhul.ac.uk</li>
+<li> 11:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:37 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:36 login.microsoftonline.com</li>
+<li> 11:36 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:36 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:19 casper.cs.rhul.ac.uk</li>
 <li> 11:17 www.linkedin.com</li>
 <li class='same'> 11:16 www.linkedin.com</li>
 <li> 11:12 login.microsoftonline.com</li>
