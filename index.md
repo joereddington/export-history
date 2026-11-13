@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5967)</li>
-<li>mail.google.com (5136)</li>
-<li>www.google.com (4492)</li>
-<li>duckduckgo.com (4183)</li>
+<li>mail.google.com (5131)</li>
+<li>www.google.com (4493)</li>
+<li>duckduckgo.com (4184)</li>
 <li>outlook.office365.com (3906)</li>
-<li>outlook.office.com (3727)</li>
+<li>outlook.office.com (3724)</li>
 <li>docs.google.com (3234)</li>
 <li>chatgpt.com (3051)</li>
-<li>www.linkedin.com (2460)</li>
-<li>moodle.royalholloway.ac.uk (2046)</li>
+<li>www.linkedin.com (2458)</li>
+<li>moodle.royalholloway.ac.uk (2045)</li>
 <li>login.microsoftonline.com (1712)</li>
-<li>bsky.app (1685)</li>
+<li>bsky.app (1681)</li>
 <li>www.facebook.com (1561)</li>
-<li>calendar.google.com (1551)</li>
+<li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1404)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1070)</li>
-<li>web.whatsapp.com (1062)</li>
+<li>gmail.com (1068)</li>
+<li>web.whatsapp.com (1061)</li>
 <li>mail.rhul.ac.uk (875)</li>
 <li>feedly.com (874)</li>
 <li>tvtropes.org (862)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:41 casper.cs.rhul.ac.uk</li>
+<ul><li> 16:28 theopenvoicefactory.org</li>
+<li> 16:24 equalitytime.github.io</li>
+<li> 16:23 www.openaac.org</li>
+<li> 16:23 duckduckgo.com</li>
+<li> 16:11 www.google.com</li>
+<li class='same'> 16:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:51 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:50 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:41 casper.cs.rhul.ac.uk</li>
 <li class='same'> 14:40 casper.cs.rhul.ac.uk</li>
 <li class='same'> 14:38 casper.cs.rhul.ac.uk</li>
 <li class='same'> 14:18 casper.cs.rhul.ac.uk</li>
@@ -124695,26 +124707,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:57 mail.google.com</li>
 <li> 17:56 docs.google.com</li>
 <li> 17:56 drive.google.com</li>
-<li> 17:55 mail.google.com</li>
-<li class='same'> 17:53 mail.google.com</li>
-<li> 17:53 gmail.com</li>
-<li> 17:53 mail.google.com</li>
-<li> 17:52 web.whatsapp.com</li>
-<li> 17:52 mail.google.com</li>
-<li> 17:51 calendar.google.com</li>
-<li> 17:51 mail.google.com</li>
-<li> 17:51 gmail.com</li>
-<li> 17:51 bsky.app</li>
-<li class='same'> 17:50 bsky.app</li>
-<li class='same'> 17:49 bsky.app</li>
-<li> 17:49 blueskydirectory.com</li>
-<li> 17:49 bsky.app</li>
-<li> 17:49 www.linkedin.com</li>
-<li class='same'> 17:48 www.linkedin.com</li>
-<li> 17:45 outlook.office.com</li>
-<li class='same'> 17:39 outlook.office.com</li>
-<li> 17:36 moodle.royalholloway.ac.uk</li>
-<li> 17:35 www.royalholloway.ac.uk</li>
-<li> 17:35 www.google.com</li>
-<li> 17:32 outlook.office.com</li>
 </ul>
