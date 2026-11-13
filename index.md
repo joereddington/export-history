@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5967)</li>
-<li>mail.google.com (5125)</li>
+<li>mail.google.com (5123)</li>
 <li>www.google.com (4493)</li>
 <li>duckduckgo.com (4187)</li>
 <li>outlook.office365.com (3906)</li>
-<li>outlook.office.com (3716)</li>
+<li>outlook.office.com (3714)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3051)</li>
-<li>www.linkedin.com (2460)</li>
+<li>www.linkedin.com (2458)</li>
 <li>moodle.royalholloway.ac.uk (2044)</li>
 <li>login.microsoftonline.com (1716)</li>
-<li>bsky.app (1681)</li>
+<li>bsky.app (1679)</li>
 <li>www.facebook.com (1561)</li>
-<li>calendar.google.com (1549)</li>
+<li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1404)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1068)</li>
+<li>gmail.com (1066)</li>
 <li>web.whatsapp.com (1061)</li>
 <li>mail.rhul.ac.uk (875)</li>
 <li>feedly.com (874)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:25 localhost:8443</li>
+<ul><li> 17:55 localhost:8443</li>
+<li class='same'> 17:53 localhost:8443</li>
+<li class='same'> 17:50 localhost:8443</li>
+<li class='same'> 17:47 localhost:8443</li>
+<li class='same'> 17:45 localhost:8443</li>
+<li class='same'> 17:42 localhost:8443</li>
+<li class='same'> 17:38 localhost:8443</li>
+<li class='same'> 17:36 localhost:8443</li>
+<li class='same'> 17:33 localhost:8443</li>
+<li class='same'> 17:31 localhost:8443</li>
+<li class='same'> 17:30 localhost:8443</li>
+<li class='same'> 17:25 localhost:8443</li>
 <li class='same'> 17:24 localhost:8443</li>
 <li class='same'> 17:23 localhost:8443</li>
 <li class='same'> 17:22 localhost:8443</li>
@@ -124691,15 +124702,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:19 bsky.app</li>
-<li class='same'> 18:18 bsky.app</li>
-<li class='same'> 18:17 bsky.app</li>
-<li> 18:16 outlook.office.com</li>
-<li> 18:16 www.linkedin.com</li>
-<li> 18:14 mail.google.com</li>
-<li> 18:14 gmail.com</li>
-<li> 18:14 mail.google.com</li>
-<li> 18:14 gmail.com</li>
-<li> 18:12 www.linkedin.com</li>
-<li> 18:12 outlook.office.com</li>
-<li> 18:12 calendar.google.com</li>
 </ul>
