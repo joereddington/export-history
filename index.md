@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5967)</li>
+<ol><li>www.reddit.com (5966)</li>
 <li>mail.google.com (5123)</li>
-<li>www.google.com (4490)</li>
+<li>www.google.com (4488)</li>
 <li>duckduckgo.com (4188)</li>
 <li>outlook.office365.com (3906)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3051)</li>
+<li>chatgpt.com (3049)</li>
 <li>www.linkedin.com (2459)</li>
 <li>moodle.royalholloway.ac.uk (2053)</li>
 <li>login.microsoftonline.com (1718)</li>
-<li>bsky.app (1678)</li>
+<li>bsky.app (1669)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1548)</li>
-<li>chat.openai.com (1404)</li>
+<li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1066)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:29 casper.cs.rhul.ac.uk</li>
+<ul><li> 18:31 casper.cs.rhul.ac.uk</li>
+<li class='same'> 18:30 casper.cs.rhul.ac.uk</li>
+<li class='same'> 18:29 casper.cs.rhul.ac.uk</li>
 <li> 18:29 localhost:8443</li>
 <li> 18:26 www.reuters.com</li>
 <li> 18:26 duckduckgo.com</li>
@@ -124687,22 +124689,4 @@ With number of accesses/minutes in parentheses
 <li> 22:43 www.google.com</li>
 <li> 22:42 bsky.app</li>
 <li class='same'> 22:39 bsky.app</li>
-<li class='same'> 22:38 bsky.app</li>
-<li> 22:37 apnews.com</li>
-<li> 22:32 bsky.app</li>
-<li> 22:32 vqv.app</li>
-<li> 22:31 bsky.app</li>
-<li> 22:30 www.google.com</li>
-<li> 22:30 bsky.app</li>
-<li class='same'> 22:28 bsky.app</li>
-<li class='same'> 22:27 bsky.app</li>
-<li> 22:17 vqv.app</li>
-<li> 22:16 bsky.app</li>
-<li class='same'> 22:15 bsky.app</li>
-<li> 22:15 chatgpt.com</li>
-<li class='same'> 22:14 chatgpt.com</li>
-<li> 22:14 chat.openai.com</li>
-<li> 22:14 bsky.app</li>
-<li> 22:14 www.reddit.com</li>
-<li> 22:14 www.google.com</li>
 </ul>
