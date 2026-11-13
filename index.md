@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5968)</li>
-<li>mail.google.com (5140)</li>
+<ol><li>www.reddit.com (5967)</li>
+<li>mail.google.com (5136)</li>
 <li>www.google.com (4492)</li>
 <li>duckduckgo.com (4183)</li>
 <li>outlook.office365.com (3906)</li>
-<li>outlook.office.com (3731)</li>
+<li>outlook.office.com (3727)</li>
 <li>docs.google.com (3234)</li>
 <li>chatgpt.com (3051)</li>
 <li>www.linkedin.com (2455)</li>
 <li>moodle.royalholloway.ac.uk (2046)</li>
-<li>login.microsoftonline.com (1711)</li>
-<li>bsky.app (1688)</li>
+<li>login.microsoftonline.com (1709)</li>
+<li>bsky.app (1685)</li>
 <li>www.facebook.com (1561)</li>
 <li>calendar.google.com (1551)</li>
 <li>chat.openai.com (1404)</li>
-<li>www.amazon.co.uk (1328)</li>
+<li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1072)</li>
-<li>web.whatsapp.com (1063)</li>
+<li>gmail.com (1070)</li>
+<li>web.whatsapp.com (1062)</li>
 <li>mail.rhul.ac.uk (875)</li>
 <li>feedly.com (874)</li>
 <li>tvtropes.org (862)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 12/11/26</H3>
+
+<br>
+
+<ul><li> 21:04 www.amazon.co.uk</li>
+<li class='same'> 21:03 www.amazon.co.uk</li>
+<li class='same'> 21:02 www.amazon.co.uk</li>
+<li class='same'> 21:01 www.amazon.co.uk</li>
+<li class='same'> 20:59 www.amazon.co.uk</li>
+<li class='same'> 20:57 www.amazon.co.uk</li>
+<li class='same'> 20:56 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 19:14 192.168.178.1</li>
+<li class='same'> 19:13 192.168.178.1</li>
+</ul>
 
 <br>
 
@@ -13520,7 +13537,6 @@ With number of accesses/minutes in parentheses
 <li> 16:21 chat.openai.com</li>
 <li> 16:20 <a href="https://en.wikipedia.org/wiki/Norwich_Cathedral#In_the_arts_and_popular_culture">Norwich Cathedral - Wikipedia</a></li>
 <li> 16:19 <a href="https://en.wikipedia.org/wiki/Norwich_Cathedral">Norwich Cathedral - Wikipedia</a></li>
-<li> 16:19 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Norwich+Cathedral&amp;wprov=acrw1_0"></a></li>
 <li> 16:19 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 16:19 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;action=history">Jason Arday: Revision history - Wikipedia</a></li>
 <li> 16:19 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
@@ -13537,15 +13553,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:35 outlook.office365.com</li>
-<li> 15:29 account.irobot.com</li>
 <li> 15:27 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 15:26 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 15:25 librarysearch.royalholloway.ac.uk</li>
-<li> 15:25 login.openathens.net</li>
 <li> 15:25 login.microsoftonline.com</li>
 <li> 15:25 device.login.microsoftonline.com</li>
-<li> 15:25 librarysearch.royalholloway.ac.uk</li>
-<li class='same'> 15:24 librarysearch.royalholloway.ac.uk</li>
+<li> 15:24 librarysearch.royalholloway.ac.uk</li>
 <li> 15:24 themeads.org.uk</li>
 <li class='same'> 15:16 themeads.org.uk</li>
 <li> 15:05 outlook.office.com</li>
@@ -13554,7 +13567,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:02 outlook.office.com</li>
 <li class='same'> 15:01 outlook.office.com</li>
 <li class='same'> 14:37 outlook.office.com</li>
-<li> 14:37 login.microsoftonline.com</li>
 <li> 14:37 device.login.microsoftonline.com</li>
 <li> 14:37 outlook.office.com</li>
 <li> 14:37 <a href="https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates">Clacton byelection: Farage beats Count Binface but skips result announcement – UK politics live | Politics | The Guardian</a></li>
@@ -13579,8 +13591,7 @@ With number of accesses/minutes in parentheses
 <li> 13:31 www.reddit.com</li>
 <li> 13:20 bike.bikegremlin.com</li>
 <li> 13:19 www.reddit.com</li>
-<li> 13:19 cf.preview.redd.it</li>
-<li> 13:18 www.reddit.com</li>
+<li class='same'> 13:18 www.reddit.com</li>
 <li class='same'> 13:15 www.reddit.com</li>
 <li class='same'> 13:14 www.reddit.com</li>
 <li class='same'> 13:13 www.reddit.com</li>
@@ -13605,7 +13616,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:34 duckduckgo.com</li>
 <li class='same'> 12:33 duckduckgo.com</li>
 <li> 12:31 www.officeforstudents.org.uk</li>
-<li> 12:31 eur03.safelinks.protection.outlook.com</li>
 <li> 12:29 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
 
@@ -13647,7 +13657,6 @@ With number of accesses/minutes in parentheses
 <li> 07:57 <a href="https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:56 <a href="https://www.theguardian.com/uk">VisionQuest review – Marvel’s latest TV show feels like it could have been made by a computer | Television | The Guardian</a></li>
 <li> 07:56 newsthump.com</li>
-<li> 07:55 www.reddit.com</li>
 </ul>
 
 <H3>Thursday, 13/08/26</H3>
@@ -13675,7 +13684,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 19:17 outlook.office365.com</li>
 <li class='same'> 19:16 outlook.office365.com</li>
 <li> 19:16 device.login.microsoftonline.com</li>
-<li> 19:16 login.microsoftonline.com</li>
 <li> 19:16 outlook.office365.com</li>
 </ul>
 
@@ -124651,28 +124659,4 @@ With number of accesses/minutes in parentheses
 <li> 17:35 www.royalholloway.ac.uk</li>
 <li> 17:35 www.google.com</li>
 <li> 17:32 outlook.office.com</li>
-<li class='same'> 17:31 outlook.office.com</li>
-<li> 17:30 web.whatsapp.com</li>
-<li> 17:30 bsky.app</li>
-<li class='same'> 17:29 bsky.app</li>
-<li> 17:29 blueskydirectory.com</li>
-<li class='same'> 17:28 blueskydirectory.com</li>
-<li> 17:28 mail.google.com</li>
-<li> 17:28 bsky.app</li>
-<li> 17:27 outlook.office.com</li>
-<li> 17:27 eventing.coursera.org</li>
-<li> 17:27 mail.google.com</li>
-<li> 17:27 gmail.com</li>
-<li> 17:27 outlook.office.com</li>
-<li class='same'> 17:26 outlook.office.com</li>
-<li> 17:26 eventing.coursera.org</li>
-<li> 17:26 mail.google.com</li>
-<li> 17:26 www.coursera.org</li>
-<li> 17:26 mail.google.com</li>
-<li> 17:26 gmail.com</li>
-<li> 17:26 www.coursera.org</li>
-<li> 17:26 eur03.safelinks.protection.outlook.com</li>
-<li> 17:26 www.coursera.org</li>
-<li class='same'> 17:25 www.coursera.org</li>
-<li> 17:25 eur03.safelinks.protection.outlook.com</li>
 </ul>
