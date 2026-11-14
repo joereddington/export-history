@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5966)</li>
+<ol><li>www.reddit.com (5964)</li>
 <li>mail.google.com (5123)</li>
 <li>www.google.com (4488)</li>
-<li>duckduckgo.com (4188)</li>
-<li>outlook.office365.com (3906)</li>
+<li>duckduckgo.com (4189)</li>
+<li>outlook.office365.com (3905)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3049)</li>
-<li>www.linkedin.com (2459)</li>
+<li>www.linkedin.com (2462)</li>
 <li>moodle.royalholloway.ac.uk (2053)</li>
-<li>login.microsoftonline.com (1718)</li>
-<li>bsky.app (1669)</li>
-<li>www.facebook.com (1561)</li>
+<li>login.microsoftonline.com (1719)</li>
+<li>bsky.app (1648)</li>
+<li>www.facebook.com (1560)</li>
 <li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1066)</li>
-<li>web.whatsapp.com (1061)</li>
-<li>mail.rhul.ac.uk (875)</li>
-<li>feedly.com (874)</li>
+<li>web.whatsapp.com (1060)</li>
+<li>feedly.com (887)</li>
+<li>mail.rhul.ac.uk (874)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
@@ -104,7 +104,90 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 14/11/26</H3>
+
+<br>
+
+<ul><li> 06:50 learningonscreen.ac.uk</li>
+<li class='same'> 06:49 learningonscreen.ac.uk</li>
+<li> 06:49 auth.learningonscreen.ac.uk</li>
+<li> 06:49 learningonscreen.ac.uk</li>
+<li> 06:49 auth.learningonscreen.ac.uk</li>
+<li> 06:49 learningonscreen.ac.uk</li>
+<li> 06:49 auth.learningonscreen.ac.uk</li>
+<li> 06:49 learningonscreen.ac.uk</li>
+<li> 06:49 login.learningonscreen.ac.uk</li>
+<li> 06:49 auth.learningonscreen.ac.uk</li>
+<li> 06:49 connect.openathens.net</li>
+<li> 06:49 login.openathens.net</li>
+<li> 06:49 login.microsoftonline.com</li>
+<li> 06:49 device.login.microsoftonline.com</li>
+<li> 06:49 login.openathens.net</li>
+<li> 06:49 login.microsoftonline.com</li>
+<li> 06:49 connect.openathens.net</li>
+<li> 06:49 auth.learningonscreen.ac.uk</li>
+<li> 06:48 login.learningonscreen.ac.uk</li>
+<li> 06:48 learningonscreen.ac.uk</li>
+<li> 06:48 auth.learningonscreen.ac.uk</li>
+<li> 06:48 learningonscreen.ac.uk</li>
+<li> 06:48 auth.learningonscreen.ac.uk</li>
+<li> 06:22 www.linkedin.com</li>
+<li> 06:22 www.google.com</li>
+<li class='same'> 06:21 www.google.com</li>
+<li> 06:09 www.newsweek.com</li>
+<li> 06:09 duckduckgo.com</li>
+<li> 06:09 feedly.com</li>
+<li> 06:08 www.giantitp.com</li>
+<li> 06:08 feedly.com</li>
+<li class='same'> 06:07 feedly.com</li>
+<li class='same'> 06:06 feedly.com</li>
+<li class='same'> 06:05 feedly.com</li>
+<li class='same'> 06:04 feedly.com</li>
+<li class='same'> 06:03 feedly.com</li>
+<li class='same'> 06:02 feedly.com</li>
+<li> 06:02 www.explainxkcd.com</li>
+<li class='same'> 06:01 www.explainxkcd.com</li>
+<li class='same'> 06:00 www.explainxkcd.com</li>
+<li> 06:00 feedly.com</li>
+<li class='same'> 05:59 feedly.com</li>
+<li> 05:57 192.168.178.1</li>
+<li> 05:51 feedly.com</li>
+<li class='same'> 05:50 feedly.com</li>
+<li> 05:47 www.nature.com</li>
+<li> 05:47 idp.nature.com</li>
+<li> 05:45 feedly.com</li>
+<li> 05:45 www.giantitp.com</li>
+<li> 05:40 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 05:37 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 05:36 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 05:36 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 05:36 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 05:36 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 05:36 <a href="https://en.wikipedia.org/"></a></li>
+<li> 05:35 www.linkedin.com</li>
+<li> 05:34 www.ft.com</li>
+<li class='same'> 05:31 www.ft.com</li>
+<li> 05:31 www.google.com</li>
+<li class='same'> 05:30 www.google.com</li>
+<li> 05:30 192.168.178.1</li>
+</ul>
+
 <H3>Friday, 13/11/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:44 localhost:8443</li>
+<li class='same'> 21:43 localhost:8443</li>
+</ul>
+
+<br>
+
+<ul><li> 20:56 www.linkedin.com</li>
+</ul>
 
 <br>
 
@@ -13622,24 +13705,20 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:18 outlook.office365.com</li>
 <li> 08:18 device.login.microsoftonline.com</li>
-<li> 08:18 login.microsoftonline.com</li>
 <li> 07:50 newsthump.com</li>
 <li> 07:49 calendar.google.com</li>
 <li> 07:47 mymobile2.o2.co.uk</li>
 <li> 07:47 www.o2.co.uk</li>
 <li> 07:47 oauth.virginmediao2.co.uk</li>
 <li> 07:47 oauth.virginmedia.com</li>
-<li> 07:47 mymobile2.o2.co.uk</li>
 <li> 07:47 mail.google.com</li>
 <li> 07:46 mymobile2.o2.co.uk</li>
 <li> 07:46 identity.o2.co.uk</li>
 <li> 07:46 accounts.o2.co.uk</li>
 <li> 07:46 auth.virginmediao2.co.uk</li>
-<li> 07:46 www.google.com</li>
 <li> 07:46 mail.google.com</li>
 <li> 07:46 gmail.com</li>
 <li> 07:46 oauth.virginmediao2.co.uk</li>
-<li> 07:45 notlongnow.o2.co.uk</li>
 <li> 07:45 mymobile2.o2.co.uk</li>
 <li> 07:45 identity.o2.co.uk</li>
 <li> 07:45 accounts.o2.co.uk</li>
@@ -124634,59 +124713,4 @@ With number of accesses/minutes in parentheses
 <li> 11:13 www.bluey.tv</li>
 <li class='same'> 11:12 www.bluey.tv</li>
 <li> 11:12 www.google.com</li>
-<li> 11:11 bsky.app</li>
-<li> 11:08 www.facebook.com</li>
-<li> 11:07 web.whatsapp.com</li>
-<li> 11:03 bsky.app</li>
-<li class='same'> 11:02 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 07:53 blueskydirectory.com</li>
-<li class='same'> 07:51 blueskydirectory.com</li>
-</ul>
-
-<H3>Friday, 29/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 23:04 bsky.app</li>
-<li> 23:04 outlook.office365.com</li>
-<li> 23:04 mail.rhul.ac.uk</li>
-<li> 23:03 www.reddit.com</li>
-<li> 23:03 www.bbc.com</li>
-<li> 23:03 <a href="https://www.bbc.co.uk/news/articles/c207xzrvle6o">University of Essex to cut 200 jobs amid £29m shortfall - BBC News</a></li>
-<li> 23:02 bsky.app</li>
-<li class='same'> 23:01 bsky.app</li>
-<li> 23:00 www.google.com</li>
-<li> 23:00 bsky.app</li>
-<li class='same'> 22:59 bsky.app</li>
-<li class='same'> 22:58 bsky.app</li>
-<li class='same'> 22:57 bsky.app</li>
-<li> 22:56 www.citationneeded.news</li>
-<li> 22:55 bsky.app</li>
-<li class='same'> 22:54 bsky.app</li>
-<li> 22:54 bluesky.mgcounts.com</li>
-<li> 22:53 bsky.app</li>
-<li class='same'> 22:52 bsky.app</li>
-<li class='same'> 22:51 bsky.app</li>
-<li class='same'> 22:49 bsky.app</li>
-<li class='same'> 22:47 bsky.app</li>
-<li> 22:46 unfollow.blue</li>
-<li> 22:46 bsky.app</li>
-<li class='same'> 22:45 bsky.app</li>
-<li> 22:45 unfollow.blue</li>
-<li class='same'> 22:44 unfollow.blue</li>
-<li> 22:44 bsky.social</li>
-<li> 22:43 unfollow.blue</li>
-<li> 22:43 www.google.com</li>
-<li> 22:43 www.reddit.com</li>
-<li> 22:43 www.google.com</li>
-<li> 22:42 bsky.app</li>
-<li class='same'> 22:39 bsky.app</li>
 </ul>
