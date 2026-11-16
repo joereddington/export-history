@@ -78,8 +78,8 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (3048)</li>
 <li>www.linkedin.com (2466)</li>
 <li>moodle.royalholloway.ac.uk (2058)</li>
-<li>login.microsoftonline.com (1719)</li>
-<li>bsky.app (1629)</li>
+<li>login.microsoftonline.com (1721)</li>
+<li>bsky.app (1625)</li>
 <li>www.facebook.com (1559)</li>
 <li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1404)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
-<li>rhul.sharepoint.com (704)</li>
+<li>rhul.sharepoint.com (705)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:16 chatgpt.com</li>
+<ul><li> 16:59 www.advance-he.ac.uk</li>
+<li> 16:59 advance-he.ac.uk</li>
+<li> 16:59 www.advance-he.ac.uk</li>
+<li> 16:58 drive.usercontent.google.com</li>
+<li> 16:58 drive.google.com</li>
+<li> 16:57 advance-he.ac.uk</li>
+<li> 16:57 www.advance-he.ac.uk</li>
+<li> 16:57 advance-he.ac.uk</li>
+<li> 16:56 s3.eu-west-2.amazonaws.com</li>
+<li> 16:56 advance-he.org</li>
+<li> 16:56 www.advance-he.ac.uk</li>
+<li> 16:56 advance-he.ac.uk</li>
+<li> 16:55 rhul.sharepoint.com</li>
+<li> 16:52 localhost:8443</li>
+<li class='same'> 16:50 localhost:8443</li>
+<li class='same'> 16:48 localhost:8443</li>
+<li> 16:46 login.microsoftonline.com</li>
+<li> 16:46 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:46 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:46 device.login.microsoftonline.com</li>
+<li> 16:46 login.microsoftonline.com</li>
+<li> 16:46 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:44 localhost:8443</li>
+<li class='same'> 16:43 localhost:8443</li>
+<li> 16:16 chatgpt.com</li>
 <li> 16:16 chat.openai.com</li>
 <li> 16:04 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 16:03 webtimetables.royalholloway.ac.uk</li>
@@ -124637,12 +124661,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:25 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:14 bsky.app</li>
-<li class='same'> 08:12 bsky.app</li>
-<li class='same'> 08:09 bsky.app</li>
-<li class='same'> 08:07 bsky.app</li>
 </ul>
