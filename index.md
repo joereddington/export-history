@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5964)</li>
 <li>mail.google.com (5123)</li>
-<li>www.google.com (4488)</li>
-<li>duckduckgo.com (4189)</li>
+<li>www.google.com (4486)</li>
+<li>duckduckgo.com (4191)</li>
 <li>outlook.office365.com (3905)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3049)</li>
+<li>chatgpt.com (3047)</li>
 <li>www.linkedin.com (2462)</li>
 <li>moodle.royalholloway.ac.uk (2053)</li>
-<li>login.microsoftonline.com (1719)</li>
+<li>login.microsoftonline.com (1718)</li>
 <li>bsky.app (1648)</li>
 <li>www.facebook.com (1560)</li>
 <li>calendar.google.com (1548)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
-<li>rhul.sharepoint.com (701)</li>
+<li>rhul.sharepoint.com (702)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -104,7 +104,42 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 16/11/26</H3>
+
+<br>
+
+<ul><li> 11:56 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 11:55 webtimetables.royalholloway.ac.uk</li>
+<li> 11:54 rhul.sharepoint.com</li>
+<li> 11:52 www.telegraph.co.uk</li>
+<li> 11:52 <a href="https://joereddington.com/media.html">Joe Reddington | Things I make.</a></li>
+<li> 11:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:52 duckduckgo.com</li>
+<li class='same'> 11:51 duckduckgo.com</li>
+</ul>
+
+<H3>Sunday, 15/11/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:42 192.168.178.1</li>
+</ul>
+
 <H3>Saturday, 14/11/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:32 www.ft.com</li>
+<li> 07:32 ft.com</li>
+</ul>
 
 <br>
 
@@ -13595,8 +13630,6 @@ With number of accesses/minutes in parentheses
 <li> 06:29 www.themoscowtimes.com</li>
 <li> 06:26 <a href="https://en.wikipedia.org/wiki/Wildberries">Wildberries - Wikipedia</a></li>
 <li> 06:26 www.google.com</li>
-<li> 06:26 accounts.google.com</li>
-<li> 06:26 www.google.com</li>
 <li> 06:25 www.reddit.com</li>
 <li> 06:25 librarysearch.royalholloway.ac.uk</li>
 </ul>
@@ -13618,9 +13651,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:20 www.rangefarmglampingnorfolk.co.uk</li>
 <li class='same'> 16:19 www.rangefarmglampingnorfolk.co.uk</li>
 <li> 16:19 www.google.com</li>
-<li> 15:57 chatgpt.com</li>
-<li class='same'> 15:51 chatgpt.com</li>
-<li class='same'> 15:49 chatgpt.com</li>
+<li> 15:49 chatgpt.com</li>
 <li> 15:49 chat.openai.com</li>
 <li> 15:49 calendar.google.com</li>
 <li> 15:43 www.disneyplus.com</li>
@@ -13632,7 +13663,6 @@ With number of accesses/minutes in parentheses
 <li> 15:06 www.disneyplus.com</li>
 <li> 15:00 www.google.com</li>
 <li> 14:59 device.login.microsoftonline.com</li>
-<li> 14:59 login.microsoftonline.com</li>
 <li> 14:59 outlook.office365.com</li>
 </ul>
 
@@ -124711,6 +124741,4 @@ With number of accesses/minutes in parentheses
 <li> 11:14 mail.rhul.ac.uk</li>
 <li> 11:13 bsky.app</li>
 <li> 11:13 www.bluey.tv</li>
-<li class='same'> 11:12 www.bluey.tv</li>
-<li> 11:12 www.google.com</li>
 </ul>
