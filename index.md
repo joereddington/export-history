@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5961)</li>
-<li>mail.google.com (5114)</li>
-<li>www.google.com (4475)</li>
-<li>duckduckgo.com (4191)</li>
+<li>mail.google.com (5113)</li>
+<li>www.google.com (4473)</li>
+<li>duckduckgo.com (4192)</li>
 <li>outlook.office365.com (3899)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3045)</li>
-<li>www.linkedin.com (2463)</li>
+<li>chatgpt.com (3046)</li>
+<li>www.linkedin.com (2465)</li>
 <li>moodle.royalholloway.ac.uk (2059)</li>
 <li>login.microsoftonline.com (1719)</li>
-<li>bsky.app (1636)</li>
+<li>bsky.app (1634)</li>
 <li>www.facebook.com (1560)</li>
 <li>calendar.google.com (1549)</li>
-<li>chat.openai.com (1401)</li>
+<li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1064)</li>
+<li>gmail.com (1063)</li>
 <li>web.whatsapp.com (1060)</li>
 <li>feedly.com (887)</li>
 <li>mail.rhul.ac.uk (871)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 16/11/26</H3>
+
+<br>
+
+<ul><li> 13:58 chatgpt.com</li>
+<li> 13:58 chat.openai.com</li>
+<li> 13:56 oiss.itsc.cuhk.edu.hk</li>
+<li> 13:56 eur03.safelinks.protection.outlook.com</li>
+<li> 13:51 localhost:8443</li>
+<li class='same'> 13:50 localhost:8443</li>
+<li class='same'> 13:49 localhost:8443</li>
+<li class='same'> 13:47 localhost:8443</li>
+<li class='same'> 13:46 localhost:8443</li>
+<li class='same'> 13:45 localhost:8443</li>
+<li> 13:44 www.linkedin.com</li>
+<li class='same'> 13:43 www.linkedin.com</li>
+<li> 13:43 duckduckgo.com</li>
+<li> 13:42 localhost:8443</li>
+<li class='same'> 13:41 localhost:8443</li>
+<li class='same'> 13:39 localhost:8443</li>
+</ul>
 
 <br>
 
@@ -124657,26 +124677,4 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 20:52 www.google.com</li>
 <li class='same'> 20:38 www.google.com</li>
 <li class='same'> 20:29 www.google.com</li>
-<li> 20:28 blueskydirectory.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:38 www.academia.edu</li>
-<li> 18:37 pure.royalholloway.ac.uk</li>
-<li> 18:37 www.google.com</li>
-<li> 18:29 mail.google.com</li>
-<li> 18:29 gmail.com</li>
-<li> 18:27 <a href="https://en.wikipedia.org/wiki/Barbara_Taylor_Bradford">Barbara Taylor Bradford - Wikipedia</a></li>
-<li> 18:27 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 18:26 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
-<li> 18:26 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 18:26 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 18:26 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 18:26 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 18:26 <a href="https://en.wikipedia.org/"></a></li>
-<li> 18:25 bsky.app</li>
-<li class='same'> 18:24 bsky.app</li>
-<li> 18:21 <a href="https://en.wikipedia.org/wiki/Crazy_Horses">Crazy Horses - Wikipedia</a></li>
-<li> 18:21 www.google.com</li>
 </ul>
