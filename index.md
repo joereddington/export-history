@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3899)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3046)</li>
+<li>chatgpt.com (3047)</li>
 <li>www.linkedin.com (2465)</li>
 <li>moodle.royalholloway.ac.uk (2058)</li>
 <li>login.microsoftonline.com (1719)</li>
 <li>bsky.app (1634)</li>
 <li>www.facebook.com (1560)</li>
 <li>calendar.google.com (1550)</li>
-<li>chat.openai.com (1402)</li>
+<li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1063)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (732)</li>
-<li>rhul.sharepoint.com (702)</li>
+<li>rhul.sharepoint.com (704)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 trends.google.com</li>
+<ul><li> 15:08 rhul.sharepoint.com</li>
+<li class='same'> 15:07 rhul.sharepoint.com</li>
+<li> 15:00 chatgpt.com</li>
+<li> 15:00 chat.openai.com</li>
+<li> 14:59 trends.google.com</li>
 <li> 14:58 duckduckgo.com</li>
 <li class='same'> 14:57 duckduckgo.com</li>
 </ul>
