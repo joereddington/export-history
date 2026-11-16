@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5961)</li>
-<li>mail.google.com (5113)</li>
-<li>www.google.com (4473)</li>
+<li>mail.google.com (5112)</li>
+<li>www.google.com (4468)</li>
 <li>duckduckgo.com (4192)</li>
 <li>outlook.office365.com (3899)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3046)</li>
-<li>www.linkedin.com (2465)</li>
+<li>www.linkedin.com (2466)</li>
 <li>moodle.royalholloway.ac.uk (2059)</li>
 <li>login.microsoftonline.com (1719)</li>
 <li>bsky.app (1634)</li>
 <li>www.facebook.com (1560)</li>
-<li>calendar.google.com (1549)</li>
+<li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:58 chatgpt.com</li>
+<ul><li> 14:26 www.linkedin.com</li>
+<li> 14:25 calendar.google.com</li>
+<li> 14:22 joanna421.typeform.com</li>
+<li> 14:21 www.reddit.com</li>
+<li> 14:19 pay.ebay.co.uk</li>
+<li> 14:19 www.paypal.com</li>
+<li class='same'> 14:18 www.paypal.com</li>
+<li> 14:17 pay.ebay.co.uk</li>
+<li> 14:17 www.ebay.co.uk</li>
+<li> 14:17 pay.ebay.co.uk</li>
+<li> 14:17 www.ebay.co.uk</li>
+<li class='same'> 14:16 www.ebay.co.uk</li>
+<li> 14:13 intranet.royalholloway.ac.uk</li>
+<li> 13:58 chatgpt.com</li>
 <li> 13:58 chat.openai.com</li>
 <li> 13:56 oiss.itsc.cuhk.edu.hk</li>
 <li> 13:56 eur03.safelinks.protection.outlook.com</li>
@@ -124659,22 +124672,4 @@ With number of accesses/minutes in parentheses
 <li> 06:56 www.google.com</li>
 <li class='same'> 06:55 www.google.com</li>
 <li> 06:55 nexusitgroup.com</li>
-<li> 06:53 www.reddit.com</li>
-<li> 06:53 nexusitgroup.com</li>
-<li> 06:53 www.google.com</li>
-<li> 06:53 mail.google.com</li>
-<li> 06:27 www.google.com</li>
-</ul>
-
-<H3>Saturday, 30/11/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 20:52 www.google.com</li>
-<li class='same'> 20:38 www.google.com</li>
-<li class='same'> 20:29 www.google.com</li>
 </ul>
