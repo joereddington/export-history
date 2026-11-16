@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3899)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3047)</li>
+<li>chatgpt.com (3048)</li>
 <li>www.linkedin.com (2466)</li>
 <li>moodle.royalholloway.ac.uk (2058)</li>
 <li>login.microsoftonline.com (1719)</li>
 <li>bsky.app (1629)</li>
 <li>www.facebook.com (1559)</li>
 <li>calendar.google.com (1550)</li>
-<li>chat.openai.com (1403)</li>
+<li>chat.openai.com (1404)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1063)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:54 intranet.royalholloway.ac.uk</li>
+<ul><li> 16:16 chatgpt.com</li>
+<li> 16:16 chat.openai.com</li>
+<li> 16:04 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 16:03 webtimetables.royalholloway.ac.uk</li>
+<li> 16:01 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:54 intranet.royalholloway.ac.uk</li>
 <li> 15:50 www.linkedin.com</li>
 </ul>
 
