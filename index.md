@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5961)</li>
-<li>mail.google.com (5112)</li>
-<li>www.google.com (4468)</li>
-<li>duckduckgo.com (4192)</li>
+<li>mail.google.com (5109)</li>
+<li>www.google.com (4460)</li>
+<li>duckduckgo.com (4194)</li>
 <li>outlook.office365.com (3899)</li>
 <li>outlook.office.com (3714)</li>
-<li>docs.google.com (3233)</li>
+<li>docs.google.com (3232)</li>
 <li>chatgpt.com (3046)</li>
-<li>www.linkedin.com (2466)</li>
-<li>moodle.royalholloway.ac.uk (2059)</li>
+<li>www.linkedin.com (2465)</li>
+<li>moodle.royalholloway.ac.uk (2058)</li>
 <li>login.microsoftonline.com (1719)</li>
 <li>bsky.app (1634)</li>
 <li>www.facebook.com (1560)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 16/11/26</H3>
+
+<br>
+
+<ul><li> 14:59 trends.google.com</li>
+<li> 14:58 duckduckgo.com</li>
+<li class='same'> 14:57 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -124635,41 +124642,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:38 bsky.app</li>
 <li class='same'> 07:37 bsky.app</li>
 <li> 07:36 www.viqu.co.uk</li>
-<li> 07:35 mail.google.com</li>
-<li> 07:24 infosecpeople.vincere-digital.io</li>
-<li> 07:24 www.infosecpeople.co.uk</li>
-<li> 07:24 www.viqu.co.uk</li>
-<li> 07:24 www.google.com</li>
-<li> 07:24 www.infosecpeople.co.uk</li>
-<li> 07:24 www.google.com</li>
-<li> 07:23 elitecyber-group.com</li>
-<li> 07:23 www.barclaysimpson.com</li>
-<li class='same'> 07:22 www.barclaysimpson.com</li>
-<li> 07:22 elitecyber-group.com</li>
-<li> 07:22 www.google.com</li>
-<li> 07:22 www.barclaysimpson.com</li>
-<li> 07:21 mail.google.com</li>
-<li> 07:20 ltharper.com</li>
-<li> 07:19 docs.google.com</li>
-<li> 07:19 drive.google.com</li>
-<li> 07:19 www.google.com</li>
-<li> 07:18 elitecyber-group.com</li>
-<li class='same'> 07:17 elitecyber-group.com</li>
-<li> 07:16 next-ventures.com</li>
-<li> 07:15 mail.google.com</li>
-<li> 07:06 www.linkedin.com</li>
-<li> 07:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 07:03 www.google.com</li>
-<li> 07:03 next-ventures.com</li>
-<li class='same'> 07:02 next-ventures.com</li>
-<li> 07:00 www.google.com</li>
-<li> 06:59 repository.royalholloway.ac.uk</li>
-<li> 06:59 moodle.royalholloway.ac.uk</li>
-<li> 06:58 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 06:58 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 06:56 www.barclaysimpson.com</li>
-<li> 06:56 www.google.com</li>
-<li class='same'> 06:55 www.google.com</li>
-<li> 06:55 nexusitgroup.com</li>
 </ul>
