@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5962)</li>
-<li>mail.google.com (5115)</li>
-<li>www.google.com (4476)</li>
+<ol><li>www.reddit.com (5961)</li>
+<li>mail.google.com (5114)</li>
+<li>www.google.com (4475)</li>
 <li>duckduckgo.com (4191)</li>
 <li>outlook.office365.com (3899)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3045)</li>
-<li>www.linkedin.com (2462)</li>
+<li>www.linkedin.com (2463)</li>
 <li>moodle.royalholloway.ac.uk (2059)</li>
 <li>login.microsoftonline.com (1719)</li>
-<li>bsky.app (1637)</li>
+<li>bsky.app (1636)</li>
 <li>www.facebook.com (1560)</li>
 <li>calendar.google.com (1549)</li>
 <li>chat.openai.com (1401)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:55 localhost:8443</li>
+<ul><li> 13:04 www.linkedin.com</li>
+<li> 13:04 localhost:8443</li>
+<li class='same'> 13:02 localhost:8443</li>
+<li class='same'> 12:55 localhost:8443</li>
 </ul>
 
 <br>
@@ -124676,14 +124679,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:24 bsky.app</li>
 <li> 18:21 <a href="https://en.wikipedia.org/wiki/Crazy_Horses">Crazy Horses - Wikipedia</a></li>
 <li> 18:21 www.google.com</li>
-<li> 18:18 www.reddit.com</li>
-<li> 18:17 mail.google.com</li>
-<li> 18:17 bsky.app</li>
-<li> 18:17 lantto.github.io</li>
-</ul>
-
-<br>
-
-<ul><li> 13:58 www.express.co.uk</li>
-<li> 13:56 www.google.com</li>
 </ul>
