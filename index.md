@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5961)</li>
-<li>mail.google.com (5109)</li>
+<li>mail.google.com (5107)</li>
 <li>www.google.com (4460)</li>
 <li>duckduckgo.com (4194)</li>
 <li>outlook.office365.com (3899)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3047)</li>
-<li>www.linkedin.com (2465)</li>
+<li>www.linkedin.com (2466)</li>
 <li>moodle.royalholloway.ac.uk (2058)</li>
 <li>login.microsoftonline.com (1719)</li>
-<li>bsky.app (1634)</li>
-<li>www.facebook.com (1560)</li>
+<li>bsky.app (1629)</li>
+<li>www.facebook.com (1559)</li>
 <li>calendar.google.com (1550)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1063)</li>
 <li>web.whatsapp.com (1060)</li>
-<li>feedly.com (887)</li>
+<li>feedly.com (886)</li>
 <li>mail.rhul.ac.uk (871)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (812)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 16/11/26</H3>
+
+<br>
+
+<ul><li> 15:54 intranet.royalholloway.ac.uk</li>
+<li> 15:50 www.linkedin.com</li>
+</ul>
 
 <br>
 
@@ -124634,16 +124640,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:12 bsky.app</li>
 <li class='same'> 08:09 bsky.app</li>
 <li class='same'> 08:07 bsky.app</li>
-<li> 08:07 feedly.com</li>
-<li> 07:40 www.facebook.com</li>
-<li> 07:40 mail.google.com</li>
-<li> 07:40 bsky.app</li>
-<li class='same'> 07:39 bsky.app</li>
-<li> 07:39 unfollow.blue</li>
-<li> 07:39 qg38hvze.r.us-east-1.awstrack.me</li>
-<li> 07:39 mail.google.com</li>
-<li> 07:39 bsky.app</li>
-<li class='same'> 07:38 bsky.app</li>
-<li class='same'> 07:37 bsky.app</li>
-<li> 07:36 www.viqu.co.uk</li>
 </ul>
