@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5961)</li>
-<li>mail.google.com (5107)</li>
-<li>www.google.com (4460)</li>
+<ol><li>www.reddit.com (5955)</li>
+<li>mail.google.com (5099)</li>
+<li>www.google.com (4453)</li>
 <li>duckduckgo.com (4194)</li>
-<li>outlook.office365.com (3899)</li>
+<li>outlook.office365.com (3897)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3048)</li>
+<li>chatgpt.com (3045)</li>
 <li>www.linkedin.com (2466)</li>
-<li>moodle.royalholloway.ac.uk (2058)</li>
+<li>moodle.royalholloway.ac.uk (2056)</li>
 <li>login.microsoftonline.com (1721)</li>
-<li>bsky.app (1625)</li>
-<li>www.facebook.com (1559)</li>
-<li>calendar.google.com (1550)</li>
-<li>chat.openai.com (1404)</li>
+<li>bsky.app (1599)</li>
+<li>www.facebook.com (1551)</li>
+<li>calendar.google.com (1549)</li>
+<li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1063)</li>
-<li>web.whatsapp.com (1060)</li>
-<li>feedly.com (886)</li>
-<li>mail.rhul.ac.uk (871)</li>
+<li>gmail.com (1062)</li>
+<li>web.whatsapp.com (1059)</li>
+<li>feedly.com (885)</li>
+<li>mail.rhul.ac.uk (870)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (812)</li>
+<li>rhul-my.sharepoint.com (808)</li>
 <li>forms.office.com (732)</li>
 <li>rhul.sharepoint.com (705)</li>
 <li>fritz.box (595)</li>
@@ -124530,135 +124530,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:23 www.google.com</li>
 <li class='same'> 09:22 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 03:55 mail.google.com</li>
-<li> 03:55 outlook.office365.com</li>
-<li> 03:53 moodle.royalholloway.ac.uk</li>
-<li> 03:52 rhul-my.sharepoint.com</li>
-<li> 03:49 chatgpt.com</li>
-<li class='same'> 03:48 chatgpt.com</li>
-<li> 03:48 chat.openai.com</li>
-<li> 03:36 www.reddit.com</li>
-<li class='same'> 03:35 www.reddit.com</li>
-<li> 03:31 bsky.app</li>
-<li> 03:30 feedly.com</li>
-<li> 03:30 mail.google.com</li>
-<li> 03:30 gmail.com</li>
-<li> 03:29 calendar.google.com</li>
-<li> 03:29 web.whatsapp.com</li>
-<li> 03:28 www.reddit.com</li>
-<li class='same'> 03:26 www.reddit.com</li>
-<li class='same'> 03:25 www.reddit.com</li>
-<li> 03:24 outlook.office365.com</li>
-<li> 03:24 mail.rhul.ac.uk</li>
-<li> 03:23 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 03:23 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 03:23 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 03:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-94.44.225.95-20241201162800-Schierbecker-20240422182300-DoesNotExist-DiscussionToolsHack">User talk:Joereddington - Wikipedia</a></li>
-<li> 03:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
-<li> 03:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=332463559&amp;markasreadwiki=enwiki#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
-<li> 03:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
-<li> 03:23 mail.google.com</li>
-<li class='same'> 03:22 mail.google.com</li>
-<li> 03:20 www.facebook.com</li>
-<li> 03:17 bsky.app</li>
-<li> 03:15 rhul-my.sharepoint.com</li>
-<li class='same'> 03:14 rhul-my.sharepoint.com</li>
-<li class='same'> 03:13 rhul-my.sharepoint.com</li>
-<li> 03:13 moodle.royalholloway.ac.uk</li>
-<li> 03:11 www.facebook.com</li>
-<li> 03:11 bsky.app</li>
-<li class='same'> 03:10 bsky.app</li>
-<li> 03:09 www.nhs.uk</li>
-<li> 03:09 www.google.com</li>
-</ul>
-
-<H3>Sunday, 01/12/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 13:56 mail.google.com</li>
-<li> 13:56 bsky.app</li>
-<li> 13:54 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely">Talk:Peter Lely - Wikipedia</a></li>
-<li> 13:54 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
-<li> 13:54 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Lely&amp;action=info">Information for &quot;Peter Lely&quot; - Wikipedia</a></li>
-<li> 13:54 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
-<li> 13:53 bsky.app</li>
-<li> 13:53 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely#Date_of_Death">Talk:Peter Lely - Wikipedia</a></li>
-<li> 13:53 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely#Date_of_Death-DoesNotExist-DiscussionToolsHack">Talk:Peter Lely - Wikipedia</a></li>
-<li> 13:52 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely">Talk:Peter Lely - Wikipedia</a></li>
-<li> 13:52 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
-<li> 13:51 chatgpt.com</li>
-<li> 13:51 chat.openai.com</li>
-<li> 13:49 blueskydirectory.com</li>
-<li> 13:48 <a href="https://en.wikipedia.org/wiki/Peter_Lely?veswitched=1&amp;oldid=1259855415&amp;action=edit">Editing Peter Lely - Wikipedia</a></li>
-<li> 13:48 <a href="https://en.wikipedia.org/wiki/Peter_Lely?action=edit&amp;veswitched=1">Editing Peter Lely - Wikipedia</a></li>
-<li> 13:48 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Lely&amp;action=edit">Editing Peter Lely - Wikipedia</a></li>
-<li> 13:47 bsky.app</li>
-<li> 13:47 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Lely&amp;action=history">Peter Lely: Revision history - Wikipedia</a></li>
-<li> 13:47 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely">Talk:Peter Lely - Wikipedia</a></li>
-<li> 13:46 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
-<li> 13:46 www.google.com</li>
-<li> 13:46 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 13:46 <a href="https://en.wikipedia.org/"></a></li>
-<li> 13:46 www.google.com</li>
-<li> 13:46 bsky.app</li>
-<li class='same'> 13:45 bsky.app</li>
-<li> 13:45 www.facebook.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 12:35 www.facebook.com</li>
-<li> 12:35 mail.google.com</li>
-<li> 12:34 bsky.app</li>
-<li class='same'> 12:31 bsky.app</li>
-<li class='same'> 12:30 bsky.app</li>
-<li class='same'> 12:29 bsky.app</li>
-<li class='same'> 12:28 bsky.app</li>
-<li> 12:22 mail.google.com</li>
-<li> 12:22 bsky.app</li>
-<li class='same'> 12:21 bsky.app</li>
-<li class='same'> 12:19 bsky.app</li>
-<li> 12:19 www.facebook.com</li>
-<li class='same'> 12:18 www.facebook.com</li>
-<li class='same'> 12:16 www.facebook.com</li>
-<li> 12:15 unfollow.blue</li>
-<li> 12:15 qg38hvze.r.us-east-1.awstrack.me</li>
-<li> 12:15 mail.google.com</li>
-<li> 12:15 bsky.app</li>
-<li class='same'> 12:14 bsky.app</li>
-<li> 12:02 www.googleadservices.com</li>
-<li> 12:02 twinings.co.uk</li>
-<li> 12:02 www.google.com</li>
-<li> 12:02 bsky.app</li>
-<li class='same'> 12:00 bsky.app</li>
-<li class='same'> 11:59 bsky.app</li>
-<li class='same'> 11:58 bsky.app</li>
-<li> 11:58 <a href="https://en.wikipedia.org/wiki/Peter_Lely#/media/File:Lely,_Sir_Peter_-_Nymphs_by_a_Fountain_-_Google_Art_Project.jpg">Peter Lely - Wikipedia</a></li>
-<li> 11:58 <a href="https://en.wikipedia.org/wiki/Peter_Lely#/media/File:Lely_-_Portrait_of_an_Unknown_Woman_-_Tate.jpg">Peter Lely - Wikipedia</a></li>
-<li> 11:56 www.britannica.com</li>
-<li> 11:56 www.nga.gov</li>
-<li> 11:56 www.britannica.com</li>
-<li> 11:56 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
-<li> 11:56 www.paul-mellon-centre.ac.uk</li>
-<li> 11:56 www.google.com</li>
-<li> 11:56 bsky.app</li>
-<li> 11:52 www.facebook.com</li>
-<li> 11:51 www.reddit.com</li>
-<li> 11:51 www.google.com</li>
-<li> 11:51 bsky.app</li>
-<li class='same'> 11:46 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 10:25 www.google.com</li>
 </ul>
