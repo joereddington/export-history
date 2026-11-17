@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1063)</li>
 <li>web.whatsapp.com (1059)</li>
-<li>feedly.com (885)</li>
+<li>feedly.com (886)</li>
 <li>mail.rhul.ac.uk (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (817)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:55 mymobile2.o2.co.uk</li>
+<ul><li> 19:01 feedly.com</li>
+<li> 18:55 mymobile2.o2.co.uk</li>
 <li> 18:55 oauth.virginmediao2.co.uk</li>
 <li> 18:55 oauth.virginmedia.com</li>
 <li> 18:55 mymobile2.o2.co.uk</li>
