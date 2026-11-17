@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5955)</li>
 <li>mail.google.com (5099)</li>
 <li>www.google.com (4454)</li>
-<li>duckduckgo.com (4195)</li>
-<li>outlook.office365.com (3890)</li>
+<li>duckduckgo.com (4196)</li>
+<li>outlook.office365.com (3886)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3046)</li>
 <li>www.linkedin.com (2474)</li>
-<li>moodle.royalholloway.ac.uk (2078)</li>
+<li>moodle.royalholloway.ac.uk (2079)</li>
 <li>login.microsoftonline.com (1728)</li>
 <li>bsky.app (1597)</li>
 <li>calendar.google.com (1549)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (885)</li>
 <li>mail.rhul.ac.uk (870)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (814)</li>
+<li>rhul-my.sharepoint.com (815)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (711)</li>
 <li>fritz.box (595)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 17/11/26</H3>
+
+<br>
+
+<ul><li> 16:12 rhul-my.sharepoint.com</li>
+<li> 16:12 duckduckgo.com</li>
+<li> 16:12 moodle.royalholloway.ac.uk</li>
+<li> 16:01 intranet.royalholloway.ac.uk</li>
+<li> 16:01 www.cyberuk.uk</li>
+<li> 16:01 eur03.safelinks.protection.outlook.com</li>
+</ul>
 
 <br>
 
@@ -124609,11 +124619,4 @@ With number of accesses/minutes in parentheses
 <li> 10:52 www.coursera.org</li>
 <li class='same'> 10:51 www.coursera.org</li>
 <li class='same'> 10:50 www.coursera.org</li>
-<li> 10:50 eur03.safelinks.protection.outlook.com</li>
-<li> 10:50 www.coursera.org</li>
-<li> 10:50 eur03.safelinks.protection.outlook.com</li>
-<li> 10:49 outlook.office365.com</li>
-<li class='same'> 10:48 outlook.office365.com</li>
-<li class='same'> 10:47 outlook.office365.com</li>
-<li class='same'> 10:46 outlook.office365.com</li>
 </ul>
