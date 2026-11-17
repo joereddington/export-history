@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3046)</li>
 <li>www.linkedin.com (2474)</li>
-<li>moodle.royalholloway.ac.uk (2063)</li>
+<li>moodle.royalholloway.ac.uk (2068)</li>
 <li>login.microsoftonline.com (1725)</li>
 <li>bsky.app (1599)</li>
 <li>www.facebook.com (1551)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:22 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 13:57 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:53 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:52 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:37 moodle.royalholloway.ac.uk</li>
+<li> 13:23 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 13:22 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 13:20 webtimetables.royalholloway.ac.uk</li>
 <li> 13:20 www.linkedin.com</li>
 <li class='same'> 13:19 www.linkedin.com</li>
