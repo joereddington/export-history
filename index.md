@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5955)</li>
-<li>mail.google.com (5099)</li>
-<li>www.google.com (4452)</li>
+<li>mail.google.com (5101)</li>
+<li>www.google.com (4453)</li>
 <li>duckduckgo.com (4196)</li>
 <li>outlook.office365.com (3882)</li>
 <li>outlook.office.com (3714)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1062)</li>
+<li>gmail.com (1063)</li>
 <li>web.whatsapp.com (1059)</li>
 <li>feedly.com (885)</li>
 <li>mail.rhul.ac.uk (870)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 17/11/26</H3>
+
+<br>
+
+<ul><li> 18:55 mymobile2.o2.co.uk</li>
+<li> 18:55 oauth.virginmediao2.co.uk</li>
+<li> 18:55 oauth.virginmedia.com</li>
+<li> 18:55 mymobile2.o2.co.uk</li>
+<li class='same'> 18:54 mymobile2.o2.co.uk</li>
+<li> 18:54 identity.o2.co.uk</li>
+<li> 18:54 accounts.o2.co.uk</li>
+<li> 18:54 www.google.com</li>
+<li> 18:54 auth.virginmediao2.co.uk</li>
+<li> 18:54 mail.google.com</li>
+<li class='same'> 18:53 mail.google.com</li>
+<li> 18:53 gmail.com</li>
+<li> 18:53 oauth.virginmediao2.co.uk</li>
+<li> 18:53 identity.o2.co.uk</li>
+<li> 18:53 accounts.o2.co.uk</li>
+<li> 18:53 identity.o2.co.uk</li>
+<li> 18:53 notlongnow.o2.co.uk</li>
+<li> 18:53 mymobile2.o2.co.uk</li>
+<li> 18:53 192.168.178.1</li>
+<li class='same'> 18:52 192.168.178.1</li>
+</ul>
 
 <br>
 
