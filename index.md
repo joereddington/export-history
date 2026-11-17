@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (885)</li>
 <li>mail.rhul.ac.uk (870)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (815)</li>
+<li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (711)</li>
 <li>fritz.box (595)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:12 rhul-my.sharepoint.com</li>
+<ul><li> 16:58 rhul-my.sharepoint.com</li>
+<li class='same'> 16:57 rhul-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:12 rhul-my.sharepoint.com</li>
 <li> 16:12 duckduckgo.com</li>
 <li> 16:12 moodle.royalholloway.ac.uk</li>
 <li> 16:01 intranet.royalholloway.ac.uk</li>
