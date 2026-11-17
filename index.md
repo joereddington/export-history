@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3046)</li>
-<li>www.linkedin.com (2472)</li>
+<li>www.linkedin.com (2474)</li>
 <li>moodle.royalholloway.ac.uk (2063)</li>
 <li>login.microsoftonline.com (1725)</li>
 <li>bsky.app (1599)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (808)</li>
 <li>forms.office.com (733)</li>
-<li>rhul.sharepoint.com (706)</li>
+<li>rhul.sharepoint.com (711)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:52 www.linkedin.com</li>
+<ul><li> 13:22 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 13:20 webtimetables.royalholloway.ac.uk</li>
+<li> 13:20 www.linkedin.com</li>
+<li class='same'> 13:19 www.linkedin.com</li>
+<li> 13:12 rhul.sharepoint.com</li>
+<li class='same'> 13:09 rhul.sharepoint.com</li>
+<li class='same'> 13:08 rhul.sharepoint.com</li>
+<li> 13:07 webtimetables.royalholloway.ac.uk</li>
+<li> 13:02 rhul.sharepoint.com</li>
+<li class='same'> 13:01 rhul.sharepoint.com</li>
+<li> 12:52 www.linkedin.com</li>
 <li class='same'> 12:50 www.linkedin.com</li>
 <li class='same'> 12:49 www.linkedin.com</li>
 <li> 12:41 dictionary.cambridge.org</li>
