@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5955)</li>
 <li>mail.google.com (5099)</li>
 <li>www.google.com (4458)</li>
-<li>duckduckgo.com (4194)</li>
+<li>duckduckgo.com (4195)</li>
 <li>outlook.office365.com (3897)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3046)</li>
-<li>www.linkedin.com (2469)</li>
+<li>www.linkedin.com (2472)</li>
 <li>moodle.royalholloway.ac.uk (2063)</li>
-<li>login.microsoftonline.com (1723)</li>
+<li>login.microsoftonline.com (1725)</li>
 <li>bsky.app (1599)</li>
 <li>www.facebook.com (1551)</li>
 <li>calendar.google.com (1549)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (870)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (808)</li>
-<li>forms.office.com (732)</li>
+<li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (706)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:22 moodle.royalholloway.ac.uk</li>
+<ul><li> 12:52 www.linkedin.com</li>
+<li class='same'> 12:50 www.linkedin.com</li>
+<li class='same'> 12:49 www.linkedin.com</li>
+<li> 12:41 dictionary.cambridge.org</li>
+<li> 12:41 duckduckgo.com</li>
+<li> 12:39 forms.cloud.microsoft</li>
+<li> 12:39 login.microsoftonline.com</li>
+<li> 12:39 device.login.microsoftonline.com</li>
+<li> 12:39 login.microsoftonline.com</li>
+<li> 12:39 forms.cloud.microsoft</li>
+<li> 12:39 forms.office.com</li>
+<li> 12:39 forms.cloud.microsoft</li>
+<li> 12:22 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:19 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:15 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:13 moodle.royalholloway.ac.uk</li>
