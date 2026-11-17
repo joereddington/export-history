@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5955)</li>
 <li>mail.google.com (5099)</li>
-<li>www.google.com (4453)</li>
+<li>www.google.com (4458)</li>
 <li>duckduckgo.com (4194)</li>
 <li>outlook.office365.com (3897)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3045)</li>
-<li>www.linkedin.com (2466)</li>
+<li>chatgpt.com (3046)</li>
+<li>www.linkedin.com (2469)</li>
 <li>moodle.royalholloway.ac.uk (2056)</li>
-<li>login.microsoftonline.com (1721)</li>
+<li>login.microsoftonline.com (1722)</li>
 <li>bsky.app (1599)</li>
 <li>www.facebook.com (1551)</li>
 <li>calendar.google.com (1549)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (808)</li>
 <li>forms.office.com (732)</li>
-<li>rhul.sharepoint.com (705)</li>
+<li>rhul.sharepoint.com (706)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -104,7 +104,41 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 17/11/26</H3>
+
+<br>
+
+<ul><li> 10:39 rhul.sharepoint.com</li>
+<li> 10:28 www.linkedin.com</li>
+<li class='same'> 10:27 www.linkedin.com</li>
+<li> 10:27 uk.linkedin.com</li>
+<li> 10:27 www.linkedin.com</li>
+<li> 10:27 uk.linkedin.com</li>
+<li> 10:27 www.google.com</li>
+<li class='same'> 10:26 www.google.com</li>
+<li> 10:20 teams.microsoft.com</li>
+<li class='same'> 10:19 teams.microsoft.com</li>
+<li> 10:18 login.microsoftonline.com</li>
+<li> 10:10 copyq.net</li>
+<li> 10:10 www.google.com</li>
+<li> 10:09 chatgpt.com</li>
+<li> 10:08 rectangleapp.com</li>
+<li> 10:08 www.google.com</li>
+<li class='same'> 10:07 www.google.com</li>
+<li> 09:50 localhost:8443</li>
+<li class='same'> 09:49 localhost:8443</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:05 localhost:8443</li>
+</ul>
+
 <H3>Monday, 16/11/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
