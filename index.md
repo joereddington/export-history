@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5955)</li>
 <li>mail.google.com (5099)</li>
-<li>www.google.com (4454)</li>
+<li>www.google.com (4452)</li>
 <li>duckduckgo.com (4196)</li>
-<li>outlook.office365.com (3886)</li>
+<li>outlook.office365.com (3882)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3046)</li>
-<li>www.linkedin.com (2474)</li>
-<li>moodle.royalholloway.ac.uk (2079)</li>
-<li>login.microsoftonline.com (1728)</li>
+<li>www.linkedin.com (2476)</li>
+<li>moodle.royalholloway.ac.uk (2082)</li>
+<li>login.microsoftonline.com (1729)</li>
 <li>bsky.app (1597)</li>
-<li>calendar.google.com (1549)</li>
 <li>www.facebook.com (1548)</li>
+<li>calendar.google.com (1548)</li>
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (733)</li>
-<li>rhul.sharepoint.com (711)</li>
+<li>rhul.sharepoint.com (712)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:58 rhul-my.sharepoint.com</li>
+<ul><li> 17:24 rhul.sharepoint.com</li>
+<li> 17:21 www.linkedin.com</li>
+<li class='same'> 17:20 www.linkedin.com</li>
+<li> 17:06 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:05 moodle.royalholloway.ac.uk</li>
+<li> 17:00 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:00 login.microsoftonline.com</li>
+<li> 17:00 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:00 device.login.microsoftonline.com</li>
+<li> 17:00 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:59 moodle.royalholloway.ac.uk</li>
+<li> 16:58 rhul-my.sharepoint.com</li>
 <li class='same'> 16:57 rhul-my.sharepoint.com</li>
 </ul>
 
@@ -124613,16 +124624,4 @@ With number of accesses/minutes in parentheses
 <li> 10:59 www.coursera.org</li>
 <li class='same'> 10:58 www.coursera.org</li>
 <li> 10:58 www.google.com</li>
-<li class='same'> 10:57 www.google.com</li>
-<li> 10:57 intranet.royalholloway.ac.uk</li>
-<li> 10:57 www.google.com</li>
-<li> 10:56 calendar.google.com</li>
-<li> 10:55 outlook.office365.com</li>
-<li class='same'> 10:54 outlook.office365.com</li>
-<li> 10:53 eventing.coursera.org</li>
-<li> 10:53 outlook.office365.com</li>
-<li class='same'> 10:52 outlook.office365.com</li>
-<li> 10:52 www.coursera.org</li>
-<li class='same'> 10:51 www.coursera.org</li>
-<li class='same'> 10:50 www.coursera.org</li>
 </ul>
