@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5955)</li>
 <li>mail.google.com (5099)</li>
-<li>www.google.com (4458)</li>
+<li>www.google.com (4456)</li>
 <li>duckduckgo.com (4195)</li>
 <li>outlook.office365.com (3897)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3046)</li>
 <li>www.linkedin.com (2474)</li>
-<li>moodle.royalholloway.ac.uk (2068)</li>
-<li>login.microsoftonline.com (1725)</li>
+<li>moodle.royalholloway.ac.uk (2075)</li>
+<li>login.microsoftonline.com (1726)</li>
 <li>bsky.app (1599)</li>
 <li>www.facebook.com (1551)</li>
 <li>calendar.google.com (1549)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (885)</li>
 <li>mail.rhul.ac.uk (870)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (808)</li>
+<li>rhul-my.sharepoint.com (811)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (711)</li>
 <li>fritz.box (595)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:57 moodle.royalholloway.ac.uk</li>
+<ul><li> 14:40 rhul-my.sharepoint.com</li>
+<li class='same'> 14:39 rhul-my.sharepoint.com</li>
+<li> 14:39 login.microsoftonline.com</li>
+<li> 14:39 device.login.microsoftonline.com</li>
+<li> 14:39 rhul-my.sharepoint.com</li>
+<li> 14:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:36 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:32 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:31 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:57 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:53 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:52 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:49 moodle.royalholloway.ac.uk</li>
@@ -124606,10 +124622,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:22 outlook.office365.com</li>
 <li class='same'> 10:21 outlook.office365.com</li>
 <li> 10:21 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 09:23 www.google.com</li>
-<li class='same'> 09:22 www.google.com</li>
 </ul>
