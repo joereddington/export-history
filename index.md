@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5955)</li>
 <li>mail.google.com (5099)</li>
-<li>www.google.com (4456)</li>
+<li>www.google.com (4454)</li>
 <li>duckduckgo.com (4195)</li>
-<li>outlook.office365.com (3897)</li>
+<li>outlook.office365.com (3890)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3046)</li>
 <li>www.linkedin.com (2474)</li>
-<li>moodle.royalholloway.ac.uk (2075)</li>
-<li>login.microsoftonline.com (1726)</li>
-<li>bsky.app (1599)</li>
-<li>www.facebook.com (1551)</li>
+<li>moodle.royalholloway.ac.uk (2078)</li>
+<li>login.microsoftonline.com (1728)</li>
+<li>bsky.app (1597)</li>
 <li>calendar.google.com (1549)</li>
+<li>www.facebook.com (1548)</li>
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (885)</li>
 <li>mail.rhul.ac.uk (870)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (811)</li>
+<li>rhul-my.sharepoint.com (814)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (711)</li>
 <li>fritz.box (595)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:40 rhul-my.sharepoint.com</li>
+<ul><li> 15:19 rhul-my.sharepoint.com</li>
+<li class='same'> 15:18 rhul-my.sharepoint.com</li>
+<li class='same'> 15:08 rhul-my.sharepoint.com</li>
+<li class='same'> 15:04 rhul-my.sharepoint.com</li>
+<li> 15:03 moodle.royalholloway.ac.uk</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 15:03 device.login.microsoftonline.com</li>
+<li> 15:03 moodle.royalholloway.ac.uk</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 15:03 moodle.royalholloway.ac.uk</li>
+<li> 14:40 rhul-my.sharepoint.com</li>
 <li class='same'> 14:39 rhul-my.sharepoint.com</li>
 <li> 14:39 login.microsoftonline.com</li>
 <li> 14:39 device.login.microsoftonline.com</li>
@@ -124606,20 +124616,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:48 outlook.office365.com</li>
 <li class='same'> 10:47 outlook.office365.com</li>
 <li class='same'> 10:46 outlook.office365.com</li>
-<li> 10:43 rhul-my.sharepoint.com</li>
-<li> 10:42 outlook.office365.com</li>
-<li> 10:42 intranet.royalholloway.ac.uk</li>
-<li> 10:42 outlook.office365.com</li>
-<li> 10:40 www.google.com</li>
-<li> 10:39 www.facebook.com</li>
-<li class='same'> 10:38 www.facebook.com</li>
-<li class='same'> 10:37 www.facebook.com</li>
-<li> 10:37 www.google.com</li>
-<li> 10:36 outlook.office365.com</li>
-<li> 10:35 bsky.app</li>
-<li> 10:35 outlook.office365.com</li>
-<li class='same'> 10:34 outlook.office365.com</li>
-<li class='same'> 10:22 outlook.office365.com</li>
-<li class='same'> 10:21 outlook.office365.com</li>
-<li> 10:21 bsky.app</li>
 </ul>
