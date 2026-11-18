@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:47 192.168.178.1</li>
+<ul><li> 10:09 localhost:8443</li>
+<li class='same'> 10:08 localhost:8443</li>
+<li> 10:07 192.168.178.1</li>
+<li class='same'> 09:47 192.168.178.1</li>
 <li class='same'> 09:46 192.168.178.1</li>
 <li class='same'> 09:45 192.168.178.1</li>
 <li class='same'> 09:44 192.168.178.1</li>
