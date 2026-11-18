@@ -77,10 +77,10 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3047)</li>
 <li>www.linkedin.com (2476)</li>
-<li>moodle.royalholloway.ac.uk (2082)</li>
-<li>login.microsoftonline.com (1729)</li>
+<li>moodle.royalholloway.ac.uk (2088)</li>
+<li>login.microsoftonline.com (1733)</li>
 <li>bsky.app (1560)</li>
-<li>calendar.google.com (1548)</li>
+<li>calendar.google.com (1549)</li>
 <li>www.facebook.com (1547)</li>
 <li>chat.openai.com (1401)</li>
 <li>www.amazon.co.uk (1335)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 18/11/26</H3>
+
+<br>
+
+<ul><li> 17:28 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:27 moodle.royalholloway.ac.uk</li>
+<li> 17:25 cybersecuritysociety.uk</li>
+<li> 17:25 calendar.google.com</li>
+<li> 17:25 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 17:24 webtimetables.royalholloway.ac.uk</li>
+<li> 17:23 cybersecuritysociety.uk</li>
+<li> 17:23 www.instagram.com</li>
+<li> 17:23 linktr.ee</li>
+<li> 17:23 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:22 moodle.royalholloway.ac.uk</li>
+<li> 17:22 login.microsoftonline.com</li>
+<li> 17:22 mysignins.microsoft.com</li>
+<li> 17:22 login.microsoftonline.com</li>
+<li> 17:22 device.login.microsoftonline.com</li>
+<li> 17:22 login.microsoftonline.com</li>
+<li> 17:22 device.login.microsoftonline.com</li>
+<li> 17:22 moodle.royalholloway.ac.uk</li>
+<li> 17:22 login.microsoftonline.com</li>
+<li> 17:22 moodle.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
