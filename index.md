@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5956)</li>
+<ol><li>www.reddit.com (5961)</li>
 <li>mail.google.com (5119)</li>
 <li>www.google.com (4433)</li>
 <li>duckduckgo.com (4199)</li>
@@ -76,23 +76,23 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3711)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3051)</li>
-<li>www.linkedin.com (2484)</li>
+<li>www.linkedin.com (2481)</li>
 <li>moodle.royalholloway.ac.uk (2095)</li>
 <li>login.microsoftonline.com (1740)</li>
 <li>calendar.google.com (1550)</li>
 <li>www.facebook.com (1547)</li>
-<li>bsky.app (1545)</li>
+<li>bsky.app (1543)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1063)</li>
 <li>web.whatsapp.com (1058)</li>
-<li>feedly.com (890)</li>
+<li>feedly.com (889)</li>
 <li>mail.rhul.ac.uk (866)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>forms.office.com (733)</li>
-<li>rhul.sharepoint.com (716)</li>
+<li>rhul.sharepoint.com (717)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 14:20 rhul.sharepoint.com</li>
+<li> 14:17 www.reddit.com</li>
+<li class='same'> 14:16 www.reddit.com</li>
+<li class='same'> 14:15 www.reddit.com</li>
+<li class='same'> 14:01 www.reddit.com</li>
+<li class='same'> 14:00 www.reddit.com</li>
+<li> 13:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:41 <a href="https://www.theguardian.com/">VisionQuest review – Marvel’s latest TV show feels like it could have been made by a computer | Television | The Guardian</a></li>
 <li> 13:40 rhul.hosted.panopto.com</li>
 <li class='same'> 13:39 rhul.hosted.panopto.com</li>
@@ -124686,17 +124692,4 @@ With number of accesses/minutes in parentheses
 <li> 20:17 www.giantitp.com</li>
 <li> 20:17 ookoodook.myshopify.com</li>
 <li class='same'> 20:16 ookoodook.myshopify.com</li>
-<li> 20:14 www.giantitp.com</li>
-<li> 20:10 feedly.com</li>
-<li> 20:10 www.linkedin.com</li>
-<li class='same'> 20:08 www.linkedin.com</li>
-<li> 20:08 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 20:07 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 20:07 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 20:07 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 20:07 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 20:07 <a href="https://en.wikipedia.org/"></a></li>
-<li> 20:07 bsky.app</li>
-<li class='same'> 20:06 bsky.app</li>
-<li> 20:06 www.linkedin.com</li>
 </ul>
