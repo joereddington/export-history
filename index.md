@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5953)</li>
-<li>mail.google.com (5100)</li>
+<li>mail.google.com (5103)</li>
 <li>www.google.com (4433)</li>
-<li>duckduckgo.com (4196)</li>
+<li>duckduckgo.com (4197)</li>
 <li>outlook.office365.com (3869)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3047)</li>
-<li>www.linkedin.com (2476)</li>
-<li>moodle.royalholloway.ac.uk (2088)</li>
+<li>chatgpt.com (3049)</li>
+<li>www.linkedin.com (2479)</li>
+<li>moodle.royalholloway.ac.uk (2089)</li>
 <li>login.microsoftonline.com (1733)</li>
 <li>bsky.app (1560)</li>
 <li>calendar.google.com (1549)</li>
 <li>www.facebook.com (1547)</li>
-<li>chat.openai.com (1401)</li>
+<li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1063)</li>
+<li>gmail.com (1064)</li>
 <li>web.whatsapp.com (1059)</li>
-<li>feedly.com (887)</li>
+<li>feedly.com (890)</li>
 <li>mail.rhul.ac.uk (866)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (818)</li>
@@ -105,6 +105,48 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 18/11/26</H3>
+
+<br>
+
+<ul><li> 20:44 www.giantitp.com</li>
+<li> 20:38 feedly.com</li>
+<li> 20:38 mail.google.com</li>
+<li> 20:37 docs.polymarket.com</li>
+<li> 20:36 polymarket.com</li>
+<li class='same'> 20:35 polymarket.com</li>
+<li class='same'> 20:33 polymarket.com</li>
+<li class='same'> 20:32 polymarket.com</li>
+<li class='same'> 20:31 polymarket.com</li>
+<li class='same'> 20:30 polymarket.com</li>
+<li class='same'> 20:29 polymarket.com</li>
+<li class='same'> 20:28 polymarket.com</li>
+<li class='same'> 20:27 polymarket.com</li>
+<li class='same'> 20:26 polymarket.com</li>
+<li> 20:26 accounts.google.com</li>
+<li class='same'> 20:25 accounts.google.com</li>
+<li> 20:24 polymarket.com</li>
+<li class='same'> 20:23 polymarket.com</li>
+<li> 20:23 duckduckgo.com</li>
+<li> 20:23 feedly.com</li>
+<li class='same'> 20:22 feedly.com</li>
+<li> 20:21 www.linkedin.com</li>
+<li class='same'> 20:20 www.linkedin.com</li>
+<li class='same'> 20:19 www.linkedin.com</li>
+<li> 20:16 mail.google.com</li>
+<li class='same'> 20:10 mail.google.com</li>
+<li> 20:10 gmail.com</li>
+<li> 20:08 chatgpt.com</li>
+<li class='same'> 20:07 chatgpt.com</li>
+<li> 20:07 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:32 cybersecuritysociety.uk</li>
+<li> 19:31 moodle.royalholloway.ac.uk</li>
+<li> 19:30 192.168.178.1</li>
+<li class='same'> 19:29 192.168.178.1</li>
+</ul>
 
 <br>
 
