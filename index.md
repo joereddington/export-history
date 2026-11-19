@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5953)</li>
-<li>mail.google.com (5103)</li>
-<li>www.google.com (4433)</li>
-<li>duckduckgo.com (4197)</li>
-<li>outlook.office365.com (3869)</li>
+<ol><li>www.reddit.com (5955)</li>
+<li>mail.google.com (5119)</li>
+<li>www.google.com (4431)</li>
+<li>duckduckgo.com (4199)</li>
+<li>outlook.office365.com (3864)</li>
 <li>outlook.office.com (3714)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3049)</li>
-<li>www.linkedin.com (2479)</li>
-<li>moodle.royalholloway.ac.uk (2089)</li>
-<li>login.microsoftonline.com (1733)</li>
-<li>bsky.app (1560)</li>
-<li>calendar.google.com (1549)</li>
+<li>chatgpt.com (3050)</li>
+<li>www.linkedin.com (2484)</li>
+<li>moodle.royalholloway.ac.uk (2090)</li>
+<li>login.microsoftonline.com (1734)</li>
+<li>bsky.app (1554)</li>
+<li>calendar.google.com (1550)</li>
 <li>www.facebook.com (1547)</li>
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
@@ -104,11 +104,83 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 19/11/26</H3>
+
+<br>
+
+<ul><li> 10:29 mail.google.com</li>
+<li class='same'> 10:28 mail.google.com</li>
+<li> 10:24 calendar.google.com</li>
+<li> 10:24 mail.google.com</li>
+<li class='same'> 10:23 mail.google.com</li>
+<li class='same'> 10:22 mail.google.com</li>
+<li> 10:22 dash.cloudflare.com</li>
+<li class='same'> 10:21 dash.cloudflare.com</li>
+<li> 10:21 developers.cloudflare.com</li>
+<li> 10:20 dash.cloudflare.com</li>
+<li> 10:20 mail.google.com</li>
+<li class='same'> 10:19 mail.google.com</li>
+<li class='same'> 10:18 mail.google.com</li>
+<li> 10:17 equalitytime.co.uk</li>
+<li> 10:17 equalitytime.github.io</li>
+<li> 10:17 duckduckgo.com</li>
+<li> 10:16 mail.google.com</li>
+<li> 10:15 <a href="https://en.wikipedia.org/wiki/Corollary">Corollary - Wikipedia</a></li>
+<li> 10:15 duckduckgo.com</li>
+<li> 10:13 mail.google.com</li>
+<li class='same'> 10:12 mail.google.com</li>
+<li class='same'> 10:08 mail.google.com</li>
+<li> 09:44 kdpreports.amazon.com</li>
+<li> 09:43 www.amazon.com</li>
+<li> 09:43 kdpreports.amazon.com</li>
+<li> 09:43 www.linkedin.com</li>
+<li class='same'> 09:42 www.linkedin.com</li>
+<li> 09:18 mail.google.com</li>
+<li> 09:15 polymarket.com</li>
+<li class='same'> 09:14 polymarket.com</li>
+<li class='same'> 09:13 polymarket.com</li>
+<li class='same'> 09:12 polymarket.com</li>
+<li class='same'> 09:11 polymarket.com</li>
+<li> 09:11 www.google.com</li>
+<li> 09:11 mail.google.com</li>
+<li class='same'> 09:10 mail.google.com</li>
+<li> 09:10 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:24 mail.google.com</li>
+<li> 07:24 jobs.glos.ac.uk</li>
+<li> 07:23 sealion-lavender-ar2n.squarespace.com</li>
+<li> 07:21 jobs.glos.ac.uk</li>
+<li class='same'> 07:20 jobs.glos.ac.uk</li>
+<li> 07:20 chatgpt.com</li>
+<li> 07:19 www.linkedin.com</li>
+<li class='same'> 07:17 www.linkedin.com</li>
+<li> 07:15 www.reddit.com</li>
+<li> 07:12 <a href="https://www.youtube.com/playlist?list=PLf0BEPn2BGr0">CMU AI Agents (Fall 2026) - YouTube</a></li>
+<li> 07:12 <a href="https://www.youtube.com/playlist?list=PLf0BEPn2BGr0&amp;cbrd=1&amp;themeRefresh=1">CMU AI Agents (Fall 2026) - YouTube</a></li>
+<li> 07:12 <a href="https://www.youtube.com/playlist?list=PLf0BEPn2BGr0&amp;cbrd=1"></a></li>
+<li> 07:12 <a href="https://www.youtube.com/playlist?list=PLf0BEPn2BGr0">CMU AI Agents (Fall 2026) - YouTube</a></li>
+<li> 07:12 consent.youtube.com</li>
+<li> 07:12 www.cs.cmu.edu</li>
+<li> 07:10 www.reddit.com</li>
+<li class='same'> 07:04 www.reddit.com</li>
+<li> 06:56 luma.com</li>
+<li> 06:56 moodle.royalholloway.ac.uk</li>
+<li> 06:56 login.microsoftonline.com</li>
+</ul>
+
 <H3>Wednesday, 18/11/26</H3>
 
 <br>
 
-<ul><li> 20:44 www.giantitp.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:45 www.giantitp.com</li>
+<li class='same'> 20:44 www.giantitp.com</li>
 <li> 20:38 feedly.com</li>
 <li> 20:38 mail.google.com</li>
 <li> 20:37 docs.polymarket.com</li>
@@ -13818,7 +13890,6 @@ With number of accesses/minutes in parentheses
 <li> 20:49 www.google.com</li>
 <li> 20:49 www.cranfield.ac.uk</li>
 <li> 20:49 www.google.com</li>
-<li class='same'> 20:48 www.google.com</li>
 </ul>
 
 <br>
@@ -123262,7 +123333,6 @@ With number of accesses/minutes in parentheses
 <li> 12:56 bsky.app</li>
 <li class='same'> 12:52 bsky.app</li>
 <li class='same'> 12:50 bsky.app</li>
-<li> 12:46 teams.microsoft.com</li>
 <li> 12:44 outlook.office365.com</li>
 <li class='same'> 12:43 outlook.office365.com</li>
 <li> 12:38 feedly.com</li>
@@ -124610,20 +124680,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:49 outlook.office365.com</li>
 <li class='same'> 15:48 outlook.office365.com</li>
 <li> 15:47 bsky.app</li>
-<li> 15:47 outlook.office365.com</li>
-<li> 15:47 bsky.app</li>
-<li class='same'> 15:46 bsky.app</li>
-<li class='same'> 15:45 bsky.app</li>
-<li> 15:44 outlook.office365.com</li>
-<li> 15:36 bsky.app</li>
-<li> 15:36 www.reddit.com</li>
-<li> 15:33 outlook.office365.com</li>
-<li> 15:32 www.youngminds.org.uk</li>
-<li> 15:32 www.google.com</li>
-<li> 15:30 stateofchildhealth.rcpch.ac.uk</li>
-<li> 15:30 www.google.com</li>
-<li> 15:16 outlook.office365.com</li>
-<li class='same'> 15:14 outlook.office365.com</li>
-<li> 15:14 bsky.app</li>
-<li class='same'> 15:13 bsky.app</li>
 </ul>
