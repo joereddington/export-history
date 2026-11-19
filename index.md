@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5961)</li>
-<li>mail.google.com (5119)</li>
-<li>www.google.com (4433)</li>
+<ol><li>www.reddit.com (5959)</li>
+<li>mail.google.com (5113)</li>
+<li>www.google.com (4424)</li>
 <li>duckduckgo.com (4199)</li>
 <li>outlook.office365.com (3853)</li>
-<li>outlook.office.com (3711)</li>
+<li>outlook.office.com (3701)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3051)</li>
-<li>www.linkedin.com (2481)</li>
+<li>www.linkedin.com (2478)</li>
 <li>moodle.royalholloway.ac.uk (2095)</li>
 <li>login.microsoftonline.com (1740)</li>
-<li>calendar.google.com (1550)</li>
-<li>www.facebook.com (1547)</li>
-<li>bsky.app (1543)</li>
+<li>calendar.google.com (1548)</li>
+<li>www.facebook.com (1545)</li>
+<li>bsky.app (1503)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1063)</li>
-<li>web.whatsapp.com (1058)</li>
+<li>gmail.com (1061)</li>
+<li>web.whatsapp.com (1057)</li>
 <li>feedly.com (889)</li>
 <li>mail.rhul.ac.uk (866)</li>
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>forms.office.com (733)</li>
-<li>rhul.sharepoint.com (717)</li>
+<li>rhul.sharepoint.com (719)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:20 rhul.sharepoint.com</li>
+<ul><li> 14:44 rhul.sharepoint.com</li>
+<li class='same'> 14:42 rhul.sharepoint.com</li>
+<li class='same'> 14:20 rhul.sharepoint.com</li>
 <li> 14:17 www.reddit.com</li>
 <li class='same'> 14:16 www.reddit.com</li>
 <li class='same'> 14:15 www.reddit.com</li>
@@ -124567,129 +124569,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:36 bsky.app</li>
 <li> 10:31 www.google.com</li>
 <li> 10:30 bsky.app</li>
-<li> 10:30 www.linkedin.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 09:59 www.linkedin.com</li>
-<li class='same'> 09:54 www.linkedin.com</li>
-<li> 09:54 uk.linkedin.com</li>
-<li> 09:54 www.google.com</li>
-<li> 09:54 uk.linkedin.com</li>
-<li> 09:54 www.google.com</li>
-<li> 09:53 mail.google.com</li>
-<li class='same'> 09:51 mail.google.com</li>
-<li> 09:50 teams.live.com</li>
-<li> 09:50 mail.google.com</li>
-<li class='same'> 09:49 mail.google.com</li>
-<li> 09:49 calendar.google.com</li>
-<li> 09:48 mail.google.com</li>
-<li> 09:48 gmail.com</li>
-<li> 09:46 bsky.app</li>
-<li class='same'> 09:45 bsky.app</li>
-<li> 09:44 equalitytime.github.io</li>
-<li> 09:43 bsky.app</li>
-<li> 09:42 outlook.office.com</li>
-<li class='same'> 09:33 outlook.office.com</li>
-<li> 09:33 bsky.app</li>
-<li class='same'> 09:32 bsky.app</li>
-<li> 09:29 publish.buffer.com</li>
-<li> 09:28 www.google.com</li>
-<li> 09:28 outlook.office.com</li>
-<li> 09:09 calendar.google.com</li>
-<li> 09:01 outlook.office.com</li>
-<li class='same'> 09:00 outlook.office.com</li>
-<li class='same'> 08:59 outlook.office.com</li>
-<li class='same'> 08:57 outlook.office.com</li>
-<li> 08:56 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:36 bsky.app</li>
-<li> 07:35 blueskydirectory.com</li>
-<li> 07:34 bsky.app</li>
-<li> 07:32 ketikagarg.github.io</li>
-<li> 07:32 bsky.app</li>
-<li class='same'> 07:27 bsky.app</li>
-<li> 07:26 www.facebook.com</li>
-<li> 07:19 discussions.apple.com</li>
-<li> 07:13 www.giac.org</li>
-<li> 07:10 bsky.app</li>
-<li> 07:09 outlook.office.com</li>
-<li class='same'> 07:07 outlook.office.com</li>
-<li> 07:04 www.google.com</li>
-<li> 06:59 bsky.app</li>
-<li> 06:57 clearsky.app</li>
-<li> 06:54 bsky.app</li>
-<li class='same'> 06:53 bsky.app</li>
-<li> 06:53 clearsky.app</li>
-<li class='same'> 06:52 clearsky.app</li>
-<li> 06:52 bsky.app</li>
-<li class='same'> 06:31 bsky.app</li>
-<li class='same'> 06:20 bsky.app</li>
-<li class='same'> 06:19 bsky.app</li>
-<li class='same'> 06:18 bsky.app</li>
-<li class='same'> 06:16 bsky.app</li>
-<li class='same'> 06:14 bsky.app</li>
-<li class='same'> 06:13 bsky.app</li>
-<li class='same'> 06:12 bsky.app</li>
-<li class='same'> 06:11 bsky.app</li>
-<li> 06:06 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 06:03 medium.com</li>
-<li> 05:58 bsky.app</li>
-<li> 05:53 <a href="https://en.wikipedia.org/wiki/Adobe_Inc.#cite_note-111">Adobe Inc. - Wikipedia</a></li>
-<li> 05:52 <a href="https://en.wikipedia.org/wiki/Adobe_Inc.">Adobe Inc. - Wikipedia</a></li>
-<li> 05:52 www.google.com</li>
-<li> 05:47 bsky.app</li>
-<li class='same'> 05:42 bsky.app</li>
-<li> 05:41 outlook.office.com</li>
-</ul>
-
-<H3>Monday, 02/12/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:11 mail.google.com</li>
-<li> 21:11 gmail.com</li>
-<li> 21:10 web.whatsapp.com</li>
-<li> 21:02 www.statista.com</li>
-<li> 21:02 www.google.com</li>
-<li> 21:01 tradingeconomics.com</li>
-<li> 21:01 www.google.com</li>
-<li> 21:00 www.statista.com</li>
-<li> 21:00 www.google.com</li>
-<li> 21:00 www.express.co.uk</li>
-<li> 20:36 www.facebook.com</li>
-<li> 20:35 bsky.app</li>
-<li class='same'> 20:34 bsky.app</li>
-<li class='same'> 20:33 bsky.app</li>
-<li class='same'> 20:32 bsky.app</li>
-<li> 20:32 clearsky.app</li>
-<li class='same'> 20:31 clearsky.app</li>
-<li> 20:30 bsky.app</li>
-<li class='same'> 20:28 bsky.app</li>
-<li class='same'> 20:27 bsky.app</li>
-<li class='same'> 20:26 bsky.app</li>
-<li class='same'> 20:25 bsky.app</li>
-<li class='same'> 20:24 bsky.app</li>
-<li> 20:24 clearsky.app</li>
-<li> 20:24 bsky.app</li>
-<li class='same'> 20:23 bsky.app</li>
-<li> 20:23 clearsky.app</li>
-<li> 20:23 blueskydirectory.com</li>
-<li> 20:23 www.reddit.com</li>
-<li> 20:23 www.google.com</li>
-<li> 20:22 vqv.app</li>
-<li> 20:20 bsky.app</li>
-<li> 20:17 www.reddit.com</li>
-<li> 20:17 ookoodook.myshopify.com</li>
-<li> 20:17 www.giantitp.com</li>
-<li> 20:17 ookoodook.myshopify.com</li>
-<li class='same'> 20:16 ookoodook.myshopify.com</li>
 </ul>
