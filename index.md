@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5955)</li>
 <li>mail.google.com (5119)</li>
-<li>www.google.com (4431)</li>
+<li>www.google.com (4427)</li>
 <li>duckduckgo.com (4199)</li>
-<li>outlook.office365.com (3864)</li>
-<li>outlook.office.com (3714)</li>
+<li>outlook.office365.com (3856)</li>
+<li>outlook.office.com (3711)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3050)</li>
-<li>www.linkedin.com (2484)</li>
-<li>moodle.royalholloway.ac.uk (2090)</li>
-<li>login.microsoftonline.com (1734)</li>
-<li>bsky.app (1554)</li>
+<li>www.linkedin.com (2480)</li>
+<li>moodle.royalholloway.ac.uk (2093)</li>
+<li>login.microsoftonline.com (1738)</li>
 <li>calendar.google.com (1550)</li>
+<li>bsky.app (1549)</li>
 <li>www.facebook.com (1547)</li>
 <li>chat.openai.com (1402)</li>
 <li>www.amazon.co.uk (1335)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (862)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>forms.office.com (733)</li>
-<li>rhul.sharepoint.com (712)</li>
+<li>rhul.sharepoint.com (716)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 mail.google.com</li>
+<ul><li> 10:59 rhul.sharepoint.com</li>
+<li> 10:55 fyp.cs.rhul.ac.uk</li>
+<li> 10:47 moodle.royalholloway.ac.uk</li>
+<li> 10:45 webtimetables.royalholloway.ac.uk</li>
+<li> 10:45 moodle.royalholloway.ac.uk</li>
+<li> 10:45 login.microsoftonline.com</li>
+<li> 10:45 device.login.microsoftonline.com</li>
+<li> 10:45 moodle.royalholloway.ac.uk</li>
+<li> 10:35 rhul.sharepoint.com</li>
+<li> 10:35 login.microsoftonline.com</li>
+<li> 10:35 device.login.microsoftonline.com</li>
+<li> 10:35 rhul.sharepoint.com</li>
+<li> 10:31 login.microsoftonline.com</li>
+<li> 10:31 device.login.microsoftonline.com</li>
+<li> 10:31 login.microsoftonline.com</li>
+<li> 10:31 device.login.microsoftonline.com</li>
+<li> 10:31 rhul.sharepoint.com</li>
+<li> 10:29 mail.google.com</li>
 <li class='same'> 10:28 mail.google.com</li>
 <li> 10:24 calendar.google.com</li>
 <li> 10:24 mail.google.com</li>
@@ -124644,40 +124661,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:05 discussions.apple.com</li>
 <li> 18:05 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:08 outlook.office.com</li>
-<li> 16:59 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
-<li> 16:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 16:59 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 16:55 www.linkedin.com</li>
-<li> 16:55 outlook.office.com</li>
-<li> 16:55 www.linkedin.com</li>
-<li> 16:54 publish.buffer.com</li>
-<li> 16:54 login.buffer.com</li>
-<li> 16:54 <a href="https://www.youtube.com/watch?v=U0nJN5Tddx0">(12) Twice as loud | Joe Reddington | TEDxDerby - YouTube</a></li>
-<li> 16:53 www.google.com</li>
-<li> 16:53 buffer.com</li>
-<li> 16:53 www.google.com</li>
-<li> 16:53 bsky.app</li>
-<li> 16:53 outlook.office.com</li>
-<li> 16:33 www.google.com</li>
-<li> 16:11 outlook.office365.com</li>
-<li> 16:10 bsky.app</li>
-<li class='same'> 16:09 bsky.app</li>
-<li class='same'> 16:06 bsky.app</li>
-<li> 16:06 www.linkedin.com</li>
-<li class='same'> 16:02 www.linkedin.com</li>
-<li> 16:02 www.royalholloway.ac.uk</li>
-<li> 16:02 www.google.com</li>
-<li> 16:00 outlook.office365.com</li>
-<li class='same'> 15:53 outlook.office365.com</li>
-<li class='same'> 15:52 outlook.office365.com</li>
-<li class='same'> 15:51 outlook.office365.com</li>
-<li class='same'> 15:50 outlook.office365.com</li>
-<li class='same'> 15:49 outlook.office365.com</li>
-<li class='same'> 15:48 outlook.office365.com</li>
-<li> 15:47 bsky.app</li>
 </ul>
