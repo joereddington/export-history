@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5956)</li>
-<li>mail.google.com (5122)</li>
+<li>mail.google.com (5119)</li>
 <li>www.google.com (4433)</li>
 <li>duckduckgo.com (4199)</li>
-<li>outlook.office365.com (3855)</li>
+<li>outlook.office365.com (3853)</li>
 <li>outlook.office.com (3711)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3051)</li>
-<li>www.linkedin.com (2483)</li>
-<li>moodle.royalholloway.ac.uk (2094)</li>
-<li>login.microsoftonline.com (1738)</li>
+<li>www.linkedin.com (2484)</li>
+<li>moodle.royalholloway.ac.uk (2095)</li>
+<li>login.microsoftonline.com (1740)</li>
 <li>calendar.google.com (1550)</li>
-<li>bsky.app (1549)</li>
 <li>www.facebook.com (1547)</li>
+<li>bsky.app (1545)</li>
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1064)</li>
-<li>web.whatsapp.com (1059)</li>
+<li>gmail.com (1063)</li>
+<li>web.whatsapp.com (1058)</li>
 <li>feedly.com (890)</li>
 <li>mail.rhul.ac.uk (866)</li>
 <li>tvtropes.org (862)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 19/11/26</H3>
+
+<br>
+
+<ul><li> 13:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:41 <a href="https://www.theguardian.com/">VisionQuest review – Marvel’s latest TV show feels like it could have been made by a computer | Television | The Guardian</a></li>
+<li> 13:40 rhul.hosted.panopto.com</li>
+<li class='same'> 13:39 rhul.hosted.panopto.com</li>
+<li> 13:39 moodle.royalholloway.ac.uk</li>
+<li> 13:39 rhul.hosted.panopto.com</li>
+<li> 13:38 login.microsoftonline.com</li>
+<li> 13:38 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:38 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 13:38 login.microsoftonline.com</li>
+<li> 13:38 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:38 device.login.microsoftonline.com</li>
+<li> 13:34 www.linkedin.com</li>
+</ul>
 
 <br>
 
@@ -124682,15 +124699,4 @@ With number of accesses/minutes in parentheses
 <li> 20:07 bsky.app</li>
 <li class='same'> 20:06 bsky.app</li>
 <li> 20:06 www.linkedin.com</li>
-<li> 20:06 outlook.office365.com</li>
-<li> 20:03 bsky.app</li>
-<li class='same'> 20:02 bsky.app</li>
-<li class='same'> 20:01 bsky.app</li>
-<li class='same'> 20:00 bsky.app</li>
-<li> 20:00 mail.google.com</li>
-<li class='same'> 19:56 mail.google.com</li>
-<li> 19:55 web.whatsapp.com</li>
-<li> 19:55 mail.google.com</li>
-<li> 19:55 gmail.com</li>
-<li> 19:55 outlook.office365.com</li>
 </ul>
