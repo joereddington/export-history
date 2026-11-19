@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5955)</li>
-<li>mail.google.com (5120)</li>
-<li>www.google.com (4426)</li>
+<ol><li>www.reddit.com (5956)</li>
+<li>mail.google.com (5122)</li>
+<li>www.google.com (4433)</li>
 <li>duckduckgo.com (4199)</li>
 <li>outlook.office365.com (3855)</li>
 <li>outlook.office.com (3711)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3050)</li>
-<li>www.linkedin.com (2481)</li>
+<li>chatgpt.com (3051)</li>
+<li>www.linkedin.com (2483)</li>
 <li>moodle.royalholloway.ac.uk (2094)</li>
 <li>login.microsoftonline.com (1738)</li>
 <li>calendar.google.com (1550)</li>
 <li>bsky.app (1549)</li>
 <li>www.facebook.com (1547)</li>
-<li>chat.openai.com (1402)</li>
-<li>www.amazon.co.uk (1335)</li>
+<li>chat.openai.com (1403)</li>
+<li>www.amazon.co.uk (1338)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1064)</li>
 <li>web.whatsapp.com (1059)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:58 mail.google.com</li>
+<ul><li> 12:35 kdpreports.amazon.com</li>
+<li> 12:34 www.reddit.com</li>
+<li> 12:33 chatgpt.com</li>
+<li> 12:33 chat.openai.com</li>
+<li> 12:31 trends.google.com</li>
+<li class='same'> 12:30 trends.google.com</li>
+<li> 12:30 www.google.com</li>
+<li> 12:30 pageviews.wmcloud.org</li>
+<li> 12:30 xtools.wmcloud.org</li>
+<li> 12:29 <a href="https://en.wikipedia.org/w/index.php?title=Method_of_loci&amp;action=history">Method of loci: Revision history - Wikipedia</a></li>
+<li> 12:29 <a href="https://en.wikipedia.org/wiki/Method_of_loci">Method of loci - Wikipedia</a></li>
+<li> 12:29 www.google.com</li>
+<li> 12:29 <a href="https://en.wikipedia.org/wiki/Method_of_loci">Method of loci - Wikipedia</a></li>
+<li> 12:29 www.google.com</li>
+<li> 12:29 wikipedia.ramselehof.de</li>
+<li> 12:28 kdpreports.amazon.com</li>
+<li> 12:28 www.linkedin.com</li>
+<li> 12:27 search.google.com</li>
+<li class='same'> 12:26 search.google.com</li>
+<li> 12:25 mail.google.com</li>
+<li> 12:25 www.google.com</li>
+<li> 12:24 search.google.com</li>
+<li class='same'> 12:23 search.google.com</li>
+<li> 12:23 www.google.com</li>
+<li class='same'> 12:22 www.google.com</li>
+<li class='same'> 12:21 www.google.com</li>
+<li> 12:21 www.amazon.co.uk</li>
+<li> 12:18 www.linkedin.com</li>
+<li> 12:15 www.amazon.co.uk</li>
+<li class='same'> 12:14 www.amazon.co.uk</li>
+<li> 12:13 kdpreports.amazon.com</li>
+<li> 12:13 mail.google.com</li>
+<li class='same'> 11:58 mail.google.com</li>
 </ul>
 
 <br>
