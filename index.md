@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (889)</li>
 <li>mail.rhul.ac.uk (865)</li>
 <li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (818)</li>
+<li>rhul-my.sharepoint.com (826)</li>
 <li>forms.office.com (733)</li>
-<li>rhul.sharepoint.com (720)</li>
+<li>rhul.sharepoint.com (728)</li>
 <li>fritz.box (595)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:49 fyp.cs.rhul.ac.uk</li>
+<ul><li> 18:20 rhul.sharepoint.com</li>
+<li> 18:20 rhul-my.sharepoint.com</li>
+<li> 18:20 rhul.sharepoint.com</li>
+<li> 18:20 rhul-my.sharepoint.com</li>
+<li> 18:18 rhul.sharepoint.com</li>
+<li> 18:18 rhul-my.sharepoint.com</li>
+<li> 18:17 rhul.sharepoint.com</li>
+<li> 18:17 rhul-my.sharepoint.com</li>
+<li> 18:16 rhul.sharepoint.com</li>
+<li> 18:16 rhul-my.sharepoint.com</li>
+<li> 18:15 rhul.sharepoint.com</li>
+<li> 18:14 rhul-my.sharepoint.com</li>
+<li> 18:13 rhul.sharepoint.com</li>
+<li> 18:13 rhul-my.sharepoint.com</li>
+<li class='same'> 18:12 rhul-my.sharepoint.com</li>
+<li> 18:06 rhul.sharepoint.com</li>
+<li> 18:04 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:04 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 18:04 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 18:02 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:02 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 18:01 gitlab.cim.rhul.ac.uk</li>
+<li> 18:01 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 17:49 fyp.cs.rhul.ac.uk</li>
 <li> 17:36 calendar.google.com</li>
 <li> 17:35 dashboards.rhul.ac.uk</li>
 <li> 17:35 fyp.cs.rhul.ac.uk</li>
