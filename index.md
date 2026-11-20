@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5959)</li>
-<li>mail.google.com (5113)</li>
-<li>www.google.com (4423)</li>
+<li>mail.google.com (5115)</li>
+<li>www.google.com (4425)</li>
 <li>duckduckgo.com (4199)</li>
 <li>outlook.office365.com (3853)</li>
 <li>outlook.office.com (3701)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1403)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1061)</li>
+<li>gmail.com (1062)</li>
 <li>web.whatsapp.com (1057)</li>
 <li>feedly.com (889)</li>
 <li>mail.rhul.ac.uk (865)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 19/11/26</H3>
+
+<br>
+
+<ul><li> 20:41 www.thingiverse.com</li>
+<li> 20:41 www.google.com</li>
+<li> 20:41 u57559343.ct.sendgrid.net</li>
+<li> 20:41 mail.google.com</li>
+<li class='same'> 20:40 mail.google.com</li>
+<li> 20:40 gmail.com</li>
+<li> 20:40 www.thingiverse.com</li>
+<li> 20:40 www.google.com</li>
+</ul>
 
 <br>
 
