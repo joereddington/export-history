@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5959)</li>
+<ol><li>www.reddit.com (5962)</li>
 <li>mail.google.com (5116)</li>
 <li>www.google.com (4425)</li>
 <li>duckduckgo.com (4199)</li>
 <li>outlook.office365.com (3853)</li>
 <li>outlook.office.com (3701)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3051)</li>
+<li>chatgpt.com (3052)</li>
 <li>www.linkedin.com (2480)</li>
 <li>moodle.royalholloway.ac.uk (2098)</li>
 <li>login.microsoftonline.com (1741)</li>
 <li>calendar.google.com (1546)</li>
 <li>www.facebook.com (1545)</li>
 <li>bsky.app (1500)</li>
-<li>chat.openai.com (1403)</li>
+<li>chat.openai.com (1404)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1062)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 20/11/26</H3>
+
+<br>
+
+<ul><li> 13:57 casper.cs.rhul.ac.uk</li>
+<li class='same'> 13:55 casper.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:55 chatgpt.com</li>
+<li> 12:55 chat.openai.com</li>
+<li> 12:51 www.reddit.com</li>
+<li class='same'> 12:50 www.reddit.com</li>
+<li class='same'> 12:49 www.reddit.com</li>
+</ul>
 
 <br>
 
