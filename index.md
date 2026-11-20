@@ -76,8 +76,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3701)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3051)</li>
-<li>www.linkedin.com (2478)</li>
-<li>moodle.royalholloway.ac.uk (2097)</li>
+<li>www.linkedin.com (2480)</li>
+<li>moodle.royalholloway.ac.uk (2098)</li>
 <li>login.microsoftonline.com (1741)</li>
 <li>calendar.google.com (1546)</li>
 <li>www.facebook.com (1545)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:45 casper.cs.rhul.ac.uk</li>
+<ul><li> 12:18 moodle.royalholloway.ac.uk</li>
+<li> 12:18 eur03.safelinks.protection.outlook.com</li>
+<li> 12:08 casper.cs.rhul.ac.uk</li>
+<li> 12:07 www.linkedin.com</li>
+<li> 12:06 kdpreports.amazon.com</li>
+<li> 12:06 www.linkedin.com</li>
+<li> 11:53 casper.cs.rhul.ac.uk</li>
+<li class='same'> 11:45 casper.cs.rhul.ac.uk</li>
 <li> 11:42 moodle.royalholloway.ac.uk</li>
 <li> 11:42 login.microsoftonline.com</li>
 <li> 11:42 device.login.microsoftonline.com</li>
