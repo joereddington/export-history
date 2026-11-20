@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5962)</li>
-<li>mail.google.com (5116)</li>
+<li>mail.google.com (5121)</li>
 <li>www.google.com (4425)</li>
 <li>duckduckgo.com (4199)</li>
 <li>outlook.office365.com (3853)</li>
@@ -78,14 +78,14 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (3052)</li>
 <li>www.linkedin.com (2480)</li>
 <li>moodle.royalholloway.ac.uk (2098)</li>
-<li>login.microsoftonline.com (1741)</li>
+<li>login.microsoftonline.com (1743)</li>
 <li>calendar.google.com (1546)</li>
 <li>www.facebook.com (1545)</li>
 <li>bsky.app (1500)</li>
 <li>chat.openai.com (1404)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1062)</li>
+<li>gmail.com (1064)</li>
 <li>web.whatsapp.com (1057)</li>
 <li>feedly.com (889)</li>
 <li>mail.rhul.ac.uk (865)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:50 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 16:29 localhost:8443</li>
+<li class='same'> 16:28 localhost:8443</li>
+<li class='same'> 16:27 localhost:8443</li>
+<li class='same'> 16:24 localhost:8443</li>
+<li> 16:23 dashboards.rhul.ac.uk</li>
+<li> 16:19 localhost:8443</li>
+<li class='same'> 16:16 localhost:8443</li>
+<li> 16:12 login.microsoftonline.com</li>
+<li> 16:12 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:12 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:12 login.microsoftonline.com</li>
+<li> 16:12 device.login.microsoftonline.com</li>
+<li> 16:12 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:11 localhost:8443</li>
+<li class='same'> 16:10 localhost:8443</li>
+<li> 16:04 mail.google.com</li>
+<li class='same'> 16:02 mail.google.com</li>
+<li class='same'> 16:01 mail.google.com</li>
+<li> 16:01 accounts.google.com</li>
+<li> 16:01 mail.google.com</li>
+<li> 16:01 gmail.com</li>
+<li> 16:01 accounts.google.com</li>
+<li> 16:01 mail.google.com</li>
+<li> 16:01 gmail.com</li>
+<li> 15:50 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 15:49 webtimetables.royalholloway.ac.uk</li>
 </ul>
 
