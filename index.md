@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3701)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3052)</li>
-<li>www.linkedin.com (2480)</li>
+<li>www.linkedin.com (2482)</li>
 <li>moodle.royalholloway.ac.uk (2098)</li>
-<li>login.microsoftonline.com (1743)</li>
+<li>login.microsoftonline.com (1745)</li>
 <li>calendar.google.com (1546)</li>
 <li>www.facebook.com (1545)</li>
 <li>bsky.app (1500)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:47 casper.cs.rhul.ac.uk</li>
+<ul><li> 17:18 login.microsoftonline.com</li>
+<li> 17:18 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:18 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:18 device.login.microsoftonline.com</li>
+<li> 17:18 login.microsoftonline.com</li>
+<li> 17:18 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 17:17 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:15 www.linkedin.com</li>
+<li class='same'> 17:14 www.linkedin.com</li>
+<li> 16:59 casper.cs.rhul.ac.uk</li>
+<li class='same'> 16:47 casper.cs.rhul.ac.uk</li>
 <li> 16:44 localhost:8443</li>
 <li class='same'> 16:42 localhost:8443</li>
 <li class='same'> 16:40 localhost:8443</li>
