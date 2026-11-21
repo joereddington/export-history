@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5965)</li>
-<li>mail.google.com (5126)</li>
-<li>www.google.com (4419)</li>
+<li>mail.google.com (5130)</li>
+<li>www.google.com (4420)</li>
 <li>duckduckgo.com (4204)</li>
-<li>outlook.office365.com (3844)</li>
-<li>outlook.office.com (3671)</li>
-<li>docs.google.com (3233)</li>
-<li>chatgpt.com (3055)</li>
-<li>www.linkedin.com (2492)</li>
+<li>outlook.office365.com (3842)</li>
+<li>outlook.office.com (3669)</li>
+<li>docs.google.com (3234)</li>
+<li>chatgpt.com (3058)</li>
+<li>www.linkedin.com (2494)</li>
 <li>moodle.royalholloway.ac.uk (2106)</li>
 <li>login.microsoftonline.com (1747)</li>
 <li>calendar.google.com (1545)</li>
 <li>www.facebook.com (1543)</li>
-<li>bsky.app (1471)</li>
+<li>bsky.app (1467)</li>
 <li>chat.openai.com (1406)</li>
 <li>www.amazon.co.uk (1343)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1067)</li>
+<li>gmail.com (1066)</li>
 <li>web.whatsapp.com (1056)</li>
 <li>feedly.com (890)</li>
 <li>mail.rhul.ac.uk (864)</li>
-<li>tvtropes.org (862)</li>
-<li>rhul-my.sharepoint.com (829)</li>
+<li>tvtropes.org (857)</li>
+<li>rhul-my.sharepoint.com (828)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (729)</li>
 <li>fritz.box (595)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 mail.google.com</li>
+<ul><li> 15:59 www.linkedin.com</li>
+<li> 15:59 www.giantitp.com</li>
+<li> 15:57 www.goodreads.com</li>
+<li> 15:57 www.google.com</li>
+<li> 15:57 www.goodreads.com</li>
+<li> 15:56 www.google.com</li>
+<li> 15:56 www.goodreads.com</li>
+<li class='same'> 15:55 www.goodreads.com</li>
+<li> 15:55 www.google.com</li>
+<li> 15:54 www.goodreads.com</li>
+<li> 15:54 www.google.com</li>
+<li> 15:54 www.goodreads.com</li>
+<li> 15:54 www.google.com</li>
+<li> 15:53 www.goodreads.com</li>
+<li> 15:53 www.google.com</li>
+<li> 15:53 www.goodreads.com</li>
+<li class='same'> 15:52 www.goodreads.com</li>
+<li> 15:52 docs.google.com</li>
+<li> 15:52 mail.google.com</li>
+<li class='same'> 15:50 mail.google.com</li>
+<li> 15:50 chatgpt.com</li>
+<li> 15:47 mail.google.com</li>
+<li> 15:42 www.linkedin.com</li>
+<li> 15:37 mail.google.com</li>
+<li> 15:35 dash.cloudflare.com</li>
+<li class='same'> 15:33 dash.cloudflare.com</li>
+<li> 15:31 chatgpt.com</li>
+<li class='same'> 15:30 chatgpt.com</li>
+<li> 15:30 dash.cloudflare.com</li>
+<li> 15:30 mail.google.com</li>
+<li class='same'> 15:29 mail.google.com</li>
 <li class='same'> 15:28 mail.google.com</li>
 <li> 15:28 gmail.com</li>
 <li> 15:27 chatgpt.com</li>
@@ -124647,40 +124677,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:33 theavenuecookeryschool.com</li>
 <li> 21:33 www.google.com</li>
 <li> 21:33 m.youtube.com</li>
-<li> 21:24 tvtropes.org</li>
-<li class='same'> 21:23 tvtropes.org</li>
-<li class='same'> 21:20 tvtropes.org</li>
-<li> 20:53 bsky.app</li>
-<li> 20:52 www.google.com</li>
-<li class='same'> 20:51 www.google.com</li>
-<li> 20:51 bsky.app</li>
-<li> 20:50 www.google.com</li>
-<li> 20:50 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 19:43 us06web.zoom.us</li>
-<li class='same'> 19:38 us06web.zoom.us</li>
-<li> 19:38 www.google.com</li>
-<li> 19:38 us06web.zoom.us</li>
-<li> 19:37 mail.google.com</li>
-<li> 19:37 gmail.com</li>
-<li> 19:37 outlook.office365.com</li>
-<li> 19:37 bsky.app</li>
-<li> 19:36 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:06 tvtropes.org</li>
-<li class='same'> 19:05 tvtropes.org</li>
-<li> 19:05 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:31 outlook.office.com</li>
-<li> 18:28 rhul-my.sharepoint.com</li>
-<li> 18:27 outlook.office.com</li>
 </ul>
