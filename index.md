@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5965)</li>
-<li>mail.google.com (5121)</li>
-<li>www.google.com (4428)</li>
+<li>mail.google.com (5123)</li>
+<li>www.google.com (4420)</li>
 <li>duckduckgo.com (4202)</li>
 <li>outlook.office365.com (3844)</li>
-<li>outlook.office.com (3691)</li>
+<li>outlook.office.com (3676)</li>
 <li>docs.google.com (3232)</li>
-<li>chatgpt.com (3053)</li>
-<li>www.linkedin.com (2490)</li>
+<li>chatgpt.com (3052)</li>
+<li>www.linkedin.com (2491)</li>
 <li>moodle.royalholloway.ac.uk (2097)</li>
 <li>login.microsoftonline.com (1745)</li>
-<li>calendar.google.com (1547)</li>
-<li>www.facebook.com (1544)</li>
-<li>bsky.app (1493)</li>
-<li>chat.openai.com (1405)</li>
-<li>www.amazon.co.uk (1339)</li>
+<li>calendar.google.com (1544)</li>
+<li>www.facebook.com (1543)</li>
+<li>bsky.app (1474)</li>
+<li>chat.openai.com (1404)</li>
+<li>www.amazon.co.uk (1342)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1065)</li>
 <li>web.whatsapp.com (1056)</li>
@@ -105,6 +105,22 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 21/11/26</H3>
+
+<br>
+
+<ul><li> 11:54 mail.google.com</li>
+<li class='same'> 11:53 mail.google.com</li>
+<li> 11:53 www.amazon.co.uk</li>
+<li> 11:53 www.google.com</li>
+<li class='same'> 11:52 www.google.com</li>
+<li> 11:52 www.amazon.co.uk</li>
+<li class='same'> 11:51 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 10:20 www.linkedin.com</li>
+</ul>
 
 <br>
 
@@ -124637,69 +124653,4 @@ With number of accesses/minutes in parentheses
 <li> 16:58 moodle.royalholloway.ac.uk</li>
 <li class='same'> 16:55 moodle.royalholloway.ac.uk</li>
 <li> 16:55 outlook.office.com</li>
-<li class='same'> 16:54 outlook.office.com</li>
-<li class='same'> 16:53 outlook.office.com</li>
-<li class='same'> 16:52 outlook.office.com</li>
-<li class='same'> 16:51 outlook.office.com</li>
-<li class='same'> 16:50 outlook.office.com</li>
-<li class='same'> 16:49 outlook.office.com</li>
-<li> 16:39 calendar.google.com</li>
-<li> 16:35 bsky.app</li>
-<li> 16:32 outlook.office.com</li>
-<li class='same'> 16:31 outlook.office.com</li>
-<li> 16:31 calendar.google.com</li>
-<li> 16:30 outlook.office.com</li>
-<li> 16:30 bsky.app</li>
-<li class='same'> 16:29 bsky.app</li>
-<li> 16:25 outlook.office.com</li>
-<li class='same'> 16:24 outlook.office.com</li>
-<li class='same'> 16:23 outlook.office.com</li>
-<li class='same'> 16:22 outlook.office.com</li>
-<li class='same'> 16:21 outlook.office.com</li>
-<li> 16:14 bsky.app</li>
-<li class='same'> 16:13 bsky.app</li>
-<li> 16:04 outlook.office.com</li>
-<li> 15:59 bsky.app</li>
-<li> 15:55 www.google.com</li>
-<li> 15:54 www.forbes.com</li>
-<li> 15:53 www.google.com</li>
-<li class='same'> 15:52 www.google.com</li>
-<li class='same'> 15:51 www.google.com</li>
-<li> 15:49 bsky.app</li>
-<li> 15:46 chatgpt.com</li>
-<li> 15:46 chat.openai.com</li>
-<li> 15:27 www.google.com</li>
-<li> 15:25 m.youtube.com</li>
-<li> 15:25 www.google.com</li>
-<li> 15:23 bsky.app</li>
-<li class='same'> 15:22 bsky.app</li>
-<li> 14:53 reductress.com</li>
-<li class='same'> 14:52 reductress.com</li>
-<li class='same'> 14:51 reductress.com</li>
-<li class='same'> 14:50 reductress.com</li>
-<li class='same'> 14:48 reductress.com</li>
-<li class='same'> 14:47 reductress.com</li>
-<li class='same'> 14:46 reductress.com</li>
-<li class='same'> 14:45 reductress.com</li>
-<li> 14:45 discussions.apple.com</li>
-<li> 14:45 reductress.com</li>
-<li> 14:38 bsky.app</li>
-<li class='same'> 14:37 bsky.app</li>
-<li class='same'> 14:35 bsky.app</li>
-<li> 14:17 www.specsavers.co.uk</li>
-<li> 14:16 www.google.com</li>
-<li> 14:05 <a href="https://en.wikipedia.org/wiki/Kaseya_VSA_ransomware_attack">Kaseya VSA ransomware attack - Wikipedia</a></li>
-<li> 14:05 www.google.com</li>
-<li class='same'> 13:59 www.google.com</li>
-<li> 13:59 <a href="https://en.wikipedia.org/wiki/1985_Luton_riot">1985 Luton riot - Wikipedia</a></li>
-<li> 13:59 www.google.com</li>
-<li> 13:56 bsky.app</li>
-<li class='same'> 13:46 bsky.app</li>
-<li class='same'> 13:45 bsky.app</li>
-<li class='same'> 13:43 bsky.app</li>
-<li class='same'> 13:41 bsky.app</li>
-<li class='same'> 13:30 bsky.app</li>
-<li> 13:30 www.facebook.com</li>
-<li> 13:22 bsky.app</li>
-<li> 13:20 calendar.google.com</li>
 </ul>
