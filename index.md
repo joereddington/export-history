@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5965)</li>
-<li>mail.google.com (5133)</li>
-<li>www.google.com (4420)</li>
+<li>mail.google.com (5135)</li>
+<li>www.google.com (4417)</li>
 <li>duckduckgo.com (4205)</li>
 <li>outlook.office365.com (3842)</li>
 <li>outlook.office.com (3669)</li>
-<li>docs.google.com (3234)</li>
-<li>chatgpt.com (3058)</li>
+<li>docs.google.com (3235)</li>
+<li>chatgpt.com (3059)</li>
 <li>www.linkedin.com (2496)</li>
 <li>moodle.royalholloway.ac.uk (2106)</li>
-<li>login.microsoftonline.com (1747)</li>
+<li>login.microsoftonline.com (1749)</li>
 <li>calendar.google.com (1545)</li>
 <li>www.facebook.com (1543)</li>
 <li>bsky.app (1467)</li>
-<li>chat.openai.com (1406)</li>
+<li>chat.openai.com (1407)</li>
 <li>www.amazon.co.uk (1343)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1066)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:59 octopusev.com</li>
+<ul><li> 17:14 mail.google.com</li>
+<li class='same'> 17:13 mail.google.com</li>
+<li> 17:10 quote.octopusev.com</li>
+<li> 17:04 chatgpt.com</li>
+<li> 17:04 chat.openai.com</li>
+<li> 17:04 myview.rhul.zellis.com</li>
+<li> 17:04 docs.google.com</li>
+<li> 17:04 drive.google.com</li>
+<li> 17:04 myview.rhul.zellis.com</li>
+<li> 17:03 login.microsoftonline.com</li>
+<li> 17:03 myview.rhul.zellis.com</li>
+<li> 17:03 login.microsoftonline.com</li>
+<li> 17:03 device.login.microsoftonline.com</li>
+<li> 17:03 myview.rhul.zellis.com</li>
+<li> 17:02 quote.octopusev.com</li>
+<li class='same'> 17:01 quote.octopusev.com</li>
+<li class='same'> 17:00 quote.octopusev.com</li>
+<li> 16:59 octopusev.com</li>
 <li class='same'> 16:58 octopusev.com</li>
 <li> 16:56 www.craftybirds.co.uk</li>
 <li class='same'> 16:55 www.craftybirds.co.uk</li>
@@ -124681,9 +124698,4 @@ With number of accesses/minutes in parentheses
 <li> 21:38 www.veggiekitchen.co.uk</li>
 <li class='same'> 21:37 www.veggiekitchen.co.uk</li>
 <li> 21:37 www.google.com</li>
-<li class='same'> 21:36 www.google.com</li>
-<li> 21:36 www.deliciouslyella.com</li>
-<li> 21:35 www.google.com</li>
-<li> 21:34 www.virginexperiencedays.co.uk</li>
-<li> 21:34 www.google.com</li>
 </ul>
