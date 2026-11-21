@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5965)</li>
 <li>mail.google.com (5136)</li>
-<li>www.google.com (4416)</li>
+<li>www.google.com (4415)</li>
 <li>duckduckgo.com (4205)</li>
-<li>outlook.office365.com (3842)</li>
+<li>outlook.office365.com (3837)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3235)</li>
 <li>chatgpt.com (3059)</li>
 <li>www.linkedin.com (2496)</li>
-<li>moodle.royalholloway.ac.uk (2106)</li>
+<li>moodle.royalholloway.ac.uk (2105)</li>
 <li>login.microsoftonline.com (1749)</li>
-<li>calendar.google.com (1545)</li>
+<li>calendar.google.com (1544)</li>
 <li>www.facebook.com (1543)</li>
-<li>bsky.app (1467)</li>
+<li>bsky.app (1466)</li>
 <li>chat.openai.com (1407)</li>
 <li>www.amazon.co.uk (1343)</li>
 <li>herts.instructure.com (1230)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (890)</li>
 <li>mail.rhul.ac.uk (864)</li>
 <li>tvtropes.org (857)</li>
-<li>rhul-my.sharepoint.com (828)</li>
+<li>rhul-my.sharepoint.com (825)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (729)</li>
 <li>fritz.box (596)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:43 192.168.178.1</li>
+<ul><li> 19:03 192.168.178.1</li>
+<li class='same'> 18:43 192.168.178.1</li>
 <li> 18:43 fritz.box</li>
 <li> 18:43 firefox-portal-detection.com</li>
 </ul>
@@ -124678,30 +124679,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:33 outlook.office365.com</li>
 <li class='same'> 06:32 outlook.office365.com</li>
 <li class='same'> 06:31 outlook.office365.com</li>
-<li class='same'> 06:29 outlook.office365.com</li>
-<li class='same'> 06:28 outlook.office365.com</li>
-<li> 06:27 moodle.royalholloway.ac.uk</li>
-<li> 06:27 outlook.office365.com</li>
-<li> 06:17 rhul-my.sharepoint.com</li>
-<li class='same'> 06:16 rhul-my.sharepoint.com</li>
-<li class='same'> 06:15 rhul-my.sharepoint.com</li>
-<li> 06:14 outlook.office365.com</li>
-<li class='same'> 06:13 outlook.office365.com</li>
-<li> 06:12 bsky.app</li>
-</ul>
-
-<br>
-
-<ul><li> 00:00 calendar.google.com</li>
-</ul>
-
-<H3>Tuesday, 03/12/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:40 www.google.com</li>
 </ul>
