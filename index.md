@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5965)</li>
-<li>mail.google.com (5135)</li>
-<li>www.google.com (4417)</li>
+<li>mail.google.com (5136)</li>
+<li>www.google.com (4416)</li>
 <li>duckduckgo.com (4205)</li>
 <li>outlook.office365.com (3842)</li>
 <li>outlook.office.com (3669)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (828)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (729)</li>
-<li>fritz.box (595)</li>
+<li>fritz.box (596)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
 <li>www.theguardian.com (460)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:14 mail.google.com</li>
+<ul><li> 18:43 192.168.178.1</li>
+<li> 18:43 fritz.box</li>
+<li> 18:43 firefox-portal-detection.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:17 www.giantitp.com</li>
+<li> 17:15 mail.google.com</li>
+<li class='same'> 17:14 mail.google.com</li>
 <li class='same'> 17:13 mail.google.com</li>
 <li> 17:10 quote.octopusev.com</li>
 <li> 17:04 chatgpt.com</li>
@@ -124695,7 +124704,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:40 www.google.com</li>
-<li> 21:38 www.veggiekitchen.co.uk</li>
-<li class='same'> 21:37 www.veggiekitchen.co.uk</li>
-<li> 21:37 www.google.com</li>
 </ul>
