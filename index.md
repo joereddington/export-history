@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5958)</li>
-<li>mail.google.com (5134)</li>
-<li>www.google.com (4408)</li>
+<li>mail.google.com (5119)</li>
+<li>www.google.com (4407)</li>
 <li>duckduckgo.com (4206)</li>
-<li>outlook.office365.com (3791)</li>
+<li>outlook.office365.com (3785)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3235)</li>
 <li>chatgpt.com (3058)</li>
 <li>www.linkedin.com (2496)</li>
 <li>moodle.royalholloway.ac.uk (2106)</li>
 <li>login.microsoftonline.com (1748)</li>
-<li>www.facebook.com (1542)</li>
-<li>calendar.google.com (1541)</li>
+<li>www.facebook.com (1541)</li>
+<li>calendar.google.com (1538)</li>
 <li>bsky.app (1438)</li>
 <li>chat.openai.com (1406)</li>
 <li>www.amazon.co.uk (1345)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1066)</li>
-<li>web.whatsapp.com (1056)</li>
+<li>gmail.com (1065)</li>
+<li>web.whatsapp.com (1054)</li>
 <li>feedly.com (890)</li>
-<li>mail.rhul.ac.uk (859)</li>
+<li>mail.rhul.ac.uk (858)</li>
 <li>tvtropes.org (857)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (733)</li>
@@ -124569,45 +124569,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:41 www.google.com</li>
 <li> 14:40 web.whatsapp.com</li>
 <li> 14:15 mail.google.com</li>
-<li> 14:15 outlook.office365.com</li>
-<li class='same'> 14:14 outlook.office365.com</li>
-<li class='same'> 14:13 outlook.office365.com</li>
-<li class='same'> 14:04 outlook.office365.com</li>
-<li class='same'> 14:03 outlook.office365.com</li>
-<li> 14:03 mail.google.com</li>
-<li> 14:02 outlook.office365.com</li>
-<li> 14:02 mail.rhul.ac.uk</li>
-<li> 13:51 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 13:51 www.google.com</li>
-<li> 13:41 mail.google.com</li>
-<li> 13:41 gmail.com</li>
-<li> 13:41 mail.google.com</li>
-<li> 13:41 calendar.google.com</li>
-<li class='same'> 13:40 calendar.google.com</li>
-<li> 13:40 mail.google.com</li>
-<li> 13:40 calendar.google.com</li>
-<li> 13:40 mail.google.com</li>
-<li class='same'> 13:39 mail.google.com</li>
-<li> 13:39 web.whatsapp.com</li>
-<li> 13:39 mail.google.com</li>
-<li> 13:38 www.facebook.com</li>
-<li> 13:38 m.facebook.com</li>
-<li> 13:37 mail.google.com</li>
-<li class='same'> 13:36 mail.google.com</li>
-<li class='same'> 13:35 mail.google.com</li>
-<li> 13:35 www.thedailymash.co.uk</li>
-<li class='same'> 13:34 www.thedailymash.co.uk</li>
-<li class='same'> 13:33 www.thedailymash.co.uk</li>
-<li> 13:33 mail.google.com</li>
-<li> 13:32 web.whatsapp.com</li>
-<li> 13:32 mail.google.com</li>
-<li class='same'> 13:30 mail.google.com</li>
-<li class='same'> 13:24 mail.google.com</li>
-<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 13:24 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:Joereddington&amp;action=history">User talk:Joereddington: Revision history - Wikipedia</a></li>
-<li> 13:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
-<li> 13:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=332463559&amp;markasreadwiki=enwiki#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
-<li> 13:23 mail.google.com</li>
 </ul>
