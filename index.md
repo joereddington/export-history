@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5958)</li>
-<li>mail.google.com (5128)</li>
-<li>www.google.com (4407)</li>
-<li>duckduckgo.com (4206)</li>
-<li>outlook.office365.com (3785)</li>
+<li>mail.google.com (5125)</li>
+<li>www.google.com (4405)</li>
+<li>duckduckgo.com (4207)</li>
+<li>outlook.office365.com (3782)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3059)</li>
-<li>www.linkedin.com (2501)</li>
-<li>moodle.royalholloway.ac.uk (2110)</li>
+<li>chatgpt.com (3057)</li>
+<li>www.linkedin.com (2498)</li>
+<li>moodle.royalholloway.ac.uk (2112)</li>
 <li>login.microsoftonline.com (1751)</li>
-<li>www.facebook.com (1543)</li>
-<li>calendar.google.com (1540)</li>
-<li>bsky.app (1438)</li>
-<li>chat.openai.com (1407)</li>
+<li>www.facebook.com (1547)</li>
+<li>calendar.google.com (1539)</li>
+<li>bsky.app (1434)</li>
+<li>chat.openai.com (1406)</li>
 <li>www.amazon.co.uk (1345)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1067)</li>
-<li>web.whatsapp.com (1054)</li>
+<li>web.whatsapp.com (1053)</li>
 <li>feedly.com (891)</li>
-<li>mail.rhul.ac.uk (858)</li>
 <li>tvtropes.org (857)</li>
+<li>mail.rhul.ac.uk (856)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (728)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 www.facebook.com</li>
+<ul><li> 14:26 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:25 moodle.royalholloway.ac.uk</li>
+<li> 14:25 x.com</li>
+<li> 14:25 duckduckgo.com</li>
+<li> 14:24 feedly.com</li>
+<li> 14:24 www.giantitp.com</li>
+<li> 14:10 www.facebook.com</li>
+<li class='same'> 14:09 www.facebook.com</li>
+<li class='same'> 14:03 www.facebook.com</li>
+<li class='same'> 14:02 www.facebook.com</li>
+<li class='same'> 14:01 www.facebook.com</li>
+<li class='same'> 14:00 www.facebook.com</li>
+<li class='same'> 13:59 www.facebook.com</li>
 <li class='same'> 13:58 www.facebook.com</li>
 <li> 13:58 mail.google.com</li>
 <li class='same'> 13:57 mail.google.com</li>
@@ -124571,56 +124583,4 @@ With number of accesses/minutes in parentheses
 <li> 06:25 outlook.office365.com</li>
 <li class='same'> 06:22 outlook.office365.com</li>
 <li class='same'> 06:19 outlook.office365.com</li>
-<li class='same'> 06:18 outlook.office365.com</li>
-<li class='same'> 06:17 outlook.office365.com</li>
-<li> 06:17 mail.rhul.ac.uk</li>
-<li> 06:16 mail.google.com</li>
-<li class='same'> 06:15 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 02:23 calendar.google.com</li>
-</ul>
-
-<H3>Wednesday, 04/12/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 16:09 fast.com</li>
-<li> 16:02 www.statista.com</li>
-<li class='same'> 16:01 www.statista.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:08 outlook.office365.com</li>
-<li> 15:08 mail.rhul.ac.uk</li>
-<li> 15:08 bsky.app</li>
-<li class='same'> 15:07 bsky.app</li>
-<li class='same'> 15:06 bsky.app</li>
-<li class='same'> 15:03 bsky.app</li>
-<li> 15:02 www.linkedin.com</li>
-<li> 15:02 <a href="https://joereddington.com/2024/12/04/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 15:02 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 15:02 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 15:01 www.linkedin.com</li>
-<li class='same'> 15:00 www.linkedin.com</li>
-<li> 14:57 www.facebook.com</li>
-<li> 14:56 <a href="https://joereddington.com/2024/12/04/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 14:56 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 14:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 14:56 www.facebook.com</li>
-<li> 14:55 chatgpt.com</li>
-<li class='same'> 14:54 chatgpt.com</li>
-<li> 14:54 chat.openai.com</li>
-<li> 14:51 feedly.com</li>
-<li> 14:49 www.google.com</li>
-<li class='same'> 14:41 www.google.com</li>
-<li> 14:40 web.whatsapp.com</li>
-<li> 14:15 mail.google.com</li>
 </ul>
