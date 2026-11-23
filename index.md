@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5103)</li>
 <li>www.google.com (4394)</li>
 <li>duckduckgo.com (4207)</li>
-<li>outlook.office365.com (3769)</li>
+<li>outlook.office365.com (3767)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3055)</li>
-<li>www.linkedin.com (2499)</li>
+<li>www.linkedin.com (2500)</li>
 <li>moodle.royalholloway.ac.uk (2112)</li>
-<li>login.microsoftonline.com (1751)</li>
-<li>www.facebook.com (1551)</li>
+<li>login.microsoftonline.com (1753)</li>
+<li>www.facebook.com (1555)</li>
 <li>calendar.google.com (1539)</li>
 <li>bsky.app (1434)</li>
 <li>chat.openai.com (1405)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:57 www.facebook.com</li>
+<ul><li> 16:27 www.linkedin.com</li>
+<li> 16:15 localhost:8443</li>
+<li class='same'> 16:11 localhost:8443</li>
+<li class='same'> 16:09 localhost:8443</li>
+<li> 16:07 login.microsoftonline.com</li>
+<li> 16:07 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:07 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:07 device.login.microsoftonline.com</li>
+<li> 16:07 login.microsoftonline.com</li>
+<li> 16:07 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:03 localhost:8443</li>
+<li class='same'> 16:02 localhost:8443</li>
+<li> 16:02 www.facebook.com</li>
+<li class='same'> 16:01 www.facebook.com</li>
+<li class='same'> 16:00 www.facebook.com</li>
+<li class='same'> 15:58 www.facebook.com</li>
+<li class='same'> 15:57 www.facebook.com</li>
 <li class='same'> 15:56 www.facebook.com</li>
 <li class='same'> 15:55 www.facebook.com</li>
 <li class='same'> 15:54 www.facebook.com</li>
@@ -124513,6 +124529,4 @@ With number of accesses/minutes in parentheses
 <li> 12:00 mail.google.com</li>
 <li> 11:59 outlook.office365.com</li>
 <li class='same'> 11:47 outlook.office365.com</li>
-<li class='same'> 11:28 outlook.office365.com</li>
-<li class='same'> 11:27 outlook.office365.com</li>
 </ul>
