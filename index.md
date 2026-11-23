@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5958)</li>
-<li>mail.google.com (5125)</li>
-<li>www.google.com (4405)</li>
+<li>mail.google.com (5102)</li>
+<li>www.google.com (4394)</li>
 <li>duckduckgo.com (4207)</li>
-<li>outlook.office365.com (3782)</li>
+<li>outlook.office365.com (3769)</li>
 <li>outlook.office.com (3669)</li>
-<li>docs.google.com (3235)</li>
-<li>chatgpt.com (3057)</li>
+<li>docs.google.com (3232)</li>
+<li>chatgpt.com (3055)</li>
 <li>www.linkedin.com (2498)</li>
-<li>moodle.royalholloway.ac.uk (2112)</li>
+<li>moodle.royalholloway.ac.uk (2111)</li>
 <li>login.microsoftonline.com (1751)</li>
 <li>www.facebook.com (1547)</li>
 <li>calendar.google.com (1539)</li>
 <li>bsky.app (1434)</li>
-<li>chat.openai.com (1406)</li>
+<li>chat.openai.com (1405)</li>
 <li>www.amazon.co.uk (1345)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1067)</li>
+<li>gmail.com (1066)</li>
 <li>web.whatsapp.com (1053)</li>
 <li>feedly.com (891)</li>
 <li>tvtropes.org (857)</li>
-<li>mail.rhul.ac.uk (856)</li>
-<li>rhul-my.sharepoint.com (820)</li>
+<li>mail.rhul.ac.uk (854)</li>
+<li>rhul-my.sharepoint.com (819)</li>
 <li>forms.office.com (733)</li>
 <li>rhul.sharepoint.com (728)</li>
 <li>fritz.box (596)</li>
@@ -124501,86 +124501,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:47 outlook.office365.com</li>
 <li class='same'> 11:28 outlook.office365.com</li>
 <li class='same'> 11:27 outlook.office365.com</li>
-<li> 11:27 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 10:49 mail.google.com</li>
-<li> 10:38 fast.com</li>
-<li> 10:30 teams.live.com</li>
-<li> 10:30 mail.google.com</li>
-<li> 10:29 publish.buffer.com</li>
-<li> 10:29 outlook.office365.com</li>
-<li> 10:28 rhul-my.sharepoint.com</li>
-<li> 10:28 outlook.office365.com</li>
-<li> 10:28 moodle.royalholloway.ac.uk</li>
-<li> 10:27 outlook.office365.com</li>
-<li> 10:26 www.raildeliverygroup.com</li>
-<li> 10:26 www.google.com</li>
-<li> 10:06 mail.google.com</li>
-<li class='same'> 10:05 mail.google.com</li>
-<li> 10:03 outlook.office365.com</li>
-<li class='same'> 09:59 outlook.office365.com</li>
-<li> 09:54 mail.google.com</li>
-<li class='same'> 09:53 mail.google.com</li>
-<li> 09:52 www.google.com</li>
-<li> 09:52 outlook.office365.com</li>
-<li> 09:51 www.google.com</li>
-<li> 09:34 chatgpt.com</li>
-<li class='same'> 09:33 chatgpt.com</li>
-<li> 09:33 chat.openai.com</li>
-<li> 09:30 www.google.com</li>
-<li> 09:29 mail.google.com</li>
-<li class='same'> 09:28 mail.google.com</li>
-<li> 09:26 outlook.office365.com</li>
-<li> 09:24 mail.google.com</li>
-<li class='same'> 09:23 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:14 www.avantiwestcoast.co.uk</li>
-<li> 07:13 www.google.com</li>
-<li> 07:11 publish.buffer.com</li>
-<li> 07:11 login.buffer.com</li>
-<li> 07:11 buffer.com</li>
-<li> 07:10 <a href="https://en.wikipedia.org/wiki/Mobile_phone_jammer">Mobile phone jammer - Wikipedia</a></li>
-<li> 07:10 www.google.com</li>
-<li> 06:58 mail.google.com</li>
-<li> 06:51 drive.google.com</li>
-<li class='same'> 06:50 drive.google.com</li>
-<li> 06:50 mail.google.com</li>
-<li> 06:49 outlook.office365.com</li>
-<li> 06:49 mail.rhul.ac.uk</li>
-<li> 06:49 mail.google.com</li>
-<li> 06:48 www.google.com</li>
-<li> 06:48 www.smartran.co.uk</li>
-<li> 06:47 www.google.com</li>
-<li> 06:47 mail.google.com</li>
-<li> 06:45 Local file</li>
-<li> 06:45 docs.google.com</li>
-<li> 06:39 mail.google.com</li>
-<li class='same'> 06:38 mail.google.com</li>
-<li> 06:37 docs.google.com</li>
-<li> 06:37 mail.google.com</li>
-<li> 06:37 www.google.com</li>
-<li class='same'> 06:36 www.google.com</li>
-<li> 06:36 docs.google.com</li>
-<li> 06:36 mail.google.com</li>
-<li> 06:36 drive.google.com</li>
-<li> 06:35 mail.google.com</li>
-<li class='same'> 06:34 mail.google.com</li>
-<li> 06:34 drive.google.com</li>
-<li> 06:34 www.google.com</li>
-<li> 06:33 mail.google.com</li>
-<li class='same'> 06:32 mail.google.com</li>
-<li> 06:32 gmail.com</li>
-<li> 06:32 outlook.office365.com</li>
-<li> 06:32 mail.google.com</li>
-<li> 06:29 outlook.office365.com</li>
-<li> 06:26 projects.cs.rhul.ac.uk</li>
-<li> 06:25 outlook.office365.com</li>
-<li class='same'> 06:22 outlook.office365.com</li>
-<li class='same'> 06:19 outlook.office365.com</li>
 </ul>
