@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3785)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3235)</li>
-<li>chatgpt.com (3058)</li>
+<li>chatgpt.com (3059)</li>
 <li>www.linkedin.com (2496)</li>
 <li>moodle.royalholloway.ac.uk (2106)</li>
 <li>login.microsoftonline.com (1748)</li>
 <li>www.facebook.com (1541)</li>
-<li>calendar.google.com (1538)</li>
+<li>calendar.google.com (1540)</li>
 <li>bsky.app (1438)</li>
-<li>chat.openai.com (1406)</li>
+<li>chat.openai.com (1407)</li>
 <li>www.amazon.co.uk (1345)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1065)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 23/11/26</H3>
+
+<br>
+
+<ul><li> 10:27 calendar.google.com</li>
+<li> 10:25 chatgpt.com</li>
+<li> 10:25 chat.openai.com</li>
+<li> 10:18 www.giantitp.com</li>
+<li> 10:13 intranet.royalholloway.ac.uk</li>
+<li> 10:11 calendar.google.com</li>
+</ul>
 
 <br>
 
