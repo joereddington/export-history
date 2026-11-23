@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5958)</li>
-<li>mail.google.com (5119)</li>
+<li>mail.google.com (5124)</li>
 <li>www.google.com (4407)</li>
 <li>duckduckgo.com (4206)</li>
 <li>outlook.office365.com (3785)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3235)</li>
 <li>chatgpt.com (3059)</li>
-<li>www.linkedin.com (2496)</li>
-<li>moodle.royalholloway.ac.uk (2106)</li>
-<li>login.microsoftonline.com (1748)</li>
+<li>www.linkedin.com (2499)</li>
+<li>moodle.royalholloway.ac.uk (2110)</li>
+<li>login.microsoftonline.com (1751)</li>
 <li>www.facebook.com (1541)</li>
 <li>calendar.google.com (1540)</li>
 <li>bsky.app (1438)</li>
 <li>chat.openai.com (1407)</li>
 <li>www.amazon.co.uk (1345)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1065)</li>
+<li>gmail.com (1066)</li>
 <li>web.whatsapp.com (1054)</li>
 <li>feedly.com (890)</li>
 <li>mail.rhul.ac.uk (858)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:27 calendar.google.com</li>
+<ul><li class='same'> 11:59 mail.google.com</li>
+<li> 11:57 www.linkedin.com</li>
+<li class='same'> 11:56 www.linkedin.com</li>
+<li class='same'> 11:55 www.linkedin.com</li>
+<li> 11:54 kdpreports.amazon.com</li>
+<li> 11:54 mail.google.com</li>
+<li class='same'> 11:53 mail.google.com</li>
+<li> 11:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:48 moodle.royalholloway.ac.uk</li>
+<li> 11:48 login.microsoftonline.com</li>
+<li> 11:48 device.login.microsoftonline.com</li>
+<li> 11:48 moodle.royalholloway.ac.uk</li>
+<li> 11:45 mail.google.com</li>
+<li class='same'> 11:44 mail.google.com</li>
+<li> 11:44 gmail.com</li>
+<li> 11:40 login.microsoftonline.com</li>
+<li> 11:40 gla-my.sharepoint.com</li>
+<li> 11:39 login.microsoftonline.com</li>
+<li> 11:39 gla-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:30 127.0.0.1:8000</li>
+<li class='same'> 10:29 127.0.0.1:8000</li>
+<li> 10:27 calendar.google.com</li>
 <li> 10:25 chatgpt.com</li>
 <li> 10:25 chat.openai.com</li>
 <li> 10:18 www.giantitp.com</li>
