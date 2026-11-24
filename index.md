@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5105)</li>
 <li>www.google.com (4389)</li>
 <li>duckduckgo.com (4210)</li>
-<li>outlook.office365.com (3753)</li>
+<li>outlook.office365.com (3750)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3057)</li>
-<li>www.linkedin.com (2496)</li>
-<li>moodle.royalholloway.ac.uk (2116)</li>
+<li>www.linkedin.com (2498)</li>
+<li>moodle.royalholloway.ac.uk (2117)</li>
 <li>login.microsoftonline.com (1756)</li>
 <li>www.facebook.com (1553)</li>
 <li>calendar.google.com (1539)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:55 huggingface.co</li>
+<ul><li> 13:20 localhost:8443</li>
+<li class='same'> 13:19 localhost:8443</li>
+<li class='same'> 13:14 localhost:8443</li>
+<li class='same'> 13:11 localhost:8443</li>
+<li class='same'> 13:10 localhost:8443</li>
+<li> 13:09 www.linkedin.com</li>
+<li class='same'> 13:08 www.linkedin.com</li>
+<li> 13:07 moodle.royalholloway.ac.uk</li>
+<li> 12:55 huggingface.co</li>
 <li> 12:55 duckduckgo.com</li>
 <li> 12:34 <a href="https://en.wikipedia.org/wiki/List_of_fictional_espionage_organizations">List of fictional espionage organizations - Wikipedia</a></li>
 <li> 12:34 <a href="https://en.wikipedia.org/wiki/List_of_fictional_secret_police_and_intelligence_organizations">List of fictional secret police and intelligence organizations - Wikipedia</a></li>
@@ -124541,7 +124549,4 @@ With number of accesses/minutes in parentheses
 <li> 15:31 Local file</li>
 <li> 15:30 mail.google.com</li>
 <li> 15:30 outlook.office365.com</li>
-<li class='same'> 15:25 outlook.office365.com</li>
-<li class='same'> 15:13 outlook.office365.com</li>
-<li class='same'> 14:58 outlook.office365.com</li>
 </ul>
