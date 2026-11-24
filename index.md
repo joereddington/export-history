@@ -72,16 +72,16 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5102)</li>
 <li>www.google.com (4389)</li>
 <li>duckduckgo.com (4210)</li>
-<li>outlook.office365.com (3746)</li>
+<li>outlook.office365.com (3743)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3057)</li>
 <li>www.linkedin.com (2499)</li>
 <li>moodle.royalholloway.ac.uk (2117)</li>
 <li>login.microsoftonline.com (1756)</li>
-<li>www.facebook.com (1553)</li>
-<li>calendar.google.com (1538)</li>
-<li>bsky.app (1424)</li>
+<li>www.facebook.com (1555)</li>
+<li>calendar.google.com (1537)</li>
+<li>bsky.app (1423)</li>
 <li>chat.openai.com (1405)</li>
 <li>www.amazon.co.uk (1343)</li>
 <li>herts.instructure.com (1230)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (857)</li>
 <li>mail.rhul.ac.uk (852)</li>
 <li>rhul-my.sharepoint.com (817)</li>
-<li>forms.office.com (733)</li>
+<li>forms.office.com (732)</li>
 <li>rhul.sharepoint.com (728)</li>
 <li>fritz.box (597)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:13 localhost:8443</li>
+<ul><li> 14:40 www.facebook.com</li>
+<li class='same'> 14:37 www.facebook.com</li>
+<li> 14:37 facebook.com</li>
+<li> 14:32 localhost:8443</li>
+<li class='same'> 14:31 localhost:8443</li>
+<li class='same'> 14:13 localhost:8443</li>
 <li class='same'> 14:12 localhost:8443</li>
 <li class='same'> 14:11 localhost:8443</li>
 <li class='same'> 14:09 localhost:8443</li>
@@ -124535,14 +124540,4 @@ With number of accesses/minutes in parentheses
 <li> 17:54 outlook.office365.com</li>
 <li> 17:41 dashboards.rhul.ac.uk</li>
 <li> 17:35 outlook.office365.com</li>
-<li> 17:33 forms.office.com</li>
-<li> 17:32 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:17 calendar.google.com</li>
-<li> 16:17 outlook.office365.com</li>
-<li> 16:17 bsky.app</li>
-<li> 16:15 outlook.office365.com</li>
 </ul>
