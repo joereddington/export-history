@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5959)</li>
-<li>mail.google.com (5104)</li>
+<ol><li>www.reddit.com (5957)</li>
+<li>mail.google.com (5103)</li>
 <li>www.google.com (4385)</li>
-<li>duckduckgo.com (4212)</li>
-<li>outlook.office365.com (3740)</li>
+<li>duckduckgo.com (4213)</li>
+<li>outlook.office365.com (3739)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3057)</li>
@@ -83,13 +83,13 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1537)</li>
 <li>bsky.app (1423)</li>
 <li>chat.openai.com (1405)</li>
-<li>www.amazon.co.uk (1338)</li>
+<li>www.amazon.co.uk (1337)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1068)</li>
 <li>web.whatsapp.com (1052)</li>
-<li>feedly.com (894)</li>
+<li>feedly.com (895)</li>
 <li>tvtropes.org (857)</li>
-<li>mail.rhul.ac.uk (851)</li>
+<li>mail.rhul.ac.uk (849)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (732)</li>
 <li>rhul.sharepoint.com (728)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:51 www.linkedin.com</li>
+<ul><li> 17:05 x.com</li>
+<li> 17:05 duckduckgo.com</li>
+<li> 17:04 www.independent.co.uk</li>
+<li class='same'> 17:03 www.independent.co.uk</li>
+<li> 17:03 feedly.com</li>
+<li class='same'> 17:02 feedly.com</li>
+<li> 17:01 www.linkedin.com</li>
+<li class='same'> 16:51 www.linkedin.com</li>
 <li> 16:50 www.facebook.com</li>
 <li class='same'> 16:49 www.facebook.com</li>
 <li class='same'> 16:48 www.facebook.com</li>
@@ -124536,31 +124543,4 @@ With number of accesses/minutes in parentheses
 <li> 06:53 bsky.app</li>
 <li class='same'> 06:52 bsky.app</li>
 <li> 06:52 outlook.office365.com</li>
-<li> 06:52 mail.rhul.ac.uk</li>
-</ul>
-
-<H3>Thursday, 05/12/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:42 www.reddit.com</li>
-<li class='same'> 20:38 www.reddit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:02 www.linkedin.com</li>
-<li> 20:01 feedly.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:21 outlook.office365.com</li>
-<li> 19:21 mail.rhul.ac.uk</li>
-<li> 19:21 mail.google.com</li>
-<li> 19:21 www.amazon.co.uk</li>
 </ul>
