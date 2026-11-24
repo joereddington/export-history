@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5960)</li>
-<li>mail.google.com (5105)</li>
-<li>www.google.com (4389)</li>
+<ol><li>www.reddit.com (5959)</li>
+<li>mail.google.com (5104)</li>
+<li>www.google.com (4385)</li>
 <li>duckduckgo.com (4212)</li>
-<li>outlook.office365.com (3742)</li>
+<li>outlook.office365.com (3740)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3057)</li>
-<li>www.linkedin.com (2505)</li>
+<li>www.linkedin.com (2506)</li>
 <li>moodle.royalholloway.ac.uk (2117)</li>
 <li>login.microsoftonline.com (1756)</li>
-<li>www.facebook.com (1555)</li>
+<li>www.facebook.com (1576)</li>
 <li>calendar.google.com (1537)</li>
 <li>bsky.app (1423)</li>
 <li>chat.openai.com (1405)</li>
-<li>www.amazon.co.uk (1343)</li>
+<li>www.amazon.co.uk (1338)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1069)</li>
+<li>gmail.com (1068)</li>
 <li>web.whatsapp.com (1052)</li>
-<li>feedly.com (893)</li>
+<li>feedly.com (894)</li>
 <li>tvtropes.org (857)</li>
-<li>mail.rhul.ac.uk (852)</li>
+<li>mail.rhul.ac.uk (851)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>forms.office.com (732)</li>
 <li>rhul.sharepoint.com (728)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:27 www.linkedin.com</li>
+<ul><li> 16:51 www.linkedin.com</li>
+<li> 16:50 www.facebook.com</li>
+<li class='same'> 16:49 www.facebook.com</li>
+<li class='same'> 16:48 www.facebook.com</li>
+<li class='same'> 16:47 www.facebook.com</li>
+<li class='same'> 16:46 www.facebook.com</li>
+<li class='same'> 16:45 www.facebook.com</li>
+<li class='same'> 16:44 www.facebook.com</li>
+<li class='same'> 16:43 www.facebook.com</li>
+<li class='same'> 16:42 www.facebook.com</li>
+<li class='same'> 16:41 www.facebook.com</li>
+<li class='same'> 16:40 www.facebook.com</li>
+<li class='same'> 16:39 www.facebook.com</li>
+<li class='same'> 16:38 www.facebook.com</li>
+<li class='same'> 16:37 www.facebook.com</li>
+<li class='same'> 16:36 www.facebook.com</li>
+<li class='same'> 16:35 www.facebook.com</li>
+<li class='same'> 16:34 www.facebook.com</li>
+<li class='same'> 16:33 www.facebook.com</li>
+<li class='same'> 16:32 www.facebook.com</li>
+<li class='same'> 16:31 www.facebook.com</li>
+<li class='same'> 16:30 www.facebook.com</li>
+<li> 16:30 www.giantitp.com</li>
+<li class='same'> 16:29 www.giantitp.com</li>
+<li> 16:27 feedly.com</li>
+<li> 16:27 www.linkedin.com</li>
 <li class='same'> 16:26 www.linkedin.com</li>
 <li> 16:24 <a href="https://www.youtube.com/watch?v=U0nJN5Tddx0">(159) Twice as loud | Joe Reddington | TEDxDerby - YouTube</a></li>
 <li> 16:24 duckduckgo.com</li>
@@ -124538,31 +124563,4 @@ With number of accesses/minutes in parentheses
 <li> 19:21 mail.rhul.ac.uk</li>
 <li> 19:21 mail.google.com</li>
 <li> 19:21 www.amazon.co.uk</li>
-<li class='same'> 19:20 www.amazon.co.uk</li>
-<li> 19:20 www.yours.co.uk</li>
-<li> 19:20 www.amazon.co.uk</li>
-<li> 19:20 www.yours.co.uk</li>
-<li> 19:20 forums.moneysavingexpert.com</li>
-<li class='same'> 19:19 forums.moneysavingexpert.com</li>
-<li> 19:19 www.google.com</li>
-<li> 19:18 www.amazon.co.uk</li>
-<li> 19:18 www.amazon.com</li>
-<li> 19:18 code-authorities.ul.com</li>
-<li> 19:18 www.google.com</li>
-<li> 19:18 www.amazon.co.uk</li>
-<li class='same'> 19:17 www.amazon.co.uk</li>
-<li> 19:15 www.reddit.com</li>
-<li> 19:15 www.google.com</li>
-<li> 19:14 www.which.co.uk</li>
-<li> 19:13 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:31 mail.google.com</li>
-<li> 18:31 gmail.com</li>
-<li> 18:24 outlook.office365.com</li>
-<li> 18:24 mail.rhul.ac.uk</li>
-<li> 17:54 outlook.office365.com</li>
-<li> 17:41 dashboards.rhul.ac.uk</li>
 </ul>
