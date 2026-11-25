@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5950)</li>
-<li>mail.google.com (5101)</li>
+<li>mail.google.com (5105)</li>
 <li>www.google.com (4378)</li>
 <li>duckduckgo.com (4214)</li>
 <li>outlook.office365.com (3714)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:36 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 15:54 mail.google.com</li>
+<li> 15:54 kdpreports.amazon.com</li>
+<li> 15:54 mail.google.com</li>
+<li> 15:53 webtimetables.royalholloway.ac.uk</li>
+<li> 15:51 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:37 mail.google.com</li>
+<li> 14:37 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 14:36 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:09 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:08 webtimetables.royalholloway.ac.uk</li>
 </ul>
