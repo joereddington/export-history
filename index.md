@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5950)</li>
-<li>mail.google.com (5100)</li>
-<li>www.google.com (4380)</li>
-<li>duckduckgo.com (4213)</li>
+<li>mail.google.com (5101)</li>
+<li>www.google.com (4378)</li>
+<li>duckduckgo.com (4214)</li>
 <li>outlook.office365.com (3714)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3061)</li>
-<li>www.linkedin.com (2502)</li>
-<li>moodle.royalholloway.ac.uk (2116)</li>
+<li>www.linkedin.com (2503)</li>
+<li>moodle.royalholloway.ac.uk (2117)</li>
 <li>login.microsoftonline.com (1758)</li>
 <li>www.facebook.com (1573)</li>
 <li>calendar.google.com (1536)</li>
-<li>bsky.app (1417)</li>
+<li>bsky.app (1416)</li>
 <li>chat.openai.com (1406)</li>
 <li>www.amazon.co.uk (1337)</li>
 <li>herts.instructure.com (1230)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 chatgpt.com</li>
+<ul><li> 08:12 moodle.royalholloway.ac.uk</li>
+<li> 08:07 www.linkedin.com</li>
+<li> 08:07 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:33 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 07:32 webtimetables.royalholloway.ac.uk</li>
+<li> 07:32 duckduckgo.com</li>
+<li> 07:31 webtimetables.royalholloway.ac.uk</li>
+<li> 07:21 chatgpt.com</li>
 <li> 07:21 chat.openai.com</li>
 <li> 07:20 chatgpt.com</li>
 <li> 07:14 localhost:8443</li>
@@ -124452,34 +124463,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:10 getsupport.apple.com</li>
-<li class='same'> 11:09 getsupport.apple.com</li>
-<li> 11:09 idmsa.apple.com</li>
-<li> 11:09 getsupport.apple.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 10:10 getsupport.apple.com</li>
-<li class='same'> 10:09 getsupport.apple.com</li>
-<li class='same'> 10:08 getsupport.apple.com</li>
-<li> 10:08 idmsa.apple.com</li>
-<li> 10:08 getsupport.apple.com</li>
-<li> 10:08 support.apple.com</li>
-<li> 10:07 www.google.com</li>
-<li> 10:07 support.apple.com</li>
-<li> 10:07 getsupport.apple.com</li>
-<li> 10:07 idmsa.apple.com</li>
-<li> 10:07 getsupport.apple.com</li>
-<li> 10:05 support.apple.com</li>
-<li> 10:04 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:20 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-</ul>
-
-<br>
-
-<ul><li> 07:07 bsky.app</li>
 </ul>
