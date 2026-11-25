@@ -72,26 +72,26 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5100)</li>
 <li>www.google.com (4380)</li>
 <li>duckduckgo.com (4213)</li>
-<li>outlook.office365.com (3720)</li>
+<li>outlook.office365.com (3714)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3059)</li>
+<li>chatgpt.com (3061)</li>
 <li>www.linkedin.com (2502)</li>
 <li>moodle.royalholloway.ac.uk (2116)</li>
 <li>login.microsoftonline.com (1758)</li>
-<li>www.facebook.com (1574)</li>
+<li>www.facebook.com (1573)</li>
 <li>calendar.google.com (1536)</li>
-<li>bsky.app (1419)</li>
-<li>chat.openai.com (1405)</li>
+<li>bsky.app (1417)</li>
+<li>chat.openai.com (1406)</li>
 <li>www.amazon.co.uk (1337)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1068)</li>
 <li>web.whatsapp.com (1052)</li>
 <li>feedly.com (895)</li>
 <li>tvtropes.org (857)</li>
-<li>mail.rhul.ac.uk (848)</li>
+<li>mail.rhul.ac.uk (846)</li>
 <li>rhul-my.sharepoint.com (814)</li>
-<li>forms.office.com (732)</li>
+<li>forms.office.com (730)</li>
 <li>rhul.sharepoint.com (728)</li>
 <li>fritz.box (597)</li>
 <li>m365.cloud.microsoft (559)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:54 chatgpt.com</li>
+<ul><li> 07:21 chatgpt.com</li>
+<li> 07:21 chat.openai.com</li>
+<li> 07:20 chatgpt.com</li>
+<li> 07:14 localhost:8443</li>
+<li> 06:54 chatgpt.com</li>
 <li class='same'> 06:53 chatgpt.com</li>
 <li> 06:53 chat.openai.com</li>
 <li> 06:49 moodle.royalholloway.ac.uk</li>
@@ -124478,34 +124482,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:07 bsky.app</li>
-<li> 07:06 forms.office.com</li>
-<li class='same'> 07:05 forms.office.com</li>
-<li> 07:05 outlook.office365.com</li>
-<li class='same'> 07:03 outlook.office365.com</li>
-<li class='same'> 07:02 outlook.office365.com</li>
-<li class='same'> 07:01 outlook.office365.com</li>
-<li> 07:01 mail.rhul.ac.uk</li>
-</ul>
-
-<H3>Friday, 06/12/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:21 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-</ul>
-
-<br>
-
-<ul><li> 16:39 outlook.office365.com</li>
-<li> 16:39 mail.rhul.ac.uk</li>
-<li> 16:38 www.facebook.com</li>
-<li> 16:38 bsky.app</li>
-<li class='same'> 16:37 bsky.app</li>
-<li> 16:37 outlook.office365.com</li>
-<li> 16:36 projects.cs.rhul.ac.uk</li>
-<li class='same'> 16:35 projects.cs.rhul.ac.uk</li>
 </ul>
