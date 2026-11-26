@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (5950)</li>
-<li>mail.google.com (5105)</li>
-<li>www.google.com (4378)</li>
-<li>duckduckgo.com (4214)</li>
-<li>outlook.office365.com (3714)</li>
+<ol><li>www.reddit.com (5948)</li>
+<li>mail.google.com (5106)</li>
+<li>www.google.com (4374)</li>
+<li>duckduckgo.com (4220)</li>
+<li>outlook.office365.com (3696)</li>
 <li>outlook.office.com (3669)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3061)</li>
-<li>www.linkedin.com (2503)</li>
-<li>moodle.royalholloway.ac.uk (2117)</li>
-<li>login.microsoftonline.com (1758)</li>
+<li>chatgpt.com (3060)</li>
+<li>www.linkedin.com (2501)</li>
+<li>moodle.royalholloway.ac.uk (2116)</li>
+<li>login.microsoftonline.com (1756)</li>
 <li>www.facebook.com (1573)</li>
-<li>calendar.google.com (1536)</li>
-<li>bsky.app (1416)</li>
+<li>calendar.google.com (1537)</li>
+<li>bsky.app (1406)</li>
 <li>chat.openai.com (1406)</li>
 <li>www.amazon.co.uk (1337)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1068)</li>
-<li>web.whatsapp.com (1052)</li>
+<li>web.whatsapp.com (1050)</li>
 <li>feedly.com (895)</li>
 <li>tvtropes.org (857)</li>
 <li>mail.rhul.ac.uk (846)</li>
 <li>rhul-my.sharepoint.com (814)</li>
 <li>forms.office.com (730)</li>
-<li>rhul.sharepoint.com (728)</li>
+<li>rhul.sharepoint.com (729)</li>
 <li>fritz.box (597)</li>
 <li>m365.cloud.microsoft (559)</li>
 <li>ev.turnitinuk.com (473)</li>
-<li>www.theguardian.com (460)</li>
+<li>www.theguardian.com (457)</li>
 <li>adfs.herts.ac.uk (455)</li>
 
 
@@ -104,7 +104,53 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 26/11/26</H3>
+
+<br>
+
+<ul><li> 16:48 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:18 kdpreports.amazon.com</li>
+</ul>
+
 <H3>Wednesday, 25/11/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 22:18 Local file</li>
+<li class='same'> 22:16 Local file</li>
+<li> 22:10 duckduckgo.com</li>
+<li class='same'> 22:09 duckduckgo.com</li>
+<li class='same'> 22:08 duckduckgo.com</li>
+<li> 22:06 <a href="https://en.wikipedia.org/wiki/Radian">Radian - Wikipedia</a></li>
+<li> 22:06 duckduckgo.com</li>
+<li> 22:01 chatgpt.com</li>
+<li> 22:01 chat.openai.com</li>
+<li> 21:59 Local file</li>
+</ul>
+
+<br>
+
+<ul><li> 21:26 www.amazon.co.uk</li>
+<li> 21:25 mail.google.com</li>
+<li> 21:25 kdpreports.amazon.com</li>
+<li> 21:22 duckduckgo.com</li>
+<li> 21:09 localhost:8443</li>
+<li class='same'> 21:08 localhost:8443</li>
+<li class='same'> 21:07 localhost:8443</li>
+<li class='same'> 21:06 localhost:8443</li>
+<li> 21:02 mail.google.com</li>
+<li> 20:33 rhul.sharepoint.com</li>
+<li> 20:32 duckduckgo.com</li>
+<li> 20:29 calendar.google.com</li>
+</ul>
 
 <br>
 
@@ -14099,8 +14145,6 @@ With number of accesses/minutes in parentheses
 <li> 10:44 order.ebay.co.uk</li>
 <li> 10:44 www.ebay.co.uk</li>
 <li class='same'> 10:43 www.ebay.co.uk</li>
-<li> 10:43 mesg.ebay.co.uk</li>
-<li> 10:43 www.ebay.co.uk</li>
 <li> 10:26 chatgpt.com</li>
 <li class='same'> 10:25 chatgpt.com</li>
 <li> 10:24 myview.rhul.zellis.com</li>
@@ -14116,7 +14160,6 @@ With number of accesses/minutes in parentheses
 <li> 10:06 www.royalholloway.ac.uk</li>
 <li> 10:04 webtimetables.royalholloway.ac.uk</li>
 <li> 09:39 outlook.office365.com</li>
-<li> 09:39 login.microsoftonline.com</li>
 <li> 09:39 device.login.microsoftonline.com</li>
 <li> 09:39 outlook.office365.com</li>
 <li> 09:39 mail.rhul.ac.uk</li>
@@ -14155,7 +14198,6 @@ With number of accesses/minutes in parentheses
 <li> 07:47 outlook.office365.com</li>
 <li class='same'> 07:30 outlook.office365.com</li>
 <li> 07:30 device.login.microsoftonline.com</li>
-<li> 07:30 login.microsoftonline.com</li>
 <li> 07:30 outlook.office365.com</li>
 </ul>
 
@@ -124400,85 +124442,4 @@ With number of accesses/minutes in parentheses
 <li> 17:24 www.thedailymash.co.uk</li>
 <li class='same'> 17:22 www.thedailymash.co.uk</li>
 <li> 17:22 theonion.com</li>
-<li> 17:22 reductress.com</li>
-<li> 17:21 newsthump.com</li>
-<li class='same'> 17:20 newsthump.com</li>
-<li> 17:20 www.theguardian.com</li>
-<li class='same'> 16:51 www.theguardian.com</li>
-<li class='same'> 16:45 www.theguardian.com</li>
-<li> 16:43 www.amazon.co.uk</li>
-<li> 16:43 www.google.com</li>
-<li> 16:42 www.reddit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:59 bsky.app</li>
-<li class='same'> 15:57 bsky.app</li>
-<li> 15:56 outlook.office365.com</li>
-<li> 15:55 bsky.app</li>
-<li class='same'> 15:54 bsky.app</li>
-<li> 15:54 www.linkedin.com</li>
-<li> 15:54 <a href="https://www.bbc.co.uk/news/articles/c0rngrjejy7o">Histon-based Internet Watch Foundation identifies 564,000 victims - BBC News</a></li>
-<li> 15:53 www.bbc.com</li>
-<li> 15:53 www.linkedin.com</li>
-<li> 15:53 outlook.office365.com</li>
-<li class='same'> 15:46 outlook.office365.com</li>
-<li class='same'> 15:37 outlook.office365.com</li>
-<li> 15:33 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li> 15:33 session.bbc.co.uk</li>
-<li> 15:33 bsky.app</li>
-<li class='same'> 15:31 bsky.app</li>
-<li> 15:30 outlook.office365.com</li>
-<li class='same'> 15:20 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 10:08 outlook.office365.com</li>
-<li class='same'> 10:02 outlook.office365.com</li>
-<li class='same'> 10:01 outlook.office365.com</li>
-<li> 09:56 web.whatsapp.com</li>
-<li> 09:56 chatgpt.com</li>
-<li class='same'> 09:55 chatgpt.com</li>
-<li> 09:55 chat.openai.com</li>
-<li> 09:55 experience.elluciancloud.ie</li>
-<li> 09:55 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 09:55 experience.elluciancloud.ie</li>
-<li> 09:46 www.google.com</li>
-<li> 09:33 moodle.royalholloway.ac.uk</li>
-<li> 09:32 outlook.office365.com</li>
-<li class='same'> 09:13 outlook.office365.com</li>
-<li class='same'> 09:12 outlook.office365.com</li>
-<li> 09:10 bsky.app</li>
-<li> 09:10 web.whatsapp.com</li>
-<li> 09:08 bsky.app</li>
-<li class='same'> 09:07 bsky.app</li>
-<li> 09:07 mail.google.com</li>
-<li> 09:06 www.google.com</li>
-<li> 09:06 mail.google.com</li>
-<li> 09:05 outlook.office365.com</li>
-<li class='same'> 09:02 outlook.office365.com</li>
-<li class='same'> 08:55 outlook.office365.com</li>
-<li class='same'> 08:53 outlook.office365.com</li>
-<li class='same'> 08:50 outlook.office365.com</li>
-<li class='same'> 08:49 outlook.office365.com</li>
-<li> 08:49 bsky.app</li>
-</ul>
-
-<H3>Saturday, 07/12/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 15:15 www.reddit.com</li>
-<li> 15:15 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:10 getsupport.apple.com</li>
 </ul>
