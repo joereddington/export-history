@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5106)</li>
 <li>www.google.com (4366)</li>
 <li>duckduckgo.com (4226)</li>
-<li>outlook.office365.com (3685)</li>
+<li>outlook.office365.com (3684)</li>
 <li>outlook.office.com (3657)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3061)</li>
 <li>www.linkedin.com (2498)</li>
-<li>moodle.royalholloway.ac.uk (2114)</li>
-<li>login.microsoftonline.com (1758)</li>
+<li>moodle.royalholloway.ac.uk (2113)</li>
+<li>login.microsoftonline.com (1760)</li>
 <li>www.facebook.com (1565)</li>
 <li>calendar.google.com (1538)</li>
 <li>chat.openai.com (1407)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:59 localhost:8443</li>
+<ul><li> 17:29 localhost:8443</li>
+<li class='same'> 17:25 localhost:8443</li>
+<li class='same'> 17:24 localhost:8443</li>
+<li class='same'> 17:23 localhost:8443</li>
+<li class='same'> 17:22 localhost:8443</li>
+<li class='same'> 17:21 localhost:8443</li>
+<li class='same'> 17:20 localhost:8443</li>
+<li> 17:19 royalholloway.ac.uk</li>
+<li> 17:19 localhost:8443</li>
+<li class='same'> 17:18 localhost:8443</li>
+<li class='same'> 17:17 localhost:8443</li>
+<li class='same'> 17:16 localhost:8443</li>
+<li class='same'> 17:15 localhost:8443</li>
+<li class='same'> 17:14 localhost:8443</li>
+<li class='same'> 17:13 localhost:8443</li>
+<li class='same'> 17:12 localhost:8443</li>
+<li class='same'> 17:11 localhost:8443</li>
+<li class='same'> 17:10 localhost:8443</li>
+<li class='same'> 17:09 localhost:8443</li>
+<li class='same'> 17:08 localhost:8443</li>
+<li class='same'> 17:07 localhost:8443</li>
+<li> 17:00 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:00 login.microsoftonline.com</li>
+<li> 17:00 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:00 device.login.microsoftonline.com</li>
+<li> 17:00 login.microsoftonline.com</li>
+<li> 17:00 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:00 localhost:8443</li>
+<li class='same'> 16:59 localhost:8443</li>
 <li class='same'> 16:58 localhost:8443</li>
 <li> 16:51 intranet.royalholloway.ac.uk</li>
 <li> 16:50 localhost:8443</li>
@@ -112746,8 +112774,7 @@ With number of accesses/minutes in parentheses
 <li> 12:24 duckduckgo.com</li>
 <li> 12:24 rhul.sharepoint.com</li>
 <li> 12:24 rhul-my.sharepoint.com</li>
-<li> 12:22 moodle2324.royalholloway.ac.uk</li>
-<li class='same'> 12:21 moodle2324.royalholloway.ac.uk</li>
+<li> 12:21 moodle2324.royalholloway.ac.uk</li>
 <li> 12:21 moodle.royalholloway.ac.uk</li>
 <li> 12:21 www.royalholloway.ac.uk</li>
 <li> 12:21 duckduckgo.com</li>
@@ -123637,7 +123664,6 @@ With number of accesses/minutes in parentheses
 <li> 14:45 www.fbi.gov</li>
 <li> 14:44 Local file</li>
 <li> 14:43 ev.turnitinuk.com</li>
-<li> 14:43 api.turnitinuk.com</li>
 <li> 14:43 moodle.royalholloway.ac.uk</li>
 <li> 14:25 outlook.office.com</li>
 <li class='same'> 14:21 outlook.office.com</li>
@@ -124309,6 +124335,4 @@ With number of accesses/minutes in parentheses
 <li> 12:44 outlook.office365.com</li>
 <li class='same'> 12:43 outlook.office365.com</li>
 <li> 12:38 feedly.com</li>
-<li> 12:28 moodle.royalholloway.ac.uk</li>
-<li> 12:24 outlook.office365.com</li>
 </ul>
