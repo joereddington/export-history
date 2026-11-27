@@ -70,32 +70,32 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5945)</li>
 <li>mail.google.com (5108)</li>
-<li>www.google.com (4372)</li>
+<li>www.google.com (4367)</li>
 <li>duckduckgo.com (4223)</li>
-<li>outlook.office365.com (3688)</li>
+<li>outlook.office365.com (3685)</li>
 <li>outlook.office.com (3659)</li>
 <li>docs.google.com (3233)</li>
 <li>chatgpt.com (3060)</li>
-<li>www.linkedin.com (2498)</li>
-<li>moodle.royalholloway.ac.uk (2118)</li>
-<li>login.microsoftonline.com (1757)</li>
-<li>www.facebook.com (1567)</li>
+<li>www.linkedin.com (2497)</li>
+<li>moodle.royalholloway.ac.uk (2117)</li>
+<li>login.microsoftonline.com (1756)</li>
+<li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1406)</li>
 <li>bsky.app (1396)</li>
-<li>www.amazon.co.uk (1337)</li>
+<li>www.amazon.co.uk (1336)</li>
 <li>herts.instructure.com (1230)</li>
 <li>gmail.com (1068)</li>
-<li>web.whatsapp.com (1049)</li>
+<li>web.whatsapp.com (1048)</li>
 <li>feedly.com (896)</li>
 <li>tvtropes.org (857)</li>
-<li>mail.rhul.ac.uk (844)</li>
-<li>rhul-my.sharepoint.com (813)</li>
+<li>mail.rhul.ac.uk (843)</li>
+<li>rhul-my.sharepoint.com (812)</li>
 <li>forms.office.com (729)</li>
 <li>rhul.sharepoint.com (725)</li>
 <li>fritz.box (597)</li>
 <li>m365.cloud.microsoft (559)</li>
-<li>ev.turnitinuk.com (467)</li>
+<li>ev.turnitinuk.com (466)</li>
 <li>www.theguardian.com (456)</li>
 <li>adfs.herts.ac.uk (455)</li>
 
@@ -13998,7 +13998,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:53 outlook.office365.com</li>
 <li class='same'> 12:42 outlook.office365.com</li>
 <li class='same'> 12:41 outlook.office365.com</li>
-<li> 12:41 login.microsoftonline.com</li>
 <li> 12:41 device.login.microsoftonline.com</li>
 <li> 12:41 outlook.office365.com</li>
 </ul>
@@ -124344,26 +124343,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:35 ev.turnitinuk.com</li>
 <li class='same'> 09:34 ev.turnitinuk.com</li>
 <li class='same'> 09:32 ev.turnitinuk.com</li>
-<li> 09:29 outlook.office365.com</li>
-<li class='same'> 09:28 outlook.office365.com</li>
-<li> 09:25 ev.turnitinuk.com</li>
-<li> 09:25 moodle.royalholloway.ac.uk</li>
-<li> 09:22 rhul-my.sharepoint.com</li>
-<li> 09:22 outlook.office365.com</li>
-<li> 09:22 mail.rhul.ac.uk</li>
-<li> 09:22 www.google.com</li>
-<li> 09:21 www.thecottagebakery.uk</li>
-<li> 09:21 www.bakerymasterclass.co.uk</li>
-<li> 09:21 www.google.com</li>
-<li class='same'> 09:20 www.google.com</li>
-<li> 09:20 maps.google.com</li>
-<li> 09:20 www.virginexperiencedays.co.uk</li>
-<li class='same'> 09:19 www.virginexperiencedays.co.uk</li>
-<li> 09:18 jamieolivercookeryschool.com</li>
-<li> 09:18 www.google.com</li>
-<li> 09:18 www.amazon.co.uk</li>
-<li> 09:17 www.linkedin.com</li>
-<li> 09:17 web.whatsapp.com</li>
-<li> 09:17 www.google.com</li>
-<li> 09:14 www.facebook.com</li>
 </ul>
