@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (5945)</li>
-<li>mail.google.com (5108)</li>
-<li>www.google.com (4367)</li>
+<li>mail.google.com (5106)</li>
+<li>www.google.com (4366)</li>
 <li>duckduckgo.com (4224)</li>
 <li>outlook.office365.com (3685)</li>
-<li>outlook.office.com (3659)</li>
-<li>docs.google.com (3233)</li>
+<li>outlook.office.com (3657)</li>
+<li>docs.google.com (3232)</li>
 <li>chatgpt.com (3061)</li>
 <li>www.linkedin.com (2497)</li>
-<li>moodle.royalholloway.ac.uk (2116)</li>
+<li>moodle.royalholloway.ac.uk (2108)</li>
 <li>login.microsoftonline.com (1756)</li>
-<li>www.facebook.com (1566)</li>
+<li>www.facebook.com (1565)</li>
 <li>calendar.google.com (1537)</li>
 <li>chat.openai.com (1407)</li>
-<li>bsky.app (1396)</li>
+<li>bsky.app (1393)</li>
 <li>www.amazon.co.uk (1336)</li>
 <li>herts.instructure.com (1230)</li>
-<li>gmail.com (1068)</li>
-<li>web.whatsapp.com (1048)</li>
+<li>gmail.com (1067)</li>
+<li>web.whatsapp.com (1046)</li>
 <li>feedly.com (896)</li>
 <li>tvtropes.org (857)</li>
-<li>mail.rhul.ac.uk (843)</li>
-<li>rhul-my.sharepoint.com (812)</li>
-<li>forms.office.com (729)</li>
+<li>mail.rhul.ac.uk (842)</li>
+<li>rhul-my.sharepoint.com (808)</li>
+<li>forms.office.com (726)</li>
 <li>rhul.sharepoint.com (725)</li>
 <li>fritz.box (597)</li>
 <li>m365.cloud.microsoft (559)</li>
-<li>ev.turnitinuk.com (456)</li>
 <li>www.theguardian.com (456)</li>
 <li>adfs.herts.ac.uk (455)</li>
+<li>drive.google.com (434)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 27/11/26</H3>
+
+<br>
+
+<ul><li> 14:08 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:07 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:05 casper.cs.rhul.ac.uk</li>
+<li> 13:53 localhost:8443</li>
+</ul>
 
 <br>
 
@@ -124280,71 +124288,4 @@ With number of accesses/minutes in parentheses
 <li> 12:38 feedly.com</li>
 <li> 12:28 moodle.royalholloway.ac.uk</li>
 <li> 12:24 outlook.office365.com</li>
-<li> 12:24 mail.rhul.ac.uk</li>
-<li> 12:21 web.whatsapp.com</li>
-<li> 12:20 rhul-my.sharepoint.com</li>
-<li> 12:20 moodle.royalholloway.ac.uk</li>
-<li> 12:16 rhul-my.sharepoint.com</li>
-<li> 12:09 ev.turnitinuk.com</li>
-<li class='same'> 12:08 ev.turnitinuk.com</li>
-<li class='same'> 12:06 ev.turnitinuk.com</li>
-<li> 12:05 moodle.royalholloway.ac.uk</li>
-<li> 12:05 outlook.office.com</li>
-<li class='same'> 12:04 outlook.office.com</li>
-<li> 12:04 mail.google.com</li>
-<li> 11:50 <a href="https://en.wikipedia.org/wiki/Avanti_West_Coast">Avanti West Coast - Wikipedia</a></li>
-<li> 11:50 <a href="https://en.wikipedia.org/wiki/Virgin_Trains">Virgin Trains - Wikipedia</a></li>
-<li> 11:50 www.google.com</li>
-<li> 11:42 mail.google.com</li>
-<li> 11:42 gmail.com</li>
-<li> 11:42 www.facebook.com</li>
-<li> 11:40 bsky.app</li>
-<li class='same'> 11:39 bsky.app</li>
-<li class='same'> 11:38 bsky.app</li>
-<li> 11:38 blueskydirectory.com</li>
-<li> 11:38 forms.office.com</li>
-<li> 11:37 web.whatsapp.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:56 ev.turnitinuk.com</li>
-<li> 10:56 api.turnitinuk.com</li>
-<li> 10:55 moodle.royalholloway.ac.uk</li>
-<li> 10:41 rhul-my.sharepoint.com</li>
-<li> 10:41 forms.office.com</li>
-<li class='same'> 10:40 forms.office.com</li>
-<li> 10:34 rhul-my.sharepoint.com</li>
-<li> 10:33 moodle.royalholloway.ac.uk</li>
-<li class='same'> 10:32 moodle.royalholloway.ac.uk</li>
-<li class='same'> 10:31 moodle.royalholloway.ac.uk</li>
-<li> 10:31 moodle2324.royalholloway.ac.uk</li>
-<li> 10:23 docs.google.com</li>
-<li> 10:23 drive.google.com</li>
-<li> 10:23 moodle2324.royalholloway.ac.uk</li>
-<li class='same'> 10:22 moodle2324.royalholloway.ac.uk</li>
-<li> 10:22 moodle.royalholloway.ac.uk</li>
-<li> 10:21 ev.turnitinuk.com</li>
-<li class='same'> 10:20 ev.turnitinuk.com</li>
-<li class='same'> 10:19 ev.turnitinuk.com</li>
-<li class='same'> 10:18 ev.turnitinuk.com</li>
-<li class='same'> 10:17 ev.turnitinuk.com</li>
-<li class='same'> 10:16 ev.turnitinuk.com</li>
-<li class='same'> 10:15 ev.turnitinuk.com</li>
-<li class='same'> 10:14 ev.turnitinuk.com</li>
-<li class='same'> 10:13 ev.turnitinuk.com</li>
-<li class='same'> 10:12 ev.turnitinuk.com</li>
-<li class='same'> 10:11 ev.turnitinuk.com</li>
-<li> 10:10 moodle.royalholloway.ac.uk</li>
-<li> 10:10 ev.turnitinuk.com</li>
-<li class='same'> 10:09 ev.turnitinuk.com</li>
-<li class='same'> 10:08 ev.turnitinuk.com</li>
-<li class='same'> 10:07 ev.turnitinuk.com</li>
-<li class='same'> 10:06 ev.turnitinuk.com</li>
-<li class='same'> 10:05 ev.turnitinuk.com</li>
-<li> 10:03 <a href="https://en.wikipedia.org/wiki/Thomas_Sewell_(neo-Nazi)">Thomas Sewell (neo-Nazi) - Wikipedia</a></li>
-<li> 10:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 10:02 <a href="https://en.wikipedia.org/"></a></li>
-<li> 09:43 ev.turnitinuk.com</li>
-<li class='same'> 09:42 ev.turnitinuk.com</li>
 </ul>
