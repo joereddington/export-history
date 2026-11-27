@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3657)</li>
 <li>docs.google.com (3232)</li>
 <li>chatgpt.com (3061)</li>
-<li>www.linkedin.com (2497)</li>
-<li>moodle.royalholloway.ac.uk (2108)</li>
-<li>login.microsoftonline.com (1756)</li>
+<li>www.linkedin.com (2498)</li>
+<li>moodle.royalholloway.ac.uk (2114)</li>
+<li>login.microsoftonline.com (1758)</li>
 <li>www.facebook.com (1565)</li>
 <li>calendar.google.com (1538)</li>
 <li>chat.openai.com (1407)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:21 duckduckgo.com</li>
+<ul><li> 16:59 localhost:8443</li>
+<li class='same'> 16:58 localhost:8443</li>
+<li> 16:51 intranet.royalholloway.ac.uk</li>
+<li> 16:50 localhost:8443</li>
+<li> 16:39 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:33 moodle.royalholloway.ac.uk</li>
+<li> 16:33 login.microsoftonline.com</li>
+<li> 16:33 device.login.microsoftonline.com</li>
+<li> 16:33 moodle.royalholloway.ac.uk</li>
+<li> 16:33 login.microsoftonline.com</li>
+<li> 16:33 moodle.royalholloway.ac.uk</li>
+<li> 16:33 modchoice.cim.rhul.ac.uk</li>
+<li> 16:30 www.linkedin.com</li>
+<li> 16:21 intranet.royalholloway.ac.uk</li>
+<li> 16:21 duckduckgo.com</li>
 <li class='same'> 16:20 duckduckgo.com</li>
 <li> 16:17 calendar.google.com</li>
 </ul>
