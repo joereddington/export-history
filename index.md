@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (5945)</li>
 <li>mail.google.com (5108)</li>
 <li>www.google.com (4367)</li>
-<li>duckduckgo.com (4223)</li>
+<li>duckduckgo.com (4224)</li>
 <li>outlook.office365.com (3685)</li>
 <li>outlook.office.com (3659)</li>
 <li>docs.google.com (3233)</li>
-<li>chatgpt.com (3060)</li>
+<li>chatgpt.com (3061)</li>
 <li>www.linkedin.com (2497)</li>
-<li>moodle.royalholloway.ac.uk (2117)</li>
+<li>moodle.royalholloway.ac.uk (2116)</li>
 <li>login.microsoftonline.com (1756)</li>
 <li>www.facebook.com (1566)</li>
 <li>calendar.google.com (1537)</li>
-<li>chat.openai.com (1406)</li>
+<li>chat.openai.com (1407)</li>
 <li>bsky.app (1396)</li>
 <li>www.amazon.co.uk (1336)</li>
 <li>herts.instructure.com (1230)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (725)</li>
 <li>fritz.box (597)</li>
 <li>m365.cloud.microsoft (559)</li>
-<li>ev.turnitinuk.com (466)</li>
+<li>ev.turnitinuk.com (456)</li>
 <li>www.theguardian.com (456)</li>
 <li>adfs.herts.ac.uk (455)</li>
 
@@ -104,7 +104,22 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 27/11/26</H3>
+
+<br>
+
+<ul><li> 11:52 www.timpson-group.co.uk</li>
+<li> 11:52 duckduckgo.com</li>
+<li> 11:49 chatgpt.com</li>
+<li> 11:49 chat.openai.com</li>
+<li> 11:32 www.legislation.gov.uk</li>
+</ul>
+
 <H3>Thursday, 26/11/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -124332,15 +124347,4 @@ With number of accesses/minutes in parentheses
 <li> 10:02 <a href="https://en.wikipedia.org/"></a></li>
 <li> 09:43 ev.turnitinuk.com</li>
 <li class='same'> 09:42 ev.turnitinuk.com</li>
-<li class='same'> 09:41 ev.turnitinuk.com</li>
-<li class='same'> 09:40 ev.turnitinuk.com</li>
-<li class='same'> 09:39 ev.turnitinuk.com</li>
-<li> 09:39 moodle.royalholloway.ac.uk</li>
-<li> 09:39 ev.turnitinuk.com</li>
-<li class='same'> 09:38 ev.turnitinuk.com</li>
-<li class='same'> 09:37 ev.turnitinuk.com</li>
-<li class='same'> 09:36 ev.turnitinuk.com</li>
-<li class='same'> 09:35 ev.turnitinuk.com</li>
-<li class='same'> 09:34 ev.turnitinuk.com</li>
-<li class='same'> 09:32 ev.turnitinuk.com</li>
 </ul>
